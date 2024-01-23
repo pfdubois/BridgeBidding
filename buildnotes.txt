@@ -1,0 +1,12 @@
+Notes on how to build the book
+
+~/.zprofile needs to reflect the current Python and pip versions.
+
+make clean html singlehtml latexpdf
+
+The Tex Live distribution for the Mac, MacTeX is installed, along with the latest Python and 
+Sphinx packages.
+
+GitHub / Github pages used to do version control and publishing.
+
+
