@@ -8,17 +8,17 @@ Here are the sources I have found most useful on each topic.
 
 Books
 -----
-
-#. My :title:`Advanced Bidding` and :title:`Defensive Bidding` are complements to these 
-   notes, and should be available in the same place you found them.
    
 #. :title:`Standard Bidding With SAYC`, by Ned Downey and Ellen Pomer, Masterpoint
    Press, Toronto, 2005. This really seems to be the only printed book
    devoted to this purpose, beyond a little handout you can get from ACBL.
 
-#. :title:`25 Bridge Conventions You Should Know`, by Barbara Seagram and Marc Smith,
-   Masterpoint Press, Toronto, 1999; and :title:`25 More Bridge Conventions You Should 
-   Know`, by Barbara Seagram and Marc Smith, Masterpoint Press, Toronto, are
+#. :title:`25 Bridge Conventions You Should Know (Second Edition)`, by Barbara Seagram 
+   and Marc Smith; with additional material by David Bird.
+   Masterpoint Press, Toronto, 2022, and
+   
+#. :title:`25 More Bridge Conventions You Should 
+   Know`, by Barbara Seagram and David Bird, Masterpoint Press, Toronto, are
    wonderfully expository with reviews and quizzes.  All of the "25" series
    books have taught me something.  One of them is on Two Over One. 
 
@@ -78,19 +78,24 @@ Online
 #. `Marty Bergen <http://martybergen.com>` has audio-visual courses in addition to books 
    and pamphlets.
    
-#. The `Fifth Chair Foundation <www.fifthchair.org>`, has an historical 
-   `archive <http://www.fifthchair.org/archive>`. 
-   Two of the documents, :title:`SAYC OKBridge Style`, by Anna Marsh et. al., 
-   and :title:`Two Over One OKBridge Style - Clarified`, by Anna Marsh et. al.,
-   are pretty complete both as to system and many basic conventions.
+#. Online bridge sites are booming. You can play with robots or humans or a combination
+   of the two.  There is a mechanism, different on each site, for knowing what the 
+   robots believe a bid means. Some sites are:
 
-#. `BBO <http://bridgebase.com>` 
-   is home to massive amounts of material both directly and at the associated clubs such 
-   as the Beginner and Intermediate Lounge (BIL) and the Intermediate and 
-   Advanced Club (IAC). You can practice playing with three robots there,
-   and mousing over the bids tells you what they will mean to the robots; but
-   the robot plays Two Over One and a rather odd set of conventions.  There are many 
-   other things there, including official ACBL games.
+   - BridgeBase Online (BBO) at online.bridgebase.com
+     is the largest online site for playing bridge, including ACBL tournaments.
+     The Beginner and Intermediate Lounge (BIL) and the Intermediate and 
+     Advanced Club (IAC) are groups that use BBO for instruction. 
+   - OKBridge,
+   - IntoBridge, 
+   - Swan Bridge, and 
+   - Real Bridge. 
+   
+   These sites are all in a state of constant improvement and competition so I won't 
+   describe them in this static medium.
+   
+#. `Bridge Winners <https://bridgewinners.com>` is the premier bridge news and 
+   discussion site.
    
 #. `ACBL.org <http://acbl.org>` -- be a member, see your points, look up convention 
    charts, what the convention card means, find a club or tournament. There is a really

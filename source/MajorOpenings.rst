@@ -261,7 +261,7 @@ Responding As An Unpassed Hand
 .. index::
    pair: opening; major
 
-.. index:: 1N forcing
+.. index:: 1N Forcing
 
 .. index:: 2/1
 

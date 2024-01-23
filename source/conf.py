@@ -63,12 +63,13 @@ te.tex_replacements += [
     ['♠', r'\ensuremath{\spadesuit}']
     ]
 te.init()
+# put back below for two-column
+#\twocolumn
 
 my_preamble = r'''
 \usepackage[utf8]{inputenc}
 \pagenumbering{arabic}
 \pagestyle{plain}
-\twocolumn
 \setcounter{tocdepth}{1}
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
@@ -78,7 +79,20 @@ my_preamble = r'''
 latex_elements = {
    'pointsize': '11pt',
    'preamble': my_preamble,
-   }
+   'maketitle':r'''\newcommand\sphinxbackoftitlepage{
+   
+   
+Copyright, 2024, Paul F. Dubois
+
+This book is non-commercial and meant for free redistribution to other 
+bridge players. It is licensed under the GNU GPLv3 license.
+You can see a copy of this license at 
+
+https://spdx.org/licenses/GPL-3.0-or-later.html
+
+}\sphinxmaketitle
+'''
+}
  
 
 # These two get rid of the blank pages

@@ -166,30 +166,29 @@ The initial "starting points" for Bergen are determined by a five-step process:
 #. Add 1 for each "good" suit, a 4-card suit containing three of the five honors.
 #. Adjust for the following features:
 
-  * -1 for a questionable honor in a short suit, such as a stiff King, or a doubleton
-    honor lacking the Ace.  Thus, subtract one for KQ, Qx, Jx, etc.
-  * -1 if you have 3 "quacks"; subtract 2 if you have six.
-  * -1 if the hand has no Ace.
-  * +1 if the hand has three Aces.  
-  * +1 if 5-5 or better
-  * +3 if you have a void -- the theory being that you are going to have a fit.
+    * -1 for a questionable honor in a short suit, such as a stiff King, or a doubleton
+      honor lacking the Ace.  Thus, subtract one for KQ, Qx, Jx, etc.
+    * -1 if you have 3 "quacks"; subtract 2 if you have six.
+    * -1 if the hand has no Ace.
+    * +1 if the hand has three Aces.  
+    * +1 if 5-5 or better
+    * +3 if you have a void -- the theory being that you are going to have a fit.
   
-#. Classify the hand as upgradable if it has:
+#. Classify the hand as upgradable or downgradeable.
 
-  * 10s, 9s, or 8s -- these intermediate cards make a big difference.  A normal 
-    expectation is one of each.
-    
-  * A good shape, such as 5422 or 6331, rather than 5332 or 6322.
-  * The honors are in your long suits, or together, rather than in separate suits, or
-    in short suits. 
-    
-    For example, an AK doubleton will not help to set up other tricks compared to 
-    AKx, AKxx, or AKxxx. 
-    
-#. Classify your hand as downgradable if it has a poor shape such as 4333, 5332.
+A hand is upgradeable if:
 
-#. When you have a close decision, use the upgradable or downgradable factors to help
-   make the decision.
+* It has10s, 9s, or 8s -- these intermediate cards make a big difference.  A normal 
+  expectation is one of each.
+* A good shape, such as 5422 or 6331, rather than 5332 or 6322.
+* The honors are in your long suits, or together, rather than in separate suits, or
+  in short suits. An AK doubleton will not help to set up other tricks compared to 
+  AKx, AKxx, or AKxxx. 
+
+A hand is downgradable if it has a poor shape such as 4333, or 5332.
+
+When you have a close decision, use the upgradable or downgradable factors to help
+make the decision.
 
 As the auction proceeds, and a fit is found, adjust your hand as follows.
 

@@ -188,7 +188,7 @@ A Better System After J2NT
 --------------------------
 
 The standard scheme of responses to Jacoby 2N (1M - 2N!(4 trump, opening hand)) 
-have problems. When either opener or responder make a jump to game, showing no slam 
+has problems. When either opener or responder make a jump to game, showing no slam 
 interest, their partner with extras is stuck -- it may be right to go on, or it may be 
 bad, and it is most often just a guess. Another complaint is that the standard answers
 gives away shape information even when it turns out nobody has slam interest at all.
@@ -222,35 +222,23 @@ the two minors to the other major.
 Note: Since a 5332 with 15-17 HCP would be opened 1N, the 3♦! reply to 2N! is usually 
 5422, or it is 18+ HCP. 
 
-Gitelman's Major Raises
------------------------
+
+Serious 3NT
+-----------
 
 .. index::
-   pair:convention;Serious 3N
-   pair:convention;Lackwood
-   pair:convention;Last Train To Clarksville
-
-In a series of three articles entitled "Improving 2/1 Game Force" (1993),
-Bridge Base founder Fred Gitelman explained his ideas for improving Two Over One. He 
-suggested a different approach to major raises, avoiding J2NT, and
-explained three helpful slam-bidding conventions: Serious 3N, Last Train to Clarksville,
-and Lackwood. While the latter two are complex expert-level conventions, Serious 3N is
-presented here.
-
-Serious 3N
-~~~~~~~~~~
-
-.. index::
-   pair: convention;Serious 3N
-   single: Two Over One, Gitelman article
+   pair: convention;Serious 3NT
 
 If we have agreement on a 8-card or better major fit at the three level, 
 there are three bids available to continue to game: bid game, bid 3N as an artificial
 bid, or make a control-showing bid. 
 
-With the Serious 3N convention, 3N is a serious slam try, while the control-showing 
+With the Serious 3NT convention, 3NT is a serious slam try, while the control-showing 
 bid is mild interest in slam, and just bidding game shows no slam interest. 
+But it isn't a simple agreement, because when is 3N just to play?
 
-Experts have of course many different opinions and variations, including making 3N 
-the non-serious choice.  Some say the agreement must be in a game-forcing auction.
+See Larry Cohen's discussion at 
+`Serious 3N <https://www.larryco.com/bridge-articles/serious-3nt>` for his
+thoughts on this expert-level convention. Of course, bridge players being bridge 
+players, there is also Non-Serious 3N.
 
