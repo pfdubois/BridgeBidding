@@ -20,10 +20,12 @@ must recognize the situation. Specifically,
 Weak Jump-Shifts
 ----------------
 
-Let us deal with the competitive case first. If there has been competition between
-the opener and the responder, a jump shift is preemptive.  It is also possible
-to agree that any jump shift that has no other conventional meaning is weak,
-even without competition ("Weak Jump-Shifts").
+If there has been competition between the opener and the responder, a jump
+shift is preemptive.  It is also possible to agree that any jump shift that has
+no other conventional meaning is weak, even without competition ("Weak
+Jump-Shifts"). In the body of this book, we assume that weak jump-shifts not in
+competition is our agreement. If it isn't a strong bid, it must be alerted.
+
 
 For example:
 
@@ -31,11 +33,10 @@ For example:
    six hearts. No alert is required.
 #. 1♥ - (X) - 3♣ shows a hand with weak values, not interested in game, 
    with six clubs. No alert is required.
-#. 1♣ - 2♠ is normally a strong bid, but by agreement can be preemptive. If 
-   preemptive, alert it.
-#. 1♥ - 3♣ is normally a strong bid, but by agreement can be preemptive. 
-   It could also be a conventional bid such as a Bergen raise.  If it isn't strong,
-   it must be alerted.
+#. 1♣ - 2♠ is preemptive, alert it.
+#. 1♥ - 3♣ is preemptive, alert it.
+
+With some conventions a jump-shift could also be a conventional bid, such as a Bergen raise.  
 
 Now let's consider the auction with no interference.
 

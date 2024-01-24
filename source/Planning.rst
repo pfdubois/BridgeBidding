@@ -177,11 +177,26 @@ always open 1♣.
 What If Opener Is Stronger?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Since a reverse is forcing one round, you can sometimes use it when nothing else is 
-available to keep the auction going. But in general, if your hand is 19+ points, and you
-have a good suit, you might consider jumping a level in a new suit. This is called a
-:term:`jump-shift` and we will discuss it later in 
-:ref:`All About Jump Shifts <Jump_Shifts>`. 
+.. _wjs_choice:
+
+.. index:: jump-shift choice
+
+Since a reverse is forcing one round, you can sometimes use it when nothing
+else is available to keep the auction going. But in general, if your hand is
+19+ points, and you have a good suit, you might think of jumping a level in a
+new suit. This is called a :term:`jump-shift`.
+
+If the opponents have competed, a jump-shift is weak unless the context gives
+it another meaning. For example, 1♥ - (2♣) - 3♦ is a weak jump-shift, where the
+responder has a preemptive diamond hand and can't support hearts. But 1♥ - 3♦
+is a jump-shift whose meaning is either a strong 19+ hand with good diamonds or
+a weak diamond preemptive hand.
+
+Partnerships must decide on a meaning for a :term:`jump-shift` when there is no
+competition. The standard meaning is a strong bid (19+ points) but this meaning
+is less useful than it was before 2/1 was invented. I think most pairs play
+weak jump-shifts so I will assume that. See :ref:`All About Jump-Shifts
+<Jump_Shifts>`.
 
 Responding To Opener's Reverse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

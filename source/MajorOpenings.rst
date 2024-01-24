@@ -20,14 +20,10 @@ Since opening five-card majors is the central idea of the bidding system, there 
 focus on finding eight or more card major fits.  There is also an effort to distinguish
 nine-card fits from eight-card fits, as nine-card fits are much easier to play.
 
-Another bifurcation of the system is what we mean by a :term:`jump-shift`. The 
-standard meaning is a strong bid (19+ points) but this meaning is less useful than
-it was before 2/1 was invented. See :ref:`All About Jump-Shifts <Jump_Shifts>`.
-
 Two Over One Game Force
 -----------------------
 
-.. index:: 1N forcing
+.. index:: 1N Forcing
 
 .. index:: Two Over One 
 
@@ -281,7 +277,7 @@ competitive hands are treated as before.
 
 #. The range of the 1N response becomes 6-12 instead of 6-10. 
    Opener will announce "forcing" and he must make another bid.
-   See :ref:`1N forcing <OneNoForcing>` for continuations.
+   See :ref:`1N Forcing <OneNoForcing>` for continuations.
 
 #. 2N is a conventional bid showing a four-card game-forcing raise. 
    See :ref:`Jacoby 2NT <Jacoby2NT>` for continuations.

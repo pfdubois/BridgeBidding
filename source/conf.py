@@ -63,9 +63,10 @@ te.tex_replacements += [
     ['♠', r'\ensuremath{\spadesuit}']
     ]
 te.init()
-# put back below for two-column
-#\twocolumn
 
+# Can also change this to use a4paper or letter, and make it two columns if
+# desired by adding \twocolumn to the preamble
+# Could make selectable via env variables ?
 my_preamble = r'''
 \usepackage[utf8]{inputenc}
 \pagenumbering{arabic}
@@ -75,10 +76,12 @@ my_preamble = r'''
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
 \definecolor{OuterLinkColor}{rgb}{0,0,0}
 '''
-
 latex_elements = {
    'pointsize': '11pt',
+   'papersize': 'a5paper',
    'preamble': my_preamble,
+   'classoptions': ',openany,oneside',
+   'babel':'\\usepackage[english]{babel}',
    'maketitle':r'''\newcommand\sphinxbackoftitlepage{
    
    
@@ -95,9 +98,9 @@ https://spdx.org/licenses/GPL-3.0-or-later.html
 }
  
 
-# These two get rid of the blank pages
-latex_elements['classoptions'] = ',openany,oneside'
-latex_elements[ 'babel'] = '\\usepackage[english]{babel}'
+# The last two get rid of blank pages
+#latex_elements['classoptions'] = ',openany,oneside'
+#latex_elements[ 'babel'] = '\\usepackage[english]{babel}'
 
 # If false, no module index is generated.
 latex_domain_indices = False

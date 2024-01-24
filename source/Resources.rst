@@ -43,6 +43,11 @@ Books
    Press, Toronto, ISBN 1-894154-03-7, 1999. This part centers on strategy,
    counting, and technique.
 
+#. :title:`Killing Defense At Bridge`, by Hugh Kelsey, Faber and Company, 1966; 
+   new editions by Cassel & Co, 1992, 1997. When I have asked expert players, many of
+   them mention this book as the one that opened their eyes. It has a sequel, 
+   :title:`More Killing Defense`.
+
 #. :title:`Opening Leads`, by Mike Lawrence, C & T Bridge Supplies, Los Alamitas, CA, 
    1966. This is so comprehensive it is a challenge but well worth it. 
    My scores improved sharply after I read it. Many of Lawrence's other
@@ -53,7 +58,7 @@ Books
    Master Point Press, Toronto, 2002.  There are many older such books,
    including ones by Dorothy Hayden Truscott and William S. Root, each
    of which is worth reading.
-
+   
 #. :title:`Card Play Technique, or, The Art Of Being Lucky`, by Victor Mollo and 
    Nico Gardener. B. T. Batsford Ltd., London, 1955.
 

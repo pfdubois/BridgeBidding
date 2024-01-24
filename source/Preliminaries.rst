@@ -5,33 +5,23 @@ Preliminaries
 How I Came To Write This Book
 -----------------------------
 
-In 2005 I began playing bridge online.  The players were no longer using the
-Goren system of bidding that I had read about as a child. Although I had played
-a small amount of party bridge as an adult I had avoided bridge after seeing
-the cream of my class of mathematicians at U.C. Berkeley flunk out when they
-played bridge at the Student Union all day.  So then, about to retire, I found
-myself with only a bare-bones document on OKBridge to explain this mysterious
-"Standard American Yellow Card" (SAYC) and the more advanced extension of it,
-"Two Over One Game Force", not to mention the seemingly endless collection of
-conventional bids, bids that did not mean what they appeared to mean.
+Upon retirement in 2005, I began playing bridge online.  The players were no
+longer using the Goren system of bidding that I had read about as a child.
+Although I had played a small amount of party bridge as an adult I had avoided
+bridge after seeing the cream of my class of mathematicians at U.C. Berkeley
+flunk out when they played bridge at the Student Union all day.  So then, about
+to retire, I found myself with only a bare-bones document on OKBridge to
+explain this mysterious "Standard American Yellow Card" (SAYC) and the more
+advanced extension of it, "Two Over One Game Force", not to mention the
+seemingly endless collection of conventions, bids that did not mean what they
+appeared to mean.
 
-I set out to remedy the situation for myself.  I soon realized others were
-in the same boat, especially people in other countries for whom bridge books
-were expensive. I loved being part of the Open Source community
-that developed free software -- I was the first keeper of a community project that 
-created a fast numerical facility for the Python computer language. So I made it my goal 
-to provide an Open Source book that helps a
-bridge player get from intermediate to advanced. I have constantly revised this book as
-my own understanding grew.
-
-Until recently the book was divided into three volumes: basics, followed by advanced
-chapters on offense and defense.  I included a lot of descriptions of
-conventions that I was not recommending, because knowing about these less
-popular methods is necessary when the opponents use them with
-bare-bones explanations. This is particularly true in online bridge, where time
-is limited and conversation difficult. Now it is time to put it all back
-together and try to do a better job of separating what I recommend from what
-you should just know about.
+I set out to remedy the situation for myself.  I soon realized others were in
+the same boat, especially people in other countries for whom bridge books were
+expensive. So I made it my goal to provide an Open Source book that helps a
+bridge player get from intermediate to advanced. I have constantly revised my
+set of explanations as my own understanding has grown. This book puts all my
+efforts in one volume again.
 
 The first part of this book presents the Two Over One Game Force (2/1) system
 that is popular in North America. The more basic Standard American Yellow Card
@@ -42,24 +32,39 @@ Few people play even basic SAYC as written.
 There are many aspects of bidding, including the vital areas of competing for
 part scores and making game tries, that are not explicitly in the systems at
 all. In cases where the standard is sometimes or often ignored, I'll try to
-point that out. Otherwise, the choices presented here are my choices. I will
-not mention all the possible choices.
+point that out. 
+
+Until we get to the Advanced chapters, I will not present many alternative ways of
+doing things.  I didn't like, when I was learning, books that said I could do this or
+that, when I had no basis in experience to make an informed choice.
 
 The :ref:`Resources <bibliography>` chapter lists other sources of information. 
 
 How to Use This Book
 --------------------
 
+You can use this book for initial learning, or as a reference. For that reason
+it has an index. It frustrates me no end that most bridge books do not. There
+is also a glossary of bridge terms. In electronic manifestations of this book,
+there are many operable links in the text. What this book lacks is the kind of
+things that are in good books written by professionals: extensive examples, and
+quizzes. I list some of my favorite sources in :ref:`Resources <bibliography>`.
+
+More recently I have taken lessons from Marc Smith, and the purchased the video
+lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a
+#Gavinista. Barrington and Wolpert have five years of free once-a-week lessons on 
+YouTube. 
+
 Bridge has three big topics: bidding, declarer play, and defense. An expert
-friend who has read these bidding notes commented that the defensive part of
-your notes ought to be as big as the bidding section. Indeed, your side is on
+friend who has read my bidding notes commented that the defensive part of your
+notes ought to be as big as the bidding section. Indeed, your side is on
 defense half of the time. Few of us measure up -- for some reason, learning
 another convention that comes up twice a year is more compelling than the
-basics of carding that happens on every hand. 
+basics of carding that happens on every hand.
 
-While I want to present the major conventions so you will know what your opponents are 
-up to, do not take this as advice to master them, rather than spending equal time on the 
-other two-thirds of bridge.
+While I want to present the major conventions so you will know what your
+opponents are up to, do not take this as advice to master them, rather than
+spending equal time on the other two-thirds of bridge.
 
 .. _expected_conventions:
 
@@ -95,11 +100,6 @@ I believe that new players should learn 2/1 from the beginning, adding in the
 conventions just mentioned ASAP. You have to learn the SAYC meanings as well,
 since they apply when opener is a passed hand or there is interference. That's
 the approach we're taking here.
-
-Every book should have an index, and this one does. It frustrates me no end
-that most bridge books do not. There is also a glossary of bridge terms. 
-In electronic manifestations of this book, there are many operable links in
-the text.
 
 Casual Partners
 ---------------
@@ -150,11 +150,6 @@ everything I know. I have also received help from teachers and expert
 players including Howard Schutzman, Oliver Clarke, Alex Martelli, and 
 Jim and Pat Leary; and encouragement from my fellow learners and partners, 
 especially David Silberman, Julia Beatty, Ally Whiteneck, and John Engstrom.
-More recently I have taken lessons from professional Marc Smith, and the video
-lessons of MartyBergen, Rob Barrington and Gavin Wolpert. I am definitely a #Gavinista.
-
-I have read a lot about bridge, and list some of my favorite sources in
-:ref:`Resources <bibliography>`.
 
 About The Author
 ----------------

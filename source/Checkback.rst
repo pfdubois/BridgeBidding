@@ -136,8 +136,20 @@ on your next turn.
 Some play FSF as forcing only for one round; ask a new partner and check the appropriate 
 box in the bottom right of your convention card. 
 
-Opener's Rebid
-~~~~~~~~~~~~~~
+Fourth Suit In A Game-Forcing Auction 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When we are in a game-forcing auction already, there is no need for 
+Fourth Suit Forcing. In that case Grant and Rodwell in :title:`2 Over 1 Game Force`
+recommend that a bid of the fourth suit in a 2/1 auction mean either:
+
+* Responder doesn't know what else to bid, or
+* Responder has a genuinely two-suited hand.
+
+Responder's next bid will clarify the situation.
+
+Opener's Second Rebid
+~~~~~~~~~~~~~~~~~~~~~
 
 After FSF, opener further describes his hand, and tries to give responder information on 
 two important fronts:
