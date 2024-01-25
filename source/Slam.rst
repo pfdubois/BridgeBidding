@@ -246,35 +246,3 @@ had xx in diamonds. Normally he could not bid 4N -- but knowing diamonds are not
 going to produce two fast losers, 4N may become possible.
 
 
-Serious 3N
-----------
-
-.. _Serious_3N:
-
-.. index::
-   pair: convention; serious 3N
-
-When we have agreed to a major at the three level, and we are in a game-forcing
-auction, a bid of 3N shows serious interest in slam, and asks partner to start 
-control-bidding. A failure to bid 3N shows no interest in slam, but a control bid
-shows mild interest in case partner has extras.
-
-This convention is explained in more detail in Fred Gitelman's article 
-"Improving 2/1" at www.bridgeguys.com/pdf/GitelmanImprove21.pdf
-
-Five Notrump Pick-a-slam
-------------------------
-
-.. _FiveN:
-
-.. index::
-   pair: convention; pick-a-slam
-
-When we have not agreed on a suit but you determine that the partnership has
-the points to be in slam, a jump bid of 5N is a great alternative to just 
-shooting out 6N. It is much, much easier to make 12 tricks in a suit, even
-a seven-card fit, than it is in no-trump. 
-
-In response, partner can suggest a suit to play in or bid 6N.
-
-

@@ -119,19 +119,19 @@ here. A bid of 4N is also :term:`quantitative` after 2N or 3N openers, or after 
 opener rebids 1N after a suit opening, or bids 2N after a strong 2♣ opening. 
   
 * With 18-19 HCP, bid 6N.  
-* With 20-21 HCP, grand slam force with 5N. The opener should reply 6N or 7N.
+* With 20-21 HCP, Grand Slam Force with 5N. The opener should reply 6N or 7N.
 * With 22 or more HCP, give your partner a thrill with a bid of 7N.
 
 You can ask for Aces with 4♣ (:ref:`Gerber <Gerber>`) in lieu of the direct slam bids, 
 if you are worried about having fast losers in a suit.
 
-.. index:: 5N Pick-A-Slam
-
-.. note::
-   The 5N bid as "grand slam force" is the standard but it isn't played by many people
-   now. Instead a jump to 5N asks partner to bid candidate suits up the line looking 
-   for a suit slam, suit slams being easier to make.  This convention is called 
-   "5N Pick-A-Slam" and must be a partnership agreement.
+.. index::
+   pair:convention;Grand Slam Force
+   pair:convention;Pick-A-Slam
+   
+The 5N bid as Grand Slam Force is the standard but it has been all but replaced by
+:ref:`5N Pick-A-Slam <pick_a_slam>`. Whichever you play it applies to a 5N bid
+over a quantitative 4N bid.
 
 Responding With A Major Suit Or Long Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

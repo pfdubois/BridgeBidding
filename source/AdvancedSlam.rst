@@ -74,7 +74,7 @@ Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 Five Notrump Pick-a-slam
 ------------------------
 
-.. _FiveN:
+.. _pick_a_slam:
 
 .. index::
    pair: convention; pick-a-slam
@@ -85,6 +85,12 @@ shooting out 6N. It is much, much easier to make 12 tricks in a suit, even
 a seven-card fit, than it is in no-trump. 
 
 In response, partner can suggest a suit to play in or bid 6N.
+
+In particular, after an auction ending in 
+a quantitative 4N, bidding 5N is Pick-a-slam::
+
+   (2♥) 2N (P) 4N
+   (P)  5N(Pick A Slam)
 
 Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 
@@ -161,6 +167,34 @@ You can extend the agreement to cover more kinds of auctions, and cases of impli
 agreement on the suit, but it can get complicated. For one full treatment see "Kickback:
 Slam Bidding at Bridge" by Robert Munger, Master Point Press.
 
+Preempt Keycard
+---------------
+
+.. _preempt_keycard
+
+.. index::
+   pair:convention;Preempt Keycard
+   pair:slam try;Preempt Keycard
+   pair:RKC;0-1-1-2-2 scale
+   
+When partner makes a three-level preempt, a bid of 4♣ over a 3M preempt, or 4♦
+over a 3♣ preempt, is Preempt Keycard. The point of the convention is to ask for
+keycards but being able to stop in game.  To make this work there is 
+a special response set called 0-1-1-2-2, which means:
+
+* First step no keycards
+* Second step one keycard 
+* Third step one keycard with the Queen
+* Fourth step two keycards without the Queen
+* Fifth step two keycards with the Queen
+
+Example::
+
+   3♥ - 4♣!(Preempt Keycard)
+   4♥(one keycard) - Pass
+   
+We see that you should be willing to go to 5♥ if partner has one with the Queen or 
+better. A more mnemonic way to say this scale is 0 - 1 - 1.5 - 2 - 2.5.
 
 Minorwood
 ---------
@@ -172,7 +206,8 @@ Minorwood
    pair: slam try; Minorwood
    single:response; RKC
 
-For what I consider a better alternative, see :ref:`Redwood <Redwood>`.
+For a better alternative, see :ref:`Redwood <Redwood>`. I include this because it is
+widely played.
 
 An optional convention to use with inverted minors is “Minorwood”, a
 jump to four of the minor after a two of a minor response. This becomes

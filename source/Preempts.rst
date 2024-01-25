@@ -88,6 +88,9 @@ Three-level openings in fourth seat are not preemptive. They show a hand
 that would open at the one level and rebid at the three level, typically
 a six card suit and 17-19 points.
 
+An advanced idea for pursuing slam after partner preempts is 
+:ref:`Preempt Keycard <preempt_keycard>`.
+
 Four-Level Preempts
 -------------------
 
