@@ -5,13 +5,13 @@ project = u'BridgeBidding'
 # The short X.Y version.
 version = u'1.0'
 # The full version, including alpha/beta/rc tags.
-release = u'1.0'
+release = u'1.0a'
 
 # -*- coding: utf-8 -*-
 sproject = project.replace(' ','')
 
 import sphinx.util.texescape as te
-needs_sphinx = '1.3'
+needs_sphinx = '1.9'
 copyright = u'2024, Paul F. Dubois'
 author = u'Paul F. Dubois'
 language = 'en'
@@ -33,6 +33,7 @@ master_doc = 'index'
 # HTML
 html_theme = 'classic'
 html_title = 'A Guide To Bridge Bidding'
+html_short_title = 'Bridge Bidding'
 html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
@@ -70,6 +71,7 @@ my_preamble = r'''
 \usepackage[utf8]{inputenc}
 \pagenumbering{arabic}
 \pagestyle{plain}
+\setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{1}
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
@@ -79,6 +81,7 @@ latex_elements = {
    'pointsize': '11pt',
    'papersize': 'a5paper',
    'preamble': my_preamble,
+   'releasename': '',
    'classoptions': ',openany,oneside',
    'babel':'\\usepackage[english]{babel}',
    'maketitle':r'''\newcommand\sphinxbackoftitlepage{

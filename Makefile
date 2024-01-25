@@ -33,15 +33,14 @@ clean:
 	rm -rf $(BUILDDIR)
 	cd $(PUBLISH); rm -fr $(PUBNAME)*.* $(PUBNAME)*
 
-all: clean html singlehtml text latexpdf epub  
+all: clean html text latexpdf epub  
 	cp -R build/html $(PUBLISH)/$(PUBNAME)
-	cp -R build/singlehtml $(PUBLISH)/$(PUBNAME)1
 	cp -f build/epub/$(PUBNAME).epub $(PUBLISH)/$(PUBNAME).epub
 	cp -f build/latex/$(PUBNAME).pdf $(PUBLISH)/$(PUBNAME).pdf
 	cp -R build/text $(PUBLISH)/$(PUBNAME)Chapters
-	cd $(PUBLISH) && zip -r -q $(PUBNAME)1 $(PUBNAME)1
 	cd $(PUBLISH) && zip -r -q $(PUBNAME) $(PUBNAME)
 	cd $(PUBLISH) && zip -r -q $(PUBNAME)Chapters $(PUBNAME)Chapters
+	cd $(PUBLISH) && rm -fr $(PUBNAME)Chapters
 
 html:
 	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
