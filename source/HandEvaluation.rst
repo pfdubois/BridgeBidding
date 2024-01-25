@@ -38,12 +38,13 @@ each other out and the basic HCP count is a pretty good evaluation of the hand.
 If you use the "Rule of 20" that we will describe shortly and the basic count, if you'll 
 get most hands right.
 
-We need to correct for badly placed honors. One can subtract one point from 
+We need to correct for badly placed honors. Subtract one point from 
 stiff Kings or "bad doubletons" (a doubleton which has a Queen or Jack but not 
 the Ace) such as Qx, KJ, and KQ. If partner bids the suit, remove this correction.
-Subtract one for each singleton K, Q, or J.
+Subtract one for each singleton K, Q, or J. Subtract one for no Aces, and add one
+for three or four.
 
-Alas, if this is all we do, then we are claiming that these
+If HCP is all we do, then we are claiming that these
 hands all have the same value, 13 HCP:
 
 -  ♠AQ7 ♥K54 ♦K32 ♣J432 
@@ -57,22 +58,16 @@ Clearly we need to account for distribution, intermediate cards such as
 The third hand will take eight tricks in spades for sure; the last one
 might well take very few tricks.
 
-The two most popular ways to adjust are to add points for length, or to 
-add points for shortness. These days, length is much more popular. There is
-some logic to this -- a long suit is often a plus, but a short suit is only 
-a plus as a ruffing value after our side has found a fit.  Thus, to count shortness
-from the beginning is rather optimistic. 
-
-To account for length, add one point for every card in a suit in excess of four.
+Add points for length: add one point for every card in a suit in excess of four.
 Subtract one point for a :term:`flat` (4-3-3-3) hand.
 
 If you get a very distributional hand, such as a 6-5-1-1, be very aggressive; 
 such hands will take a lot of tricks.  "Six-five, come alive" is wise advice.  
 
-A "good" hand for a given point count is one with the honors concentrated and / or 
-touching, and with more than its expected share of 9's and 10's, with Aces and Kings
-more than Queens and Jacks. A "bad" hand is the opposite. Hands with no Aces should
-be treated as a point less; those with three Aces usually rate an upgrade.
+A "good" or "upgradeable" hand for a given point count is one with the honors
+concentrated and / or touching, and with more than its expected share of 9's
+and 10's, with Aces and Kings more than Queens and Jacks. A "bad" or
+"downgradeable" hand is the opposite. .
 
 Adjusting to the Auction
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -153,10 +148,10 @@ problems.
 Bergen Method
 -------------
 
-Marty Bergen has invented a more elaborate method in his book, “Better Slam Bidding”.  
-His recent audio lessons have simplified and elaborated the method. While I attempt
-to summarize the method here, I urge you to consult his lessons as there are many fine
-points to cover.
+Marty Bergen has invented a more elaborate method in his book, “Better Slam
+Bidding”. His long series of articles in the ACBL Bridge Bulletin are
+comprehensive.  I urge you to consult his lessons as there are many fine points
+to cover.
 
 The initial "starting points" for Bergen are determined by a five-step process:
 
@@ -245,10 +240,8 @@ One cannot emphasize enough the need to revalue continuously as the auction proc
 Assuming a fit has been found, the losing trick counts here are 8, 3, 2, and 8,
 respectively.
 
-For another system, sort of between standard and Bergen in complexity, try 
-`Pavlicek Points <http://www.rpbridge.net/3t00.htm>`_. And to raise your consciousness, 
-assume the lotus position and try 
-`Zar Points <http://www.bridgeguys.com/pdf/ZarPoints.pdf>`_.
+There are several other hand evaluation methods. In the end, it takes judgment, not
+a mechanical adherence to points.
 
 
 

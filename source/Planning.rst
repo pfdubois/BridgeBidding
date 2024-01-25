@@ -25,38 +25,31 @@ competitive situations.
 Classifying Your Hand
 ---------------------
 
-Assume that your partner opened one of any suit, your RHO passed, and it is
-your bid. The key is to know whether your hand is weak, competitive,
+The key is to know whether your hand is weak, competitive,
 invitational, game-going, or has slam-interest, and to constantly re-evaluate
-it as the auction proceeds. This classification is the same no matter what suit
-your partner opened.
+it as the auction proceeds. You make an initial assessment of this and then 
+modify it as the auction gives you more information.
 
-* Weak: under six points
-* Competitive: six to a poor 10 points. Also called "minimal".
-* Invitational: ten to twelve points. Also called "limit".
+* Weak: under 6 points
+* Competitive: 6-10 points. Also called "minimal".
+* Invitational: 10-12 points. Also called "limit".
 * Game-going: 13+ points
 * Slam interest: When we either have 33 points between us, or have found a suit fit 
   and are not too far below that.
 
-.. note:
-   New suit responses at the one level are unlimited by an unpassed hand. 
-   Opener must not pass them. 
+Deciding what to do with 10 points is where a lot of the agony happens.
 
-When you are a passed hand if partner bids a suit you can support, the classification
-of your hand may improve. However, expectations are modest.  Almost nothing a passed hand 
-can do is forcing.
-  
-The idea is that to be at the two-level it would be nice if we had at least more points
-than they do. After all, we're contracting to make 8 out of 13 tricks, which is 62%.
-While being able to name the strain will help, having less than 50% of the points
-could be a problem.
+Our goal is to bid to the best :term:`strain` and :term:`level` for our combined hands.
+To be at the two-level it would be nice if we had at least
+more points than they do. After all, we're contracting to make 8 out of 13
+tricks, which is 62% of the tricks. While being able to name the strain will help, having
+less than 50% of the points could be a problem.
 
-For a suit at the three level, we want around 23 points.  We contracting for
-69% of the tricks. Considering HCP only, 23 out of 40 is 57%.  For notrump we'd
-want 25 HCP at least, and Charles Goren wanted 26.  You won't make it all the
-time, even so.
-
-For a game in a major suit look for a combined 26 points, and for a minor, around 29.
+For a game at 3NT we need at least 25 points; for the four-level in a suit, 26 points.
+For a minor game 29 points. The six level usually needs 33 total points, and the 
+seven level 37 points.  When we are in a suit contract, these figures include points
+that are gained due to distribution and support.  In a misfit, HCP may be all that 
+matters.
 
 Is This Forcing?
 ----------------
@@ -148,18 +141,19 @@ qualify as well.
 Example: 1♦ - 1♠ - 2♥. Hearts is higher than diamonds, and the 2♥ bid is up a level. 
 Opener has more at least as many diamonds as hearts (typically 5-4).  
 
-There is one important exception. If responder has made a two-level bid he has shown at 
-least 10 points, so if responder has to preference to 3♥, there is no problem -- we're 
-already known to have around 23 points. Therefore, we do not consider a 2-level
-continuation a reverse. For example, Pass - 1♥ - 2♣ - 2♥. The 2♣ bid shows 10+ points.
+There is one important exception. If responder has made a two-level bid he has
+shown at least 10 points, so if responder has to preference to 3♥, there is no
+problem -- we're already known to have around 23 points. Therefore, we do not
+consider a 2-level continuation a reverse. For example, Pass - 1♥ - 2♣ - 2♥.
+The 2♣ bid shows 10+ points.
 
-When you have a five-card suit and a higher four-card suit,
-you have to open the five-card suit, but on your rebid you 
-cannot show your four-card suit unless you have the values.  
+When you have a five-card suit and a higher four-card suit, you have to open
+the five-card suit, but on your rebid you cannot show your four-card suit
+unless you have the values.  
 
-For example, with five diamonds and four hearts, if the auction goes 1♦ - 1♠ - 2♥, opener 
-has reversed. Lacking that many points, opener may have to bid an imperfect 1N or repeat
-diamonds instead. 
+For example, with five diamonds and four hearts, if the auction goes 1♦ - 1♠ -
+2♥, opener has reversed. Lacking that many points, opener may have to bid an
+imperfect 1N or repeat diamonds instead.
 
 With 4 diamonds and 5 clubs, such as ♠92 ♥Q9 ♦AQJ5 ♣KQT43, we have a similar
 dilemma but without the risk of hiding a major. If we open this hand 1♣, and
@@ -169,15 +163,9 @@ if they have to, even though that suggests you might have a six card suit.
 
 Obviously the quality of the two suits will influence the decision, unless you just  
 always open 1♣. 
-
-.. note::
-   When you make your opening bid, you'll always need to think about what you'll do next 
-   depending on what your partner does. 
    
 What If Opener Is Stronger?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-.. _wjs_choice:
 
 .. index:: jump-shift choice
 

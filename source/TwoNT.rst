@@ -1,6 +1,8 @@
 The 2N Opening Family
 =====================
 
+.. _open2N:
+
 .. index:: 
    pair: opening; balanced
    pair: opening; 2N

@@ -455,4 +455,7 @@ notes.
       The style, taught in this book, where a less-than-game-forcing hand will bypass
       a diamond suit when replying to a 1♣ opener in favor of showing a four-card major.    
       
-          
+   level
+      The number of tricks in excess of six that a bid contracts for. For a bid of 3♥ 
+      the level is 3 and the :term:`strain` is hearts.
+                

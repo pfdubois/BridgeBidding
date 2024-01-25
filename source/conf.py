@@ -8,7 +8,6 @@ version = u'1.0'
 release = u'1.0'
 
 # -*- coding: utf-8 -*-
-# Before including this common file, set project
 sproject = project.replace(' ','')
 
 import sphinx.util.texescape as te
@@ -32,8 +31,8 @@ source_suffix = {'.rst': 'restructuredtext'}
 master_doc = 'index'
 
 # HTML
-html_theme = 'traditional'
-html_title = project
+html_theme = 'classic'
+html_title = 'A Guide To Bridge Bidding'
 html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
