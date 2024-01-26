@@ -2,11 +2,18 @@ Notes on how to build the book
 
 ~/.zprofile needs to reflect the current Python and pip versions.
 
-make clean html singlehtml latexpdf
+make clean all
+
+populates the directory docs with the html site, and the epub and pdf files, along with
+zip files for the html and text outputs.
 
 The Tex Live distribution for the Mac, MacTeX is installed, along with the latest Python and 
 Sphinx packages.
 
-GitHub / Github pages used to do version control and publishing.
+GitHub / Github pages used to do version control and publishing from the BridgeBidding 
+repository, see github.com.
+
+git push from the computer publishes to pfdubois.github.io/BridgeBidding.  The file .docs/.nojekyll is needed to get the themes right.
+
 
 

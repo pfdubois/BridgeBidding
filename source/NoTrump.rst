@@ -792,7 +792,7 @@ partners will think it is standard.
 Unfortunately, I'm not sure this is really better than playing everything natural. 
 You're giving up the chance of a penalty double.  Also, when the opponents know this
 is what you play, as they will at your club, or if they look at your card, they
-can get away with murder interferring with you, knowing you can't double them.
+can get away with murder interfering with you, knowing you can't double them.
 
 The right answer is some form of the Lebensohl convention, which is quite advanced.
 You're lucky to find a partner who knows it. People who say they know it and don't 
@@ -830,6 +830,9 @@ may be. This is especially tenable with the more elaborate runout schemes.
 
 If responder initially passes, and the opponents bid a suit or suits,
 responder's double is penalty-oriented. 
+
+For a wide variety of advanced runout schemes see 
+:ref:`Advanced Runouts <AdvancedRunouts>`.
 
 .. index:: Unusual notrump
 

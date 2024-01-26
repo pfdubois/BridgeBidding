@@ -2,9 +2,6 @@
 Glossary
 ========
 
-Conventions and concepts described as "advanced" are in the :title:`Advanced Bidding`
-notes.
-
 .. glossary::
    :sorted:
 
