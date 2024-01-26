@@ -262,7 +262,7 @@ Exampe: Suppose  the bidding goes (1N) 2♦!(Diamonds and a higher suit)
   you don't want to land in a five-card spade fit.
 * With ♠KQJ9852 ♥6 ♦98 ♣984 you just bid 2♠, which is to play.
 
-A more advanced version of D.O.N.T. is "Meckwell"; see :title:`Advanced Bidding`.
+A slightly more advanced version of D.O.N.T. is :ref:`Meckwell <Meckwell>`.
 
 Cappelletti (Hamilton)
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -304,7 +304,8 @@ vulnerability, can me made with a good 5-4. Advancer can depart from the
 relay by bidding their own suit -- this must be a really good suit,
 and it should not happen very often.
 
-There is also a more advanced version of Cappelletti; see :title:`Advanced Bidding`.
+A slightly more advanced version of Cappelletti is 
+:ref:`Modified Cappelletti <ModifiedCappelletti>`.
 
 Against A Weak 1N
 ~~~~~~~~~~~~~~~~~

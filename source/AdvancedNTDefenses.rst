@@ -7,18 +7,19 @@ Advanced Notrump Defenses
    single: two-suited bids
    pair: notrump openings; defenses to
    
-This section explains some more defenses after your opponents open or overcall 1N. Some
-can also be used in balancing a passing-out 1N. (See Balancing in :title:`Bidding Notes`.)
+This section explains some more defenses after your opponents open or overcall
+1N. Some can also be used in balancing a passing-out 1N.
 
-Two-suited hands are often more powerful than their HCP count alone would indicate.
-We've already learned the basic Unusual 2N and Michael's Cuebid.  For interfering with
-their 1N opening, we have Cappelletti and D.O.N.T. 
+Two-suited hands are often more powerful than their HCP count alone would
+indicate. We've already learned the basic Unusual 2N and Michael's Cuebid.  For
+interfering with their 1N opening, we have Cappelletti and D.O.N.T. .
 
-In all these methods, the two-suited bids promise at least 5-4 in the suits. Vulnerability
-should be considered. Any bid which may force to the three level requires extra points 
-or shape, comparatively.
+In all these methods, the two-suited bids promise at least 5-4 in the suits.
+Vulnerability should be considered. Any bid which may force to the three level
+requires extra points or shape, comparatively.
 
-In case you want to get creative and invent your own, a note on ACBL regulations: 
+In case you want to get creative and invent your own, a note on ACBL
+regulations: 
 
 * X or 2♣ can show 0 specified suits. In that sense they are privileged. It is ok if 
   2♣ shows an unspecified suit or 2♣ shows clubs and a higher suit or 
@@ -30,6 +31,10 @@ In case you want to get creative and invent your own, a note on ACBL regulations
 
 * Other bids must show at least one definite suit. E.g., 2♥ can be hearts and a minor,
   or hearts and a four card minor, but not any major and a minor. 
+  
+When our 1N opener is doubled for penalty, some variation on the 1N defense you've 
+chosen can be an easy to remember :term:`Runout`.  See in particular 
+:ref:`Advanced Runouts <AdvancedRunouts>`.
 
 Landy
 -----
@@ -52,7 +57,7 @@ Meckwell
 
 .. index::
    pair:convention; Meckwell
-   pair:convention; modified D.O.N.T (Meckwell)
+   pair:convention; D.O.N.T (modified, a.k.a. Meckwell)
    single: two-suited bids
    pair: 1N opening or overcall; defenses to
 
@@ -82,19 +87,21 @@ runout.
 Modified Cappelletti
 --------------------
 
+.. _ModifiedCappelletti:
+
 .. index::
-   pair: convention; modified Cappelletti
+   pair: convention; Cappelletti (modified)
    single: two-suited bids
    pair: 1N opening or overcall; defenses to
 
-In this modification of Cappelletti, the 2♣ bid works harder in order to make 2♥
+In this modified or "modern" Cappelletti, the 2♣ bid works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
 by partnership agreement,
 
 -  X Equal hand, penalty-oriented
 -  2♣! Diamonds or, a minor and a major.
 
-   Advancer bids 2♦!(relay), and intervenor then bids pass, or his major.
+   Advancer bids 2♦!(relay), and intervenor then passes or bids his major.
    Advancer can then ask for the minor with 2N! (good hand) or 3♣! (pass or correct).
 
 -  2♦! Both majors
@@ -128,7 +135,7 @@ Woolsey
    single: two-suited bids
    pair: 1N opening or overcall; defenses to
 
-Woolsey, sometimes called Multi-Landy, became legal under the ABCL GCC in May, 2015.
+Woolsey is sometimes called Multi-Landy.
 After a 1N opening or overcall:
 
 -  X Shows an equal hand, penalty-oriented
@@ -145,7 +152,7 @@ Defenses to Woolsey
 How should you defend against the Woolsey 2♦? 
 
 Experts concede that Woolsey is difficult to defend against, which is why there was 
-resistance to putting it into the GCC.  However, at the club level most players will 
+resistance to allowing it before 2015.  At the club level most players will 
 survive pretty well with stolen bids and common sense. 
 
 One problem here is that you don't have a Stayman bid unless you agree to use 3♣.  
