@@ -31,14 +31,15 @@ help:
 
 clean:
 	rm -rf $(BUILDDIR)
-	cd $(PUBLISH); rm -fr $(PUBNAME)*.* $(PUBNAME)*
+	rm -rf $(PUBLISH)/*
 
 all: clean html text latexpdf epub  
-	cp -R build/html $(PUBLISH)/$(PUBNAME)
+	cp -R build/html/* $(PUBLISH)
+	rm -fr $(PUBLISH)/_sources
 	cp -f build/epub/$(PUBNAME).epub $(PUBLISH)/$(PUBNAME).epub
 	cp -f build/latex/$(PUBNAME).pdf $(PUBLISH)/$(PUBNAME).pdf
 	cp -R build/text $(PUBLISH)/$(PUBNAME)Chapters
-	cd $(PUBLISH) && zip -r -q $(PUBNAME) $(PUBNAME)
+	zip -r -q $(PUBNAME) build/* && mv $(PUBNAME).zip $(PUBLISH)/$(PUBNAME).zip
 	cd $(PUBLISH) && zip -r -q $(PUBNAME)Chapters $(PUBNAME)Chapters
 	cd $(PUBLISH) && rm -fr $(PUBNAME)Chapters
 
