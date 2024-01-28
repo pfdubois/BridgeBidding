@@ -78,11 +78,19 @@ Here are the priorities:
 
 - Show a major. 
 - Raise partner: 3m is a :term:`limit raise`, with 5+ in m.  
-- Show a diamond suit.  
-- Invite in clubs: 1♦ - 3♣ is invitational with six clubs. As a passed hand, 
-  or if there is interference, you can bid just 2♣. These bids are not forcing.
+- Bid 1♦ over 1♣, or
+- Bid 2♣ over 1♦ if you are a passed hand or in competition.
+  We cannot make this bid if it would be game-forcing
+  when our hand is only invitational. Therefore, 
+- 1♦ - 3♣ is invitational with six clubs.  
 - Otherwise bid 2N.
+
+These invitational bids (1♦, 3♣, 2N, and 2♣ by a passed hand or in competition) are not
+forcing, nor is a raise. Only a new suit is forcing for one round.
   
+The 1♦ - 3♣ bid being invitational rather than weak is a consequence of 1♦ - 2♣ being a 
+game force. One variant of 2/1 is to play that bidding 2♣ and then 3♣ on the next round 
+*cancels* the game force. That kind of loses the 2/1 spirit.
 
 Responding With A Game-Going Hand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -99,19 +107,20 @@ Inverted Minors is one of the
 Responder's priorities are:
 
 * Show a major.
-* Show a diamond suit, usually 5+ cards.
+* Bid 1♦ over 1♣ (if unbalanced)
 * Bid 2♣ over 1♦. This game-forcing bid shows five clubs. (You can't be a passed hand).
-* 1m - 3N shows 13-15 HCP and a semi-balanced hand with no four-card major.
+* 1m - 3N shows 13-16 HCP and a semi-balanced hand with no four-card major.
   
 Note that "Raise partner" isn't in the list.  As the auction progresses you must make 
 bids partner cannot pass short of game.  
 
 With no major suit fit you're headed for 3N unless the opponents' bidding makes
-it clear that they have a suit and we do not have it stopped.  Do not worry
-about stoppers in suits they didn't bid.
+it clear that they have a suit and we do not have it stopped.  We usually do not worry
+about stoppers in suits they didn't bid but if we're both screaming we have the 
+minors it can become an issue.  
 
 If you cannot get to 3N you may need to stop in 4m. Going to 5m has to usually include 
-a lot of trumps and some shape. 
+a lot of trumps and some shape, and around 29 points. 
 
 .. note::
    Bypassing a diamond suit to show a major is a style of bidding called :term:`Walsh`.  
@@ -126,6 +135,11 @@ Bidding minor slams is awkward. Until you have agreed on a suit, 4N is not
 not inviting to slam, it is just shutting down with a distributional hand. All you 
 can do is bid as if you seek only game, and then keep going if you're positive a slam
 is likely. Going past 3N is crossing the Rubicon.
+
+The situation can be improved by playing :ref:`Inverted Minors <inverted_minors>`
+and :ref:`Redwood <Redwood>` but it is never easy.  In most cases if the slam is not
+clear-cut most of the field is not going to know how to get there so there is less
+pressure to bid it. 
 
 Opener's Rebid
 --------------
@@ -149,24 +163,27 @@ spades, we must bid 1♠. Do not skip over 1♠ when you have four; responder co
 have four hearts and four spades. This should be treated as forcing unless partner
 is a passed hand.
 
-It takes 17+ HCP to raise partner's major to the 3 level. With more than that,
-you can bid game.  Or, you can show shortness on the way to game by splintering.
-A :term:`splinter` is a triple jump and shows shortness. For example, 1♦ - 1♠ - 4♣! 
-would show support for spades and shortness in clubs, with some slam interest. 
-A splinter says, "I could have bid game even without this nifty shortness".  
+The priorities are:
 
-Otherwise, an opener with a balanced hand and 12-14 points will rebid 1N
-over responder's one of a suit bid. 
+* Support responder's suit (4 cards, or a very good 3)
+* Bid a second suit of five cards or longer. With a minimum hand, avoid bidding
+  a four-card suit at the three level in favor of 2N if possible.
+* Rebid a six-card or longer suit. Don't jump in a game-forcing auction but you
+  can jump-rebid (1♦ - 1♥ - 3♦) with a good 15-17 points and a great suit.
+* Bid 1N with a balanced minimum hand.
+* Bid 2N with 18-19 HCP.  This does not deny any major you may skip over:
 
-With 18-19 he rebids 2N. Note that the 2N rebid does not deny any major you may 
-skip over: 
+  - 1♦ - 1♥ - 2N does not deny having four spades
+  - 1♦ - 1♠ - 2N does not deny having four hearts
 
-- 1♦ - 1♥ - 2N does not deny having four spades
-- 1♦ - 1♠ - 2N does not deny having four hearts
+* Bid 3N with 20-21 points.
 
 An opener's jump-shift, such as 1♣ - 1♠ - 3♥, is a powerful hand, 19+, with good suits. 
 This is very rare after a minor opening. Jump-shifts by opener are never weak because,
 hey, he opened, he's not weak.
+
+The Auction 1m - 1M
+~~~~~~~~~~~~~~~~~~~
 
 If responder has bid a major and we have four of them, or three of them and either a
 singleton or no other good bid, we can raise. Mike Lawrence gives this example::
@@ -180,13 +197,12 @@ After 1♦ - 1♥, he recommends 2♥. If you bid 1N expect a spade lead and you
 be well done. That diamond suit does not merit a rebid. 
 
 With an unbalanced hand opener can show a second suit, but a reverse requires 17+.
-The most frequent case is 1♦ - 1x - 2♣, showing four diamonds and more diamonds than
-clubs, and an unbalanced hand. 
-
-Rebidding one's minor at the 2 level shows a
-minimum opener and a six-card suit usually. A jump rebid of 1m - 3m is 15-17.
-
+The most frequent case is 1♦ - 1x - 2♣, showing four diamonds and at least as many 
+diamonds as clubs, and an unbalanced hand. 
  
+The Auction 1m - 1M - 1N
+~~~~~~~~~~~~~~~~~~~~~~~~
+
 The :ref:`New Minor Forcing <NMF>` convention helps find 3-5 and 4-4
 fits in such situations. 
 
@@ -196,24 +212,35 @@ fits in such situations.
    :ref:`after we *open* 2N <open2N>` does not apply after a 2N *rebid*. Those systems 
    do apply when we *overcall* in notrump.
 
+NMF also can be used as a game-forcing continuation after 1x - 1M - 2N.
 
-After A Game-forcing Two Over One
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Auction 1♣ - 1♦ - 1N
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+This auction is special because opener can bid 1N even though they have a four-card 
+major. The reason is that if responder bids a major now, it is game forcing.
+With a less-than-game-forcing hand, responder would have skipped over 1♦ to bid the 
+major. 
+
+If that isn't what is going on, we're basically done unless responder has a game 
+forcing hand. If not, Responder can bid a suit
+preference to clubs, bid 2♦ with five of them, or pass 1N. 
+
+The Auction 1♦ - 2♣ Game Forcing
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::1♦ - 2♣ game forcing
 
-We're look for 3N. Opener's rebids are:
+We're looking for 3N. Opener's rebids are:
 
--  2♦ (catchall) shows 5 diamonds, any strength, does not deny a
-   four-card major. Have six diamonds if possible.
--  2♥ or 2♠ shows a 4-card major, denies five cards unless suit is rebid
-   on next round to show a 5-6 hand. Because we are in a game-forcing auction, this
-   is not a :term:`reverse`, so does not require extra strength. 
--  3♣ raises clubs. 
--  2N shows stoppers in both majors, does not deny a four-card major.
-   This is not an invitational bid; the auction is game forcing. We're just going slow
-   to give responder more space to describe their hand.
--  3N shows 18-19 balanced, stoppers.
+- 2♦ shows 6 diamonds, any strength. Denies a four-card major.
+- 2♥ or 2♠ shows a 4-card major, denies five cards unless suit is rebid
+  on next round to show a 5-6 hand. Because we are in a game-forcing auction, this
+  is not a :term:`reverse`, so does not require extra strength. 
+- 3♣ raises clubs. Three, preferably four clubs. 
+- 3N shows 18-19 balanced, stoppers in the majors. 
+- 2N is essentially "none of the above".  Don't have a major to show, have at most
+  a poor three-card support for clubs, e.g. a shape like 3=3=5=2 or 3=2=5=3.
 
 
 Subsequent Bidding

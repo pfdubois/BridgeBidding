@@ -356,7 +356,7 @@ Opener responds to J2NT by revaluing his hand in light of the
 fit. We call this new value "declarer points". Then with a balanced hand,
 
 -  1M - 2N! - 4M Less than 15 declarer points
--  1M - 2N! - 3N 15-17 declarer points, balanced
+-  1M - 2N! - 3N 15-17 declarer points, semi-balanced
 -  1M - 2N! - 3M 18+ declarer points.
 
 Note the theme -- the slower you go, the more you have. This is often termed,
@@ -377,6 +377,29 @@ if you have a void, show the void.
 After the opener replies to J2N, a non-jump bid in a side suit is a control bid, 
 which are discussed in more detail in the chapter on 
 :ref:`slam bidding <control_bidding>`.
+
+In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
+16 and 15 points each:
+
+::
+
+   West           East
+   ♠K862          ♠AQ
+   ♥AKJ95         ♥T632
+   ♦T5            ♦AKQ6
+   ♣KJ            ♣964 
+
+If West had been the Dealer, West would open either 1♥ or 1N, as we discussed.
+Suppose West opens 1♥. East has an opening hand and four hearts so would respond
+with Jacoby 2N. West has no shortness to show nor a good five-card suit, but with
+extra values bids 3N::
+
+   1♥ 2N!(four-card gf raise)
+   3N(15-17 HCP, semi-balanced)
+   
+On this hand East would then probably bid 4♦ to show the diamond control and no
+club control. We are at least near slam. But some would just bid 4♥, I'm sure, 
+thinking their hand is not that great. 
 
 .. index::
    triple:2N;Jordan;Truscott

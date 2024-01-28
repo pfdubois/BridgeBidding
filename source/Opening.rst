@@ -114,3 +114,23 @@ of it" with a pass. So the range of a "weak two" becomes 10-14 HCP.
 
 Openings<> at the three- or four-level are likewise not weak. 
 
+In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
+16 and 15 points each:
+
+::
+
+   West           East
+   ♠K862          ♠AQ
+   ♥AKJ95         ♥T632
+   ♦T5            ♦AKQ6
+   ♣KJ            ♣964 
+
+What would East open? 15 HCP, balanced, we open 1N.  In real life East was the dealer
+and did so. 
+
+But what would West open? That's a little harder. The textbook says 1♥.
+Hearts is the longest suit, and it is a five-card major.  Is that all there is to say?
+No. For reasons we'll get into later, West would also consider opening 1N to avoid 
+a rebid problem: if East answers 1N, West is shy of the values for a reverse to 2♠.
+As we'll see, West would be forced into a lie of one kind or another.
+

@@ -161,7 +161,8 @@ The initial "starting points" for Bergen are determined by a five-step process:
 #. Add 1 for each "good" suit, a 4-card suit containing three of the five honors.
 #. Adjust for the following features:
 
-    * -1 for a questionable honor in a short suit, such as a stiff King, or a doubleton
+    * -1 for a questionable honor in a short suit, such as a stiff King, or a 
+      "dubious doubleton", a doubleton
       honor lacking the Ace.  Thus, subtract one for KQ, Qx, Jx, etc.
     * -1 if you have 3 "quacks"; subtract 2 if you have six.
     * -1 if the hand has no Ace.
@@ -243,5 +244,33 @@ respectively.
 There are several other hand evaluation methods. In the end, it takes judgment, not
 a mechanical adherence to points.
 
+The Hand 
+~~~~~~~~
 
+.. index::The Hand 
 
+.. _TheHand:
+
+As a final example, here are the West / East hands of an example we will use 
+repeatedly in this document.  It is a real hand from a tournament, and I happened to
+be West. East was Dealer.
+
+::
+
+   West           East
+   ♠K862          ♠AQ
+   ♥AKJ95         ♥T632
+   ♦T5            ♦AKQ6
+   ♣KJ            ♣964 
+
+To evaluate the East hand, we get 15 HCP, and a balanced hand with shape 2=4=4=3.
+We're feeling neutral: the honors are all together, but the shape is uninspiring.
+
+To evaluate the West hand, we have 15 HCP. Using the simplest evaluation, we add one
+for the fifth heart. If we were using Bergen, we'd add one for the fifth heart, 
+one for the "good" heart suit, and subtract one for the dubious doubleton clubs.
+We're feeling good about the shape of 4=5=2=2, although 4=5=3=1 would be better. 
+Our honors are pretty well together -- if we changed the ♥K to the ♦K we'd be 
+less enthusiastic. 
+
+We'll be back later to see how we would bid these hands.

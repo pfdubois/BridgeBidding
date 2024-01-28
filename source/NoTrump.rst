@@ -418,6 +418,29 @@ Partners must be on their toes not to pass the game-forcing bids.
    See the convention :ref:`Smolen<smolen>`. In this convention, responder bids the 
    four-card suit at the three-level to :term:`puppet` opener into the five-card suit.
 
+In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
+16 and 15 points each:
+
+::
+
+   West           East
+   ♠K862          ♠AQ
+   ♥AKJ95         ♥T632
+   ♦T5            ♦AKQ6
+   ♣KJ            ♣964 
+
+East was the dealer, and with 15 HCP and a balanced hand opens 1N. West is 5-4 in the
+majors so replies 2♣, Stayman. East bids 2♥, her lowest four-card major.
+
+Extra points if you know what West does next: 3♠! which is the power raise for hearts.
+It agrees that hearts are trump and asks partner to start showing controls. East
+would then bid 4♦ to show the A♦ but deny the A♣.
+
+With a minimal opening hand West would just have bid 4♥ over 2♥. Note that 
+1N - 2♣ - 2♥ - 3♥ would agree that hearts are trump but would be just invitational,
+8-9 points.  That's why we need the 3♠ bid, sort of equal to 3♥ but game forcing at
+least.
+
 Texas Transfers
 ---------------
 
