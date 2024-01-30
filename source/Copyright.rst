@@ -1,0 +1,50 @@
+
+.. _Copyright:
+
+Copyright
+=========
+
+.. index::
+   pair:Copyright;GPLv3
+   
+Copyright, 2010-2024, Paul F. Dubois
+
+This book is non-commercial and meant for free redistribution to other 
+bridge players. It is licensed under the GNU GPLv3 license.
+you can see a copy of this license at 
+
+  https://spdx.org/licenses/GPL-3.0-or-later.html
+
+This book is also available in other formats: 
+
+* A PDF is available at:
+
+  :website:`BridgeBidding.pdf`
+  
+  It contains electronic links
+  and an expanded table of contents. It is designed to be printed on A5 paper, 
+  which is paperback size approximately 8 by 6 inches, around 300 pages.
+
+* A file suitable for most e-book readers is available at:
+
+  :website:`BridgeBidding.epub`
+ 
+  Note: If your specific e-book reader does not accept epub format, you can convert an 
+  epub file to the needed format using the free program Calibre
+  (https://calibre-ebook.com).
+
+* The website in HTML can be downloaded for local use at:
+
+  :website:`BridgeBidding.zip`
+
+* A collection containing each chapter as a plain text file, for easy sharing with 
+  partners, at:
+
+  :website:`BridgeBiddingChapters.zip`
+ 
+* The sources for building these items is in a public repository BridgeBidding, at:
+ 
+  https://github.com/pfdubois
+  
+  The file buildnotes.txt explains the necessary environment,using Sphinx, Python, 
+  and LaTex. 

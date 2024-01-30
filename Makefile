@@ -35,7 +35,6 @@ clean:
 
 all: clean html text latexpdf epub  
 	cp -R build/html/* $(PUBLISH)
-	cat /dev/null > .nojekyll
 	rm -fr $(PUBLISH)/_sources
 	cp -f build/epub/$(PUBNAME).epub $(PUBLISH)/$(PUBNAME).epub
 	cp -f build/latex/$(PUBNAME).pdf $(PUBLISH)/$(PUBNAME).pdf

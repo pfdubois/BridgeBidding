@@ -66,6 +66,8 @@ Assuming you have six or more points, this is what to bid depending on strength.
      - 2N
      - 3N
 
+The responses for 1♦ are complicated (in a good way) by a possible 2/1 bid.
+
 .. list-table:: Responding To 1♦
    :header-rows: 1
 
@@ -90,7 +92,7 @@ Assuming you have six or more points, this is what to bid depending on strength.
      - 2N
      - 3N
 
-The basic priority is: show a four-card major or longer major; raise partner; 
+The basic priority is: 2/1; show a four-card major or longer major; raise partner; 
 or bid notrump.
 
 Notes:

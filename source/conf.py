@@ -21,7 +21,11 @@ todo_include_todos = False
 # Example configuration for intersphinx: refer to the Python standard library.
 #intersphinx_mapping = {'http://pfdubois.com/publish/': None}
 #extensions = ['sphinx.ext.intersphinx', 'sphinx.ext.ifconfig']
-extensions = ['sphinx.ext.ifconfig']
+#The github one generates a .nojekyll file in the html so that my own theme is used
+#on github
+extensions = ['sphinx.ext.ifconfig','sphinx.ext.githubpages','sphinx.ext.extlinks']
+# Where :website:`file` links will point to. None means show link explicitly
+extlinks = { 'website':('https://pfdubois.github.com/BridgeBidding/%s',None)}
 
 # Add any paths that contain templates here, relative to this directory.
 #templates_path = ['_templates']
@@ -87,7 +91,7 @@ latex_elements = {
    'maketitle':r'''\newcommand\sphinxbackoftitlepage{
    
    
-Copyright, 2024, Paul F. Dubois
+Copyright, 2010-2024, Paul F. Dubois
 
 This book is non-commercial and meant for free redistribution to other 
 bridge players. It is licensed under the GNU GPLv3 license.
