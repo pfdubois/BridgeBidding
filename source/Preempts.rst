@@ -148,5 +148,3 @@ he bids 4♣ and you correct to diamonds if necessary.
 This bid does not come up very often of course, but neither does the one
 it replaces. It will lead to rather spectacular failures if you and your
 partner are not on the same precise wavelength.  
-
-

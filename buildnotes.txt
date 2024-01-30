@@ -10,10 +10,33 @@ zip files for the html and text outputs.
 The Tex Live distribution for the Mac, MacTeX is installed, along with the latest Python and 
 Sphinx packages.
 
+To update Python: pip install --update Python
+To update Sphinx: pip install --update Sphinx
+To update MacTex see their site.
+
 GitHub / Github pages used to do version control and publishing from the BridgeBidding 
 repository, see github.com.
 
-git push from the computer publishes to pfdubois.github.io/BridgeBidding.  The file .docs/.nojekyll is needed to get the themes right.
+git push from the computer publishes to pfdubois.github.io/BridgeBidding.  
+The file .docs/.nojekyll is needed to get the themes right.
 
-
-
+The workflow is:
+   Edit files (I use BBEdit)
+   In a terminal navigate to BridgeBidding directory. Then:
+      make html
+      open build/html/index.html to check results.
+      
+   I do that first to be sure I see error messages in the html build. 
+   Then:
+      make all
+      This cleans then populates the docs subdirectory. That directory becomes the
+      website after you do the git push below.)
+      
+      Commit changes to the local git:
+      git add .
+      git commit -m'explanation' .
+      Then publish to GitHub (changes visible to the public) with 
+      git push
+      
+      (Assuming you have git properly connected and credentialed to pfdubois.github.com)
+      

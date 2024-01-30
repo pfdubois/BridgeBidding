@@ -197,11 +197,17 @@ Glossary
 
    balanced
       A hand with an even distribution of suit lengths, 5-3-3-2, 4-4-3-2,
-      or 4-3-3-3.
+      or 4-3-3-3. Usually the term includes the :term:`semi-balanced` hands also.
+      Otherwise put, a hand with no singleton or void and at most two doubletons.
 
    semi-balanced
       A hand with a 5-4-2-2 or 6-3-2-2 shape, the longest being a minor.
 
+   semi-forcing
+      A bid that is forcing but passable by a hand with an utter minimum.
+      See oxymoron. Usually refers to making 1M - 1N semi-forcing rather than
+      forcing.
+      
    alert
       To give a required notification to the opponents. The need for an 
       alert is shown by an exclamation point following the bid. If the 
@@ -455,4 +461,11 @@ Glossary
    level
       The number of tricks in excess of six that a bid contracts for. For a bid of 3♥ 
       the level is 3 and the :term:`strain` is hearts.
-                
+
+   checkback
+      A convention that asks if opener has three-card support for our major or four
+      cards in the other major. See :ref:`Fourth Suit Forcing <FSF>`,
+      :ref:`New Minor Forcing <NMF>`, and 
+      :ref:`Two Way New Minor Forcing <TWNMF>`.  
+      
+             
