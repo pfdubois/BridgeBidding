@@ -25,7 +25,7 @@ todo_include_todos = False
 #on github
 extensions = ['sphinx.ext.ifconfig','sphinx.ext.githubpages','sphinx.ext.extlinks']
 # Where :website:`file` links will point to. None means show link explicitly
-extlinks = { 'website':('https://pfdubois.github.com/BridgeBidding/%s',None)}
+extlinks = { 'website':('https://pfdubois.github.io/BridgeBidding/%s',None)}
 
 # Add any paths that contain templates here, relative to this directory.
 #templates_path = ['_templates']

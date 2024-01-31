@@ -76,11 +76,12 @@ Books
 Online
 ------
    
-#. `Larry Cohen <http://larryco.com>`, `Robert Barrington <http://learnbridge.com>` and
-   `Gavin Wolpert <http://wolpertbridge.com` have articles, videos
+#. Larry Cohen (https://www.larryco.com), 
+   Robert Barrington (https://www.learnbridge.com) and
+   Gavin Wolpert (https://wolpertbridge.com) have articles, videos
    and lessons.  YouTube has great content including Rob, Gavin, and Pete Hollands.
 
-#. `Marty Bergen <http://martybergen.com>` has audio-visual courses in addition to books 
+#. Marty Bergen (http://martybergen.com) has audio-visual courses in addition to books 
    and pamphlets.
    
 #. Online bridge sites are booming. You can play with robots or humans or a combination
@@ -88,7 +89,7 @@ Online
    robots believe a bid means. Some sites are:
 
    - BridgeBase Online (BBO) at online.bridgebase.com
-     is the largest online site for playing bridge, including ACBL tournaments.
+     is the largest site for playing bridge, including ACBL tournaments.
      The Beginner and Intermediate Lounge (BIL) and the Intermediate and 
      Advanced Club (IAC) are groups that use BBO for instruction. 
    - OKBridge,
@@ -96,14 +97,14 @@ Online
    - Swan Bridge, and 
    - Real Bridge. 
    
-   These sites are all in a state of constant improvement and competition so I won't 
+   These sites are in a state of constant improvement and competition so I won't 
    describe them in this static medium.
    
-#. `Bridge Winners <https://bridgewinners.com>` is the premier bridge news and 
+#. Bridge Winners (https://bridgewinners.com) is the premier bridge news and 
    discussion site.
    
-#. `ACBL.org <http://acbl.org>` -- be a member, see your points, look up convention 
-   charts, what the convention card means, find a club or tournament. There is a really
-   great series of explanations about how to fill out your convention card.
-
+#. The American Contract Bridge League (https://acbl.org) has a monthly bridge magazine
+   that is worth the membership fee by itself. They can help you find a club or 
+   tournament, learn how to fill out your convention card, and explain the bridge 
+   laws.
 

@@ -19,7 +19,7 @@ This book is also available in these formats:
 
 * Web pages are available at:
 
-  :website:`BridgeBidding`
+  :website:`index.html`
 
 * A PDF is available at:
 
