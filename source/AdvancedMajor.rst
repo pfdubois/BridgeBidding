@@ -110,6 +110,8 @@ to play 1N as "semi-forcing", announce it, and have your opponents laugh and ask
 .. index::
    pair: convention;Kokish Game Tries
 
+.. _KokishGameTries:
+
 Kokish Game Tries
 -----------------
 
@@ -181,11 +183,11 @@ Had the suit been hearts, the auction would start 1♣ - 1♥ - 2♥ - 2N!.
 Variation: over hearts, use 2♠ as the inquiry. 
 
 
-.. index::
-   pair: convention;Medium 3N
+Another System After J2NT
+-------------------------
 
-A Better System After J2NT
---------------------------
+.. index::
+   pair:convention;Jacoby 2NT
 
 The standard scheme of responses to Jacoby 2N (1M - 2N!(4 trump, opening hand)) 
 has problems. When either opener or responder make a jump to game, showing no slam 

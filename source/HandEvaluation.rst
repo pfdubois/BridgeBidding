@@ -69,8 +69,8 @@ concentrated and / or touching, and with more than its expected share of 9's
 and 10's, with Aces and Kings more than Queens and Jacks. A "bad" or
 "downgradeable" hand is the opposite. .
 
-Adjusting to the Auction
-~~~~~~~~~~~~~~~~~~~~~~~~
+Revaluing
+~~~~~~~~~
 
 As the auction continues, revalue your hand.
 Discount the values in suits bid on your left, and discount bad
@@ -185,6 +185,9 @@ A hand is downgradable if it has a poor shape such as 4333, or 5332.
 
 When you have a close decision, use the upgradable or downgradable factors to help
 make the decision.
+
+Bergen Revaluing
+~~~~~~~~~~~~~~~~
 
 As the auction proceeds, and a fit is found, adjust your hand as follows.
 

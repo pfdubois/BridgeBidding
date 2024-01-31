@@ -1,7 +1,7 @@
 Responding To Minor Openings
 ============================
 
-.. _Minor_Openings:
+.. _MinorOpenings:
 
 .. index::
    pair: opening; minor
@@ -418,7 +418,7 @@ Worst case is they have a nine-card fit in a major suit.  Without two good stopp
 will be a very poor contract. 
 
 If they double, the bid 2N! becomes an artificial bid showing a limit raise or 
-better (:ref:`Jordan 2NT <Jordan2N>`. When you don't have a suitable bid but do have 
+better (:ref:`Jordan 2NT <Jordan2NT>`. When you don't have a suitable bid but do have 
 10+ HCP, you can use a :ref:`Going For Blood <blood>` redouble.
 
 .. _inverted_minors:

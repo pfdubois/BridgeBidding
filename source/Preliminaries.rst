@@ -2,19 +2,23 @@
 Preliminaries
 =============
 
+Click :ref:`Copyright <Copyright>` to go to a chapter at the end of the book 
+on how to read this book as web pages, a PDF, or an e-book. The book is free and
+redistributable to anyone, as described in its open-source license. 
+
 How I Came To Write This Book
 -----------------------------
 
-Upon retirement in 2005, I began playing bridge online.  The players were no
+As I retired in 2005, I began playing bridge online.  The players were no
 longer using the Goren system of bidding that I had read about as a child.
 Although I had played a small amount of party bridge as an adult I had avoided
 bridge after seeing the cream of my class of mathematicians at U.C. Berkeley
-flunk out when they played bridge at the Student Union all day.  So then, about
-to retire, I found myself with only a bare-bones document on OKBridge to
-explain this mysterious "Standard American Yellow Card" (SAYC) and the more
-advanced extension of it, "Two Over One Game Force", not to mention the
-seemingly endless collection of conventions, bids that did not mean what they
-appeared to mean.
+flunk out when they played bridge at the Student Union all day and night.  So
+then, about to retire, I found myself with only a bare-bones document on
+OKBridge to explain this mysterious "Standard American Yellow Card" (SAYC) and
+the more advanced extension of it, "Two Over One Game Force", not to mention
+the seemingly endless collection of conventions, bids that did not mean what
+they appeared to mean.
 
 I set out to remedy the situation for myself.  I soon realized others were in
 the same boat, especially people in other countries for whom bridge books were
@@ -52,11 +56,11 @@ quizzes. I list some of my favorite sources in :ref:`Resources <bibliography>`.
 
 More recently I have taken lessons from Marc Smith, and the purchased the video
 lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a
-#Gavinista. Barrington and Wolpert have five years of free once-a-week lessons on 
-YouTube. 
+#Gavinista. Barrington and Wolpert have five years of free Wednesday morning lessons on 
+YouTube as well as their commercial lessons.
 
 Bridge has three big topics: bidding, declarer play, and defense. An expert
-friend who has read my bidding notes commented that the defensive part of your
+friend who has read my notes commented that the defensive part of your
 notes ought to be as big as the bidding section. Indeed, your side is on
 defense half of the time. Few of us measure up -- for some reason, learning
 another convention that comes up twice a year is more compelling than the
@@ -104,22 +108,22 @@ the approach we're taking here.
 Casual Partners
 ---------------
 
-Even a person with the most dedicated partner plays with someone else once in
-a while; this is especially true online. Therefore, you have to learn
-two things: your system, and the system you can count on a stranger to know.
-For casual face-to-face play, an intermediate pair who agrees on SAYC or 2/1 still needs 
-to fill in some details as they fill out the card. 
+Even a person with the most dedicated partner plays with someone else once in a
+while; this is especially true online. Therefore, you have to learn two things:
+your system, and the system you can count on a stranger to know. For casual
+face-to-face play, an intermediate pair who agrees on SAYC or 2/1 still needs
+to fill in some details as they fill out the card.
 
-I like to be in a position to say, "Let's play your card"; armed with 
-this book, you'll know what most of their stuff means already. My philosophy
-is that this way, at most one person is confused: me.
+I like to be in a position to say, "Let's play your card"; armed with this
+book, you'll know what most of their stuff means already. My philosophy is that
+this way, at most one person is confused: me.
 
 Many online sites have a definition somewhere of one or more  systems that you
-can expect people to use there -- but frankly not many people bother to read them.
+can expect people to use there -- but frankly not many people bother to read
+them.
 
-If you are learning to play using robots online, be sure to
-check what the robot thinks bids mean. None of the various robots
-play vanilla systems.
+If you are learning to play using robots online, be sure to check what the
+robot thinks bids mean. None of the various robots play vanilla systems.
 
 Contributing
 ------------
@@ -131,12 +135,9 @@ called  "Sphinx" to render the book into web pages, e-books and PDF files.
 Sphinx is the standard system used to document computer programs written in the popular
 Python computer language, so it is heavily used, is free, and has the advantage that 
 the source is a simple, readable text file with a very natural markup system.  
-When viewing the documents in a web browser, there is a link that will show you the 
-original markup text for that page. (Tell your browser to use the UTF-8 encoding to
-see the suit symbols.)
 
 Send corrections by indicating section and nearby content, rather than by
-page number, as the latter depends on the rendering device. 
+page number, as the latter depends on the rendering device, unless using the PDF. 
 
 You can contribute additions such as examples and quizzes for chapters
 by sending a plain text file. Extra points for using reStructuredText markup. 

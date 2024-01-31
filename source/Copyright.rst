@@ -15,13 +15,17 @@ you can see a copy of this license at
 
   https://spdx.org/licenses/GPL-3.0-or-later.html
 
-This book is also available in other formats: 
+This book is also available in these formats: 
+
+* Web pages are available at:
+
+  :website:`BridgeBidding`
 
 * A PDF is available at:
 
   :website:`BridgeBidding.pdf`
   
-  It contains electronic links
+  The PDF contains electronic links
   and an expanded table of contents. It is designed to be printed on A5 paper, 
   which is paperback size approximately 8 by 6 inches, around 300 pages.
 
@@ -33,12 +37,12 @@ This book is also available in other formats:
   epub file to the needed format using the free program Calibre
   (https://calibre-ebook.com).
 
-* The website in HTML can be downloaded for local use at:
+* The website in HTML can be downloaded for offline use at:
 
   :website:`BridgeBidding.zip`
 
 * A collection containing each chapter as a plain text file, for easy sharing with 
-  partners, at:
+  partners, can be downloaded at:
 
   :website:`BridgeBiddingChapters.zip`
  
@@ -46,5 +50,5 @@ This book is also available in other formats:
  
   https://github.com/pfdubois
   
-  The file buildnotes.txt explains the necessary environment,using Sphinx, Python, 
+  The file buildnotes.txt explains the necessary environment, using Sphinx, Python, 
   and LaTex. 

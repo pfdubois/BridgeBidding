@@ -52,8 +52,8 @@ not have any cards in M. If 1N is not forcing, passing becomes an additional opt
  
 Opener's rebid over a forcing 1N response is as follows.
 
--  2M shows 12-15, and a **six** card suit, not forcing.
--  3M rebid shows 15-17, and a **six** card suit, not forcing.
+-  2M shows 12-15, and a six card suit, not forcing.
+-  3M rebid shows 15-17, and a six card suit, not forcing.
 -  Any reverse is 17+, natural, forcing one round.
 -  2N 18-19 HCP, balanced, not forcing.
 -  A jump shift is 19+, usually natural, game forcing.

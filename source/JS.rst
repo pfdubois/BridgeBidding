@@ -7,10 +7,10 @@ A :term:`jump-shift` is a jump bid of a new suit. For example 1♥ - 3♣ is a j
 because a bid of 3♣ is a jump over 1♥. In understanding the meaning of such a bid we 
 must recognize the situation. Specifically, 
 
-* Is the bid by the opener or the responder?
+* Is the bid by the opener or the responder? All jump-shifts by opener are strong.
 * If by responder, has responder previously passed or not?
 * Has there been competition?
-* Does the bid have a conventional meaning?
+* Does the bid have another meaning already?
 
 .. index::
    pair:jump-shift; preemptive
@@ -22,7 +22,7 @@ Weak Jump-Shifts
 
 If there has been competition between the opener and the responder, a jump
 shift is preemptive.  It is also possible to agree that any jump shift that has
-no other conventional meaning is weak, even without competition ("Weak
+no other meaning is weak, even without competition ("Weak
 Jump-Shifts"). In the body of this book, we assume that weak jump-shifts not in
 competition is our agreement. If it isn't a strong bid, it must be alerted.
 
@@ -36,7 +36,8 @@ For example:
 #. 1♣ - 2♠ is preemptive, alert it.
 #. 1♥ - 3♣ is preemptive, alert it.
 
-With some conventions a jump-shift could also be a conventional bid, such as a Bergen raise.  
+A jump-shift could also be a conventional bid, such as a 
+Bergen raise, or the special cases for 1x - 3♣ where it is invitational.
 
 Now let's consider the auction with no interference.
 
@@ -79,7 +80,7 @@ that the hand has now gotten better so that we should be close to game. The weak
 version attempts to stop the auction at a low spot.
 
 That's the old-fashioned Goren jump-shift. However, you don't often have 
-such a powerhouse. Most of the time when you do, forcing bids can get you
+such a powerhouse. Most of the time when you do, 2/1 bids can get you
 where you want to go. Thus the utility of the jump-shift came into question. 
 
 Good players remain divided on the issue: weak? strong? or something else?
