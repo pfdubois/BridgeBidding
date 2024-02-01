@@ -122,10 +122,12 @@ Glossary
       term for :term:`control bid`.
 
    control bid
+   control bidding
+   control
       A bid showing an Ace or void; or in the Italian system, first or second 
-      round control of that suit.
+      round control of that suit. See :ref:`Control Bidding <control_bidding>`.
 
-   controls
+   controls 
       Refers to the number of control points in a hand, counting an Ace as 2
       and a King as 1. Also refers to a certain advanced system  for responding to a 
       2♣ opener.
@@ -349,13 +351,7 @@ Glossary
    strain
       Strain is a word used to avoid saying the wordy "suit or notrump".  Used 
       in phrases such as "What strain should we play in?" or "the next higher strain".
-      
-   control bidding
-      Control bids show first-round (Ace or void) winners in a suit, or second-round
-      if the first round control is already known.
-      In Italian control bids, they can also show second-round control
-      initially. 
-      
+            
    leave it in
       To pass partner's :term:`takeout double`.
 

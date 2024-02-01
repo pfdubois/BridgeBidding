@@ -23,13 +23,13 @@ A Guide To Bridge Bidding
    Checkback
    MajorOpenings
    OpenerRebid
+   Competition
    Doubles
    NoTrump
    TwoNT
    TwoClubs
    Preempts
    Freaks
-   Competition
    Balancing
    Tools
    TwoSuitedDefense

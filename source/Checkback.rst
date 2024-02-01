@@ -1,14 +1,17 @@
-Basic Checkback
-===============
+Finding 5-3 and 4-4 Major Fits
+==============================
 
 .. index::checkback 
 
-Minor openings often lead to the following scenario: responder bids a major,
-and opener rebids 1N or a third suit. Responder who has a five-card major would like to 
+.. index::finding fits 
+
+Suit openings often lead to the following scenario: responder bids a major,
+and opener rebids 1N or a third suit. Responder has only shown a four-card major, but
+a responder who has a five-card major would like to 
 ask the opener whether opener has three-card support; and when responder might hold 
 four cards in the other major, he'd also like to know if opener does too.
 
-The :term:`checkback` conventions ask those questions.
+The :term:`checkback` conventions ask those questions for the responder.
 Because of the bidding room they consume, they require invitational to
 game-forcing hands.
 
@@ -19,6 +22,7 @@ Fourth Suit Forcing
 
 .. index::
    pair: convention; Fourth Suit Forcing (FSF)
+   pair: Fourth Suit Forcing (FSF);forcing to game?
 
 Bidding the fourth suit may describe your hand, but it is unlikely to find
 a fit with partner. For example,
@@ -48,29 +52,13 @@ next bid will further explain his hand. Note that Fourth Suit Forcing (FSF)
 almost always implies that the suit responder bid first is five cards long;
 opener assumes so.
 
-Arbitrarily, the auction 1♣ – 1♦ – 1♥ – 1♠ is considered natural, not
+The auction 1♣ – 1♦ – 1♥ – 1♠ is considered natural, not
 fourth-suit forcing. It is forcing one round as a new suit by an unpassed hand.
-2♠ on the other hand is game-forcing.
+It isn't a checkback situation since responder didn't bid a major to start with.
 
 The FSF bid says nothing about the fourth suit. You could have a
 void in it. So if you want to show a real suit, you have to bid it again
 on your next turn.
-
-Some play FSF as forcing only for one round; ask a new partner and check the appropriate 
-box in the bottom right of your convention card. Better yet, talk them out of it.
-Knowing an auction is game-forcing is so powerful.
-
-FSF In A Game-Forcing Auction 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-When we are already in a game-forcing auction, there is no need for 
-FSF. In that case Grant and Rodwell in :title:`2 Over 1 Game Force`
-recommend that a bid of the fourth suit in a 2/1 auction mean either:
-
-* Responder doesn't know what else to bid, or
-* Responder has a genuinely two-suited hand.
-
-Responder's next bid will clarify the situation.
 
 FSF Responses
 ~~~~~~~~~~~~~
@@ -102,9 +90,25 @@ invitational hand with spades and diamonds, he would just bid 1♦ – 1♠ –
 2♣ – 3♦.
 
 Opener knows that since he denied a heart stopper, when responder did
-not bid 3N, that game is not possible, so goes on to 4♦ to await
+not bid 3N, game is not possible, so goes on to 4♦ to await
 responder's decision about 5♦. Good defenders will know to lead the
 fourth suit if you try to sneak through in 3N.
+
+.. note::
+   Some play FSF as forcing only for one round; ask a new partner and check the 
+   appropriate box in the bottom right of your convention card. Not recommended.
+
+FSF In A Game-Forcing Auction 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When we are already in a game-forcing auction, there is no need for 
+FSF. In that case Grant and Rodwell in :title:`2 Over 1 Game Force`
+recommend that a bid of the fourth suit in a 2/1 auction mean either:
+
+* Responder doesn't know what else to bid, or
+* Responder has a genuinely two-suited hand.
+
+Responder's next bid will clarify the situation.
 
 
 New Minor Forcing

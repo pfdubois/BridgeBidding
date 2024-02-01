@@ -77,6 +77,8 @@ my_preamble = r'''
 \pagestyle{plain}
 \setcounter{secnumdepth}{1}
 \setcounter{tocdepth}{1}
+\setlength{\headheight}{14.0pt}
+\addtolength{\topmargin}{-1.6pt}
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
 \definecolor{OuterLinkColor}{rgb}{0,0,0}

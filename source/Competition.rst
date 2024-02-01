@@ -1,3 +1,5 @@
+.. _competition:
+
 Competitive Bidding
 ===================
 
