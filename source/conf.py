@@ -5,7 +5,7 @@ project = u'BridgeBidding'
 # The short X.Y version.
 version = u'1.0'
 # The full version, including alpha/beta/rc tags.
-release = u'1.0a'
+release = u'1.0alpha'
 
 # -*- coding: utf-8 -*-
 sproject = project.replace(' ','')

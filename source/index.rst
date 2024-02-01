@@ -6,6 +6,8 @@ A Guide To Bridge Bidding
   
    :ref:`Copyright <Copyright>` 2010-2024 by Paul F. Dubois (pfdubois@gmail.com)
    
+   Release |release|, |today|.
+   
 .. toctree::
    :caption: Table of Contents
    :maxdepth: 1
