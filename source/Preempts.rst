@@ -52,7 +52,7 @@ higher bids show progressively more powerful hands.
    pair: preempt; responses
 
 Responses
-^^^^^^^^^
+~~~~~~~~~
 
 A raise from the two level to the three level is purely preemptive and
 relies on the idea that a nine card fit is relatively safe at the three

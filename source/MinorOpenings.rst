@@ -224,8 +224,8 @@ So opener can raise to 2M at least, and 4M if he has 19+ points (because 19 + 6 
 The 3M bid says, partner, if you've got something more than six, say nine, take us
 to game or start looking for slam if appropriate. Opener has a good 15 to 17 points.
 
-Opener Unbalanced
-^^^^^^^^^^^^^^^^^
+.. rubric::
+   Opener Unbalanced
 
 With an unbalanced hand that does not have four of partner's major, opener should
 bid 1♠ over 1♥ with four spades, bid an unbid suit, or rebid his opening
@@ -267,8 +267,8 @@ So, to sum up, with an unbalanced hand, after 1m - 1M the priorities are:
 * Jump-rebid your suit with 15-17 points
 * Jump-shift with 18-19+. (Jump-shifts by *opener* are never weak). Game forcing.
 
-Opener Balanced
-^^^^^^^^^^^^^^^
+.. rubric::
+   Opener Balanced
 
 With a minimum balanced hand, opener will rebid 1N if he cannot raise or bid 1♠.
 He doesn't make a three-card raise, because if responder has

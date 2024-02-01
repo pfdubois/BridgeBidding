@@ -10,7 +10,7 @@ A Guide To Bridge Bidding
    
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 1
+   :maxdepth: 2
    :numbered: 1
    
    Preliminaries

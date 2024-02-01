@@ -123,8 +123,8 @@ response, you'll usually have four of their suit and not have a four card major.
 * 2N requires 1.5 stoppers in their suit and 11-12 points; and
 * 3N requires 13 or more HCP and 1.5 stoppers in their suit.
 
-Are You Cheap?
-++++++++++++++
+.. rubric::
+   Are You Cheap?
 
 How do I say this? Are you cheap? Do you clip coupons and look for bargins? Did your
 mother make getting a good deal the goal of your life?  

@@ -369,14 +369,11 @@ In response to a major opening, and in the absence of any interference,
 a bid of 2N is called Jacoby 2NT. It is alerted as a game-forcing raise with 
 four or more trump. 
 
-As you gain experience see :ref:`When Not To Bid J2NT <notJ2NT>` 
-for some guidelines on when not to use this bid.  
-
 2N can still be used as a limit raise or better if opponents interfere with a double.
 See :ref:`Jordan 2NT <Jordan2NT>`.
 
-Responding to Jacoby 2NT
-++++++++++++++++++++++++
+:: rubric::
+   Responding to Jacoby 2NT
 
 Opener responds to J2NT by revaluing his hand in light of the
 fit. We call this new value "declarer points". Then with a balanced hand,
@@ -519,13 +516,15 @@ This bid is called Jordon 2NT (who popularized it in America) or Truscott  2NT
 (who invented it in 1954) or Dormer 2NT (who popularized it in Europe).
 
 This shows four trump as in Jacoby 2NT; with 3 card support, one makes a 
-:ref:`"going for blood" redouble <blood>`.  My recommended partnership agreement for
+:ref:`"going for blood" redouble <blood>`.  
+
+However, my recommended partnership agreement for
 intermediates is to make a Jordan 2N bid with 3-card support also -- the
-redouble sequences are rather bloody. Jordan over the takeout double gets the
+redouble sequences are rather difficult. Jordan over the takeout double gets the
 support message in early so partner can revalue their hand, and prevents a
 low-level bid from the opponents.
 
-One of the competitive principles we will use is that jumps in competition are weak. A
+One of the competitive principles we use is that jumps in competition are weak. A
 notable exception is replying to your partner's takeout double.  Until we get
 to all that, just note that a bid of 3M here is a preemptive four-card raise.
 
@@ -571,29 +570,6 @@ forcing due to the fit. Still, you don't just bid 4♥ right away. You bid
 2♣!(reverse Drury), showing a limit raise. If partner then bids 2♥, you can
 then raise to 4♥, telling your story beautifully -- I had a near-opening hand,
 but now that you bid hearts, I have enough for game with my distribution.
-
-.. _notJ2NT:
-
-When Not To Bid J2NT
-~~~~~~~~~~~~~~~~~~~~
-
-.. index::
-   pair:convention;Jacoby 2NT
-   
-J2NT is not always appropriate even with an opening hand. Here are some situations where 
-you do not bid J2NT. Of course, in all these situations you cannot bid 4M either!
-
--  You have a stiff or a void and 13-16 HCP; use a :term:`splinter` bid.
--  You are too strong, say 18-19 points. Slow down with a 2/1 bid.
--  You are too weak. You have a hand that you would not have opened but which has 
-   upgraded to be game forcing due to distribution. 
--  You only have three-card support and are playing Jacoby 2NT to show four.
-   (Intermediates may want to bid J2NT with three-card support, with partner agreement).
-   A forcing 1N followed by a jump to 4M is appropriate with three-card support.
-   Or make a 2/1 bid. 
-   
-In general, J2NT is not a bid that is merely trying to get to game;
-that's a given. The strength of the bid is in searching for slam.
 
 What's My Limit Raise?
 ~~~~~~~~~~~~~~~~~~~~~~

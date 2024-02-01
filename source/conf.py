@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 #
 project = u'BridgeBidding'
+booktitle = u'A Guide To Bridge Bidding'
+bookshorttitle = u'Bridge Bidding'
 
 # The short X.Y version.
 version = u'1.0'
@@ -36,8 +38,8 @@ master_doc = 'index'
 
 # HTML
 html_theme = 'classic'
-html_title = 'A Guide To Bridge Bidding'
-html_short_title = 'Bridge Bidding'
+html_title = booktitle
+html_short_title = bookshorttitle
 html_use_index = True
 
 # If true, the index is split into individual pages for each letter.
@@ -55,10 +57,9 @@ html_show_copyright = True
 # PDF
 #
 latex_documents = [
-    (master_doc, sproject+'.tex', project,
-     author, 'manual'),
+    (master_doc, sproject+'.tex', booktitle, author, 'manual', False),
 ]
-
+latex_show_pagerefs = True
 
 te.tex_replacements += [
     ['♥', r'\ensuremath{\heartsuit}'],
@@ -71,24 +72,24 @@ te.init()
 # Can also change this to use a4paper or letter, and make it two columns if
 # desired by adding \twocolumn to the preamble
 # Could make selectable via env variables ?
+
 my_preamble = r'''
 \usepackage[utf8]{inputenc}
 \pagenumbering{arabic}
-\pagestyle{plain}
-\setcounter{secnumdepth}{1}
-\setcounter{tocdepth}{1}
+\pagestyle{headings}
 \setlength{\headheight}{14.0pt}
-\addtolength{\topmargin}{-1.6pt}
+\setcounter{secnumdepth}{1}
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
 \definecolor{OuterLinkColor}{rgb}{0,0,0}
 '''
+
 latex_elements = {
    'pointsize': '11pt',
    'papersize': 'a5paper',
+   'sphinxsetup':'hmargin={1in, 0.5in}, vmargin = {0.75in, 0.75in}',
    'preamble': my_preamble,
    'releasename': '',
-   'classoptions': ',openany,oneside',
    'babel':'\\usepackage[english]{babel}',
    'maketitle':r'''\newcommand\sphinxbackoftitlepage{
    
