@@ -1,21 +1,21 @@
 # -*- coding: utf-8 -*-
 #
 project = u'BridgeBidding'
-booktitle = u'A Guide To Bridge Bidding'
+booktitle = u'Bridge Bidding'
 bookshorttitle = u'Bridge Bidding'
 
 # The short X.Y version.
 version = u'1.0'
 # The full version, including alpha/beta/rc tags.
-release = u'1.0alpha'
+release = ' '
 
 # -*- coding: utf-8 -*-
 sproject = project.replace(' ','')
 
 import sphinx.util.texescape as te
 needs_sphinx = '1.9'
-copyright = u'2024, Paul F. Dubois'
-author = u'Paul F. Dubois'
+copyright = '2024, Paul F. Dubois' 
+author = 'Paul F. Dubois'
 language = 'en'
 exclude_patterns = []
 pygments_style = 'sphinx'
@@ -78,7 +78,7 @@ my_preamble = r'''
 \pagenumbering{arabic}
 \pagestyle{headings}
 \setlength{\headheight}{14.0pt}
-\setcounter{secnumdepth}{1}
+\setcounter{secnumdepth}{0}
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
 \definecolor{OuterLinkColor}{rgb}{0,0,0}
@@ -89,7 +89,7 @@ latex_elements = {
    'papersize': 'a5paper',
    'sphinxsetup':'hmargin={1in, 0.5in}, vmargin = {0.75in, 0.75in}',
    'preamble': my_preamble,
-   'releasename': '',
+   'releasename': ' ',
    'babel':'\\usepackage[english]{babel}',
    'maketitle':r'''\newcommand\sphinxbackoftitlepage{
    
@@ -113,7 +113,6 @@ https://spdx.org/licenses/GPL-3.0-or-later.html
 
 # If false, no module index is generated.
 latex_domain_indices = False
-latex_domain_indices = False
 latex_show_pagerefs = True
 latex_show_urls = 'inline'
 #
@@ -127,7 +126,7 @@ epub_tocdepth = 2
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
 #
-epub_identifier = 'pfdubois.com/publish/'
+epub_identifier = 'pfdubois.github.io/BridgeBidding'
 
 # A unique identification for the text.
 #

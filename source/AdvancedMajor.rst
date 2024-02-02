@@ -244,3 +244,17 @@ See Larry Cohen's discussion at
 thoughts on this expert-level convention. Of course, bridge players being bridge 
 players, there is also Non-Serious 3N.
 
+Assigning A Meaning To 1M - 3N
+------------------------------
+
+You might have noticed that the bid 1M - 3N does not exist. It would just be wasteful.
+You have 2/1 bids to force to game more slowly.  There are two conventional meanings
+for this bid:
+
+#. 1M - 3N shows exactly 3 card support, and a balanced hand, with minimal game-forcing 
+   values. The opener is to choose to play game in 3N or 4M.  Of course, this now gets 
+   awkward for the opener if they have a strong hand. 4N next is keycard (because you 
+   have a agreed a suit). 
+   
+#. 1M - 3N shows four card support with a void somewhere. It is a kind of a mysterious
+   super-splinter.  

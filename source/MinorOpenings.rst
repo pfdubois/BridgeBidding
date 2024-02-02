@@ -286,7 +286,7 @@ conclusions partner can draw. For example, suppose responder has six hearts and
 hears opener rebid 1N. Responder now knows he has an 8- or 9-card heart fit.
 An opener who is 4=1=4=4 is going to be shocked to hear a 4♥ bid.
 
-The priorities are:
+The priorities therefore are:
 
 * Raise partner;
 * Bid 1♠, forcing
@@ -303,6 +303,18 @@ The priorities are:
    does not apply after we *rebid* 1N and likewise the system 
    :ref:`after we *open* 2N <open2N>` does not apply after a 2N *rebid*. Those systems 
    only apply when we open or *overcall* in notrump.
+   
+.. rubric::
+   Bypass 1♠?
+   
+Is it ever ok to bid 1N rather than 1♠, if your hand is balanced? Experts sometimes do.
+Gavin Wolpert gives two cases where he would. First, he's 4=3=3=3. Second, he has 
+a hand that is say 4=2=3=4, with say ♦AQJ, after 1♣ - 1♥ -- fearing that if he bids 1♠, 
+partner won't be able to bid 1N fearing he has no diamond stopper.  In both cases, Gavin
+is willing to lose the spade suit when his partner is not strong enough to check back,
+in order to get to 1N if it is right.
+
+The downside is that the opener with four spades will never believe we have a fit. 
 
 The Auction 1♣ - 1♦ - 1N
 ~~~~~~~~~~~~~~~~~~~~~~~~

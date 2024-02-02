@@ -54,11 +54,6 @@ there are many operable links in the text. What this book lacks is the kind of
 things that are in good books written by professionals: extensive examples, and
 quizzes. I list some of my favorite sources in :ref:`Resources <bibliography>`.
 
-More recently I have taken lessons from Marc Smith, and the purchased the video
-lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a
-#Gavinista. Barrington and Wolpert have five years of free Wednesday morning lessons on 
-YouTube as well as their commercial lessons.
-
 Bridge has three big topics: bidding, declarer play, and defense. An expert
 friend who has read my notes commented that the defensive part of your
 notes ought to be as big as the bidding section. Indeed, your side is on
@@ -152,12 +147,16 @@ players including Howard Schutzman, Oliver Clarke, Alex Martelli, and
 Jim and Pat Leary; and encouragement from my fellow learners and partners, 
 especially David Silberman, Julia Beatty, Ally Whiteneck, and John Engstrom.
 
+More recently I have taken lessons from Marc Smith, and purchased the video
+lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a
+#Gavinista. 
+
 About The Author
 ----------------
 
 I am a retired mathematician and computational scientist. I founded the first successful
 system for computational steering in 1984, which has become the main way scientific 
 computation is done now. My professional biography is available, along with this book, at 
-pfdubois.com. 
+https://pfdubois.com. 
 
 

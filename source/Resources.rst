@@ -84,6 +84,10 @@ Online
 #. Marty Bergen (http://martybergen.com) has audio-visual courses in addition to books 
    and pamphlets.
    
+#. Rob Barrington and Gavin Wolpert have produced five years (as of 2024) of free 
+   "Wednesday Morning Tournament" episodes on Barrington's YouTube channel 
+   "Bridge Lesson". Each episode is a very careful collaboration on 8 hands.
+   
 #. Online bridge sites are booming. You can play with robots or humans or a combination
    of the two.  There is a mechanism, different on each site, for knowing what the 
    robots believe a bid means. Some sites are:

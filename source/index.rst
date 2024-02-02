@@ -1,16 +1,16 @@
-=========================
-A Guide To Bridge Bidding
-=========================
+==============
+Bridge Bidding
+==============
 
 .. only:: html 
   
    :ref:`Copyright <Copyright>` 2010-2024 by Paul F. Dubois (pfdubois@gmail.com)
    
-   Release |release|, |today|.
+   |today|
    
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 2
+   :maxdepth: 1
    :numbered: 1
    
    Preliminaries
@@ -38,7 +38,6 @@ A Guide To Bridge Bidding
    Conventions
    SpecialDoubles
    Lebensohl
-   InterestingGadgets
    TwoDiamonds
    TwoSuited
    Advanced2N
@@ -50,6 +49,7 @@ A Guide To Bridge Bidding
    AdvancedSlam
    Advanced2Clubs
    AdvancedRunouts
+   InterestingGadgets
    Glossary
    Resources
    Copyright

@@ -464,4 +464,5 @@ Glossary
       :ref:`New Minor Forcing <NMF>`, and 
       :ref:`Two Way New Minor Forcing <TWNMF>`.  
       
-             
+    drop dead
+       A bid that partner must pass.              

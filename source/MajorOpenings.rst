@@ -75,9 +75,10 @@ Standard Responses
 
 Here are the replies to a one of a major opening when 2/1 and 1N forcing are
 not in effect. Either we are a passed hand or our RHO has interfered. When we
-are a passed hand, we must be cautious in case partner opened light. People
-playing the older "Standard American" (SAYC) system just use these rules all
-the time, and they are pretty much the rules we saw for minor openings.
+are a passed hand, we must be cautious in case partner opened light. 
+
+People playing the older "Standard American" (SAYC) system just use these rules
+all the time, and they are pretty much the rules we saw for minor openings.
 
 We will assume now that you're a passed hand. The interference case is 
 covered later.
@@ -305,6 +306,22 @@ hand. You'll tell partner about the support on your next bid by bidding spades.
 Had your shape been 3=4=3=3 you'd be bidding a three-card suit. That's ok; it is forcing. 
 You're sure to get another bid.
 
+When Do You Bypass A Major?
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+After a 1♥ opener, holding four spades, do you always bid 1♠? No. With
+game-forcing values and a four-card minor as well as four spades, bid
+the minor at the two level to force to game. To make this work, we agree that a 
+2♠ rebid by the opener is not a reverse. Thus, if we have a 4-4 spade fit, we will find 
+it. 
+
+If you do bid 1♠ over 1♥ holding five spades, opener may rebid 1N or 2N.
+If they do, you can use :ref:`New Minor Forcing <nmf>` with invitational or better
+values to find a 5-3 fit. 
+
+When you do decide to respond 1♠ with game-forcing values, it is ok;
+just be sure that your subsequent bids cannot be passed. :ref:`NMF <nmf>`
+and :ref:`Fourth-Suit Forcing <FSF>` are important tools here.
 
 Summary of Responses To 1M
 --------------------------
@@ -334,27 +351,6 @@ Notes:
 * Bidding a new suit at the two level must be 5+ hearts or 3+ in a minor.
 * Jacoby 2NT shows four trump; with just three, force to game first with a 2/1 bid.
 
-When Do You Bypass A Major?
----------------------------
-
-After a 1♥ opener, holding four spades, do you always bid 1♠? No. With
-game-forcing values and a five-card minor as well as four spades, bid
-the five-card minor at the two level to force to game. To make this work, we agree that a 
-2♠ rebid by the opener is not a reverse. Thus, if we have a 4-4 spade fit, we will find 
-it. 
-
-If you do bid 1♠ over 1♥ holding five spades, opener may rebid 1N or 2N.
-If they do, you can use :ref:`New Minor Forcing <nmf>` with invitational or better
-values to find a 5-3 fit. 
-
-Many people have trouble recognizing NMF in auctions with a 2N rebid::
-
-   1♦ 1♠
-   2N 3♣!(New Minor Forcing)
-
-When you do decide to respond 1♠ with game-forcing values, it is ok;
-just be sure that your subsequent bids cannot be passed. :ref:`NMF <nmf>`
-and :ref:`Fourth-Suit Forcing <FSF>` are important tools here.
 
 Jacoby 2NT
 ~~~~~~~~~~
@@ -505,7 +501,7 @@ Jordan 2NT, discussed next.
 .. _Jordan2NT:
    
 Jordan 2NT
-----------
+~~~~~~~~~~
 
 If the opener's LHO makes a takeout double of a major, 2N! shows a limit raise or better
 with four trump.
