@@ -37,7 +37,8 @@ We will cover here:
   lead to partner when you expect he will be the opening leader.
 * :ref:`Equal-Level Conversion Doubles <ELCD>` are takeout doubles that have 
   an off-shape with diamonds but without enough clubs.
-
+* :ref:`Lightner Doubles <LightnerDouble>` of final game and slam contracts ask
+  partner for an unusual lead.
 
 The chapter :ref:`Special Doubles <SpecialDoubles>` covers even more kinds of 
 doubles than the ones in this chapter.
@@ -58,70 +59,130 @@ limit, say four hearts. To say that "double is takeout through 4♥" means that
 is 2♠. Other popular limits are 3♠, 4♦, 4♥, and 4♠.  Modern practice favors at
 least a 3♠ limit.
 
-A takeout double shows an opening hand, short in their suit, with support 
-for all the other suits. However, it is also used for two sorts of special strong
-hands, with the doubler bidding again on his next turn. To be 
-precise, a takeout double shows:
+A takeout double shows one of three kinds of hands:
 
-* A strong one-suited hand (16+ with a six card suit, 19+ with a five card suit); OR
-* A balanced hand too strong (19+) to overcall 1N or lacking stoppers; OR
 * A normal takeout double:
-  - A hand you would open
-  - At most a doubleton in their suit
-  - At least Jxx in the unbid suits
-  - Usually cards in the unbid major, or at least 4-3 if both are unbid.
+
+  - A hand you would open,
+  - At least three cards in each unbid suit, and
+  - Ideally, at most a doubleton in their suit.
+  
+* A strong one-suited hand (18+ points) or
+* A balanced hand too strong (18+) to overcall 1N or lacking stoppers.
 
   The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
   notice too late that you only have two clubs or you're at the three level with 10 points 
-  and your partner doesn't have any at all.
+  and your partner doesn't have any points at all.
 
-A takeout double of a two-level bid shows a good solid opener, say 14-15 points, and the
-takeout double of a three-level bid requires 16+ points. 
+For a normal takeout double, you can also add points for shortness in their
+suit in evaluating your hand. You're planning on being the dummy so you're
+adding "dummy points" because you're very likely going to have a fit. Thus, an
+11 point hand with a singleton in their suit is enough for a takeout double.
 
-In competition, your partner's double is takeout if:
+The reason you make a takeout double is usually that you don't have a five-card suit to
+bid. This means that if your side ends up declaring, you don't have a source of tricks,
+so you're going to need some strength to make it.
 
-* They bid a suit below game and below our takeout double limit; AND
-* Our side has only passed up to now
+If you have a five-card minor suit and a four-card unbid major suit, and you
+qualify for a takeout double, prefer the takeout double.
+But if you have a five-card major you will bid that.
 
+Taking out a 1M opener, it is sometimes ok that you don't have four cards in the other 
+major, but remember partner will think you do. For example (1♠) X with 
+♠42 ♥KT3 ♦AK93 ♣K953; you don't have
+four spades. It will not be shocking if partner with 9 points and four spades
+bids 3♥. Some partners will feel strongly that you promise four in the unbid major.
+
+Sometimes you're in fourth seat and they have bid two suits at the one level, your
+partner passing. You can still make a takeout double but you need four cards in each
+of the unbid suits rather than three.
+
+Once you've made an ordinary takeout double, you pass your partner's reply. If you
+bid again, you're showing that you made the strong hand version of the takeout double.
+Your message to partner that you have support for the other suits is cancelled. 
+As we'll see, partner may have jumped in reply, so we need that strength to switch to
+a new strain at a possibly high level.
+
+.. _ELCD:
+
+.. index::
+   pair:convention;equal-level conversion double
+   pair: double; equal-level conversion
+
+.. rubric::
+   Equal-Level Conversion Doubles (ELCD)
+
+ELCD is a convention that widens the range of hands that can make takeout
+doubles over one of a major. Most good players use this convention. Be sure to
+agree with your partner on it.  On an ACBL convention card you check the box
+under Special Doubles that says "Min Offshape T/O".
+
+Suppose they open a major, say a heart, and you have ♠KQ82 ♥92 ♦AQ962 ♣Q7.
+
+Without ELCD, you cannot double here to try to show your four spades. You'd 
+have to just bid 2♦ and risk losing the spade suit. 
+
+ELCD says that you can double here and then bid diamonds if your partner bids clubs, to 
+show 4 of the other major and 5+ diamonds but *no extra strength*.
+
+The downside is that with an 18-point hand with diamonds, you can no longer bid diamonds
+over clubs because partner won't think you have the big hand. You'd have to bid 3♦.
+
+.. _negative_double:
+
+.. index::
+   pair: negative; double
+   pair: double; required shape
 
 Responding To A Takeout Double
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Note that in a balancing situation, such as (1♠) P (Pass) X, the balancer has
+Note that in a :term:`balancing` situation, such as (1♠) P (Pass) X, the balancer has
 "borrowed a King" and partner should subtract 3 points in choosing a response.
-
-If RHO bids, you are no longer “on the hook” and do not have to bid.
-Otherwise, you usually reserve a pass for a big trump stack and some
-significant strength, especially at the one level. Remember, RHO
-may have passed because he knew you had to bid, not because he's completely 
-broke. 
 
 Although there is the possibility that your partner has a big hand, your 
 initial response is to the normal takeout double.
 
-To respond in a suit:
+You must almost always bid if RHO passes. 
+
+To respond in a suit, respond in a four-card major in preference to a minor, even if your
+minor is five cards. How high you bid shows your strength:
 
 - With zero to about 8 points, bid your best suit as cheaply as possible.
   Put emphasis on responding in the major partner has promised if choices
-  are otherwise equal.
+  are otherwise equal. 
   
-- With a decent 9 - 11, you must jump-bid your suit.
+  Remember you can't pass. In fact, the worse your hand is, the more you have to bid.
+  
+- With a decent 9 - 11, you *must* jump-bid your suit.
 
-- With 12+, you can bid game with a five-card major; otherwise, cue bid their suit. 
-
-You may count distributional values for suit bids -- in effect, partner already bid the 
-suit and you are supporting it. 
-
-You can pass a takeout double converting it to penalty, but be careful -- the quality 
-as well as the number of your trumps matter. Your partner should lead a trump if he has 
-one.
-
+- With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
+  suit. A cue-bid is asking partner to show four-card suits up the line.  
+ 
 To reply in no-trump you must have values; with a weaker hand pick a suit. For a no-trump 
 response, you'll usually have four of their suit and not have a four card major.
 
-* 1N requires 8-10 HCP and a stopper in their suit.
+* 1N requires 7-10 HCP and a stopper in their suit.
 * 2N requires 1.5 stoppers in their suit and 11-12 points; and
 * 3N requires 13 or more HCP and 1.5 stoppers in their suit.
+ 
+An example of the :term:`cue` bid is::
+
+   (1♦) X (P) ?
+   
+We hold ♠QJT5 ♥KQT4 ♦72 ♣AJ5. What do we bid?
+   
+We know partner is at least 4-3 in the majors but rather than guess which one, 
+we can :term:`cue` bid 2♦ to ask partner if he really has four hearts.  Which ever major 
+he bids, we bid that game.
+
+When partner makes a takeout double, but RHO bids, you are no longer “on the
+hook” and do not have to bid. If you do, you're showing values.
+
+You can pass a takeout double converting it to penalty, but be careful -- the quality 
+as well as the number of your trumps matter. You need points and at least five good
+cards in their suit. A trump lead is usually right -- we have more points than they do
+so they can only make it by ruffing.
 
 .. rubric::
    Are You Cheap?
@@ -133,13 +194,13 @@ If so, you may be subject to Cheapness in Bridge.  Besides constantly complainin
 card fees, I mean. Cheapness seems to show up most strongly in responding to takeout
 doubles.  Cheapness refuses to jump-bid in reply, concluding that it is a "waste" or
 that "we might get too high".  After all, they opened, this thinking goes, so we 
-couldn't possibly have a game. When we jump, and end up being too high, 
+couldn't possibly have a game. When once we jump, and end up being too high, 
 which will of course happen, an even more steely resolve toward Cheapness sets in.  
 
 You must tell partner the truth.  Your side might have a game, or you might have
-enough to prevent opener from coming back in to the auction. Did you ever open
+enough to prevent the opponents from coming back in to the auction. Did you ever open
 a hand with 10 HCP using the rule of 20?  Maybe they did! You and your partner may have 
-30 HCP between you!  And if you're that way, I suspect you're playing your lowest card 
+30 HCP between you!  And if you're cheap, I suspect you're playing your lowest card 
 on defense rather than signaling, you just can't bear to unblock, and you never underlead
 a King. To be a good player, you must resist Cheapness.
 
@@ -164,20 +225,20 @@ Rebids By The Doubler
 ~~~~~~~~~~~~~~~~~~~~~
 
 Unless advancer jumps, the intervenor (the person making the takeout double)
-may not bid again unless they have 17 or more points. Raising partner's suit 
-also requires 17 or more support points.
+may not bid again unless they have 18 or more points. Raising partner's suit 
+also requires 18 or more support points.
 
 Why? Consider (1♠) X (P) 2♥; (Pass). 
 
 Advancer may have NO points at all and has at most 8 points. To raise to 3♥ 
 with any safety requires a big hand, and there is no point in taking the risk unless the 
-total number of points between the hands may be in reach of game.
+total number of points between the hands may be in reach of game. 
 
 After (1♠) X (P) 3♥; (Pass) the advancer has shown 9-11 HCP, so it would still take 
 extras to raise to game. 
 
 When They Make A Takeout Double
--------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 After partner opens one of a suit, and RHO makes a takeout double, we
 basically respond the same way as if the double had never happened. If
@@ -200,11 +261,12 @@ hand.
   
 * Raising partner to the three level is a weak, preemptive bid.
 
-Note I recommend intermediates play Jordan as requiring only three-card support since
-the redouble auctions are challenging.
+.. note::
+   I recommend intermediates play Jordan as requiring only three-card support since
+   the redouble auctions are challenging.
 
-Going For Blood
-~~~~~~~~~~~~~~~
+.. rubric::
+   Going For Blood With A Redouble
 
 .. index::
    pair:double;redouble
@@ -279,8 +341,8 @@ These auctions are a little trickier in matchpoints, where setting them might no
 enough.  Pay attention to the vulnerability.  Getting a 200 for setting them one doubled
 vulnerable is going to beat any part score, but 100 might not be enough.
 
-Doubling A Preemptive Opener
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Takeout Double Over A Preempt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 To make a takeout double of a preemptive opener requires the right shape and 
 the right number of points. Whatever you do, you won't always be right. 
@@ -289,14 +351,15 @@ Generally, use ESP - Expect Seven Points. That's a conservative estimate of
 how many your partner will have, on average. So over two spades, to be safe at
 the three level you need about 23 - 7 or 16 points. Cheat it a little and call 
 it a good opening hand.  To bid over a three-level preempt you want to be 
-closer to 17 or more.
+have a great 17 or more, if your chosen takeout level is that high.
 
-Why ESP? Given that a preempt might average 8 points, if you have 16-18, that 
-leaves 14-16 for the other two partners; that is, around 7-8 for your partner.
+Why ESP? Given that a two-level preempt might average 8 points, if you have 14, that 
+leaves 18 for the other two partners; that is, around 9 for your partner; expect 7
+and you won't be disappointed.
 
 When they open a weak two and partner doubles, you answer in more or less the 
 same way as a takeout double. Generally, if you have about the expected 
-number of points, you will not jump in your reply; with many more you will.
+number of points, you will not jump in your reply; with more you will.
 Because you may jump on good news, woe be the doubler who did not have the
 right shape, because surely you will have the "wrong" suit.
 
@@ -317,37 +380,6 @@ mean. Because of the relative frequency, the only choice is the weaker meaning.
 The :ref:`Lebensohl <Lebensohl>` convention
 solves this problem, but is quite difficult for most intermediates. A simplified version
 is given in that chapter to meet this need.
-
-.. _ELCD:
-
-.. index::
-   pair:convention;equal-level conversion double
-   pair: double; equal-level conversion
-
-Equal-Level Conversion Doubles
-------------------------------
-
-This convention (ELCD) widens the range of hands that can make takeout doubles over 
-one of a major. Most experts use this convention, according to Larry Cohen. Be sure
-to agree with your partner on it.  On an ACBL convention card you check the box
-under Special Doubles that says "Min Offshape T/O".
-
-Suppose they open a major, say a heart, and you have ♠KQ82 ♥92 ♦AQ962 ♣Q7.
-
-Without ELCD, you cannot double here to try to show your four spades. You'd 
-have to just bid 2♦ and risk losing the spade suit. 
-
-ELCD says that you can double here and then bid diamonds if your partner bids clubs, to 
-show 4 of the other major and 5+ diamonds but *no extra strength*.
-
-The downside is that with an 18-point hand with diamonds, you can no longer bid diamonds
-over clubs because partner won't think you have the big hand. You'd have to bid 3♦.
-
-.. _negative_double:
-
-.. index::
-   pair: negative; double
-   pair: double; required shape
 
 Negative doubles
 ----------------
@@ -420,7 +452,7 @@ He cannot double for penalty -- a double would be negative.
 
 .. warning::
    As responder, doubling because you have a juicy holding in the overcalled 
-   suit is a very common error. Your partner cannot pass it, because you
+   suit is a very common error. In horror you realize partner cannot pass it, because you
    just made a negative double!
 
 Here is a hand where responder cannot double after 1♦ (1♠):
@@ -431,15 +463,15 @@ The correct solution is to pass, and for the
 opener to know that if the overcall is passed around to him, and he is
 short in the overcalled suit, to reopen with a double. This allows the
 responder to pass again and make it a penalty double. For example, in
-this case the bidding might go:
+this case the bidding might go::
 
-   | 1♦ (1♠) P (P)
-   |  X ( P) P
+   1♦ (1♠) P (P)
+   X  ( P) P
 
 converting to a penalty double. Responder without such a holding bids
 his four card suits up the line.
 
-Opener has some discretion here; if he opened light, for example, and his 
+Opener has some discretion here; if he opened light, for example, or his 
 partner was a passed hand, he need not double. 
 
 Suppose you open 1N, and LHO bids a suit, say 2♠.  If the next two players pass,
@@ -465,9 +497,9 @@ if you could make a doubled contract it is likely a top already -- there is no
 point trying for a higher score with a redouble, so this bid is available as 
 distress call. This is also called an :term:`SOS Redouble`.
 
-Contrast this with the case that we open, the next player doubles, and the
-responder redoubles. This shows 10+ points and suggests no fit. The opponents
-may be in severe trouble.
+Contrast this with the :ref:`going for blood case <blood>` where we open, the next player 
+doubles, and the responder redoubles. This shows 10+ points and suggests no fit. 
+The opponents may be in severe trouble.
 
 .. index::
    pair:double;lead-directing
@@ -495,6 +527,11 @@ A very important opportunity for a lead-directing double is when opponents are
 making artificial replies to Ace-asking bids. If the reply is the suit you want led,
 you double to tell partner about this.
 
+.. _LightnerDouble:
+
+Lightner Doubles
+----------------
+
 .. index::
    pair: double; Lightner
    pair: double; of final contract
@@ -504,11 +541,13 @@ from you; if nothing else presents itself from the bidding, lead the suit the
 dummy bid first.  Generally, you double a slam because you believe you will 
 set it if and only if you get this lead. Since you will get a good score just by 
 setting it, and a really horrible score if you double it and are wrong,
-you usually only double a slam for the lead. Of course, if you have an Ace to lead
+you usually only double a slam for the lead when you believe that the lead will
+make all the difference. Of course, if you have an Ace to lead
 against 7NT, be my guest.
 
-When your partner doubles their final contract less than a slam, a trump lead is expected,
-although you might refrain if it would cost you a natural trick.
+When your partner doubles the opponents' final suit contract less than a slam, this is 
+also a Lightner double. A double after they land in 3N usually means you have
+a great long major and want it led. 
 
 .. warning::
    Rookie error, but I do it all the time: I'm so proud of my good suit that when my

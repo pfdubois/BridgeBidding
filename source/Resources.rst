@@ -80,6 +80,10 @@ Online
    Robert Barrington (https://www.learnbridge.com) and
    Gavin Wolpert (https://wolpertbridge.com) have articles, videos
    and lessons.  YouTube has great content including Rob, Gavin, and Pete Hollands.
+   
+   Of particular note are some very excellent lessons at the Wolpert site that are
+   taught by Hazel Wolpert, Gavin's mother, called The Basics With Hazel. It really
+   pays to have the fundamentals down cold.
 
 #. Marty Bergen (http://martybergen.com) has audio-visual courses in addition to books 
    and pamphlets.

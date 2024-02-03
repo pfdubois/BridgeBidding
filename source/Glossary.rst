@@ -118,8 +118,9 @@ Glossary
       not QJ10, and usually five or more cards.
 
    cue bid
-      A bid of a suit already bid by the opponents.  Cue bid is also an older
-      term for :term:`control bid`.
+   cue
+      A bid of a suit already bid by the opponents.  In slam bidding, a cue bid is also 
+      an older synonym for :term:`control bid`.
 
    control bid
    control bidding
@@ -465,4 +466,14 @@ Glossary
       :ref:`Two Way New Minor Forcing <TWNMF>`.  
       
     drop dead
-       A bid that partner must pass.              
+       A bid that partner must pass.   
+       
+    power double 
+       A takeout double that is a very strong hand rather than a normal opening hand.
+       It might not have support for the unbid suits.   
+       
+   Lightner
+      A kind of double of a final contract that asks for an unusual lead, often 
+      dummy's first bid suit. See :ref:`Lightner Double <LightnerDouble>`.
+      
+                
