@@ -40,7 +40,7 @@ Bridge Bidding
    SpecialDoubles
    Lebensohl
    TwoDiamonds
-   TwoSuited
+   Advanced2Suited
    Advanced2N
    AdvancedCB
    AdvancedJS

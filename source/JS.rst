@@ -37,7 +37,7 @@ For example:
 #. 1♥ - 3♣ is preemptive, alert it.
 
 A jump-shift could also be a conventional bid, such as a 
-Bergen raise, or the special cases for 1x - 3♣ where it is invitational.
+Bergen raise, or the special cases such as 1♦ - 3♣ where it is invitational.
 
 Now let's consider the auction with no interference.
 

@@ -27,9 +27,9 @@ overcall but he could even have a good opening hand that had no suitable bid.
 As a general rule, you bid as if you had 3 more points in your hand (called "borrowing 
 a King from partner") and when partner replies, he will reply as if he had 3 points less.
 
-To balance with 1N you should have 11/12 - 14 HCP and definitely a stopper in opener's 
-suit. Above 14 actual HCP you usually double first, in the same way that you 
-would double rather than make a direct overcall if you had 17 HCP.
+To balance with 1N you should have 12 - 15 HCP and definitely a stopper in opener's 
+suit. Above 15 HCP you usually double first, in the same way that you 
+would double rather than make a direct overcall if you had 18 HCP.
 
 For example, after LHO opens 1♥ and it is passed to you, holding:
 
@@ -90,28 +90,21 @@ Likewise, an opening bid of 1N that is passed out can leave your side with as fe
 as 15-16 HCP.  By contrast, the auctions above indicate a deck that is more evenly 
 divided with a tentative contract that will often make.
 
-The 1M - 2M auction is especially important. If your opponents have a major fit and 
-have made no effort to go to game, then the deck is about evenly divided. If you pass, 
-you will usually get a very poor score, especially at matchpoints.  It is worth 
-considerable risk to compete. They have a fit, so we have a fit. Let's find it.  
+The 1M - 2M auction is especially important. If your opponents have a major fit
+and have made no effort to go to game, then the deck is about evenly divided.
+Both sides have 18-22 HCP. If you pass, you will usually get a very poor score,
+especially at matchpoints.  It is worth considerable risk to compete. They have
+a fit, so we have a fit. Let's find it.  
 
 If they have stopped with a suit preference, that's different: 1♥ - 1♠ - 2♣ - 2♥ does not 
 show that the opponents have an 8-card heart fit, just that responder prefers hearts
 to clubs. He might have something like ♠KT83 ♥98 ♦KJT32 ♣92. This means your side 
-might not have a fit either, so bidding over them is much more dangerous.
+might not have a fit either, so bidding over them is more dangerous.
 
 The third auction tells you your side has about 
 half the points, so again you try to get into the auction, but it is more difficult.
 
-Balance when:
-
-* Opponents have found an eight card fit and stop at the 2-level.  
-* Opponents attempt to play 1N after a one-of-a-minor opening.
-* You are in the passout seat and not-vulnerable at IMPS or at any vulnerability at 
-  matchpoints.
-* You are vulnerable at IMPS and have perfect distribution.
-
-Your opponents have 18-22 HCP, so you and your partner have 18 - 22 HCP. Therefore
+If your opponents have 18-22 HCP, then you and your partner have 18 - 22 HCP. Therefore
 YOUR HCP ARE RELATIVELY UNIMPORTANT.  Whatever you do not have, your partner does have. 
 Your shape and suit quality ARE important. The more flexible you are, the better. A 
 one-suited balance is the least flexible and the most dangerous.    
@@ -131,15 +124,17 @@ Partner can pass such hands if they can trust you to balance.
 What Is The Goal?
 -----------------
 
-Getting them to bid one more is the goal.  Getting the contract isn't. At one more,
-you stand an extra chance of setting them that you otherwise did not have. 
-And after all, if they are in three hearts making three, they get the same score as
-if they are in two hearts making three.
-  
+Getting them to bid one more is the goal.  Getting the contract isn't. 
+
+If they "take the push" and bid one more, you stand an extra chance of setting
+them that you otherwise did not have. And after all, if they are in three
+hearts making three, they get the same score as if they are in two hearts
+making three.
+
 If they do bid one more, we pass. Our work is done. No more bidding. No penalty doubles.
   
 Always try to balance and respond as flexibly as possible.  Convince your opponents 
-that you have found and they may bid on. 
+that you have found a fit and they may bid on. 
    
 How Do I Balance?
 -----------------
@@ -170,11 +165,6 @@ Do something! But what?
 * Balancing with 2N! shows two places to play; this will be four-card 
   support for two unbid suits. Partners bid up the line to find the fit. 
     
-  Special exception: After they bid 1♥ - 2♥, 2N! shows both minors, while 2♠ shows four 
-  spades. If you had five good spades you would have overcalled at the one-level. In 
-  response to 2♠, partner can bid 2N!(minors) with fewer than three spades and both minors;
-  bid your best suit if you are one-suited in a minor.    
-    
 * After 1m - 2m (not inverted), or 1m - 1N - 2m, double shows three or more in both 
   majors, although 4-4 or better is preferable.
   
@@ -195,5 +185,5 @@ It is unlikely you want double to be penalty so treat a double as takeout for th
 suit they mentioned.
 
 Again: the goal is to get them to bid again. Act confidently. When they fall for it, 
-quit. Glare at your partner if they don't quit too.
+quit. Glare at your partner if your partner doesn't quit too.
 

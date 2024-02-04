@@ -9,7 +9,7 @@ General Defense to Two-Suited Bids
    pair: convention; lower-lower
 
 We can use the following defense to whatever two-suited overcall our opponents 
-make over our one-of-a-suit opening. The following method is called the 
+make over our one-level opening. The following method is called the 
 “lower-lower” version of “Unusual vs. Unusual”. 
 
 The name comes from the Unusual 2N convention; in that convention a jump
@@ -49,7 +49,7 @@ We set up a correspondence between the implied cue bids and our two suits:
 
 When you have support for partner's suit:
 
--  A simple raise of partner shows trump support and 7-10 support
+-  A simple raise of partner shows trump support and a competitive 7-10 support
    points.
 
 -  The implied cue bid corresponding to partner's suit is a limit raise or
@@ -70,7 +70,7 @@ When you do not have support for partner:
    values.
 
 -  A double shows you have a penalty double of at least one of their
-   suits, and another bid. Typically this is 9-10+ points. Assuming
+   suits, and another bid. Typically this is 10+ points. Assuming
    advancer bids, partner should usually pass to give you the option of 
    making a penalty double.
 
@@ -78,8 +78,8 @@ When you do not have support for partner:
 
 Pass if you cannot make one of these bids.
 
-Opener's rebids are generally natural. A cue bid of one of their suits asks for a 
-stopper in that suit and implies one in the other suit.
+Opener's rebids are generally natural. A cue bid of one of their suits shows a 
+stopper in that suit and denies one in the other suit.
 
 Only One Suit Is Known
 ----------------------

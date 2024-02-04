@@ -24,13 +24,15 @@ suit. Support Doubles give us a way to show exactly 3 card support. If
 RHO makes a takeout double, we can use Redouble for the same purpose.
 For example:
 
-- 1♦ (P) 1♥ (1♠) X! Shows 3 hearts exactly.
-- 1♣ (P) 1♠ (2♦) X! Shows 3 spades exactly.
-- 1♣ (P) 1♠ (X) XX! Shows 3 spades exactly.
+- 1♦ (P) 1♥ (1♠) X Shows 3 hearts exactly.
+- 1♣ (P) 1♠ (2♦) X Shows 3 spades exactly.
+- 1♣ (P) 1♠ (X) XX Shows 3 spades exactly.
+
+These doubles used to be alertable but no longer are.
 
 With four or more in partner's suit, opener raises.
 
-.. note::
+.. attention::
    Only the opener can make a support double. When you first start to play
    support doubles, you will see them behind every tree. Realizing that 
    only the opener makes this bid helped me sort them out.
@@ -67,7 +69,6 @@ Examples
 - (1♠) X (2♠) X! Has both minors, partner to choose.
 - (1♦) X (2♦) X! Has both majors, partner to choose.
 
-
 Maximal Doubles
 ---------------
 
@@ -85,9 +86,5 @@ compete.
 
 Note that if we cue-bid here there is no room to stop in 3M. If their suit was not the 
 one just under ours (or "the maximal suit") we'd have room to bid the suit below ours
-as a convention to invite. There is some controversy on this point.  Partners should
-agree if the double is a maximal double, hence a limit raise or better in that case, or is 
-penalty.  I personally like to keep it uniform and have the double be the invite, not the 
-mysterious other suit.
-
+as a convention to invite. 
  

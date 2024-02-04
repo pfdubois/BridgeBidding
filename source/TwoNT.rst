@@ -32,11 +32,11 @@ Unlike the situation over 1N, there is no room for many conventions; in particul
 there is no escape sequence to get out in a minor. Otherwise:
 
 * Pass with less than game-going values (5 HCP or perhaps an Ace)
-* 3♣ is Stayman. What variant is a choice, see below.   
-* 3♦ and 3♥ are transfers. 
+* 3♣ is Stayman. What variant of Stayman is a choice, see below.   
+* 3♦ and 3♥ are major transfers. 
 * 3♠ is up for discussion; see below.
 * 4♣ is :ref:`Gerber <Gerber>`. 
-* 4♦ and 4♥ are :ref:`Texas Transfers <Texas>`. 
+* 4♦ and 4♥ are :ref:`Texas Transfers <Texas>`, if you play them. 
 * 4N is quantitative, asking opener to bid 6N with a hand with good trick-taking ability.
 * 6N means you are sure we have 33 HCP but not 37 HCP.
 * 7N means you're having a good day.
@@ -45,7 +45,7 @@ Some play 3♣ as :ref:`Puppet Stayman <Puppet_Stayman>`.
 Unfortunately you can't play both :ref:`Smolen <Smolen>` and Puppet because of the 
 different meanings of a 3♦ reply by opener.  Expert opinion favors plain Stayman
 with Smolen or a more complicated version of Puppet, according to Gavin Wolpert. 
-Most ordinary players play Puppet Stayman, or just ordinary Stayman without Smolen.
+Most ordinary players play Puppet Stayman, or even ordinary Stayman without Smolen.
 You can do fine with just ordinary Stayman.
 
 As a general rule, when responding with a hand with a five-card major, we transfer to it 

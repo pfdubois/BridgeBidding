@@ -8,6 +8,9 @@ The Strong Two Club Opener
    pair: strong 2♣; quick-tricks
    single: quick-tricks
 
+What Hands Do We Open Two Clubs?
+--------------------------------
+
 An opening bid of two clubs is the strongest possible opening bid,
 showing 22 or more points if the hand is balanced. If the hand is not balanced,
 but rather has a long solid major suit, you can open it two clubs if it has at
@@ -26,16 +29,9 @@ suit:
 
 A typical opening bid has two quick-tricks.
 
-There are many two-suited hands with which you should not open 2♣ with 22 HCP. 
-2♣ uses up a lot of bidding room and makes it hard to show both suits.  Bergen gives 
-these examples:
-
-* ♠AKxxx ♥KQ ♦3 ♣KQJxx has 4 quick-tricks. But looking ahead, after 2♣ - 2♦ - 2♠, 
-  suppose partner bids a red suit.  You cannot show the clubs without going to the 
-  four level.
-  
-* ♠AKxxx ♥KQJxx ♦3 ♣KQ has the same strength but it is ok to open 2♣ because you can
-  get the hearts in at the 3 level. 
+There are many two-suited hands which you should not open 2♣. 
+2♣ uses up a lot of bidding room and makes it hard to show both suits.  However,
+if your strength is above 22 HCP, you pretty much have no choice.
   
 The responses are:
 
@@ -47,7 +43,7 @@ The responses are:
   If you have a very bad hand you bid 2♦ first and on your second bid bid 3♣, called
   the "second negative" or "double negative".  If opener has rebid 3♦ so that you cannot
   bid 3♣, bid 3♥ as "artificial, double negative".  Be sure partner knows this.
-  (I was obliged to explain double negative; it is standard. I hate this method. Some feel 
+  (I am obliged to explain double negative; it is standard. I hate this method. Some feel 
   it is better not to have a second negative at all.)
   
 - 2♥, 2♠ show at least 8 HCP and a *good* five card suit. Game forcing.
@@ -79,13 +75,14 @@ all the suit bids by opener are unlimited and completely forcing. Holding::
 
    ♠234 ♥234 ♦2345 ♣234
 
-and hearing partner rebid 2♠, you must bid. Bid 4♠ and pray.
+and hearing partner rebid 2♠, you must bid. Bid 4♠ and pray. Unfortunately 3♠ is 
+setting trump and suggesting slam.
 
 Alternate schemes for responding to 2♣ are described in 
 :ref:`Advanced Responses To Two Club Openers <two_club_stuff>`.
 
-Interference
-------------
+.. rubric::
+   Interference
 
 If your 2♣ opener is interfered with by the opener's LHO, responder's actions are quite
 unintuitive:
@@ -96,8 +93,8 @@ unintuitive:
 To interfere with your opponent's 2♣ opener, the simplest idea is :ref:`Mathe <Mathe>`:
 double shows both majors and 2N is :ref:`Unusual 2N <unusual>`. 
 
-No Need For Opening 3N
-----------------------
+.. rubric::
+   No Need For Opening 3N
 
 The standard SAYC meaning of a 3N opener is a 25-27 point hand, but this bid
 is redundant. You can open 2♣ first and then bid 3N to show that. Therefore you might

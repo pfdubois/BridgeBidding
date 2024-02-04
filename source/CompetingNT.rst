@@ -5,7 +5,7 @@ Competing With Their 1N
 =======================
 
 The main thing is not to just sit there and say nothing whenever an opponent opens 1N.
-Your opponents are driving a highly-tuned sports car when they get their 1N thing going.
+Your opponents are driving a highly-tuned sports car when they get their 1N system going.
 They are going to get to the right place unless you bother them.
 
 The reason that there are all these conventions I'm about to mention is that
@@ -39,7 +39,7 @@ Natural
 
 You can just bid naturally over 1N; a double will show a hand as good as the
 one your 1N bidder has. You'll want a decent six-card suit, or a great five-card suit, 
-and around 10 points.
+and around 10 points to overcall. Vulnerability matters.
 
 What if you are the partner of someone who overcalls a 1N opener and you do not like their 
 suit, not one little bit? Do you rescue them? Probably not. If he doesn't like your suit 
@@ -85,6 +85,10 @@ Exampe: Suppose  the bidding goes (1N) 2♦!(Diamonds and a higher suit)
 
 A slightly more advanced version of D.O.N.T. is :ref:`Meckwell <Meckwell>`.
 
+I've heard people remark that "Even Bergen doesn't play D.O.N.T. anymore". It is true
+that he's been known to play :ref:`Meckwell <Meckwell>`, but D.O.N.T. is easier to
+learn and I recommend it at first.
+
 Cappelletti (Hamilton)
 ----------------------
 
@@ -100,15 +104,16 @@ Cappelletti (Hamilton)
 In this scheme, which is perhaps the most common non-natural set of
 responses to a 1N opener, the double is left as penalty-oriented, at the
 cost of requiring us to go to the three level to show clubs. Against a
-weak 1N opener, this is the most popular scheme. :term:`intervenor` 
+weak 1N opener, this is the most popular scheme. :term:`Intervenor` 
 bids:
 
--  X penalty-oriented (an equal or better hand to the one shown by the
+-  X penalty-oriented (a hand equal or better to the one shown by the
    opener)
--  2♣!(long unknown suit)
+   
+-  2♣!(long unknown suit). This is a :term:`relay`, completely artificial.
 
    With a good six-card club suit, advancer may pass. Or, advancer bids 
-   2♦!(relay to clubs), pass or correct to 2♥, 2♠, or 3♣.
+   2♦!(relay), then intervenor will pass or correct to 2♥, 2♠, or 3♣.
    
 -  2♦!(hearts and spades)
 
@@ -122,8 +127,10 @@ bids:
 
 The two suited bids are nominally 5-5, but depending on strength and 
 vulnerability, can me made with a good 5-4. Advancer can depart from the
-relay by bidding their own suit -- this must be a really good suit,
+relay by preemptively bidding their own suit -- this must be a really good suit,
 and it should not happen very often.
+
+As usual, if the opponents bid again, the next bidder on our side is "off the hook".
 
 A slightly more advanced version of Cappelletti is 
 :ref:`Modified Cappelletti <ModifiedCappelletti>`.
@@ -133,7 +140,7 @@ Against A Weak 1N
 
 The “common wisdom” is that Cappelletti is better against a weak 1N, but
 the truth is perhaps not so simple. Anyone playing a weak 1N will have a
-sophisticated set of agreements called a “runout”, meant to get them out
+sophisticated set of agreements called a :term:`runout`, meant to get them out
 of notrump into a suit fit, where it won't be so easy to set them by
 much, and the hoped-for profits may not materialize. 
 
@@ -144,5 +151,5 @@ in my opinion is to lower one's standards, for example bidding with two good fou
 suits or a five-card “long” suit. And yes, you may end up in trouble, just as can happen 
 against the strong version.
 
-Be careful, however, against a weak 1N; the partner of the 1N opener is more likely to 
+Against a weak 1N, note the partner of the 1N opener is more likely to 
 have a good hand than when a strong 1N is opened.

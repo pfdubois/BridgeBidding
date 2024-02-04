@@ -1,10 +1,10 @@
 
-Two-Suited Bids
-===============
+Advanced Two-Suited Bids
+========================
 
 .. _twosuitedbids:
 
-.. index::two-suited bids
+.. index::advanced two-suited bids
 
 There are many systems of two-suited competitive bids. We learned about Unusual 2N and 
 Michaels Cue Bid already. There are also the myriad two-suited bids for 
@@ -43,7 +43,7 @@ Extended Michaels
    single:two-suited bids
 
 Extended Michaels changes the meaning of the Michaels cue bid over a minor, promising
-spades and another suit (which could be hearts, but no longer definitely is hearts). 
+spades and another suit (which could be hearts, but no longer is definitely hearts). 
 
 Note that 2♣ over the opponents 1♣ is not alerted (in general, cue bids are not alerted) 
 but must be alerted if their 1♣ was announced as "could be short" and your cue bid is not 

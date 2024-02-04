@@ -3,6 +3,12 @@
 Slam Bidding
 =============
 
+Bidding a slam (six or seven level) is one of the most thrilling (and scary) things 
+in bridge.  I'd say the most common error, especially at a club, is trying to get to
+a skinny slam.  Most people aren't going to do that, so if you do, you're going to
+get a top or a bottom. And matchpoints is all about hitting it straight down the 
+fairway on the bidding, and winning with cardplay and defense.
+
 Blackwood
 ---------
 
@@ -11,12 +17,16 @@ Blackwood
 .. index::
    pair: convention; Blackwood
 
-Blackwood is one of the oldest conventions, and has now been supplanted by
+Blackwood is one of the oldest conventions, and has now been supplanted for suit slams by
 the :ref:`Roman Keycard <RKC>` version. The same cautions discussed below for RKC
 also apply to plain Blackwood. 
 
 .. attention::
    Blackwood and RKC are tools for avoiding bad slams, not for finding slams.
+
+Be sure that any answer is acceptable, that you can still stop safely if you cannot
+bid slam. You can and must bid a six-level slam if you use Blackwood and then find you
+are off one Ace.
 
 A bid of 4N, when it is not quantitative, 
 asks how many Aces partner has. The responses are:
@@ -35,6 +45,9 @@ For example::
    3♥ - 4N (Blackwood)
    5♥(2 Aces) - 5N(Kings?)
    5♦(1 King)
+   
+Be sure you've agreed to a suit before concluding partner's 4N is Blackwood rather than
+quantitative.
    
 Roman Keycard Blackwood (RKC)
 -----------------------------
@@ -167,11 +180,6 @@ king because it is above 6  of your trump suit. you should either make an imposs
 Responder has the right to just bid the grand slam if he can tell he has 
 “the right stuff”.
 
-Both the Queen Ask and the King Ask responses have variations so make
-sure you and your partner agree, or just stick to the basics or ordinary
-Blackwood.
-
-
 .. index::
    pair:convention;DOPI
    pair:convention;ROPI
@@ -268,8 +276,8 @@ had xx in diamonds. Normally he could not bid 4N -- but knowing diamonds are not
 going to produce two fast losers, 4N may become possible.
 
 
-Slam In The Hand?
------------------
+:: rubric::
+   Slam In The Hand?
 
 Recall this important admonition: Blackwood and RKC are tools for avoiding bad slams,
 not for finding them. Previously we met :ref:`The Hand <TheHand>` and learned how to 
