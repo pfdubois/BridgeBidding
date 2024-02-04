@@ -23,16 +23,17 @@ Bridge Bidding
    Checkback
    MajorOpenings
    OpenerRebid
-   Competition
-   Doubles
    NoTrump
    TwoNT
    TwoClubs
    Preempts
-   Freaks
-   Balancing
-   Tools
+   Competition
+   CompetingSuit
+   CompetingNT
    TwoSuitedDefense
+   Balancing
+   Doubles
+   Freaks
    JS
    Slam
    Conventions

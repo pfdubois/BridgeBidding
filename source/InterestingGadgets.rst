@@ -11,6 +11,25 @@ variants. If something here sparks your interest, you may wish to do further res
 
 .. warning:: Many of these ideas are incompatible with each other
 
+The Sandwich Notrump
+--------------------
+
+.. index::
+   single: two-suited bids
+   pair: convention; Sandwich 1N
+   pair: convention; takeout double
+
+.. _Sandwich:
+
+After (1x) - P - (1y), a double is for takeout and shows the other two suits;
+the suits are at least 5-4 and you have an opening hand.
+
+The Sandwich 1N convention is a bid of 1N rather than double, showing 
+the other two suits but less than an opening hand:
+
+    (1x) - P - (1y) - 1N!(other two suits, less than opening hand)
+ 
+
 Mathe Defense To A Big Club
 ---------------------------
 

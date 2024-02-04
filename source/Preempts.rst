@@ -106,6 +106,33 @@ candidate for a 2♣ opener.
 
 See :ref:`Bidding Distributional Hands <BDH>` for more thoughts.
 
+Bidding in Passout Seat
+-----------------------
+
+.. index:: 
+   single: passout seat
+   pair: two-level opener; passout seat
+
+There are no preempts in :term:`passout seat`. 2♣ is still strong. 
+But 2♦, 2♥, and 2♠ show a six card suit, 12-15. Three level bids are 16-19. 
+Four level bids are 20+. To bid this way is to say that you would have rebid this
+whatever the response to 1x; you are just making both bids at once.
+
+If this situation does not apply, then you may “borrow a King” -- that
+is, bid as if you had 3 more points than you do. Partner in responding
+should bid as if he had three less than he really has. In particular
+this means that with more than about 14 points you should double and bid
+again.
+
+However, a good guideline is not to open "light" (that is, on a "borrow") if you do not 
+have at least one four-card major.  A player who could not open a major may be able to 
+overcall, and their side will end up with a major contract and a small part-score when you
+could have held them to zero by passing the hand out.  Having something in spades in 
+particular is an important consideration.
+
+Use the "rule of 15": number of HCP + number of spades must be 15 or 
+more to open "light". 
+
 Ogust
 -----
 

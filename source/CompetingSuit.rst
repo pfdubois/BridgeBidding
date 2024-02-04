@@ -1,0 +1,197 @@
+Competing After A Suit Opening
+==============================
+
+This chapter discusses the basic tools of competition, and some special situations.
+
+Overcalls
+---------
+
+An overcall is a bid after the opponents have opened. This section discusses doing
+so when the opponents opened a suit.
+The range for an overcall is 8-17 points. With 18 or more, you double first.
+
+Your partner will think it is a :term:`takeout` double at first. This "power double"
+is discussed in :ref:`Takeout Doubles <takeout_double>`.
+
+If you don't double
+first, partner will assume you have 8-17 and may pass your overcall
+despite having enough for game opposite your strong holding. 
+
+On the bottom end, a one-level overcall can be much more relaxed than a
+two-level overcall. An overcall is above all a request for your partner
+to lead your suit, so the first requirement is a suit you want led.
+
+Classify your hand as usual. For a more
+dangerous case such as a two-level overcall, especially vulnerable, you need a
+good hand and a good suit. For less dangerous cases, you need one or the other.
+In both cases, you should want the suit led if your partner becomes the opening
+leader.
+
+One case that requires special caution is overcalling a minor at the two level.
+Your reward is not high and your risk is high, especially vulnerable.  It is
+really best to have a good six-card suit.
+
+You can overcall 1N with 15-18 HCP and a stopper (preferably more) in their suit.
+If they have preempted with a 2-level suit bid, overcalling it 2N means about the
+same thing but you really would like two stoppers, such as AJx. 
+
+With more points and the same kind of hand, you cannot bid 2N, because it is a 
+conventional bid called :ref:`Unusual Two Notrump <unusual>`. You double first.
+
+Mike Lawrence's “Complete Book of Overcalls” has a complete discussion.
+He emphasizes understanding the safety of various overcalls. For
+example, after an auction that begins (1♣)-P-(2♣), bidding is strongly
+encouraged, because RHO does not have diamonds, hearts, or spades, and
+has limited values; whereas after (1♥)–P–(2♥), clubs and diamonds
+are not safe – either opponent may have them.
+
+.. rubric::
+   Responding To Partner's Overcall 
+   
+Responding to an overcall, a bid of a new suit is not forcing, but shows
+some values. A :term:`cue` bid is a raise. 
+
+RHO might bid, most frequently to raise the opener. Your double at that point shows
+the unbid suits.
+
+.. warning::
+   The most frequent error is to overcall when you should pass. Have your bid.
+   Your partner needs to learn you can be trusted.
+
+
+Weak Jump Overcalls
+-------------------
+
+.. index::
+   pair: overcall; weak jump overcall
+
+A jump overcall such as (1♥) 2♠ is essentially like an opening weak two
+or three bid. A good suit is needed. As with a preempt, after you make this bid 
+you should almost never bid again. 
+
+Some times you have a hand that could have opened with a weak preempt
+but you did not for some reason, such as having an outside four-card
+major in first or second seat. If you passed at first you can bid later
+once it becomes clear your partner is not being preempted by your bid.
+
+Michaels Cue Bid
+----------------
+
+.. _Michaels:
+
+.. index::
+   pair: cue bid; Michaels
+   pair: convention; Michaels Cue Bid
+   single: two-suited bids
+
+An immediate or balancing cue bid of a suit opener is shows
+a distributional hand with 5-5 or better shape, with the suits being
+both majors when the opponents bid a minor, and the unbid major and a
+minor if the opponents bid a major.
+
+.. note::
+   Cue bids are in general not alertable -- in fact, 1♣ - (2♣) is only alerted if it
+   is *natural*.  However, it is not necessarily Michaels either.  If opponents make
+   such a bid, be sure to ask what
+   they mean by it, if only at the end of the auction. This is one case when silence 
+   does not mean standard.
+
+Advancer can bid 2N! asking for the minor. Except in unusual circumstances, 
+advancer must choose between partner's two suits.
+
+The Michaels bid does not show anything more than a prudent overcall but
+is unlimited. 
+
+Without partnership agreement, (1x) P (1y) 2x is not Michaels but
+natural; this is especially possible after 1♣ or 1♦. 
+
+Over an opening 2♠, a bid of 3♠ should be :ref:`Western Cue <Western_Cue>`, asking 
+partner to bid 3N with a spade stopper. There isn't enough room for Michaels.
+
+Some partners agree to use Michaels only with minimal or maximum hands -- 
+see :ref:`Minimax <minimax>`.
+
+A question arises when the Michaels bid shows a major and an unknown suit, 
+and the responder makes a bid, but advancer has no support for the major.
+E.g., (1♥) 2♥ (3♦) ?. Typically responder's 3♦ bid shows a weak hand with diamonds,
+if opponents are playing unusual vs. unusual, but many intermediate pairs 
+will lack agreements. With values but lacking spade support here, and
+ideally holding at least two diamonds, advancer should double, asking for the second suit 
+or a penalty pass.
+
+Without values, of course, you are off the hook and can pass. 
+
+An advanced agreement is that the 2N reply asking for the second suit shows a good hand, 
+while 3♣ asks for the second suit. A bid like 3♣ is a "pass or correct" bid; the
+Michaels bidder will pass if his second suit is clubs.
+
+Unusual 2NT
+-----------
+
+.. _unusual:
+
+.. index::
+   pair: convention; Unusual 2NT
+   single: two-suited bids
+   pair: 2N; unusual
+
+Unusual 2NT is a direct or balancing 2N bid after a 1-level
+opening. It shows a hand of unstated strength that is at least 5-5 in
+the lowest two unbid suits. Advancer should choose the best of these two
+suits, except in remarkable circumstances.
+
+Unusual 2NT is not alertable. Some partners agree to use Unusual 2NT only with weak or 
+strong hands, see :ref:`Minimax <minimax>`.
+
+It is also possible to recognize other "impossible" no-trump bids as unusual. 
+For example,
+
+   (1♣) P (1♠) 2N
+
+would show 5-5 in the red suits. Logically, nobody has a big enough hand to
+bid no-trump at the two level here. 2N specifically shows the 5-5 shape,
+while a double would be takeout but presumably not that good a shape. 
+
+Another possible agreement: if they preempt four of something, 4N is unusual 
+notrump, asking advancer to pick his best of the two lowest unbid suits. 
+Double's meaning depends on your agreed takeout double limit. Some play 4N as
+a two-suited takeout.
+
+.. rubric::
+   Minimax Style
+   
+.. _minimax:
+
+.. index:: minimax
+
+Minimax is an optional style of bidding Michaels and Unusual 2N. 
+If you are playing minimax, it means you use these bids only with a maximum or 
+a minimum; with a medium hand you bid the higher-ranked suit, hoping to show 
+the other later. 
+
+When playing minimax, advancer will assume the weaker hand until his 
+partner bids again to show the good hand. 
+
+The minimum would be an adequate overcall but less than an opener, while
+a maximum would be more than 15 points.
+
+Minimax allows more certainty in responses to two-suited bids, at the price of
+not being able to make those bids as often.
+
+Western Cue
+-----------
+
+.. _Western_Cue:
+
+.. index::
+   pair: convention;Western Cue
+
+When we are in a contested auction a (usually) three-level cue-bid of the opponent's suit
+denies a stopper in their suit(s) and asks partner to bid 
+3N if they have a stopper. For example:
+
+   | 1♦ (1♥) 1♠ - 2♣ - 3♥!(asking for heart stopper)
+
+Responder is asking opener to bid 3N if he has a stopper in hearts. Quite often 
+the Western Cue bidder has some help in their, such as a half-stopper, but does 
+not feel secure bidding 3N on their own.

@@ -67,8 +67,8 @@ A takeout double shows one of three kinds of hands:
   - At least three cards in each unbid suit, and
   - Ideally, at most a doubleton in their suit.
   
-* A strong one-suited hand (18+ points) or
-* A balanced hand too strong (18+) to overcall 1N or lacking stoppers.
+* A one-suited hand or a balanced hand too strong (18+) to overcall. (Recall that
+  the range for an overcall is 8-17).
 
   The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
   notice too late that you only have two clubs or you're at the three level with 10 points 
@@ -96,12 +96,6 @@ bids 3♥. Some partners will feel strongly that you promise four in the unbid m
 Sometimes you're in fourth seat and they have bid two suits at the one level, your
 partner passing. You can still make a takeout double but you need four cards in each
 of the unbid suits rather than three.
-
-Once you've made an ordinary takeout double, you pass your partner's reply. If you
-bid again, you're showing that you made the strong hand version of the takeout double.
-Your message to partner that you have support for the other suits is cancelled. 
-As we'll see, partner may have jumped in reply, so we need that strength to switch to
-a new strain at a possibly high level.
 
 .. _ELCD:
 
@@ -143,7 +137,7 @@ Note that in a :term:`balancing` situation, such as (1♠) P (Pass) X, the balan
 Although there is the possibility that your partner has a big hand, your 
 initial response is to the normal takeout double.
 
-You must almost always bid if RHO passes. 
+You must (almost) always bid if RHO passes. 
 
 To respond in a suit, respond in a four-card major in preference to a minor, even if your
 minor is five cards. How high you bid shows your strength:
@@ -159,10 +153,11 @@ minor is five cards. How high you bid shows your strength:
 - With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
   suit. A cue-bid is asking partner to show four-card suits up the line.  
  
-To reply in no-trump you must have values; with a weaker hand pick a suit. For a no-trump 
-response, you'll usually have four of their suit and not have a four card major.
+Sometimes the best suit you have is unfortunately their suit. To reply in no-trump you 
+must have values; with a weaker hand you must pick a suit. For a no-trump 
+response, you'll usually have four of their suit.
 
-* 1N requires 7-10 HCP and a stopper in their suit.
+* 1N requires 7/8-10 HCP and a stopper in their suit.
 * 2N requires 1.5 stoppers in their suit and 11-12 points; and
 * 3N requires 13 or more HCP and 1.5 stoppers in their suit.
  
@@ -217,25 +212,36 @@ Michaels.
 
 If your partner makes a takeout double and then bids again (including another double or
 redouble), you must mentally cancel
-your expectations of his hand shape; he has just told you his suit or that he's balanced,
-and that he has the requisite points.  The notion that he has support for the other
-suits is now null and void.
+your expectations of his hand shape if he hasn't raised your suit; he has just told you 
+his suit or that he's balanced, and that he has the requisite points.  The notion that 
+he has support for the other suits is now null and void.
 
 Rebids By The Doubler
 ~~~~~~~~~~~~~~~~~~~~~
 
-Unless advancer jumps, the intervenor (the person making the takeout double)
-may not bid again unless they have 18 or more points. Raising partner's suit 
-also requires 18 or more support points.
+Consider (1♠) X (P) 2♥; (Pass). It's our bid again. What we have to do is to use the 
+information we've been given:
 
-Why? Consider (1♠) X (P) 2♥; (Pass). 
+* Our partner has decided on hearts
+* He has 0-8 points
 
-Advancer may have NO points at all and has at most 8 points. To raise to 3♥ 
-with any safety requires a big hand, and there is no point in taking the risk unless the 
-total number of points between the hands may be in reach of game. 
+Say we have four hearts. We do our arithmetic.  How much would we need to have
+to make a game? Something like 17 or 18 points, and that's if they are on the top of
+their bid. Unless we were making the strong takeout double, we have to pass.
 
-After (1♠) X (P) 3♥; (Pass) the advancer has shown 9-11 HCP, so it would still take 
-extras to raise to game. 
+If they have jumped, then we know they have 9-11 points, So we could  
+bid game with 16 points, or invite with a good 14. It is important to realize that
+even a simple raise, such as::
+
+   (1♣) X (P) 1♥
+   ( P) 2♥
+
+shows 17-18 points. Our partner can decide to bid game if they had 7 or 8 points,
+knowing this.  Likewise if we had jumped to 3♥ we're showing 19-21. Remember, the 
+takeout doubler has already counted shortness points.  More than that, bid 4♥.
+
+We use the same logic if our RHO has also bid (usually raising his partner). We use
+the level we are going to have to go to and our partner's range, and do the math.
 
 When They Make A Takeout Double
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -257,13 +263,16 @@ hand.
 
 * Replying two of a suit is not forcing. The idea is that we could have redoubled with 
   10+ points, or raised partner, so the two-level bid is at most 9 HCP. We don't have a 
-  game. 
+  game opposite a normal opening hand.
   
 * Raising partner to the three level is a weak, preemptive bid.
 
 .. note::
    I recommend intermediates play Jordan as requiring only three-card support since
    the redouble auctions are challenging.
+
+When partner has chosen a suit where we don't have four cards, we usually just pass.
+Only if we have a big hand do we bid again. We don't bid notrump.
 
 .. rubric::
    Going For Blood With A Redouble
@@ -380,6 +389,35 @@ mean. Because of the relative frequency, the only choice is the weaker meaning.
 The :ref:`Lebensohl <Lebensohl>` convention
 solves this problem, but is quite difficult for most intermediates. A simplified version
 is given in that chapter to meet this need.
+
+.. rubric::
+   Responding To A Double Of A Preempt
+
+Suppose LHO has opened with a preemptive bid and your partner has made a 
+takeout double, and RHO has passed, such as (2♥) - X - (P) - ?. You have one of these 
+two hands:
+
+* (A) ♠83 ♥98 ♦KJT864 ♣97
+* (B) ♠KQ ♥87 ♦AQJ964 ♣Q7
+
+Clearly, (A) wants to end up at 3♦, because the hand is not worth anything
+except in diamonds. (B) must look for a game.
+
+So which of these two hands is shown by bidding 3♦?  Absent some agreement, 
+3♦ has to show hand (A).  But (B) is one of many hands that want to go to game
+unsettled as to notrump stoppers or a suit agreement. As things stand, in standard
+bidding, we must resort to things like cue bids or just taking chances.
+
+Make this simple agreement with your partner: a response of 2N!(relay) asks partner
+to bid 3♣!(forced).  You are showing a long suit. This may or may not be a weak hand. 
+Then 2N!(relay) - 3♣!(forced) - 3♦(to play) shows (A), while an immediate 3♦ is a game 
+force with a hand like (B).  
+
+Note that the natural meaning of 2N is lost.
+
+When you are an advanced player learn :ref:`Lebensohl <Lebensohl>`, the full version 
+of this relay system.
+
 
 Negative doubles
 ----------------
@@ -537,7 +575,7 @@ Lightner Doubles
    pair: double; of final contract
 
 When your partner doubles their slam contract, this demands an "unusual" lead 
-from you; if nothing else presents itself from the bidding, lead the suit the
+from you; if nothing else presents itself from the bidding or your hand, lead the suit the
 dummy bid first.  Generally, you double a slam because you believe you will 
 set it if and only if you get this lead. Since you will get a good score just by 
 setting it, and a really horrible score if you double it and are wrong,

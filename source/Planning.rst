@@ -2,7 +2,6 @@
 
 .. index::planning
 
-
 Planning The Auction
 ====================
 
@@ -147,6 +146,9 @@ problem -- we're already known to have around 23 points. Therefore, we do not
 consider a 2-level continuation a reverse. For example, Pass - 1♥ - 2♣ - 2♥.
 The 2♣ bid shows 10+ points.
 
+Downey and Pomer's book :title:`Standard Bidding With SAYC` has a long 
+section on reverses with a lot of examples.
+
 When you have a five-card suit and a higher four-card suit, you have to open
 the five-card suit, but on your rebid you cannot show your four-card suit
 unless you have the values.  
@@ -164,37 +166,38 @@ if they have to, even though that suggests you might have a six card suit.
 Obviously the quality of the two suits will influence the decision, unless you just  
 always open 1♣. 
    
-What If Opener Is Stronger?
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+.. rubric::
+   When Opener Is Stronger
 
 .. index:: jump-shift choice
 
 Since a reverse is forcing one round, you can sometimes use it when nothing
 else is available to keep the auction going. But in general, if your hand is
-19+ points, and you have a good suit, you might think of jumping a level in a
-new suit. This is called a :term:`jump-shift`.
+19+ points, and you have a good suit, opener might think of jumping a level in a
+new suit. This is called a :term:`jump-shift` by opener, and it is always strong.
 
-If the opponents have competed, a jump-shift is weak unless the context gives
-it another meaning. For example, 1♥ - (2♣) - 3♦ is a weak jump-shift, where the
-responder has a preemptive diamond hand and can't support hearts. But 1♥ - 3♦
-is a jump-shift whose meaning is either a strong 19+ hand with good diamonds or
-a weak diamond preemptive hand.
+.. index:: reverse
 
-Partnerships must decide on a meaning for a :term:`jump-shift` when there is no
-competition. The standard meaning is a strong bid (19+ points) but this meaning
-is less useful than it was before 2/1 was invented. I think most pairs play
-weak jump-shifts so I will assume that. See :ref:`All About Jump-Shifts
-<Jump_Shifts>`.
+Responding To Partner's Reverse
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Responding To Opener's Reverse
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Suppose partner reverses: 1♦ - 1♠ - 2♥. This is forcing, so you
+have to bid. 
 
-If opener has reversed, as responder you must bid unless your RHO takes you off the hook 
-by interfering. If you have a good 8 points or more, you'll want to get to game.
+If you bid opener's first suit, it is a simple preference with a minimal hand.
+If you repeat your own major suit, you're showing five cards and a minimum.  
+Otherwise you bid naturally.
 
-So the problem is what to do with a minimal hand. If you bid opener's first suit, it is 
-a simple preference with a minimal hand. If you repeat your own major suit, you're showing 
-five cards and a minimum.  
+Some situations are ambiguous. Consider these two hands:
+
+* (1) ♠KT9832 ♥K98 ♦T86 ♣9
+* (2) ♠KQJ984 ♥K95 ♦T63 ♣A6
+
+Hand (1) had to respond 1♠ on his first bid, with six points. But after opener
+reverses into 2♥, what would it 
+mean to bid 2♠?  And if that means something like (1), what bid should
+be made with hand (2) so that we get to some game? It seems like 2♠ had better
+mean a weak hand, and an offer to play there. And with (2), we get to start guessing.
 
 .. index::
    convention;Ingberman
@@ -208,8 +211,20 @@ exclamation point).
 
 Any bid other than a suit preference or 2N is game forcing when using this convention.
 
-Downey and Pomer's book :title:`Standard Bidding With SAYC` has a long 
-section on reverses with a lot of examples.
+2N!(relay) - 3♣(forced) - 3♠(to play) shows a minimal hand like
+(1), while a direct 2♠ is forcing a round and shows 5+ spades. After the relay,
+bidding one of partner's two suits is showing a suit preference with a weak hand.
+
+In this context 2N! is called Ingberman and it is a use of the Lebensohl principle. 
+If the opener has extra values they may choose to break the relay.
+
+.. index::
+   pair:convention;Lebensohl
+   pair:convention;Ingberman
+   
+The full solution is covered in the chapter on :ref:`Lebensohl <Lebensohl>`.
+However, you can play the 2N! relay discussed in the above two cases without playing 
+full Lebensohl. 
 
 Reverses By Responder
 ---------------------
