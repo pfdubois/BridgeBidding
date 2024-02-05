@@ -9,7 +9,6 @@ Advanced Major Auctions
 This chapter highlights advanced treatments of major openings and their related 
 conventions, and the case of opener raising responder's major. 
 
-
 Two-Way Reverse Drury
 ----------------------
 
@@ -48,11 +47,10 @@ With 4+ cards,
 - 1M - 2M 6-10 HCP with 3 cards in M; or a good five, particularly Axxx in 
   trumps.
 - 1M – 3M! 2-6 preemptive, 4 card raise
-- 1M – 3♣! 7-10 constructive 4 card raise
-- 1M – 3♦! 10-12 limit 4 card raise
-- 1M - 1N forcing is forcing for one round, may have 10-12 and 3 trump.
+- 1M – 3♣! 7-9 constructive 4 card raise
+- 1M – 3♦! 10-11 limit 4 card raise
+- 1M - 1N forcing may have 10-12 and 3 trump.
 - 1M – 2N! 13+ game forcing 4-card raise. (Jacoby 2N)
-- 1M - 3N  12-15 points, 3 spades, very balanced.
 
 If responder has 3 trumps and 10-12 points, he bids 3M the next chance he
 gets.

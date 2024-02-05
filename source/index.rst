@@ -40,15 +40,15 @@ Bridge Bidding
    SpecialDoubles
    Lebensohl
    TwoDiamonds
-   Advanced2Suited
-   Advanced2N
-   AdvancedCB
-   AdvancedJS
    AdvancedMajor
    AdvancedNotrump
-   AdvancedNTDefenses
-   AdvancedSlam
+   Advanced2N
    Advanced2Clubs
+   AdvancedCB
+   AdvancedSlam
+   Advanced2Suited
+   AdvancedNTDefenses
+   AdvancedJS
    AdvancedRunouts
    InterestingGadgets
    Glossary

@@ -1,8 +1,8 @@
 .. index::
    pair:opening;two diamonds
 
-Two Diamond Conventions
-=======================
+Two Diamonds Conventions
+========================
 
 .. _TwoDiamonds:
 
@@ -11,22 +11,22 @@ end up playing it are not that great, since either opponent with a good holding 
 a major suit is able to get in relatively cheaply.  Therefore, the bid has
 been co-opted to handle various other problems, particularly awkwardly-shaped hands.  
 
-Note that Precision has its own two-diamond opener showing a 4441 hand 11-15 HCP 
-with a stiff diamond. There are many other two-diamond bids in different systems. 
+Note that Precision has its own two-diamond opener showing a 4441 hand, 11-15 HCP 
+with a stiff diamond. There are many other two-diamond bids. 
 Some of them are strong.  
 
 .. warning::
-   Moral: when you hear a 2♦! opener alerted, you have no idea what it means. 
+   When you hear a 2♦! opener alerted, you have no idea what it means. Ask if you need
+   to know.
 
-The so-called Multi-2♦
-is a particular headache -- it is not allowed in most ACBL tournaments,
-but you can encounter it online. 
+The so-called Multi-2♦ is a particular headache -- it is not allowed in most
+ACBL tournaments, but you can encounter it online. 
 
-It is also worth saying that if 2♦ isn't strong or Flannery or a Roman of some sort,
-or you see any other bid that seems to mean too many things at once, you might want
-to call the director to inquire about it. Twice I've caught people playing an illegal 
-convention this way.
-  
+It is also worth saying that if an opening 2♦ isn't strong or Flannery or a
+three-suited hand of some sort, or you see any other bid that seems to mean too
+many things at once, you might want to call the director to inquire about it.
+Twice I've caught people playing an illegal convention this way.
+
 Flannery 2♦
 -----------
 
@@ -63,7 +63,7 @@ The responses are:
 
 A sequence such as 2♦!-2N!-3♦!-3M would be invitational, not forcing. 
   
-There are also these special bids:
+There are also these special responses:
 
 * 3♣ shows at least six clubs, to play.
 * 3♦ shows at least six diamonds, invitational
@@ -73,6 +73,8 @@ There are also these special bids:
   raises, giving responder a chance to start slam bidding. Opener will complete the
   transfer with a minimum, or bid the intermediate suit with a maximum. These bids are
   made with slam interest, with responder able to bid RKC with 4N next.
+  
+Note: some partnerships allow Flannery on a 4=6 shape as well.
   
 Mini-Roman
 ----------
@@ -105,9 +107,15 @@ Mexican Two Diamonds
 .. index::
    pair:convention; Mexican Two Diamonds
 
-Opening 2♦ shows a balanced 18 to 19 HCP.  Responder bids 2♥! to deny values for game, 
-so opener places the contract, usually at 2N. Otherwise responder relays with 2♠! 
-to 2N, and systems are on. Typically this convention is played with a weak notrump system.
+Named after its author, George Rosenkranz of Mexico, opening 2♦ shows a balanced 
+17 to 19 HCP.  Responder bids:
+
+* Pass with a weak hand but five+ diamonds
+* 2♥! shows less than 7 HCP so opener places the contract, usually at 2N. 
+* Otherwise responder relays with 2♠! to 2N, and systems are on, including Texas 
+  transfers. Game forcing.
+
+Most often this convention is played with a weak notrump system.
 
 Much more complicated versions exist. Be sure to ask for an explanation if on defense.
 
@@ -120,6 +128,7 @@ the use of 2♣ as the sole strong opener.
 If you are facing a pair playing a strong 1♣ system, such as Precision, a 2♦ opening 
 will be either an intermediate (11-15 HCP) bid short in diamonds with no four-card major,
 or it can be a strong bid. 
+
 A responder bid of 2N! shows a strong hand, and inquires about the opener's shape.
 
 Defending against such systems, it is important to discuss beforehand what 3♦ means and 
