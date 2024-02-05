@@ -853,14 +853,10 @@ a double for a single-suited hand, responder with a strong hand may
 pass and wait for the suit to be shown, or just bid normally. Generally delayed action, 
 when you could have taken immediate action, shows strength.
 
-There is also a school of thought that says to play your runout even if the
-double is conventional; if responder's hand is not strong, the other opponent's 
-may be. This is especially tenable with the more elaborate runout schemes.
-
 If responder initially passes, and the opponents bid a suit or suits,
 responder's double is penalty-oriented. 
 
-For a wide variety of advanced runout schemes see 
+For a wide variety of runout schemes see 
 :ref:`Advanced Runouts <AdvancedRunouts>`.
 
 .. index:: Unusual notrump

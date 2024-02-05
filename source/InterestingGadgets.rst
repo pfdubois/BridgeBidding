@@ -7,7 +7,7 @@ Interesting Gadgets
 
 This chapter describes a variety of interesting conventions you might see,
 or wish to adopt.  Many of these "gadgets" outside the standard ones have one or more 
-variants. If something here sparks your interest, you may wish to do further research.
+variants. If something here sparks your interest, you should do further research.
 
 .. warning:: Many of these ideas are incompatible with each other
 
@@ -126,11 +126,9 @@ strong hand becomes the declarer. He's pulling the opener's strings.
 The point of this structure is that the strong hand declares all the hands with a 
 major fit, whether 5-3, 4-4, or 3-5.
 
-Puppet Stayman is incompatible with . 
-
 Five-card Stayman is an easier and better alternative to playing 1N - 3♣ as 
 Puppet Stayman but it isn't a big deal to play Puppet over both 1N - 3♣ and 2N - 3♣
-to reduce your memory load.
+to reduce your memory load. 
 
 Choosing Puppet Stayman over 2N means you cannot play :ref:`Smolen<Smolen>` over 2N 
 because the sequence 2N - 3♣ - 3♦ cannot mean two things at the same time. But you can 
@@ -187,9 +185,7 @@ to Stayman. Responder then transfers to their suit (or best suit).
 After this, responder can pass, bid the game, or explore for slam as
 appropriate. 
 
-.. note::
-
-   Stayman with a poor hand short in clubs is no longer available.
+What you're giving up is that Stayman with a weak hand short is no longer available.
 
 South African Texas
 -------------------
@@ -290,7 +286,7 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
    Playing Texas Transfers, the sequence 1N - 4♠ has no meaning. With
    partnership agreement, this means a hand that has the points for a
    quantitative raise to 4N, but is 5-4 or better in the minors. Opener can
-   choose between 4N or 5♣ to play, or six of a minor.
+   choose between 4N or 5m or 6m.
 
 
 Montreal Relays

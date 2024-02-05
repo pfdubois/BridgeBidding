@@ -13,6 +13,79 @@ Another system is "steps", a system in which responder shows his point count in 
 of three HCP starting with 2♦!(0-3), 2♥(4-6), etc.  This is not an advanced convention,
 it is a mistake.  
 
+
+Two Hearts Bust Response to Two Clubs
+-------------------------------------
+
+.. index::
+   pair: response to 2 club opener;two hearts bust
+
+With partnership agreement, the responses to 2♣ become:
+
+- 2♥! shows a bad ("bust") hand, with no Ace or King and not even two Queens.
+- The other bids remain the same
+- 2♦ is now game forcing.
+- I think the original idea was that 2N! is available to show what 2♥ used to show, 
+  8+ HCP and good hearts. I'm allergic to 2N responses to 2♣, and since 2♦ is now 
+  a game force and systems will be on over 2N, I don't see the need for it. If someone
+  offers to play 2♥ Bust with you, best discuss.
+
+If the opener rebids 2N over 2♥!, the responder may pass. Systems are on, so
+3♦! still asks opener to bid 3♥.  
+
+If the opener rebids 2N over any other response it cannot be passed. Systems are on. 
+
+After any suit rebid over 2♥!, the responder must bid again.  
+
+Parrish Relay
+~~~~~~~~~~~~~
+
+.. index::
+   pair:response to 2 club opener;Parrish 
+   pair:convention;Parrish (two hearts bust addon)
+   
+The Parrish convention applies after a Two Hearts Bust response.  It provides a way
+for opener to bid a suit and have it be non-forcing, thus stopping below game.
+
+The Parrish Relay is a bid of 2♠!(relay) over 2♣ - 2♥!(bust), forcing responder
+to bid 2N. Opener's next bid is now not forcing.  Note that any concern about
+wrong-siding notrump is not correct, because if Opener is willing to play in
+notrump they don't use the relay. 
+ 
+By contrast, after 2♥!, suit bids other than the relay are forcing. So:
+
+   | 2♣ - 2♥!(bust) 
+   | 2N is not forcing
+   | 3♣/3♦/3♥/3♠ are forcing
+   |
+   | but
+   |
+   | 2♣ - 2♥!(bust) 
+   | 2♠!(relay) - 2N!(forced) 
+   | 3♣/3♦/3♥/3♠ are not forcing
+
+  
+Kokish
+------
+
+.. index::
+   pair: response to 2 club opener; Kokish
+
+Kokish applies after a 2♦ response to 2♣, whether it means waiting or negative.  
+
+A rebid of 2♥! means a hand that has five
+hearts, and possibly another suit; or a strong notrump hand. Responder relays with 2♠!,
+then opener rebids hearts, another suit, or in notrump.  All of these are forcing. 
+
+Another suit shows five hearts and at least four of the suit bid. Rebidding hearts shows 
+six hearts. Notrump shows a 25+ notrump hand.
+
+In both cases, systems are on if notrump is rebid, and we are in a game forcing auction.
+
+The point is that an opener with 25+ or more points does not have to jump in notrump but
+can use the Kokish 2H bid first so that a subsequent 2N is forcing.  Also, it helps 
+in showing two-suited very strong hands, which are often awkward to show after 2♣ openers.
+
 Control Responses To Two Clubs
 ------------------------------
 
@@ -57,76 +130,6 @@ haven't found a suit.
 Using 4N as RKC is not often useful with this convention. Rather, if opener rebids 4N, 
 it is asking for the suit of the lowest control held by responder. Next, opener may bid
 the next step up to ask for the next lowest control, although this is rare.
-
-Two Hearts Bust Response to Two Clubs
--------------------------------------
-
-.. index::
-   pair: response to 2 club opener;two hearts bust
-
-With partnership agreement, the responses to 2♣ become:
-
-- 2♥! shows a bad ("bust") hand, with no Ace or King and not even two Queens.
-- The other bids remain the same
-- 2♦ is now game forcing.
-- 2N! is available to show hearts and 8+ HCP, but one would not want to make this bid 
-  unless certain you want to play in hearts.
-
-If the opener rebids 2N over 2♥!, the responder may pass. Systems are on, so
-3♦! still asks opener to bid 3♥.  
-
-If the opener rebids 2N over any other response it cannot be passed. Systems are on. 
-
-After any suit rebid over 2♥!, the responder must bid again.  
-
-Parrish Relay
-~~~~~~~~~~~~~
-
-.. index::
-   pair:response to 2 club opener;Parrish 
-   pair:convention;Parrish (two hearts bust addon)
-   
-The Parrish convention applies after a Two Hearts Bust response.  It provides a way
-for opener to bid a suit and have it be non-forcing, thus stopping below game.
-
-The Parrish Relay is a bid of 2♠!(relay), forcing responder to bid 2N. 
-Opener's next bid is now not forcing.  Note that any concern about wrong-siding
-notrump is not correct, because if Opener is willing to play in notrump they don't 
-use the relay. 
- 
-By contrast, after 2♥!, suit bids at the three level are forcing. So:
-
-   | 2♣ - 2♥!(bust) 
-   | 2N is not forcing
-   | 3♣/3♦/3♥/3♠ are forcing
-   |
-   | but
-   |
-   | 2♣ - 2♥!(bust) 
-   | 2♠!(relay) - 2N!(forced) 
-   | 3♣/3♦/3♥/3♠ are not forcing
-
-  
-Kokish
-------
-
-.. index::
-   pair: response to 2 club opener; Kokish
-
-Kokish applies after a 2♦ response to 2♣, whether it means waiting or negative.  
-
-A rebid of 2♥! means a hand that has five
-hearts, and possibly another suit; or a strong notrump hand. Responder relays with 2♠!,
-then opener rebids hearts, another suit, or in notrump.  All of these are forcing. 
-
-Another suit shows five hearts and at least four of the suit bid. Rebidding hearts shows 
-six hearts. Notrump shows a 25+ notrump hand.
-
-In both cases, systems are on if notrump is rebid, and we are in a game forcing auction.
-
-The point is that an opener with 25+ or more points does not have to jump in notrump but
-can use the Kokish 2H bid first so that a subsequent 2N is forcing.  Also, it helps 
-in showing two-suited very strong hands, which are often awkward to show after 2♣ openers.
 
 Smith's 2♦ Waiting System
 -------------------------

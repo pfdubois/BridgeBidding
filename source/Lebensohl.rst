@@ -76,7 +76,7 @@ Here is the scheme:
 * Three-Level Bids Are Game Forcing 
    
   Responder bidding his suit at the three-level is game forcing. An opener interested
-  in 3N at this point might make a :ref:`Western Cue <WesternCue> to ask for a stopper.
+  in 3N at this point might make a :ref:`Western Cue <Western_Cue>` to ask for a stopper.
   Note that the three-level bid might be a jump (1N - 2♥ - 3♠) but it isn't weak if 
   playing Lebensohl.
   

@@ -29,7 +29,7 @@ leader.
 
 One case that requires special caution is overcalling a minor at the two level.
 Your reward is not high and your risk is high, especially vulnerable.  It is
-really best to have a good six-card suit.
+really best to have a good six-card suit, and 10+ HCP.
 
 You can overcall 1N with 15-18 HCP and a stopper (preferably more) in their suit.
 If they have preempted with a 2-level suit bid, overcalling it 2N means about the
@@ -38,6 +38,9 @@ same thing but you really would like two stoppers, such as AJx.
 With more points and the same kind of hand, you cannot bid 2N, because it is a 
 conventional bid called :ref:`Unusual Two Notrump <unusual>`. You double first.
 
+You can overcall with a very strong four-card suit at the one level, and a maximum
+strength. Your partner may not like it but sometimes it is right.
+
 Mike Lawrence's “Complete Book of Overcalls” has a complete discussion.
 He emphasizes understanding the safety of various overcalls. For
 example, after an auction that begins (1♣)-P-(2♣), bidding is strongly
@@ -45,18 +48,33 @@ encouraged, because RHO does not have diamonds, hearts, or spades, and
 has limited values; whereas after (1♥)–P–(2♥), clubs and diamonds
 are not safe – either opponent may have them.
 
+When you are in fourth seat, you can overcall, but if passing would end the auction
+see :ref:`Balancing <Balancing>`.  If they have both bid you need a very good suit,
+probably six cards, and very good values. This is called a 'live auction'. For all you
+know the opener has a strong hand and was about to bid again. This situation is 
+dangerous.
+
 .. rubric::
    Responding To Partner's Overcall 
    
-Responding to an overcall, a bid of a new suit is not forcing, but shows
-some values. A :term:`cue` bid is a raise. 
+Responding to an overcall:
 
-RHO might bid, most frequently to raise the opener. Your double at that point shows
-the unbid suits.
+* Recognize in choosing a response that partner's range is 8-17 HCP because he did not
+  double. You don't have to bid if we're not going anywhere. Resist rescuing.
+* A bid of a new suit is forcing by an unpassed hand and denies a fit for the overcall.
+* A simple raise is competitive. 
+* A jump raise is preemptive.
+* A :term:`cue` bid of opener's suit is a raise. Generally, we are safe at the level of
+  the number of trump we have together.
 
-.. warning::
-   The most frequent error is to overcall when you should pass. Have your bid.
-   Your partner needs to learn you can be trusted.
+RHO might bid, most frequently to raise the opener. See 
+:ref:`Responsive Doubles <responsive_double>`, in which a double shows the unbid suits.
+
+Your partner needs to learn you can be trusted. Avoid these errors:
+
+* Overcalling when you should really pass.
+* Overcalling with a suit you don't want led.
+* Not leading the overcaller's suit when you can.
 
 
 Weak Jump Overcalls
