@@ -45,7 +45,7 @@ If you open 1♥ then responder will assume you do not hold four spades, and in 
 
 The responses are:
 
-* Pass can be made with a six card diamond suit and less than 10 HCP.
+* Pass can be made with a six card diamond suit and fewer than 10 HCP.
 * 2♥ and 2♠ are to play.
 * 3♥ and 3♠ are invitational.
 * 4♥ and 4♠ are to play.
@@ -111,7 +111,7 @@ Named after its author, George Rosenkranz of Mexico, opening 2♦ shows a balanc
 17 to 19 HCP.  Responder bids:
 
 * Pass with a weak hand but five+ diamonds
-* 2♥! shows less than 7 HCP so opener places the contract, usually at 2N. 
+* 2♥! shows fewer than 7 HCP so opener places the contract, usually at 2N. 
 * Otherwise responder relays with 2♠! to 2N, and systems are on, including Texas 
   transfers. Game forcing.
 

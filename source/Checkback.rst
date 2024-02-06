@@ -225,4 +225,4 @@ The two-way version of NMF, :ref:`Two-Way NMF <TWNMF>`, also known as "Two Way
 Checkback Stayman" is, as Marty Bergen titled his lesson on the subject,
 "Infinitely Better and Easier" than NMF. Few non-experts play it however. This
 is just one of those historical oddities where everyone got taught the wrong
-thing solely because it has one less conventional bid in it.
+thing solely because it has one lesss conventional bid in it.

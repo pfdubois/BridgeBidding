@@ -5,9 +5,14 @@ Preemptive Opening Bids
    pair: opening bids; preemptive
    single:preempt
 
-A :term:`preemptive` or :term:`preempt` bid is one designed to make the opponents miserable 
-even though you have a poor hand, by using up the room they have to maneuver.
-The opening preempts are those bids above 2♣. 
+If using this chapter as a reference, be sure you've read :ref:`Notation and
+Nomenclature <Notation>` and review :ref:`Classifying Your Hand
+<classification>` to classify your hand as weak, competitive, invitational,
+game-going, or slam interest.
+
+A :term:`preemptive` bid, or :term:`preempt` for short, is one designed to make the
+opponents miserable even though you have a poor hand, by using up the room they
+have to maneuver. The opening preempts are those bids above 2♣. 
 
 .. warning::
    Be aware that many pairs play 2♦ to mean minimal three-suited openers or other hand 
@@ -122,7 +127,7 @@ whatever the response to 1x; you are just making both bids at once.
 
 If this situation does not apply, then you may “borrow a King” -- that
 is, bid as if you had 3 more points than you do. Partner in responding
-should bid as if he had three less than he really has. In particular
+should bid as if he had three fewer points than he really has. In particular
 this means that with more than about 14 points you should double and bid
 again.
 

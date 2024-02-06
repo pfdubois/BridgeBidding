@@ -140,7 +140,7 @@ Modern Super Accept
 
 .. index:: Modern Super Accept
 
-After a transfer to a major, accepting the transfer shows less than four trump.  
+After a transfer to a major, accepting the transfer shows fewer than four trump.  
 With four trump:
 
 * Jump accepting shows a minimal hand with four trump.

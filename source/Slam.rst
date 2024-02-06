@@ -124,7 +124,7 @@ When Not To Bid RKC
 ~~~~~~~~~~~~~~~~~~~
 
 It is generally useless to bid RKC if you are missing two keycards and
-have a worthless doubleton (less than Kx or Ax). The problem is that you
+have a worthless doubleton (worse than Kx or Ax). The problem is that you
 learn nothing if partner replies, “One keycard”. You may or may not have
 two fast losers. In general it is necessary to think ahead and make sure
 you can take yes for an answer. Learning partner has two keycards but

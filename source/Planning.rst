@@ -42,7 +42,7 @@ Our goal is to bid to the best :term:`strain` and :term:`level` for our combined
 To be at the two-level it would be nice if we had at least
 more points than they do. After all, we're contracting to make 8 out of 13
 tricks, which is 62% of the tricks. While being able to name the strain will help, having
-less than 50% of the points could be a problem.
+fewer than 50% of the points could be a problem.
 
 For a game at 3NT we need at least 25 points; for the four-level in a suit, 26 points.
 For a minor game 29 points. The six level usually needs 33 total points, and the 
@@ -110,7 +110,7 @@ between diamonds, hearts, or his own spades.  If he only has four spades, he has
 choose one of opener's suits.
 
 But if responder cannot agree to hearts, his bid of 3♦ may be too high.  The
-partnership might have less than half the points between them, yet we're promising to
+partnership might have fewer than half the points between them, yet we're promising to
 take 9 of the 13 tricks. For this to be safe, opener would need around seventeen
 points.
 

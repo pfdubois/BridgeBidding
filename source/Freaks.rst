@@ -30,7 +30,7 @@ This is the kind of hand that the convention Gambling 3NT was designed to handle
 However, change it to ♦AKJT9852 and it won't qualify for Gambling even if you're playing 
 that convention.
 
-You don't need to panic that 1♦ will pass out.  If your partner has less than six points,
+You don't need to panic that 1♦ will pass out.  If your partner has fewer than six points,
 your opponents have 25 and probably a spade or heart fit.  They are not going to pass.
 Worst case, you end up with a diamond part-score.
 

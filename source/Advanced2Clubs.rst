@@ -155,7 +155,7 @@ After 2♣ FG or 23-24 balanced:
     
        ^ 3m slam interest, sets suit
        ^ 3♥ 6+ hearts, invites a raise with a doubleton
-       ^ 3♠ less than 2 hearts
+       ^ 3♠ fewer than 2 hearts
        
     + 2♠ natural FG
     + 2N 23-24 NF, systems on

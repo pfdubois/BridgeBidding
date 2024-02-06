@@ -132,7 +132,7 @@ Examples, assuming responder is not 4333:
 After the redouble, if RHO bids a suit, opener is off the hook if he wants to be.
 
 If they bid after responder's pass, we will not let them play undoubled in any contract 
-less than two spades. A pass is therefore forcing partner to double or bid on.
+fewer than two spades. A pass is therefore forcing partner to double or bid on.
 
 The first double by a partner who must bid due to a forcing pass, is for
 takeout. Example::

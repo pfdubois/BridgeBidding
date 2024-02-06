@@ -25,7 +25,8 @@ nothing,but your partner may have a variety of hands. He has a hand that could n
 overcall but he could even have a good opening hand that had no suitable bid. 
 
 As a general rule, you bid as if you had 3 more points in your hand (called "borrowing 
-a King from partner") and when partner replies, he will reply as if he had 3 points less.
+a King from partner") and when partner replies, he will reply as if he had 3 points 
+fewer.
 
 To balance with 1N you should have 12 - 15 HCP and definitely a stopper in opener's 
 suit. Above 15 HCP you usually double first, in the same way that you 

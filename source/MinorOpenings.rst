@@ -1,11 +1,16 @@
-Responding To Minor Openings
-============================
-
 .. _MinorOpenings:
 
 .. index::
    pair: opening; minor
    pair: responding; 1m
+
+Responding To Minor Openings
+============================
+
+If using this chapter as a reference, be sure you've read 
+:ref:`Notation and Nomenclature <Notation>` and review 
+:ref:`Classifying Your Hand <classification>` to classify your hand as weak, competitive,
+invitational, game-going, or slam interest. 
 
 Our partner has opened 1♣ or 1♦. If we mean either we can write "1m". Partner
 could have a three-card suit but most of the time it is four or five cards. For

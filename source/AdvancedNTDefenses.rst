@@ -174,7 +174,7 @@ Mohan
 ----- 
 
 Mohan is designed to compete against weak 1N openers. It is recommended over a 1N opener 
-showing an upper range of 14 or less HCP.  Two suited bids can be 5-4 . We lower our 
+showing an upper range of 14 or fewer HCP.  Two suited bids can be 5-4 . We lower our 
 standards because it is as important to be finding our own games as to interfere with 
 theirs.
 

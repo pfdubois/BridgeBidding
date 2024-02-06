@@ -35,7 +35,7 @@ we say a hand has 10 HCP then we mean that many points attributable to honor car
 If counting HCP is all you do, it isn't that bad for most hands. We will now describe a 
 number of adjustments that you should make, but on a lot of hands the adjustments cancel 
 each other out and the basic HCP count is a pretty good evaluation of the hand. 
-If you use the "Rule of 20" that we will describe shortly and the basic count, if you'll 
+If you use the "Rule of 20" that we will describe shortly and the basic count, you'll 
 get most hands right.
 
 We need to correct for badly placed honors. Subtract one point from 
@@ -142,7 +142,7 @@ have the points for it.
 
 One final note: two hands of approximately equal value play better than 
 two hands with much different strengths. In other words, 12 opposite 13 will 
-usually play better than 20 opposite 5, because you will have less entry 
+usually play better than 20 opposite 5, because you will have fewer entry 
 problems.
 
 Bergen Method

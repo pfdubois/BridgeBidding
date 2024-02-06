@@ -1,3 +1,4 @@
+.. index::Glossary
 
 Glossary
 ========
@@ -15,6 +16,9 @@ Glossary
       
    HCP
       High-card points. See Hand Evaluation.
+      
+   points
+      The total value of both :term:`HCP` and distributional factors.
 
    relay
       A bid which requires partner to bid a certain suit, but does 
@@ -28,7 +32,7 @@ Glossary
    transfer
       A bid which requests partner to bid a certain suit which is held by
       the bidder; the intent is usually to cause partner to be the declarer
-      if that suit is trump. Usually the suit bid is one denomination less
+      if that suit is trump. Usually the suit bid is one denomination belows
       than the suit requested, known as the *target suit*. 
 
       If partner bids the target suit as requested it is called 
@@ -115,7 +119,7 @@ Glossary
 
    good suit
       A “good suit” is one with 2 of the top 3 honors or 3 of the top 5, but
-      not QJ10, and usually five or more cards.
+      not QJT, and usually five or more cards.
 
    cue bid
    cue
@@ -395,7 +399,7 @@ Glossary
 	  
    flat
       A flat hand is one with a shape of 4333. The most frequent shapes are 5332,
-      4432, and 4333.  These hands are called balanced. They often take less tricks than
+      4432, and 4333.  These hands are called balanced. They often take fewer tricks than
       you hope.
 
    flag bid
@@ -476,4 +480,6 @@ Glossary
       A kind of double of a final contract that asks for an unusual lead, often 
       dummy's first bid suit. See :ref:`Lightner Double <LightnerDouble>`.
       
-                
+   rank
+      A card's rank is the symbol on it, such as 2, 3, .., King. The rank of a suit
+      is its position in the sequence (from lowest to highest) ♣, ♦, ♥, ♠.            

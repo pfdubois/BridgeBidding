@@ -9,7 +9,7 @@ What Hands To Open
 Open all hands with 13 or more HCP, almost all hands with 12, and any hand with an Ace 
 in one suit and an AK in another.  
 
-Hands with more extreme distributions can open with less points.
+Hands with more extreme distributions can open with fewer points.
 Use the :term:`Rule of` 20: Add your HCP and the lengths of your longest two 
 suits; if the total is 20 or more, consider opening the hand if you have at least 
 10 HCP. 
@@ -35,9 +35,9 @@ There are always other considerations to ponder as well, such as seat and vulner
 Generally, second seat and vulnerable are good times to be somewhat careful.
 
 In the :term:`ACBL` it is not legal to open one of a suit with a hand
-containing less than 8 HCP unless it fulfills the "Rule of 17". In a limited
+containing fewer than 8 HCP unless it fulfills the "Rule of 17". In a limited
 game using the "Basic" chart this is the "Rule of 19". However, be very
-reluctant to open one of a suit with less than 10 HCP.  Your opponents are more
+reluctant to open one of a suit with fewer than 10 HCP.  Your opponents are more
 likely to compete than usual, and your partner may end up doubling them because
 he thinks you have a better hand than you do.
 
@@ -52,7 +52,7 @@ The opening bids are:
 * Opening one of a suit to show an unbalanced hand or a balanced one with too few HCP
   to open 1N, and up to 21 HCP.
   
-* Opening 2♣ (artificial) to show a very strong hand (22+ HCP balanced or somewhat less
+* Opening 2♣ (artificial) to show a very strong hand (22+ HCP balanced or somewhat fewer
   with a long, strong suit). Forcing!
   
 The opening bids from 2♦ through 5♦ are :term:`preemptive`.  Do not make them with
@@ -84,7 +84,7 @@ the following list that applies:
 * Open the longest five-card or longer suit at the one-level. If you have two of them
   that are the same length, open the higher ranked (e.g. spades if you have spades and 
   clubs).
-* Open 1♦ if you have four diamonds and four or less clubs.
+* Open 1♦ if you have four diamonds and four or fewer clubs.
 * Open 1♦ if your shape is 4=4=3=2.
 * Open 1♣.
 

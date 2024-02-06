@@ -1,3 +1,4 @@
+.. include:: ../rst_prolog.txt
 
 Continuing Major Auctions
 =========================
@@ -124,13 +125,13 @@ responder's bids are:
 -  pass with 6-9 HCP
 -  raise with 10-12 support points, and 2 or 3 trumps; this is not
    forcing
--  2N 10-12 HCP, less than two trump, not forcing. This bid does not
+-  2N 10-12 HCP, fewer than two trump, not forcing. This bid does not
    promise stops or a NT shape.
 -  3 of a new suit, 10-12, very good 6+ suit, invitational.
 
 If opener has rebid a minor,
 
--  pass with 6-9 HCP, usually 5+ in the minor, less than 2 of the
+-  pass with 6-9 HCP, usually |5ormore| in the minor, fewer than 2 of the
    opener's major
 -  bid 2M with 6-10 HCP, exactly 2 of opener's major, not forcing.
 -  A new suit at the two level is 6-9 HCP, usually 5+ in bid suit, 2 of

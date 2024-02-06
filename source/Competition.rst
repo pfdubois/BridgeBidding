@@ -49,7 +49,7 @@ Here are general principles to guide you:
 #. To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`, such as when your LHO opens 
    followed by two passes or when the opponents are about to be able to play a major
    at the two level. As a simple guideline, bid as though you had one more King in 
-   your hand, and your partner in reply will bid as though he had one less. 
+   your hand, and your partner in reply will bid as though he had one fewer. 
    Be sure to balance properly and you'll be a valued partner. 
 
 #. A passed hand is not always a poor hand. If your partner passed 

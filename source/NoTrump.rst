@@ -7,6 +7,11 @@
 Opening Notrump
 ===============
 
+If using this chapter as a reference, be sure you've read 
+:ref:`Notation and Nomenclature <Notation>` and review 
+:ref:`Classifying Your Hand <classification>` to classify your hand as weak, competitive,
+invitational, game-going, or slam interest. 
+
 When a hand is eligible to open in notrump, we are anxious to do so. As we will see,
 we will have an entire system devoted to bidding such hands that almost always gets us,
 if we are not disturbed, to a good contract.  
@@ -104,7 +109,7 @@ Responding With No Major Suit Or Long Minor
 In responding to your partner's 1N opener, if you determine that there no major suit 
 or long minor, your actions are determined by your point count alone:
 
-* With a hand less than 8 HCP, pass.
+* With a hand with fewer than 8 HCP, pass.
 * With an invitational hand (8-9 HCP) bid 2N.
 * With a game-going hand (10-15 HCP), bid 3N.
 * With a slam invitational hand (16+-17 HCP) bid 4N.
@@ -188,7 +193,7 @@ the fit, and then the question about the game.
 If you are 5-4 in the majors you also start with 2♣, Stayman, regardless of strength.
 See :ref:`Garbage Stayman <GarbageStayman>`.
 
-If you have a five-card major and less than four in the other major, we use 
+If you have a five-card major and fewer than four in the other major, we use 
 :ref:`Major Transfers <transfers>`, regardless of strength.
 
 .. note:: 

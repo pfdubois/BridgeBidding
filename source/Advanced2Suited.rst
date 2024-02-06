@@ -31,7 +31,7 @@ the suits are at least 5-4 and you have an opening hand.
 The Sandwich 1N convention is a bid of 1N rather than double, showing 
 the other two suits but less than an opening hand:
 
-    (1x) - P - (1y) - 1N!(other two suits, less than opener)
+    (1x) - P - (1y) - 1N!(other two suits, fewer than 12 HCP)
     
 Extended Michaels
 -----------------
