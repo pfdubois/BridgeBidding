@@ -469,10 +469,10 @@ Glossary
       :ref:`New Minor Forcing <NMF>`, and 
       :ref:`Two Way New Minor Forcing <TWNMF>`.  
       
-    drop dead
+   drop dead
        A bid that partner must pass.   
        
-    power double 
+   power double 
        A takeout double that is a very strong hand rather than a normal opening hand.
        It might not have support for the unbid suits.   
        

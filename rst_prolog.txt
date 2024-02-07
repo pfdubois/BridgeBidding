@@ -1,5 +1,7 @@
 .. |bad10| replace:: 10\ :sup:`-`
 .. |bad12| replace:: 12\ :sup:`-`
+.. |10ormore| replace:: 10\ :sup:`+`
+.. |13ormore| replace:: 13\ :sup:`+`
 .. |3ormore| replace:: 3\ :sup:`+`
 .. |4ormore| replace:: 4\ :sup:`+`
 .. |5ormore| replace:: 5\ :sup:`+`
