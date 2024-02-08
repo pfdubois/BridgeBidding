@@ -94,6 +94,7 @@ a quantitative 4N, bidding 5N is Pick-a-slam::
 
 Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 
+
 Redwood
 -------
 
@@ -112,10 +113,28 @@ Redwood, or One-Over Keycard, is a :ref:`Roman Keycard <RKC>` bid for the minors
 leaves more room for responses.  The bid one over an agreed minor suit at the four level
 asks for keycards in that minor: 4♦ for clubs, 4♥ for diamonds. The replies are 3014:
 
-* First step, three or zero
-* Second step, one or four
-* Third step, two without the Queen
-* Fourth step, two with the Queen
+.. list-table:: Replies To Redwood
+   :header-rows: 1
+
+   * - Step 
+     - Clubs (4♦)
+     - Diamonds (4♥)
+   * - 1st
+     - 4♥ = 0 or 3
+     - 4♠ = 0 or 3
+   * - 2nd
+     - 4♠ = 1 or 4
+     - 4N = 1 or 4
+   * - 3rd
+     - 4N = 2 no Q
+     - 5♣ = 2 or Q
+   * - 4th
+     - 5♣ = 2 + Q
+     - 5♣ = 2 + Q
+
+After a 1st or 2nd step replay, bidding the next step asks about the trump Queen.
+After any reply the bid of one over the trump suit asks for Kings. You should use
+the number of Kings or the cheapest specific King, whatever you do for ordinary RKC.
 
 Examples::
 
@@ -164,8 +183,40 @@ Full Kickback
 Redwood plus Three Spades Kickback, with 4N for spades, is Kickback.
 
 You can extend the agreement to cover more kinds of auctions, and cases of implicit
-agreement on the suit, but it can get complicated. For one full treatment see "Kickback:
-Slam Bidding at Bridge" by Robert Munger, Master Point Press.
+agreement on the suit, but it can get complicated. For one full treatment see 
+:title:`Kickback: Slam Bidding at Bridge` by Robert Munger, Master Point Press.
+
+Exclusion Blackwood
+-------------------
+
+.. index::
+   pair: convention; Exclusion Blackwood
+   
+.. _ExclusionBlackwood:
+
+     "I can't believe I am writing this article. I wouldn't recommend this convention to 
+     anyone other than a full-time expert with a full-time regular partner. Still, it 
+     is a sexy convention and I get asked about it all the time."
+     -- Larry Cohen
+   
+Exclusion Blackwood is a way of asking for the number of Aces partner has except for the 
+one in a certain suit where the asker has a void. After an agreement on a trump suit, 
+a jump to one above what would be a splinter in a side suit asks for Aces outside that 
+suit. This is a jump to the five-level except when 3♠ would be a splinter; in that case
+4♠ is Exclusion. You're asking how many Aces partner has not counting the one in the suit
+you jumped to.
+
+
+Example::
+
+   1♣ - 2♣!(inverted)
+   5♦! 
+   
+Here 2♦ would be natural, 3♦ a jump-shift, and 4♦ a splinter in support of clubs. So 5♦ 
+is Exclusion Blackwood and shows opener has a diamond void. The reply is based on the 
+number of Aces not counting the Ace of Diamonds. So the reply 5♠ says "1".
+
+With that expert regular partner you have, you might talk RKC or other response scales.
 
 Preempt Keycard
 ---------------
@@ -194,7 +245,7 @@ Example::
    4♥(one keycard) - Pass
    
 We see that you should be willing to go to 5♥ if partner has one with the Queen or 
-better. A more mnemonic way to say this scale is 0 - 1 - 1.5 - 2 - 2.5.
+better. A more accurate way to say this scale is 0 - 1 - 1.5 - 2 - 2.5.
 
 Minorwood
 ---------
@@ -219,28 +270,5 @@ Roman Keycard Blackwood for the minor. For example,
 but not in a non-jump sequence such as 1♣ – 2♣! - 2♥ – 3♦ – 4♣ in which the players 
 simply discover they lack a spade stopper and decide to play in clubs.
 
-Using clubs for illustration, and 1430 RKC, the responses are:
-
-- 4♦ – 1 or 4 keycards
-- 4♥ – 0 or 3 keycards
-- 4♠ – 2 keycards, no trump queen
-- 4N – 2 keycards, with trump queen
-
-After a response of 14 or 30, a bid of the next higher suit asks for the
-trump queen.
-
-After any response, the bid of the suit one higher than trumps (5♦ in
-this case) asks for Kings.
-
-For diamonds as trumps, the responses are all one higher.
-
-Important: a rebid of 4N is to play::
-
-    1♣ - 2♣!(10+, 5+ clubs)
-    4♣!(keycards) - 4♥ (0 or 3)
-    4N to play
-
-The usual principle of RKC is used here too -- if an ambiguous (03 or 14)
-response was made holding the higher number of keycards, responder would now bid the slam
-if the asker signs off. Presumably the asker was willing to take yes for an answer.
-   
+Except in the difference of RKC-asking bid, the convention proceeds as with Redwood,
+the replies by steps.

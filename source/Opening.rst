@@ -1,3 +1,4 @@
+.. include:: ../rst_prolog.txt
 
 Opening The Bidding
 ===================
@@ -52,18 +53,19 @@ The opening bids are:
 * Opening one of a suit to show an unbalanced hand or a balanced one with too few HCP
   to open 1N, and up to 21 HCP.
   
-* Opening 2♣ (artificial) to show a very strong hand (22+ HCP balanced or somewhat fewer
-  with a long, strong suit). Forcing!
+* Opening 2♣ (artificial) to show a very strong hand (22\ :sup:`+` HCP balanced or 
+  somewhat fewer with a long, strong suit). Forcing!
   
 The opening bids from 2♦ through 5♦ are :term:`preemptive`.  Do not make them with
 weak hands even though you have the correct length. Note that you and your partner
 must agree on how strong your suit is. One suggested agreement is that a preempt 
-promise at least a Queen in the suit if non-vulnerable, or a good suit (two of top
-three honors or three of the top five, excluding QJT) if vulnerable. In third seat
-you can stretch a bit. Be careful not to preempt with too good a holding; many 10 HCP
-hands are too good for that.
+promise at least a Queen in the suit if non-vulnerable, or a :term:`good suit` 
+(two of top three honors or three of the top five, excluding QJT) if vulnerable. 
+
+In third seat you can stretch a bit. Be careful not to preempt with too good a holding; 
+many 10 HCP hands are too good for that.
   
-* 2♦, 2♥, 2♠ show a usually six-card suit and 5-10 HCP.
+* 2♦, 2♥, 2♠ show a usually |6ormore|-card suit and 5-10 HCP.
 * 3♣, 3♦, 3♥, 3♠ show a usually seven-card suit and 5-10 HCP. Sometimes 3♣ is bid with 
   six good clubs, since the 2♣ bid can't be used.
 * Opening four of a major shows an eight-card suit. 
@@ -107,12 +109,12 @@ some positive number.
 
 Larry Cohen has this take on it: CRIFS (Cohen's Rule In Fourth Seat): If you have
 a borderline situation (10-12 HCP), evaluate your opponents! If you are playing one
-of the better pairs, pass. 
+of the better pairs, pass. They may take you to the cleaners in a part-score battle.
 
 In fourth ("passout") seat it makes no sense to preempt. You can "keep them out
 of it" with a pass. So the range of a "weak two" becomes 10-14 HCP. 
 
-Openings<> at the three- or four-level are likewise not weak. 
+Opening at the three- or four-level is likewise not weak in passout seat.
 
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each:
