@@ -53,7 +53,7 @@ The opening bids are:
 * Opening one of a suit to show an unbalanced hand or a balanced one with too few HCP
   to open 1N, and up to 21 HCP.
   
-* Opening 2♣ (artificial) to show a very strong hand (22\ :sup:`+` HCP balanced or 
+* Opening 2♣ (artificial) to show a very strong hand (|22ormore| HCP balanced or 
   somewhat fewer with a long, strong suit). Forcing!
   
 The opening bids from 2♦ through 5♦ are :term:`preemptive`.  Do not make them with

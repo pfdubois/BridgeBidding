@@ -1,9 +1,22 @@
-.. |bad10| replace:: 10\ :sup:`-`
-.. |bad12| replace:: 12\ :sup:`-`
-.. |10ormore| replace:: 10\ :sup:`+`
-.. |13ormore| replace:: 13\ :sup:`+`
-.. |3ormore| replace:: 3\ :sup:`+`
-.. |4ormore| replace:: 4\ :sup:`+`
-.. |5ormore| replace:: 5\ :sup:`+`
-.. |6ormore| replace:: 6\ :sup:`+`
+.. 
+    as superscripts 
+    .. |bad10| replace:: 10\ :sup:`-`
+    .. |bad12| replace:: 12\ :sup:`-`
+    .. |10ormore| replace:: 10\ :sup:`+`
+    .. |13ormore| replace:: 13\ :sup:`+`
+    .. |3ormore| replace:: 3\ :sup:`+`
+    .. |4ormore| replace:: 4\ :sup:`+`
+    .. |5ormore| replace:: 5\ :sup:`+`
+    .. |6ormore| replace:: 6\ :sup:`+`
 
+
+.. |10ormore| replace:: 10+
+.. |12ormore| replace:: 12+
+.. |13ormore| replace:: 13+
+.. |16ormore| replace:: 16+
+.. |22ormore| replace:: 22+
+.. |3ormore| replace:: 3(or more}
+.. |4ormore| replace:: 4(or more)
+.. |5ormore| replace:: 5(or more)
+.. |6ormore| replace:: 6(or more)
+.. |7ormore| replace:: 7(or more)

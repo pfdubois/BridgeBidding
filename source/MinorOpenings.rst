@@ -126,7 +126,7 @@ have a four-card suit to bid, so you bid 1N.
 .. rubric:: 
    Bidding With An Invitational Hand
    
-With 10 to a |bad12|, we have an invitational hand. Our primary goal is to show a major
+With 10 to a bad 12, we have an invitational hand. Our primary goal is to show a major
 if we have one, and lacking that to raise if we can.
 
 We raised to 2m with a constructive hand, so we will raise to 3m for an invitational 
@@ -137,7 +137,7 @@ can force to game but should not bid 3♦ to try to improve the part-score.
 
 If we don't have a major and we don't have a fit, and we have exactly 10 points, we 
 will change our mind and treat the hand as a competitive hand and bid 1N. Otherwise
-we can bid 2N to show our 11-|bad12| with no four-card major.
+we can bid 2N to show our 11 or 12 with no four-card major.
 
 Special: We can bid 1♦ - 2♣ only if RHO interfered or we were a passed hand. In those 
 cases it shows |10ormore| points and |5ormore| clubs.

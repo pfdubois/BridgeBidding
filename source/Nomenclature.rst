@@ -72,12 +72,12 @@ that they make sense in varied contexts. We say “Responder is competitive” a
 shorthand for, “Responder's hand has competitive strength”, i.e., good enough
 to cause trouble but not good enough to invite game.
 
-When we get to discussing :term:`points` the numbers 10 and 12 are very important.
-For example, we might say you "bid 2♥ with 6-10 points" and in the next sentence say
-you should "bid 3♥ with 10-12".  What we mean is in the first sentence a "bad" 10 
-and in the second an ordinary 10 to a "bad" 12. We'll talk about upgrading and downgrading
-hands in :ref:`Hand Evaluation <Hand_Evaluation>`. Meantime, we will write those 
-limits as 6-|bad10| and 10-|bad12|.  A superscripted plus sign means "or more".
+When we get to discussing competitive and invitational hands, the numbers 10 and 12 
+are very important. When we say "bid 2♥ with 6-10 points" and in the next sentence say
+"bid 3♥ with 10-12", what we mean is in the first case a "bad" 10 
+and in the second an ordinary 10. A similar apparent overlap at 12 happens too.
+We'll talk about upgrading and downgrading hands in 
+:ref:`Hand Evaluation <Hand_Evaluation>`. "Bad" means the hand has more flaws than usual.
 
 In showing hand shapes, hyphens (or mere conjunction) show shapes without assuming precise
 suit order, as in 4-3-3-3 or 4333 meaning a flat hand, the four cards being in an
@@ -98,23 +98,25 @@ when we mean a card whose rank is 10.
    a good suit your partner will be counting on it both offensively and
    defensively. 
 
-Since it is boring to repeatedly have to say "shows four or more spades" and
-the like, we will say "four spades" or "|4ormore| spades" to mean this, and
-"exactly four spades" when we mean that. When we say someone is 5-4 in two
-suits, we mean either five of the first and four or five of the other, or
-vice-versa, unless we are explicit about which one is the longer. Note that it
-is rare to treat a 6-4 hand the same way you would treat a 5-4 hand, so when we
-say 5-4 we do not mean longer than 5; but when we just say "5 cards" in some
-suit, it could be longer.
+Some other language issues:
 
-When we speak of a :term:`control bid` we refer to a bid of a side suit to
-show features in that suit that prevent fast losers. These bids used to
-be called :term:`cue bid`\ s but the term is easily confused with artificial bids in 
-a suit an opponent has already bid, 
-which are also called cue bids, so we use the modern term.
-Control bids are explained in the chapter on :ref:`Slam Bidding <slam_bidding>`.
+* We will say "four spades" or "|4ormore| spades" to mean this, and
+  "exactly four spades" when we mean that. 
+* When we say someone is 5-4 in two suits, we mean either five of the first and four or 
+  five of the other, or vice-versa, unless we are explicit about which one is the longer. 
+  It being rare to treat a 6-4 hand the same way you would treat a 5-4 hand, when we
+  say 5-4 we do not mean longer than 5.
+* When we say something like "5-4 or better" we mean not only 5-4 but 5-5, 6-5 etc.
 
-"Controls" as a noun usually refers to Aces and Kings.  When a number of controls is
-referred to, we are counting Aces as two and Kings as one, so that "a hand with 
-four controls" would include hands with two Aces, or an Ace and two Kings.
+* When we speak of a :term:`control bid` we refer to a bid of a side suit to
+  show features in that suit that prevent fast losers. These bids used to
+  be called :term:`cue bid`\ s but the term is easily confused with artificial bids in 
+  a suit an opponent has already bid, which are also called cue bids, so we use the 
+  modern term.
+
+  Control bids are explained in the chapter on :ref:`Slam Bidding <slam_bidding>`.
+
+* "Controls" as a noun usually refers to Aces and Kings.  When a number of controls is
+  referred to, we are counting Aces as two and Kings as one, so that "a hand with 
+  four controls" would include hands with two Aces, or an Ace and two Kings.
 

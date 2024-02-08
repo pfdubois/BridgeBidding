@@ -30,13 +30,11 @@ it as the auction proceeds. You make an initial assessment of this and then
 modify it as the auction gives you more information.
 
 * Weak: under 6 points
-* Competitive: 6-10 points. Also called "minimal".
-* Invitational: 10-12 points. Also called "limit".
-* Game-going: 13+ points
+* Competitive: 6 to a bad 10 points. Also called "minimal".
+* Invitational: 10 to a bad 12 points. A raise of this size is called a "limit" raise.
+* Game-going: A good 12 or more points. Also called "game-forcing".
 * Slam interest: When we either have 33 points between us, or have found a suit fit 
   and are not too far below that.
-
-Deciding what to do with 10 points is where a lot of the agony happens.
 
 Our goal is to bid to the best :term:`strain` and :term:`level` for our combined hands.
 To be at the two-level it would be nice if we had at least
@@ -49,6 +47,11 @@ For a minor game 29 points. The six level usually needs 33 total points, and the
 seven level 37 points.  When we are in a suit contract, these figures include points
 that are gained due to distribution and support.  In a misfit, HCP may be all that 
 matters.
+
+Deciding what to do with 10 or 12 points is where a lot of the agony happens.
+It used to be that a minimum opening hand was 13 HCP. So if responder had 12, they
+wanted to be in game.  But with the opening requirements now down to 12, responder
+wants a decent 12 or 13.
 
 Is This Forcing?
 ----------------
@@ -67,13 +70,16 @@ us down little rat-holes. Was there a conventional bid you missed?
 If still confused do something, something as obvious
 as possible. The GOAT, Bob Hamman, said: when in doubt bid three no-trump.
 
-When partner makes a forcing bid you must notice their message and respond if that
-message is compelling enough, but if they bid before you get that chance, you're 
-"off the hook".
+When partner makes a forcing bid you must notice their message and respond, but if 
+the opponents bid before you get that chance, you're "off the hook". You must estimate
+your joint strength and proceed accordingly.
 
 One rule is ironclad: a new suit bid by an unpassed :term:`responder` is forcing 
-for one round; that is, the opener must respond to it IF the opponents are silent.
-The opposite is true when a passed hand bids -- almost nothing they do is forcing 
+for one round; that is, the opener must respond to it IF the opponents are silent. 
+Even this rule has exceptions, the most important being that if you were forced to bid, 
+such as when partner makes a takeout double, you are not promising anything.
+
+The opposite is true when a passed hand bids -- almost nothing partner did is forcing 
 except some doubles and artificial bids.
 
 The Captain Concept

@@ -1,3 +1,5 @@
+.. _BasicCheckback:
+
 Finding 5-3 and 4-4 Major Fits
 ==============================
 
@@ -21,7 +23,7 @@ Fourth Suit Forcing
 .. _FSF:
 
 .. index::
-   pair: convention; Fourth Suit Forcing (FSF)
+   triple: convention; Fourth Suit Forcing (FSF);checkback
    pair: Fourth Suit Forcing (FSF);forcing to game?
 
 Bidding the fourth suit may describe your hand, but it is unlikely to find
@@ -117,17 +119,16 @@ New Minor Forcing
 .. _NMF:
 
 .. index::
-   pair: convention; New Minor Forcing
+   triple: convention;New Minor Forcing (NMF);checkback
 
 When a 1N or 2N rebid has been made over a major suit call by
 the responder, any bid of an *unbid* minor (hence, a *new* minor) is NMF. It is forcing
 for one round and is at least invitational. Over 2N it is of course game forcing.
 
-
 This writeup assumes that an opener holding four spades would bid 1♠ rather
 than 1N over 1♥. While I strongly recommend this, when you get to a very advanced 
 level you might not follow this rule. But you should switch to 
-:ref:`Two Way New Minor Forcing <TWNMF>` at that point, where this is discussed further.  
+:ref:`Two-Way New Minor Forcing <TWNMF>` at that point, where this is discussed further.  
 
 The uses of NMF are (where w stands for the unbid minor):
 
@@ -188,8 +189,7 @@ Sometimes it takes longer to tell the story but the story gets
 told. Compare these continuations after 1♦ – 1♠ – 1N -2♣!(NMF). The
 responder has bid spades:
 
-* 2♥(opener has 4 hearts)-2♠(has five spades)
-  4♠(has 3 spades and accepts invite)
+* 2♥(opener has 4 hearts)-2♠(has five spades)-4♠(has 3 spades and accepts invite)
 * 2♠(opener has 4 hearts)-3♥(me too, and invitational values)
 * 2♠(opener has 4 hearts)-4♥(me too, and game values)
 * 2♠(opener has 3 spades, minimum, denies four hearts)
@@ -221,7 +221,7 @@ Checkback Stayman seems to be almost historical now, but it is an agreement that
 "new minor" is always clubs, new or not.  2♦ can then be non-forcing, like 2♥.
 I have seen it played. 
 
-The two-way version of NMF, :ref:`Two-Way NMF <TWNMF>`, also known as "Two Way
+The two-way version of NMF, :ref:`Two-Way NMF <TWNMF>`, also known as "Two-Way
 Checkback Stayman" is, as Marty Bergen titled his lesson on the subject,
 "Infinitely Better and Easier" than NMF. Few non-experts play it however. This
 is just one of those historical oddities where everyone got taught the wrong
