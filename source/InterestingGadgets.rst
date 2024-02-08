@@ -1,4 +1,4 @@
-
+.. include:: ../rst_prolog.txt
 
 Interesting Gadgets
 ===================
@@ -288,6 +288,30 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
    quantitative raise to 4N, but is 5-4 or better in the minors. Opener can
    choose between 4N or 5m or 6m.
 
+.. _fit_jump:
+
+Fit-Showing Jumps
+-----------------
+
+.. index::
+   pair:jump-shift;fit-showing jump
+   pair:convention;fit-showing jump
+
+Fit-showing jumps is an agreement that a jump-shift by responder shows a fit
+with partner and our own |5ormore| card suit. For example, 1♥ - (1♠) - 3♣  or 1♥
+- 3♣ shows |5ormore| clubs with values appropriate for the level (here, at
+least invitational, since partner will have to prefer hearts at the
+three-level). The goal is to discover a double fit which may allow us to find a
+skinny game or slam. The bid is forcing.
+
+This convention is on even if we are a passed hand.
+
+Remember if playing :ref:`Bergen Raises <bergen_raises>` that they are off in
+competition but you would have a conflict with no competition. You and your
+partner need to research this convention because there are some auctions to
+discuss. For example, In 1♠ - (2♥) - 4♦, is that a splinter or a fit-jump?  If
+it is a fit-jump does it mean a weak 5-5 hand that could have just bid 4♠ or a
+game-going hand. (I'd play it as a splinter, by the way).
 
 Montreal Relays
 ---------------

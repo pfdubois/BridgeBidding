@@ -44,7 +44,7 @@ raise.
 
 With 4+ cards,
 
-- 1M - 2M 6-10 HCP with 3 cards in M; or a good five, particularly Axxx in 
+- 1M - 2M 6-10 HCP with 3 cards in M; or a good five points, particularly Axxx in 
   trumps.
 - 1M – 3M! 2-6 preemptive, 4 card raise
 - 1M – 3♣! 7-9 constructive 4 card raise

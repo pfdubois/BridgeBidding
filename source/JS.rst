@@ -1,7 +1,9 @@
-All About Jump-Shifts
-=====================
+.. include:: ../rst_prolog.txt
 
 .. _Jump_Shifts:
+
+All About Jump-Shifts
+=====================
 
 A :term:`jump-shift` is a jump bid of a new suit. For example 1♥ - 3♣ is a jump-shift 
 because a bid of 3♣ is a jump over 1♥. In understanding the meaning of such a bid we 
@@ -26,18 +28,20 @@ no other meaning is weak, even without competition ("Weak
 Jump-Shifts"). In the body of this book, we assume that weak jump-shifts not in
 competition is our agreement. If it isn't a strong bid, it must be alerted.
 
-
 For example:
 
-#. 1♣ - (1♦) - 2♥ shows a hand with weak values, not interest in game, with
-   six hearts. No alert is required.
-#. 1♥ - (X) - 3♣ shows a hand with weak values, not interested in game, 
-   with six clubs. No alert is required.
-#. 1♣ - 2♠ is preemptive, alert it.
-#. 1♥ - 3♣ is preemptive, alert it.
+* 1♣ - (1♦) - 2♥ shows a hand with weak values, not interest in game, with
+  six hearts. No alert is required.
+* 1♥ - (X) - 3♣ shows a hand with weak values, not interested in game, 
+  with |6ormore| clubs. No alert is required.
+* (1♣) - P - (1♥) - 2♠ is premptive, |6ormore| spades. No alert required.
+* If 1♣ - 2♠ is preemptive, alert it.
+* If 1♥ - 3♣ is preemptive, alert it.
 
 A jump-shift could also be a conventional bid, such as a 
 Bergen raise, or the special cases such as 1♦ - 3♣ where it is invitational.
+Another alternative is to play 
+:ref:`fit-showing jumps <fit_showing>`. Those are great but a little tricky.
 
 Now let's consider the auction with no interference.
 

@@ -84,6 +84,9 @@ how the particular cards you hold will play opposite your partner's. This
 is a situation in which it is nice to be confident partner followed the rules
 about suit quality.
 
+If the opponents overcall our preemptive bid, a double is for penalty. Our other 
+bids retain their same meanings.  
+
 Three-Level Preempts
 --------------------
 

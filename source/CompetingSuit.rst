@@ -92,6 +92,11 @@ but you did not for some reason, such as having an outside four-card
 major in first or second seat. If you passed at first you can bid later
 once it becomes clear your partner is not being preempted by your bid.
 
+By the way, your partner should respond to this as if you opened a weak two-bid.
+In particular, 2N should be whatever it would be for you (feature ask, for example)
+had they just opened 2x. 
+
+
 Michaels Cue Bid
 ----------------
 
