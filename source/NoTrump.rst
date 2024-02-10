@@ -151,11 +151,10 @@ These all force your partner to reply in a certain way.
 After he replies, if you bid 4N when it is your next turn, that's :term:`quantitative`,
 not Ace-asking. If he bid a suit because you made him do it, it doesn't mean you have
 agreed on a suit.  You may have found a fit but he doesn't know about it yet.
-
-::
  
-  Principal: Whenever 4N is :term:`quantitative`, 4♣ (:ref:`Gerber <Gerber>`) is 
-  Ace-asking.
+.. important::
+   Whenever 4N is :term:`quantitative`, 4♣ (:ref:`Gerber <Gerber>`) is 
+   Ace-asking.
   
 With no other agreement, responses of 4♦, 4♥, 4♠, 5♣, 5♦ are natural, to play,
 with at least a six-card suit; but see :ref:`Texas Transfers <Texas>` as an option for 

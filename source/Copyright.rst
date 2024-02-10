@@ -26,8 +26,8 @@ This book is also available in these formats:
   :website:`BridgeBidding.pdf`
   
   The PDF contains electronic links
-  and an expanded table of contents. It is designed to be printed on A5 paper, 
-  which is paperback size approximately 8 by 6 inches, around 300 pages.
+  and an expanded table of contents. It is printed two-sided with margins appropriate 
+  for binding.
 
 * A file suitable for most e-book readers is available at:
 

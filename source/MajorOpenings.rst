@@ -1,8 +1,6 @@
 Responding To Major Openings
 ============================
 
-.. _major_opener:
-
 .. index::
    pair: opening; major
 

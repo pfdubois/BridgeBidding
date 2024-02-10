@@ -59,7 +59,7 @@ Meckwell
    pair:convention; Meckwell
    pair:convention; D.O.N.T (modified, a.k.a. Meckwell)
    single: two-suited bids
-   pair: 1N opening or overcall; defenses to
+   pair:1N opening;defense
 
 In this modification of D.O.N.T., the double works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
@@ -92,7 +92,7 @@ Modified Cappelletti
 .. index::
    pair: convention; Cappelletti (modified)
    single: two-suited bids
-   pair: 1N opening or overcall; defenses to
+   pair:1N opening;defense
 
 In this modified or "modern" Cappelletti, the 2♣ bid works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
@@ -116,7 +116,7 @@ Bloomen
 .. index::
    pair: convention; Bloomen
    single: two-suited bids
-   pair: 1N opening or overcall; defenses to
+   pair:1N opening;defense
 
 Bloomen is related to Cappelletti. All 2-level suit bids are natural long suits. 
 A double is a relay to 2♣, and then intervenor bids one of the Capp two-suited bids: 
@@ -133,7 +133,7 @@ Woolsey
    pair:convention; Multi-Landy
    pair:convention; Woolsey
    single: two-suited bids
-   pair: 1N opening or overcall; defenses to
+   pair:1N opening;defense
 
 Woolsey is sometimes called Multi-Landy.
 After a 1N opening or overcall:
@@ -167,8 +167,7 @@ More sophisticated defenses are based on :ref:`Lebensohl <Lebensohl>`.
 
 .. index::
    pair:convention;Mohan
-   pair:1N opening or overcall; defenses to
-   pair:weak 1N;defense to
+   pair:1N opening;defense
    
 Mohan
 ----- 

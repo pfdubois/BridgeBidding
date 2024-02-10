@@ -5,28 +5,37 @@
 
 .. index::Two Over One Auctions
 
-This chapter discusses continuations after the responder's bid, in particular 
-when 1N is forcing or a 2/1 game forcing bid has occurred.
 
-Bidding a :term:`control` is covered later in :ref:`Control Bidding <control_bidding>`,
-but in simplist terms think "bidding my Aces and voids up the line".
-
-.. index:: Opener's Rebid
+.. index::opener's rebid
 
 Opener's Rebid
 --------------
 
-Opener's second bid is called his "rebid".
+Opener's second bid is called his "rebid". This chapter discusses opener's rebid, 
+in particular when 1N is forcing or a 2/1 game forcing bid has occurred.
 
-After 1M - 2M
-~~~~~~~~~~~~~
+Bidding a :term:`control` is covered later in :ref:`Control Bidding <control_bidding>`,
+but in simplist terms think "bidding my Aces and voids up the line".
 
-If we have opened 1M, and hear a simple raise from partner, we pass unless we see
-the possibility for 4M to make. There is no bonus for bidding 3M, so
-going past 2M means we think we might have around 26 points between us.  
-We can either bid 4M immediately, which ends the auction; or we can pass; or we can
-ask partner's opinion by making a game try. I recommend playing
-:ref:`Help Suit Game Tries <hsgt>`.
+After A Major Raise
+~~~~~~~~~~~~~~~~~~~
+
+If we have opened 1M, and hear a simple raise from partner, we pass unless we
+see the possibility for 4M to make. There is no bonus for bidding 3M, so going
+past 2M means we think we might have around 26 points between us. We can either
+bid 4M immediately, which ends the auction; or we can pass; or we can ask
+partner's opinion by making a game try.
+
+I recommend playing :ref:`Help Suit Game Tries <hsgt>`. Natural game tries are
+also fine -- bid a second suit below trump and let partner tell you if they
+have a hand near the top of their bid or which can help with that second suit,
+by bidding game, or declining with 3M.
+
+After a limit raise, opener generally passes, bids 4M, or starts exploring for
+slam by bidding a :term:`control`.
+
+After a preemptive raise to 4M, opener passes nearly always. Remember, that means 
+five trump and a weak hand, not a strong hand.
 
 After One Heart - One Spade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -46,14 +55,13 @@ that 1♠ does not deny 3 hearts; responder's next bid of 3♥ or 4♥ shows 3-c
    and an outside singleton or void.  Experts may bid 2♠ regardless with three spades.
 -  With four spades and 15-17 points bid 3♠. With more bid 4♠ or a :term:`splinter`.
    
-
 After 1N Forcing
 ~~~~~~~~~~~~~~~~
 
 .. _OneNoForcing:
 
 .. index::
-   pair:1N Forcing;responses to
+   pair:1N Forcing;opener's rebid
    
 The 1N response to 1M is forcing unless there was interference or responder is a passed
 hand.  Note that 1N does not promised a balanced hand, and in particular responder might
@@ -161,12 +169,6 @@ specially suitable hand opener may make another call.
 With a flattish 13-15, but relatively weak holdings in the 4-card
 suit(s), 1N(forcing) followed by 3N is sometimes appropriate to avoid
 partner getting too excited.
-
-After A Limit Raise 
-~~~~~~~~~~~~~~~~~~~
-
-After 1M - 3M, opener generally passes, bids 4M, or starts exploring for slam
-by bidding a :term:`control`.
 
 After A 2/1
 ~~~~~~~~~~~

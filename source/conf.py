@@ -56,6 +56,7 @@ html_show_copyright = True
 #
 # PDF
 #
+papersize ='letter'
 latex_documents = [
     (master_doc, sproject+'.tex', booktitle, author, 'manual', False),
 ]
@@ -82,11 +83,12 @@ my_preamble = r'''
 \definecolor{TitleColor}{rgb}{0,0,0}
 \definecolor{InnerLinkColor}{rgb}{0,0,0}
 \definecolor{OuterLinkColor}{rgb}{0,0,0}
+\twocolumn
 '''
 
 latex_elements = {
    'pointsize': '11pt',
-   'papersize': 'a5paper',
+   'papersize': papersize,
    'sphinxsetup':'hmargin={1in, 0.5in}, vmargin = {0.75in, 0.75in}',
    'preamble': my_preamble,
    'releasename': ' ',

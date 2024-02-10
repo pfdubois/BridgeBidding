@@ -1,10 +1,12 @@
-.. _MinorOpenings:
+
 
 .. index::
    pair: opening; minor
    pair: responding; 1m
 
 .. include:: ../rst_prolog.txt
+
+.. _minoropenings:
 
 Responding To Minor Openings
 ============================

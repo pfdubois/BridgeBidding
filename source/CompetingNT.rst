@@ -53,7 +53,7 @@ D.O.N.T.
 .. index::
    pair: convention; D.O.N.T.
    single: two-suited bids
-   pair: 1N opening; defense to
+   pair: 1N opening;defense
 
 D.O.N.T stands for Disturbing Opponents' No Trump, and is another idea from
 the fertile mind of Marty Bergen. The emphasis is on getting in there
