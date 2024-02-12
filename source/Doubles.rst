@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. index:
    pair:double;takeout
    
@@ -255,9 +257,13 @@ hand.
 * A bid of 2N is a four-card limit raise of partner's major suit. 
   (:ref:`Jordan <Jordan2NT>`.)
 
-* A redouble shows 10+ points; it denies four cards in partner's suit. If we have
+* A redouble shows |10ormore| points; it denies four cards in partner's suit. If we have
   three-card support for a major we'll show that later. We make this bid with some
-  interest in penalizing the opponents.  This is called "going for blood".
+  interest in penalizing the opponents.  Gavin Wolpert calls this redouble the
+  :ref:`Going For Blood Redouble <blood>`. Details below.
+  
+* Sometimes with a six-card suit we will bid it rather
+  than redouble, but most hands with |10ormore| HCP will redouble.
   
 * Replying one of a suit is forcing for one round. 
 
@@ -275,53 +281,45 @@ When partner has chosen a suit where we don't have four cards, we usually just p
 Only if we have a big hand do we bid again. We don't bid notrump.
 
 .. rubric::
-   Going For Blood With A Redouble
+   Going For Blood Redouble
 
 .. index::
    pair:double;redouble
    
 .. _blood:
 
-After 1s (X) XX, the auction is forcing to two of opener's major. Our side has the 
+After 1s (X) XX, the auction is forcing to two of opener's suit. Our side has the 
 majority of the points and if they don't have a fit, they are in trouble. You can
-make this bid even if you are a passed hand.  If you don't think you have the kind of
-hand that will do well on defense but could answer on the one-level, or raise, do that.
-Remember the one-level bid is forcing. 
-
-::
-
-   1♥ (X) XX (P)
-   ?
-   
-Pass. They aren't going to play 1♥ XX. They are in trouble. Advancer didn't have a suit
-to name. They have no fit and we have most of the points.
+make this redouble even if you are a passed hand. Let's suppose the doubler's partner 
+bids his best suit. Notice that he doesn't have many points, because the opener and the 
+doubler each have shown an opening hand, and we have |10ormore|. 
 
 ::
 
    1♥ (X) XX 2♦
     ?
-   
-Opener should usually pass or double for penalty if the advancer makes a bid. 
-To double for penalty, it is important to have four trumps. We don't want to be doubling 
-if they have a nine-card fit. We can rest assured partner will pull the double if they 
-have a void in their suit. 
 
-If you can't double for penalty you often pass. If you bid you're letting you're letting 
-them off the hook. However, if the opener has a six card suit with 
-minimal values and no interest in penalizing the opponents, he can rebid the suit. 
+The idea here is that one of us might have a penalty double. If 
+the opener does not, he will pass to give responder a chance to double. 
+To double for penalty, it is important to have four trumps. We don't want to be doubling 
+if they have a nine-card fit. 
+
+If opener bids he is letting them off the hook. However, if the opener has a six card suit 
+with minimal values and no interest in penalizing the opponents, he can rebid the suit. 
 With a better hand, he can pass first and pull partner's double to show a better hand. 
 With a still-better hand, say 15+ HCP, opener might jump-rebid to 3♥.
 
 ::
 
-   1♥ (X) XX 1♠
+   1♥ (X) XX 2♦
     P  P  2♥
     
 With an invitational hand, responder can bid two of a major with three-card
 support. Note that we have been able to show a 3-card limit raise at the two-level. 
 The take-out double raises the threat of a 4-1 trump break, so staying low is important.
 
-Otherwise, remember that we are in an auction that is forcing to two of opener's suit.
+Otherwise, remember that we are in an auction that is forcing to two of opener's suit, 
+or notrump.
 
 ::
 
@@ -331,9 +329,7 @@ Otherwise, remember that we are in an auction that is forcing to two of opener's
 The redouble made the auction forcing to two of opener's suit, so you cannot pass. 
 The opener cannot double 1♠ for penalty so is giving us a chance. Now is
 the chance to show opener if you have a penalty double.  Generally you will want four
-trump to do this. Otherwise you make a natural bid.  The opponent's takeout double has
-allowed us to stay low. For example, 1N now will have a forcing auction that might have
-landed us in 2N. 
+trump to do this. Otherwise you make a natural bid.  
 
 Note that a bid like 2♣ here is forcing -- we have not yet reached 2♥.  Bids like that
 can help us sort out the best place to play.
@@ -347,8 +343,20 @@ We cannot pass. We have promised partner we would compete to 2♠. With a hand l
 xx Jxx AQxx KJxx we can just bid 2♠.
 
 These auctions are a little trickier in matchpoints, where setting them might not be
-enough.  Pay attention to the vulnerability.  Getting a 200 for setting them one doubled
-vulnerable is going to beat any part score, but 100 might not be enough.
+enough.  Pay attention to the vulnerability.  
+
+When we do leave in a penalty double, lead a trump even if it is uncomfortable. 
+We have the majority of the points and if they don't have a fit they are in trouble 
+unless they can make their trumps separately.
+
+I highly recommend Wolpert's lessons on this subject. These auctions are difficult 
+for everyone. That's why I recommend using Jordan 2NT for a three-card raise until
+you are very experienced.
+
+When you are on the other side of it, after (1♥) X (XX), your partner has shown 
+support for the other suits.  If you have no clear preference you can pass, saying to
+your partner, we're in trouble, I don't have a clear direction, you choose. A redouble 
+by our side is an SOS.
 
 Takeout Double Over A Preempt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -593,3 +601,32 @@ a great long major and want it led.
    it is my lead.  Oh well, at least I reminded myself what to lead, but I also
    told the declarer.
    
+Is That Penalty?
+----------------
+
+When your partner doubles in the middle of an auction it is difficult to understand 
+what it means some times. When in doubt:
+
+* If you partner was forced to bid and doubled, it's for penalty.
+* If your partner was not forced to bid, it is showing extra values and is takeout 
+  (perhaps not perfectly) and often game forcing.
+  
+For an example of the first::
+
+   1♠ (X) XX (2♥)
+   P  (P) X
+   
+The first double is takeout, the second is the redouble that shows |10ormore| points, 
+and the third one is game forcing.  The auction is forcing to 2♠ so that third double 
+is a penalty double of hearts because the third player was forced to bid over 2♥. 
+That isn't to say opener will leave it there, but he can.
+
+But::
+
+   1♦ (X) XX (2♥)
+   P  (P) X
+   
+This time the auction is not forcing so the double shows extra values and is game 
+forcing. (Logic: we already knew responder had at least 10 points, so if he is showing
+extras we have game values. Lacking a hand with clear direction, he doubles to ask 
+partner to further describe their hand. 

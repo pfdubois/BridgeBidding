@@ -71,5 +71,5 @@ Here are general principles to guide you:
 #. Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
    thing you can, you're saying you don't have 8 good points. Just because it is a 
    competitive auction doesn't mean to always go low. 
-   
+         
 Look for a reason to bid, not a reason to pass.

@@ -231,8 +231,7 @@ response):
   invitational values.
 * 15 - 17 is :term:`game try` territory. We *might* have a game. More about that later.
   But note that opener must be unbalanced or they would have opened 1N.
-* 18 - 19 is almost enough for game even if responder has a minimum. We are anxious to
-  show this by rebidding 2N if possible. We'll even bypass a major to do that.
+* 18 - 19 is almost enough for game even if responder has a minimum. 
 * 20-21 is game forcing. We might even be in a slam hunt.
 
 Minor openings often lead to the following scenario: responder bids a major,
@@ -253,11 +252,12 @@ those bids responder will have to be invitational or better.
 .. rubric::
    The Auction 1m - 1M
 
-If responder has bid a major M, and opener has four in that major, he will 
-raise. Responder has an unlimited hand; all we know is that he has six or more points.
-So opener can raise to 2M at least, and 4M if he has 19+ points (because 19 + 6 are 25).
-The 3M bid says, partner, if you've got something more than six, say nine, take us
-to game or start looking for slam if appropriate. Opener has a good 15 to 17 points.
+If responder has bid a major M, and opener has four in that major, he will
+raise. Responder has an unlimited hand; all we know is that he has six or more
+points. So opener can raise to 2M at least, and 4M if he has 18/19+ points
+(because 19 + 6 are 25). The 3M bid says, partner, if you've got something more
+than six, say nine, take us to game or start looking for slam if appropriate.
+Opener has a good 15 to 17/18 points.
 
 With an unbalanced hand that does not have four of partner's major, opener should
 bid 1♠ over 1♥ with four spades, bid an unbid suit, or rebid his opening
@@ -318,14 +318,18 @@ An opener who is 4=1=4=4 is going to be shocked to hear a 4♥ bid.
 The priorities therefore are:
 
 * Raise partner;
-* Bid 1♠, forcing
-* Bid 1N with a balanced minimum hand.
+* Bid 1♠, forcing if unbalanced;
+* Bid 1N with a balanced minimum hand; 
 * Bid 2N with a balanced 18-19 HCP.  This does not deny any major you may skip over:
 
   - 1♦ - 1♥ - 2N does not deny having four spades
   - 1♦ - 1♠ - 2N does not deny having four hearts
+  
+  Note: Opener rebidding 2N always shows this strength of 18-19, including the auction 
+  1m - 1N - 2N. Of course, we are denying a fit if responder bid a major, but we're 
+  not denying four in the other major.
 
-* Bid 3N with 20-21 points.
+* Bid 3N with a balanced 20-21 points.
 
 .. note::
    The system we use after :ref:`opening a notrump <strong1N>`
@@ -399,9 +403,10 @@ Notes:
 * Opener's splinters show a nine-card fit but do not show extra values. This is
   also a general principle of 2/1 auctions. We will discuss more of these principles
   in the section on 2/1 auctions for a major.
-* Some may be more comfortable bidding 2♦ only if they don't have a major, relying on
-  the 2M bids not being a reverse.  I think the concern with this is possibly losing a 
-  diamond fit.
+* Some may be more comfortable as opener bidding their four-card majors up the line, 
+  bidding 2♦ only if they don't have a major and can't support clubs.  I think the 
+  concern with this is possibly losing a diamond fit. However, this auction is rare
+  and possibly not worth a lot of extra memory work so this is ok.
 
 .. rubric::
    The Auction 1m - 1N

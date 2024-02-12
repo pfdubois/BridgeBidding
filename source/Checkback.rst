@@ -216,6 +216,14 @@ When responder does not use NMF:
  
 Note also how responder with a six-card major is relying on opener not being short
 in any suit, so that a 6-2 fit at least has been found.
+
+.. rubric::
+   Notes
+   
+New Minor forcing is off if the opponents have made an overcall but it is on 
+over a double. The reason is that the cue bid of the opponent's suit is available
+as a forcing bid after an overcall. Over a double, we don't have that so need the forcing
+pattern.
   
 Checkback Stayman seems to be almost historical now, but it is an agreement that the 
 "new minor" is always clubs, new or not.  2♦ can then be non-forcing, like 2♥.
