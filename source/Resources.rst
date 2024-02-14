@@ -1,4 +1,6 @@
 
+.. _Resources:
+
 Resources
 =========
 
@@ -33,6 +35,8 @@ Books
    2008.  A workbook is also available.  This book contains the alternative
    hand evaluation method that Bergen devised in full detail, also with
    great details about control bidding and useful slam conventions.
+   
+#. :title:`Lebensohl`, by Eric Rodwell. Devyn Press, Louisville, KY, 2005.
 
 #. :title:`The Weak No-trump: How to Play It, How to Play Against It`, by Andy Stark.
 

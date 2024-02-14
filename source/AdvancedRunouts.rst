@@ -1,11 +1,13 @@
-
-Advanced Runouts
-================
-
 .. index::
    single: runouts after 1N is doubled
    
 .. _AdvancedRunouts:
+
+.. include:: ../rst_prolog.txt
+
+Advanced Runouts
+================
+
 
 Introduction to Runouts
 -----------------------
@@ -79,12 +81,12 @@ A great combination is to play :ref:`Meckwell <Meckwell>` and Meckwell Escapes.
 
   Opener bids 2♣!(forced).
   
-  Next, responder passes or bids 2♦ with 5 cards in the minor, or 2♥! shows 4-4 majors
-  or better.
+  Next, responder passes or bids 2♦ with |5ormore| cards in the minor, or 2♥! 
+  shows 4-4 majors or better.
   
 * 2♣ promises clubs and a higher suit, 4-4 at least. 
 * 2♦ promises diamonds and a higher suit, 4-4 at least. 
-* 2♥ and 2♠ are natural five-card suits.
+* 2♥ and 2♠ are natural |5ormore|-card suits.
 * Redouble is natural, not forcing. You think we can make 1N.
 * Texas transfers are on.
 

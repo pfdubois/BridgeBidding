@@ -1,4 +1,5 @@
- 
+.. include:: ../rst_prolog.txt
+
 .. _Lebensohl:
 
 .. index::
@@ -9,20 +10,23 @@ Lebensohl
 
 The Lebensohl idea is perhaps the key idea of advanced bidding. This idea is
 applicable in a wide variety of competitive situations, but
-most begin by learning it as a way of dealing with interference over a 1N
+we begin by learning it as a way of dealing with interference over a 1N
 opener. It can also be used after partner doubles a 2-level preempt or
 when opponents interfere over a 2♣ opener, or after an opener's reverse, and in other 
-competitive situations.  We will begin with the defense to 1N overcalls, and
-cover the other situations later.
+competitive situations.  We cover the other situations later.
 
 What these seemingly different situations have in common is that
 a bidder has to differentiate different hand types but is running out of room to do 
 so at a reasonable level. While frequently the word Lebensohl is used to refer to
-a bid of 2N, that's really a misuse.  Rather, 2N as Lebensohl is the signature bid of an
-idea.
+a bid of 2N relaying to 3♣, that's really a misuse.  Rather, 2N as a relay to 3♣ is 
+the signature bid of an idea.
 
 A variant, Transfer Lebensohl, is becoming popular
 among experts. A lesson on it is available from Gavin Wolpert at wolpertbridge.com.
+
+There never was a player named Lebensohl, and Kenneth Lebensold, who got the credit
+at one time, denies having created it. So arguably the convention should be spelled 
+lebensohl.
 
 Lebensohl After We Open 1N
 --------------------------
@@ -31,100 +35,101 @@ Since life will usually be easy for us after we open 1N, opponents are motivated
 interfere.  That uses up the room we need to decide our :term:`strain` and level.  
 Lebensohl gives up one natural reply in order to effectively double the remaining space.
 
-Suit Overcalls
-~~~~~~~~~~~~~~
-
-Suppose we open 1N and this is overcalled at the two-level. Of course, if responder
+Suppose we open 1N and this is overcalled. Of course, if responder
 is weak they need do nothing. But what if responder is competitive or better?
 
-Natural bids have a marked weakness when responder has a suit lower than the
-overcalled suit. For example, suppose responder has a good club suit and enough
-values that he wishes to compete for a part-score. Consider this bidding
+For example, suppose responder has a good |5ormore| card suit and enough
+values that he wishes to compete for a part-score or a game. Consider this bidding
 sequence::
 
    1N (2♥) 3♣
 
-Responder has shown opener his club suit but not his strength. With just
-this one bid, we cannot distinguish whether responder has a competitive (say 5-6),
-invitational (8-9), or game-forcing hand (10+). This is a matter upon which the
-partnership must agree. If it is game forcing, opener does not know
-yet if responder has a heart stopper if we want to end up at 3N.
+Imagine responder has one of these two hands:
 
-On the other hand, life is easier if responder's suit is above the
-overcall, say spades here. Then 2♠ is available as a bid. Assuming we
-take that to be competitive, we still have an ambiguity in the 3♠ bid:
-is it invitational or game forcing?  And what about stoppers in their suit?
+#. ♠xxx ♥xx ♦Jx ♣KQxxxx
+#. ♠AQx ♥xx ♦Jx ♣KQxxxx
 
-After 1N is overcalled by a natural 2♣ or is doubled. Lebensohl is "off" in those 
-cases and we play our system on. A double is Stayman, 2♦ is a transfer to hearts, etc.
-(See below if their 2♣ is artificial).
+With (1), responder would like to have the contract be 3♣. With (2), responder would
+like to force to game, probably 3N or 5♣, depending on opener's heart holding.
 
-Assume the 1N is overcalled with a natural bid of 2♦, 2♥, or 2♠; or a bid that shows
-the suit bid and another unknown suit. An example is the Cappelletti 2♥, showing a
-heart and an unknown minor. We make our next bid based on the known suit.
+The one bid 3♣ cannot mean two things. It is ambiguous. 
 
-Responder now must distinguish both what kind of hand he has, and if interested in 3N, 
-whether or not he has a stopper in the opponent's suit. 
-
-Here is the scheme:
-
-* Two-Level Bids Are To Play  
+Absent Lebensohl, a cue bid of their suit traditionally is Stayman. For example,
+1N (2♦) 3♦ is Stayman. Suppose opener bids spades but you have four hearts. Can you
+bid 3N without a stopper?  If opener had neither major, can he bid 3N without a stopper?
+It's ambiguous.  
    
-  Assuming responder has a five card suit and a competitive hand, 2 of that suit, if
-  it is biddable, shows that and is to play. Opener will pass.
+Resolving ambiguity is the heart of Lebensohl.  How do we come up with a way to express 
+these different hands?
+
+When we have a |5ormore| card suit to show, it might be:
+
+* Competitive, wanting to stop in responder's suit;
+* Invitational;
+* Game-forcing. 
+
+We will use an artificial bid, called Lebensohl 2N, to effectively double the number
+of 3-level bids available to us. This bid is called Lebensohl 2N. 
+After we bid 2N!(relay), partner must bid 3♣. Then we
+can make a three-level bid. So there are two ways, for example, to bid 3♦. Bid 3♦ right
+away, or first bid 2N!(relay) and after opener bids 3♣, bid 3♦. 
+
+Bidding immediately is called a "fast" bid; going through the relay first is
+the "slow" bid. For suits, the fast bid will be the stronger way; for Stayman,
+the slow cue bid will show a stopper, while the fast will deny one. For 3N, slow 
+will show a stopper, fast will deny a stopper.
+
+.. important:: 
+   How We Treat Artificial Bids
+
+When the intervenor has made a bid that shows one suit and an unknown second suit,
+we ignore the second suit for the moment and proceed as if they had bid the known suit.
+For example, a Cappelletti 2♥ bid shows "hearts and a minor". We'll react as if it 
+was just hearts. A D.O.N.T. bid of 2♦ shows "diamonds and a major". We'll react as if
+it was just diamonds. If the intervenor makes a bid showing two definite suits, see 
+:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.
+
+Lebensohl After A Natural Two-Level Overcall 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. rubric::
+   Lebensohl is off when they double or bid 2♣
    
-* Three-Level Bids Are Game Forcing 
+If the overcall was in clubs, or intervenor doubled, Lebensohl is off. Systems are on.
+This is also true when they make an artificial 2♣ bid or an artificial double promising
+one long suit.
    
-  Responder bidding his suit at the three-level is game forcing. An opener interested
-  in 3N at this point might make a :ref:`Western Cue <Western_Cue>` to ask for a stopper.
-  Note that the three-level bid might be a jump (1N - 2♥ - 3♠) but it isn't weak if 
-  playing Lebensohl.
+Systems on means we use our normal bids, as if they had not bid. Double is
+Stayman, 2♦ is a transfer to hearts, and so on. If they doubled for penalty, it is a
+:ref:`runout <runout>` situation. If they made an artificial double that showed 
+one definite suit, we treat it as if they had bid that suit; but when the suit is 
+unknown our system is on, and redouble is Stayman.
+
+
+.. rubric::
+   When they made a natural bid of 2♦, 2♥, or 2♠.
+
+Over their two-level overcall of 2♦, 2♥, or 2♠:
+
+* A two-level suit bid is non-forcing ("to play").
+* A three-level suit bid is game-forcing (fast bid).
+* A bid of 2N!(relay to 3♣) forces opener to bid 3♣. Now responder:
+
+  - Can pass with a weak hand with long clubs;
+  - Bid a suit of lower rank than the overcall as a signoff (slow bid); or
+  - Bid a suit of a higher rank than the overcall as invitational.
   
-  Cue-bidding their suit at the 3-level is Stayman, as is normal, but when playing
-  Lebensohl it denies a stopper in the overcalled suit.
+Note that a direct three-level bid might be a jump (e.g. 1N - (2♥) - 3♠) but it
+isn't weak because if you were weak you could have just passed.
 
-* 2N Relays To Clubs, Artificial
+Further, if responder has a game-forcing hand he can show other hand types besides a 
+suit of his own:
 
-  The signature bid in Lebensohl is 2N!(relay).  This is an artificial bid over the 
-  overcall, and demands that opener bid 3♣!(forced). This 2N bid says nothing about 
-  his hand except that it is at least invitational.
-  
-  What responder does next will tell the story. It could be Stayman with a stopper,
-  a competitive bid in a suit lower-ranked than the overcall, an invitational bid in
-  a suit higher-ranked than the overcall, or a bid of 3N promising a stopper.
-
-  The presence or absence of the relay is used to show hand strength and to clarify the 
-  stopper situation for notrump. We gain all this flexibility at the price of giving up
-  2N as a balanced invitational bid. 
-
-  The "lower-ranked" and "higher-ranked" are because when responder has a suit of 
-  lower rank than the overcall, he cannot make the 2-level "drop dead" competitive bid.
-  But when responder has a higher-ranked suit, he can, so the relay can be used
-  to differentiate the 3-level suit bid as invitational or game forcing. 
-  
-  Likewise, bidding 3N we can differentiate between having a stopper and not having 
-  a stopper. Going through the relay to 3N promises a stopper, and going through the
-  relay to a 3-level bid is invitational. 
-  
-  Finally, going through the relay and then cue-bidding is Stayman but promises a
-  stopper.
-
-Summary:
-
-* If responder can bid his suit at the two-level, it is to play.
-* If responder bids his suit at the three-level after a relay, it is weaker than if he 
-  bids it immediately. It is to play if there was no way to bid it at the 2-level.
-  Bidding it immediately is game-forcing.
-* If responder bids the opponent's suit after a relay, he has game-forcing values and
-  a stopper. The bid is Stayman. This is referred to as Stayman with a stopper.
-* If responder bids the opponent's suit directly, he has game-forcing values but no
-  stopper. This is referred to as Stayman without a stopper.
-* If responder bids 3N after a 2N relay, he has a stopper. Slow shows.
-* If responder bids 3N immediately, he does not have a stopper. Fast denies.
-
-Put another way, when the responder's suit is higher-ranked the overcall, there are three
-possible bids: the two-level bid is competitive; the slow three-level
-bid is invitational; and the fast three-level bid is game-forcing.
+* An "fast" :term:`cue bid` is Stayman and denies a stopper in their suit.
+* A "slow" cue bid is Stayman and shows a stopper. ("Slow shows").
+* An immediate bid of 3N over the overcall denies an unbid four-card major and denies
+  a stopper.
+* A "slow" 3N bid denies an unbid four-card major and shows a stopper.
 
 One can also still make normal bids at the four-level.
 
@@ -134,6 +139,18 @@ One can also still make normal bids at the four-level.
    six-card major game-force at the three level first.
 -  4♠! (rare) invites opener to pick a minor game.
 -  4N is invitational to 6N and of course promises a stopper.
+
+The sharp-eyed reader will have noticed that there is no way to invite in notrump
+(we gave it up for the Lebensohl 2N), and there is no way to invite in a suit of
+lower-rank than the overcall. The explanation for the suit bids is that when 
+responder has a higher-ranked suit S he has three ways to bid it:
+
+* 2S -- to play
+* 2N relay then 3S -- invitational
+* 3S -- game-forcing
+
+But when the suit S is lower-ranked, the 2S bid does not exist, so the relay has to 
+mean the "to play" bid and we just don't have an invitational bid.
 
 .. rubric::
    Examples 
@@ -161,7 +178,7 @@ For the Stayman cases:
 After this the Stayman dance is modified in obvious ways. For example,
 in these auctions, opener without a four-card major will have to bid:
 
-- 3N if he has no four-card major and either has a diamond stopper or was
+- 3N if he has no unbid four-card major and either has a diamond stopper or was
   promised one by responder, or
 - 4♣ to show responder that we lack a major fit or a diamond stopper.
 
@@ -176,6 +193,9 @@ in these auctions, opener without a four-card major will have to bid:
 .. rubric::
    Lebensohl and  Doubles
 
+.. rubric::
+   Is Double Penalty?
+   
 Lebensohl per se does not say what a double of the overcall means. Two choices are:
 
 -  A double is penalty-oriented, or,
@@ -183,46 +203,47 @@ Lebensohl per se does not say what a double of the overcall means. Two choices a
    takeout-oriented it promises 2 or 3 in their suit. This allows
    opener to pass for penalty without running into some massive fit for them. 
 
+Rodwell's pamphlet on Lebensohl says to play it for penalties.
+
 A reopening double by opener of an overcall in fourth seat is for takeout.
 
+The remainder of this section is less well standardized. I give some common-sense
+suggestions.
 
-Artificial Overcalls
-~~~~~~~~~~~~~~~~~~~~
-
-If an overcall shows a definite suit plus an unspecified suit, bid as if
-the specified suit were overcalled unless and until the second suit
-becomes specified.
-
-If they have shown two definite suits, Lebensohl is off. 
-I like to use the spirit of the 
-:ref:`General Defense To Two-Suited Bids <defense_two_suited>`, letting the invisible cue 
-bids show a game-forcing bid of responder's suit using the lower-lower concept, and 
-letting double show a penalty double of one of their suits. Bidding one of "our" two 
-suits naturally is competitive.
-
-When we speak of the overcalled suit or suits, we mean the ones their bid
-*meant*, not the artificial one actually bid. 
-
-A more traditional approach is to use natural bids in our suits as game-forcing,
-and cue bidding one of their suits to show a stop in it but at most a half-
-stopper in the other, but with game values. Bidding notrump of course shows both.
-Doubling says you have a penalty double in at least one of their suits.
- 
 Three-level Overcalls
 ~~~~~~~~~~~~~~~~~~~~~
 
-Over three-level overcalls, Lebensohl doesn't apply. 
+Over three-level overcalls, we obviously cannot use the Lebensohl 2N bid. A suggestion:
 
 -  A double is for takeout, showing support for the other three suits.
 -  Bids at the three level are natural, one-round forcing, and
--  3N, 4♥, 4♠, 5♣, and 5♦ are to play.
+-  3N, 4♥, 4♠, 5♣, and 5♦ are to play. I suggest 3N promises a stopper. 
+-  A cue bid is Stayman, or may show slam interest lacking a four-card major:
 
-If the overcall is in a minor, a cue bid is Stayman, or may show slam
-interest lacking a four-card major.
+   * 1N (3♦) 4♦ – 4♥ – 4N (to play)
+   * 1N (3♦) 4♦ – 4N(no major) - Pass
+   * 1N (3♦) 4♦ – 4? – 5♣ (slam interest in clubs)
 
-* 1N (3♦) 4♦ – 4♥ – 4N (to play)
-* 1N (3♦) 4♦ – 4N(no major) - Pass
-* 1N (3♦) 4♦ – 4? – 5♣ (slam interest in clubs)
+.. _Lebensohl2Suits:
+
+Two-Suited Overcalls
+~~~~~~~~~~~~~~~~~~~~
+
+If their overcall shows two definite suits, Lebensohl is off. I like to use the
+spirit of the :ref:`General Defense To Two-Suited Bids <defense_two_suited>`,
+letting the invisible cue bids show a game-forcing bid of responder's suit
+using the lower-lower concept, and letting double show a penalty double of one
+of their suits. Bidding one of "our" two suits naturally is to play if we can
+bid it at the 2-level.
+
+When we speak of the overcalled suit or suits, we mean the ones their bid
+*showed*, not the artificial one actually bid. E.g. a Cappelletti 2♦ meaning 
+"both majors" makes the two major suits "theirs" and diamonds is one of "ours".
+
+Doubling says you have a penalty double in at least one of their suits.
+
+Rodwell in :title:`Lebensohl` (See :ref:`Resources <Resources>`) has a more
+complicated scheme.
 
 .. _Lebensohl_Applications:
 
@@ -276,12 +297,12 @@ by-passed in order to show your four-card major.
 
 If you just bid 3♣ as a preference, that's ok – until the next time when
 you have a better hand and can't bid 3♣ because the partnership has
-decided it is weak. Hmm. This sounds familiar – it is the same dichotomy
+decided it is to play. Hmm. This sounds familiar – it is the same ambiguity
 as 1N (2♥) 3♣ – what does it mean? And the dilemma has the same solution –
 Lebensohl.
 
 So, for example, a direct bid of 3♣ over a 2♥ reverse is game-forcing. A
-“slow” trip to 3♣ via 2N, let's you pass and stop there.
+“slow” trip to 3♣ via 2N, lets you pass and stop there.
 
    
 .. _SimplifiedLebensohl:

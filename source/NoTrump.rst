@@ -833,6 +833,8 @@ really are legion at the advanced-intermediate level.
 
 .. index:: runout
 
+.. _runout:
+
 Run For Your Life
 ~~~~~~~~~~~~~~~~~~
 

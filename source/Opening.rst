@@ -79,20 +79,38 @@ Choosing An Opening Bid
 -----------------------
 
 The rules are simple and depend only on your strength and shape. Choose the first bid in 
-the following list that applies:
+the following lists that applies:
 
 * If a preempt is appropriate, make it.
-* Open 1N or 2N or 2♣ if you can.
-* Open the longest five-card or longer suit at the one-level. If you have two of them
-  that are the same length, open the higher ranked (e.g. spades if you have spades and 
-  clubs).
+* Open 2♣ with |22ormore| points.
+* Open 2N if you have a balanced hand with 20-21 points. 
+* Open 1N if you have a balanced hand with 15-17 points.
+
+If you have 12-21 points (or an 11 HCP hand with an AK in one suit and another A):
+
+* Open the longest five-card or longer suit at the one-level. If you have two suits
+  that are the same length, open the higher ranked.
 * Open 1♦ if you have four diamonds and four or fewer clubs.
-* Open 1♦ if your shape is 4=4=3=2.
+* Open 1♦ if your shape is exactly 4=4=3=2.
 * Open 1♣.
 
-Sometimes you may want to open minimal hands with four diamonds and five clubs 
-by bidding 1♦ to avoid :term:`reverse` problems with your second bid.  It is never wrong 
-to open 1♣ though -- this is a choice depending on the exact hand.
+With two shapes you can consider breaking the rules:
+
+* With five clubs and four diamonds, you can open one diamond with less than 17 points.
+  You aren't strong enough to bid 2♦ on your second bid if you open 1♣, and rebidding
+  clubs usually shows |6ormore| clubs. So you can consider the qualities of each 
+  suit to choose which lie you are willing to tell. 
+* With a 4=5=2=2 hand and 14-16 points you might open 1N, as long as one of the doubletons
+  is Kx or better. You aren't strong enough to bid 2♠ on your second bid if you
+  open 1♥.
+
+::
+
+   "It's not how good, it's how many." -- Mike Moss
+   
+In following the rules for bidding, you almost always disregard the
+quality of the suits. It's all about shape. This applies to many situations, not just
+the opening bid.
 
 Opening in 4th Seat
 -------------------
