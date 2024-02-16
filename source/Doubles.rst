@@ -624,32 +624,32 @@ Is That Penalty?
 ----------------
 
 When your partner doubles in the middle of a competitive auction it is
-difficult to understand what it means some times. We're here to help:
+difficult to understand what it means some times. We're here to help.
 
-* If the double has a different agreed meaning, obviously it is not for penalty.
-  Don't forget any of the :ref:`Special Doubles <SpecialDoubles>` you might have 
-  agreed to play. Not recognizing it after review? Proceed.
+First, think whether the double has an agreed meaning.
+Don't forget any of the :ref:`Special Doubles <SpecialDoubles>` you might have 
+agreed to play. Check these:
+
 * A double of a 1N opener is penalty unless you have a different agreement.
 * A double of a 1N **overcall** is penalty. Responder has |10ormore| points.
   A little math tells you advancer has nothing.
 * A double of a 2N opener or a 2♣ opener shows a hand two-suited in the majors. 
 * A double of an artificial bid (Stayman, a transfer, etc.) is lead-directing.
 * If your partner was forced to bid and doubled, it is for penalty.
-* If your partner preempted and was overcalled, doubling is penalty.
-* When we have established a fit, doubling is penalty. We have no need for a takeout
-  bid any more.
-* When the advancer bid, such as 1♦ (1♥) something (2♥), opener's double on his second bid 
-  shows |16ormore| points. When the number of points the "something" promised is 
-  |10ormore|, the auction is game forcing. Examples:
+* The double of an overcall of a preemptive opener is penalty.
+* When we have established a fit, doubling is penalty.
+
+When the advancer bids, such as 1♦ (1♥) [banana] (2♥), opener's double on his second bid 
+shows |16ormore| points. When the number of points the "banana" promised is 
+|10ormore|, the auction is game forcing. Examples:
   
   - 1♦ (1♥) 2♣ (2♥) X -- |16ormore| points, game forcing, 2♣ promised |10ormore| points.
   - 1♦ (1♥) X  (2♥) X -- |16ormore| points, *not* game forcing because the negative
     double only promised 6 HCP. 
-* This principle applies also when the "something" was a Pass, but has support for the
-  unbid suits and enough points and shape to compete to the three-level. 
-  Lacking the correct shape opener may have to pass.  
-* In a competitive auction, if your partner was not forced to bid and doubles, it is 
-  often showing extra values and is takeout (perhaps not perfectly shaped).
+    
+This principle applies also when the "banana" was a Pass, but the opener needs
+support for the unbid suits and enough points / shape to compete to the
+three-level. Lacking these, opener may have to pass.  
 
 Remember that **any** double can be passed to "convert" it to penalty. If you're wrong,
 it's on you. Any penalty double can be :term:`pull`\ ed, and again if you're wrong it is

@@ -393,10 +393,10 @@ Glossary
       A method of escaping from a penalty double, such as a double of a 1N opener.
 
    splinter
-	  A triple-jump bid showing a stiff or a void in the suit bid and agreeing to 
-	  partner's last-bid suit as trump. Examples are 1♠ - 4♥!, 1♥ - 4♣!, and the 
-	  tricky one, 1♥ - 3♠!.
-	  
+      A triple-jump bid showing a stiff or a void in the suit bid and agreeing to 
+      partner's last-bid suit as trump. Examples are 1♠ - 4♥!, 1♥ - 4♣!, and the 
+      tricky one, 1♥ - 3♠!.
+ 
    flat
       A flat hand is one with a shape of 4333. The most frequent shapes are 5332,
       4432, and 4333.  These hands are called balanced. They often take fewer tricks than
