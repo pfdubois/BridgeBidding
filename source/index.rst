@@ -27,14 +27,14 @@ Bridge Bidding
    TwoNT
    TwoClubs
    Preempts
-   Competition
+   Doubles
    CompetingSuit
    CompetingNT
    TwoSuitedDefense
    Balancing
-   Doubles
    Freaks
    JS
+   Competition
    Slam
    Conventions
    SpecialDoubles

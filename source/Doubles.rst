@@ -5,8 +5,12 @@
    
 .. _Doubles:
 
-Basic Doubles
-=============
+Doubles
+=======
+
+We now begin the study of what to do when the opponents compete with us.  While we 
+have seen glimpses of this in individual situations, most competition does not follow
+a simple pattern. So buckle up.
 
 Negative doubles and takeout doubles are really crucial parts of competitive bidding.
 Even though they are so basic, there are a frightening number of players who do not
@@ -18,8 +22,10 @@ called a :term:`business double`, means a double made with the intent to make
 the opponents play the doubled contract, planning to set them. In between
 is a :term:`cooperative double`, which wags call "Partner Do Something". 
 
-A :term:`negative double` is used to tell partner about your hand after his opening bid 
-has been overcalled. 
+Back in the Whist era, a double meant "double stakes" on the hand. When they said, 
+"business double", they meant real cash. However, especially
+at low levels, the opportunities for successful penalty doubles are rare. So, a large 
+number of different doubles have become part of the game.
 
 Any double can of course be "left in" by passing, converting it to penalty, and
 any double can be taken out. But, most of the time you should respect your
@@ -289,10 +295,20 @@ Only if we have a big hand do we bid again. We don't bid notrump.
 .. _blood:
 
 After 1s (X) XX, the auction is forcing to two of opener's suit. Our side has the 
-majority of the points and if they don't have a fit, they are in trouble. You can
-make this redouble even if you are a passed hand. Let's suppose the doubler's partner 
-bids his best suit. Notice that he doesn't have many points, because the opener and the 
-doubler each have shown an opening hand, and we have |10ormore|. 
+majority of the points and if they don't have a fit, they are in trouble. Gavin 
+Wolpert calls this "Going For Blood".
+
+You can make this redouble even if you are a passed hand. Let's suppose the
+doubler's partner bids his best suit. Notice that he doesn't have many points,
+because the opener and the doubler each have shown an opening hand, and we have
+|10ormore|. 
+
+.. note:: 
+   The doubler's partner may pass if he has no preference among the unbid suits.
+   For example, after 1♦ (X) XX, an advancer with weak hand and a shape (34)=2=4 does 
+   not want to decide among the two major suits, fearing partner might end up in 
+   a 6-card rather than a 7- or 8-card fit. The takeout doubler will pick his best. 
+   The ideas in the following discussion remain the same after that.
 
 ::
 
@@ -349,6 +365,9 @@ When we do leave in a penalty double, lead a trump even if it is uncomfortable.
 We have the majority of the points and if they don't have a fit they are in trouble 
 unless they can make their trumps separately.
 
+.. index::
+   pair:blood;Gavin Wolpert
+   
 I highly recommend Wolpert's lessons on this subject. These auctions are difficult 
 for everyone. That's why I recommend using Jordan 2NT for a three-card raise until
 you are very experienced.
@@ -604,29 +623,54 @@ a great long major and want it led.
 Is That Penalty?
 ----------------
 
-When your partner doubles in the middle of an auction it is difficult to understand 
-what it means some times. When in doubt:
+When your partner doubles in the middle of a competitive auction it is
+difficult to understand what it means some times. We're here to help:
 
-* If you partner was forced to bid and doubled, it's for penalty.
-* If your partner was not forced to bid, it is showing extra values and is takeout 
-  (perhaps not perfectly) and often game forcing.
+* If the double has a different agreed meaning, obviously it is not for penalty.
+  Don't forget any of the :ref:`Special Doubles <SpecialDoubles>` you might have 
+  agreed to play. Not recognizing it after review? Proceed.
+* A double of a 1N opener is penalty unless you have a different agreement.
+* A double of a 1N **overcall** is penalty. Responder has |10ormore| points.
+  A little math tells you advancer has nothing.
+* A double of a 2N opener or a 2♣ opener shows a hand two-suited in the majors. 
+* A double of an artificial bid (Stayman, a transfer, etc.) is lead-directing.
+* If your partner was forced to bid and doubled, it is for penalty.
+* If your partner preempted and was overcalled, doubling is penalty.
+* When we have established a fit, doubling is penalty. We have no need for a takeout
+  bid any more.
+* When the advancer bid, such as 1♦ (1♥) something (2♥), opener's double on his second bid 
+  shows |16ormore| points. When the number of points the "something" promised is 
+  |10ormore|, the auction is game forcing. Examples:
   
-For an example of the first::
+  - 1♦ (1♥) 2♣ (2♥) X -- |16ormore| points, game forcing, 2♣ promised |10ormore| points.
+  - 1♦ (1♥) X  (2♥) X -- |16ormore| points, *not* game forcing because the negative
+    double only promised 6 HCP. 
+* This principle applies also when the "something" was a Pass, but has support for the
+  unbid suits and enough points and shape to compete to the three-level. 
+  Lacking the correct shape opener may have to pass.  
+* In a competitive auction, if your partner was not forced to bid and doubles, it is 
+  often showing extra values and is takeout (perhaps not perfectly shaped).
+
+Remember that **any** double can be passed to "convert" it to penalty. If you're wrong,
+it's on you. Any penalty double can be :term:`pull`\ ed, and again if you're wrong it is
+on you.  Long-term partnership trust is more important than being right on one hand.
+  
+Example::
 
    1♠ (X) XX (2♥)
    P  (P) X
    
-The first double is takeout, the second is the redouble that shows |10ormore| points, 
-and the third one is game forcing.  The auction is forcing to 2♠ so that third double 
-is a penalty double of hearts because the third player was forced to bid over 2♥. 
-That isn't to say opener will leave it there, but he can.
+Their double is takeout, the redouble shows |10ormore| points forcing to 2♠.
+The responder was forced to bid over 2♥,
+so his double is for penalty. That isn't to say opener will leave it there, but he can.
 
 But::
 
    1♦ (X) XX (2♥)
    P  (P) X
    
-This time the auction is not forcing so the double shows extra values and is game 
+This time the auction is not forcing because we are above two of the opening suit. 
+So responder's double shows extra values and is game 
 forcing. (Logic: we already knew responder had at least 10 points, so if he is showing
-extras we have game values. Lacking a hand with clear direction, he doubles to ask 
-partner to further describe their hand. 
+even more than that we have game values. Lacking a hand with clear direction, he doubles 
+to ask partner to further describe their hand. 

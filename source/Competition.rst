@@ -15,7 +15,7 @@ overcalls.
 
 Here are general principles to guide you:
 
-#. Do not bid your same values twice.
+* Do not bid your same values twice.
 
    For example, you open 1♥, LHO overcalls 1♠, your partner bids 2♥, and RHO 
    raises to 2♠. Do you now compete to 3♥?
@@ -32,7 +32,7 @@ Here are general principles to guide you:
    for the three level, all the more so with four trumps. Vulnerable, with only
    three trumps, a double might get you to the dreaded -200.
 
-#. Another guideline is the "Law of Total Tricks", which says that with a fit,
+* Another guideline is the "Law of Total Tricks", which says that with a fit,
    the total number of tricks available in the hand is the sum of the lengths
    of the trump holdings. For example, in a competitive auction where they have
    shown an 8 card spade fit and we have a 9 card heart fit, there are 17 Tricks
@@ -42,17 +42,7 @@ Here are general principles to guide you:
    In particular just remember that with 4 trump in support you're not going to get too    
    burned at the three level. 
 
-#. Extreme shapes call for extreme measures. 
-   Read Marty Bergen's famous book, "Points Schmoints". If you have a double fit, or you 
-   have a 6 - 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
-   
-#. To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`, such as when your LHO opens 
-   followed by two passes or when the opponents are about to be able to play a major
-   at the two level. As a simple guideline, bid as though you had one more King in 
-   your hand, and your partner in reply will bid as though he had one fewer. 
-   Be sure to balance properly and you'll be a valued partner. 
-
-#. A passed hand is not always a poor hand. If your partner passed 
+* A passed hand is not always a poor hand. If your partner passed 
    after LHO opened, it may be that he did not have enough to overcall. It 
    may also be that he did have enough, but didn't have a long enough suit, or his 
    suit is the one LHO bid. That's completely different from your partner
@@ -61,15 +51,45 @@ Here are general principles to guide you:
    as "Partner has less than an opener." We'll see this at work in the section on
    reopening with a double.
 
-#. Realize when you are "off the hook". Your partner makes a takeout double, but
+* Realize when you are "off the hook". Your partner makes a takeout double, but
    your RHO bids over it.  Or, your partner makes an :ref:`Unusual 2N <unusual>` bid but 
    RHO intervenes.  You're off the hook!  You do not have to bid unless you have a 
    worthwhile thing to say. When you do make such a "free" bid, your partner will infer 
    that you have some reason to bid; when you bid because you have to, he cannot make 
    such an inference.
    
-#. Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
+* Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
    thing you can, you're saying you don't have 8 good points. Just because it is a 
    competitive auction doesn't mean to always go low. 
+   
+* Competing with balanced hands (e.g. 5332) but no fit is never as good as it looks. 
+   Lean toward defending.
+   
+* If you have no defensive values, lean toward competing with something positive like
+   and extra trump.
          
+* Extreme shapes call for extreme measures. 
+   Read Marty Bergen's famous book, :title:`Points Schmoints`. If you have a double fit, 
+   or you have a 6 - 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
+   
+* To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`. As a simple 
+   guideline, bid as though you had one more King in your hand, and your partner in 
+   reply will bid as though he had one fewer. At matchpoints, if your opponents are
+   attempting to pass out two of a major, try very hard to balance.
+   Be sure to balance properly and you'll be a valued partner. 
+   
+* If partner balances, but the opponents "take the push" by going one higher, we 
+  don't double and we don't raise.  For example::
+  
+     (1♥) P (2♥)  P 
+     (P ) X (P)  2♠
+     (3♥) 
+     
+   The balancing double here borrowed a King in strength from partner. Neither of us
+   should now bid 3♠ or double for penalty. The balance did its job. They might go down
+   one now being a level too high. If they don't, we weren't likely to make 3♠.
+     
+* Do not "sacrifice" against a part-score. Do not sacrifice vulnerable. Be hesitant 
+  about sacrificing at the five-level. 
+     
 Look for a reason to bid, not a reason to pass.
