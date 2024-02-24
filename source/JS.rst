@@ -41,7 +41,7 @@ For example:
 A jump-shift could also be a conventional bid, such as a 
 Bergen raise, or the special cases such as 1♦ - 3♣ where it is invitational.
 Another alternative is to play 
-:ref:`fit-showing jumps <fit_showing>`. Those are great but a little tricky.
+:ref:`fit-showing jumps <fit_showing_jump>`. Those are great but a little tricky.
 
 Now let's consider the auction with no interference.
 

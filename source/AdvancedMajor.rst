@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 Advanced Major Auctions
 =======================
 
@@ -22,7 +24,7 @@ Two-way Reverse Drury is a partnership modification of
 :ref:`Reverse Drury <Reverse_Drury>`. In
 Reverse Drury, we bid 2♣! as a passed hand to show a limit raise or better of
 opener's major. In Two-Way, we bid 2♦! to show a limit raise with four or more
-trump, and reserve 2♣! to show a limit raise with exactly three card support.
+trump, and 2♣! to show a limit raise with exactly three card support.
 
    
 Bergen Raises
@@ -34,21 +36,17 @@ Bergen Raises
    pair: raise; major
    pair: convention; Bergen raise (of a major)
 
-Bergen Raises are an option; again, some people do not play them because of the
-difficulty of recognizing them, or thinking something is Bergen when it isn't.
-Do not try them until you are experienced in the standard raise structure.
+Bergen Raises emphasize distinguishing three-card from four-card limit raises. 
+A four-card raise has a great deal more potential for game than a three-card 
+raise. Also, we get a :term:`mixed raise` and a :term:`preemptive` raise.
 
-The emphasis is on distinguishing three-card from four-card limit raises. 
-A four card raise has a great deal more potential for game than a three-card 
-raise.
-
-With 4+ cards,
+With |4ormore| cards,
 
 - 1M - 2M 6-10 HCP with 3 cards in M; or a good five points, particularly Axxx in 
   trumps.
-- 1M – 3M! 2-6 preemptive, 4 card raise
-- 1M – 3♣! 7-9 constructive 4 card raise
-- 1M – 3♦! 10-11 limit 4 card raise
+- 1M – 3M! 2-6 preemptive, 4-card raise
+- 1M – 3♣! 7-9 constructive (mixed) 4-card raise
+- 1M – 3♦! 10-11 limit 4-card raise
 - 1M - 1N forcing may have 10-12 and 3 trump.
 - 1M – 2N! 13+ game forcing 4-card raise. (Jacoby 2N)
 
@@ -68,9 +66,6 @@ available step, responder shows the suit by making step rebids:
   Responses are 3N! clubs, 4♣ diamonds, 4♦ hearts
 
 Note the collision here with the normal splinter or jump shift meaning.
-
-When Is It Not Bergen?
-~~~~~~~~~~~~~~~~~~~~~~
 
 Bergen raises are off:
 
@@ -104,6 +99,28 @@ the responder. Therefore, constructive raises are least disruptive when used
 only when 1N is already forcing, such as in 2/1 by unpassed hands. Or, you have 
 to play 1N as "semi-forcing", announce it, and have your opponents laugh and ask, 
 "What does that mean?". (Larry Cohen says it means, "Forcing"!)
+
+.. index::
+   pair:raise; fit-showing jump
+   pair:convention;fit-showing jump
+   pair;jump-shift;fit-showing jump
+   
+
+Fit-Showing Jumps
+-----------------
+
+A fit-showing jump (or fit-jump) is a bid that shows both a limit raise for
+partner and a :term:`good`
+|5ormore|-card second suit. It is used in competitive situations instead of other 
+interpretations of a jump-shift. It can be used either by the responder or by
+an advancer whose partner has bid. The competition can be a takeout-double or a
+suit bid.
+
+The raise is usually |4ormore| cards for a major, and |5ormore| for a minor. A
+three-card raise of a major is ok if it contains a top honor. 
+
+Since it isn't strictly for major raises, our explanation is in 
+the chapter :ref:`Advanced Jump-Shifts <fit_showing_jump>`.
 
 .. index::
    pair: convention;Kokish Game Tries

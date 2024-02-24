@@ -271,6 +271,20 @@ The solution is to realize that (2♥) X (P) ? is not that different from
 1N (2♥) ?. We can just play Lebensohl. The doubler can refuse a 2N! relay to 
 show a strong hand.
 
+There is one more scenario that should be considered Lebensohl::
+
+   (1x) X (2x) ?
+   
+where x is not clubs. This is similar to (2x) X (P) ? Thus, play 2N here as
+the relay to clubs.  This means:
+
+* 2y is to play
+* 2N is a relay to 3♣, pass or correct. To play if the suit was not biddable at the 
+  level, otherwise invitational.
+* 3-level bids are game forcing. 
+
+Again, refusing the relay shows a strong hand. 
+
 .. index::
    pair:overcall of 2♣ opener;Lebensohl
    

@@ -118,8 +118,12 @@ Glossary
       Redouble
 
    good suit
-      A “good suit” is one with 2 of the top 3 honors or 3 of the top 5, but
+   good
+      A good suit is one with 2 of the top 3 honors or 3 of the top 5, but
       not QJT, and usually five or more cards.
+      
+   mixed raise
+      A raise that is better than minimal, but not enough for a limit raise.
 
    cue bid
    cue

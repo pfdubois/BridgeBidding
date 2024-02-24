@@ -1,3 +1,4 @@
+.. include:: ../rst_prolog.txt
 
 Advanced Jump-Shifts
 ====================
@@ -89,44 +90,48 @@ Finally, it is time for responder to make his second bid:
   an outside singleton; the latter because:
 * A new suit is a splinter in support of partner.
 * Now or later, RKC is for the jump-shift suit unless you've raised the opener before it.
-
+   
 .. index::
-   pair:jump shift; fit-showing
+   pair:raise; fit-showing jump
+   pair:convention;fit-showing jump
+   pair;jump-shift;fit-showing jump
+   
 
-.. _Fit_Showing:
+.. _fit_showing_jump:
 
-Fit-Showing Jump Shifts
------------------------
+Fit-Showing Jumps
+-----------------
 
-Suppose you're a passed hand and your partner opens. SAYC defines a jump-shift
-by responder as showing a good hand with a good suit -- a hand you nearly
-opened; you're doing the jump to emphasize to partner that game is nigh. For
-example, after a P - 1♣, you might bid 2♠ with ♠KQJxx ♥Axx ♦Jxx ♣xx. However,
-this may be too high if partner is a bit light. And, if you have support for
-partner's major, you have reverse Drury as a tool.  So many good players retask
-the passed-hand jump-shift as a "Fit-showing Jump Shift". You'll note that the
-ideas are similar to the 'fit for you with a good side-suit' case in Soloway
-Jump-Shifts.
+A fit-showing jump (or fit-jump) is a bid that shows both a limit raise for
+partner and a :term:`good`
+|5ormore|-card second suit. It is used in competitive situations instead of other 
+interpretations of a jump-shift. It can be used either by the responder or by
+an advancer whose partner has bid. The competition can be a takeout-double or a
+suit bid.
 
-The bid has four requirements:
+The raise is usually |4ormore| cards for a major, and |5ormore| for a minor. A
+three-card raise of a major is ok if it contains a top honor. 
 
-#. A good five-card suit.
-#. 4+ support for partner. When it is a terrific 3-card holding in partner's major, you
-   have Drury, so use it. (Some allow the fit-showing jump shift in this case.)
-#. Maximum HCP (10-12).
-#. Good distribution, usually a singleton.
+The purpose of the bid is to help the opener evaluate his hand and determine how high
+to compete. A double-fit is a notoriously good thing.
+
+When there is room for both a splinter and a fit-jump, the lower one is the fit-jump.
+When there isn't room for both, the jump is a splinter. (You and your partner could 
+agree on it always being the fit-jump). 
+
+For example, after 1♠ (2♣):
+
+* 3♣ is a limit raise or better.
+* 3♦, 3♥ are fit-showing jumps. 
+* 4♣ / 4♦ / 4♥ are splinters.
+
+But if the overcall was 2♥, there is no room for both the splinter and the fit-jump,
+so 4♣ / 4♦ are splinters.
+
+You can also use fit-showing jumps as a passed hand.
+
+A great writeup of this method is in :title:`25 More Bridge Conventions You Should Know`.
 
 Opener in responding must remember he's just been raised! Consider the bid
 virtually forcing. What counts are your holdings in the two suits that have
 been mentioned, not so much HCP per se.
-
-* You can pass if you have have weak support for partner and have opened light.
-* Rebidding your suit is to play; partner must pass.
-* A jump to game (1♣ - 2♠ - 4♠) is a sign off.
-* A jump to 3N is to play, showing good stoppers in the unbid suits and no slam interest.
-* Raising partner's major is showing slam interest, asking for a cue-bid.
-* A new suit is a cue bid for slam in opener's suit.
-* A jump in a new suit (1♣ - 2♥ - 4♦) is a cue bid for the major; or, preferably, use
-  a minimum no-trump bid to ask partner for for his singleton. Yes, 1♥ - 3♦ - 3N is asking 
-  for the singleton, not bidding to play.
-
