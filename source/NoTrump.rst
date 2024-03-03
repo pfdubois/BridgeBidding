@@ -272,7 +272,7 @@ Major Transfers
 
 .. index::
    pair:transfer;major
-   pair:transfer;Jacoby
+   pair:transfer;Jacoby transfer
    pair:transfer;super-accept
 
 So much for hands with four card majors -- but what if you have a five-card 
@@ -327,7 +327,7 @@ After a transfer to 2M is accepted, responder bids:
 - 4♣ Gerber
 - 4N :term:`quantitative`.
 
-After a super accept, the responder decides on whether to pass or bid game
+After a super-accept, the responder decides on whether to pass or bid game
 or try for slam. He knows a great deal about opener's hand.
 
 What about transferring to one major and then bidding the other? That has to be 5-5 or

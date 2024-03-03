@@ -133,6 +133,9 @@ the source is a simple, readable text file with a very natural markup system.
 
 Send corrections by indicating section and nearby content, rather than by
 page number, as the latter depends on the rendering device, unless using the PDF. 
+Since the book is revised fairly often, the only "versioning" I am doing is the date, 
+so please include that date (visible near the top of the opening page in the web version)
+with your corrections.
 
 You can contribute additions such as examples and quizzes for chapters
 by sending a plain text file. Extra points for using reStructuredText markup. 
@@ -145,7 +148,8 @@ Thank you to my long-time teacher, Mike Moss, who taught me almost
 everything I know. I have also received help from teachers and expert
 players including Howard Schutzman, Oliver Clarke, Alex Martelli, and 
 Jim and Pat Leary; and encouragement from my fellow learners and partners, 
-especially David Silberman, Julia Beatty, Ally Whiteneck, and John Engstrom.
+especially Douglas Schmickrath, David Silberman, Julia Beatty, Ally Whiteneck, and 
+John Engstrom.
 
 More recently I have taken lessons from Marc Smith, and purchased the video
 lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a

@@ -204,7 +204,7 @@ Glossary
       suit that one holds at the moment, as opposed to originally.
 
    doubleton
-      A suit of exactly two cards. Called *worthless* if it does not contain
+      A suit of exactly two cards. Called *worthless* or *weak* if it does not contain
       an Ace or King.
 
    drop dead
@@ -293,6 +293,11 @@ Glossary
    limit raise
       An invitational-strength raise, so called because the raise limits the player's
       strength for partner.
+
+   LMH steps
+      In some advanced conventions, the next three steps show the corresponding three
+      suits not including a suit (such as trump) that would not have the desired 
+      property (such as shortness) in a low - middle - high order.
       
    major
       Spades or hearts; frequently abbreviated :abbr:`M`.
@@ -428,7 +433,7 @@ Glossary
       in phrases such as "What strain should we play in?" or "the next higher strain".
             
    super-accept
-      A jump agreement in response to a :term:`transfer`.
+      A jump agreement in response to a major :term:`transfer`.
 
    support double
       An advanced convention used to show exactly 3-card support for responder's suit.
@@ -459,7 +464,7 @@ Glossary
 
       If partner bids the target suit as requested it is called 
       *accepting* the transfer. If he bids it but one level higher than
-      necessary it is called a *super-accept*; and if he bids something else
+      necessary it is called a :term:`super-accept`; and if he bids something else
       it is called *breaking* the transfer.
 
       Compare to :term:`relay`.

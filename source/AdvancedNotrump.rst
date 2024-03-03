@@ -204,21 +204,81 @@ the suit above the minor at the four level is now RKC.  Examples:
 * 1N - 2N!(♦s)
   3♦(max) - 4♥!(RKC for diamonds)
 
+.. index::
+   pair:transfer;super-accept
+   pair:super-accept;doubleton
+   
+Advanced Super-Accepts
+----------------------
 
-When Major Transfer is Doubled
-------------------------------
+In the section on :ref:`major (Jacoby) transfers <transfers>`, we discussed 
+the :term:`super-accept` in which opener jumped to three of the major to show a 
+maximum 17 HCP and four-card support for the major M.  In recent years, following a 
+belief in the law of total tricks, advanced players have been making the 3M reply 
+with a minimal hand rather than a maximum (but still four trump). Then other bids between
+2M and 3M become superaccept conveying additional information about the opener's 
+"weak doubleton", one with no Ace or King.
 
-Frequently a transfer is doubled for the lead.  A full set of agreements about how opener
-replies is needed.  
- 
-After 1N-(P)-2T-(X):
+Showing the weak doubleton is an early-warning idea for slam. The responder can avoid 
+asking for Aces if we have two fast losers. In any case responder is the Captain and
+should proceed directly to 4M with no slam interest.
 
-* P = 2 card support for the major.
-* XX = Willingness to play in Transferring Suit for penalty.
-* 2M = 3 card support for the major.
+Scheme 1: Weak Doubleton
+~~~~~~~~~~~~~~~~~~~~~~~~
 
-By partnership agreement, you can add:
+1N-2♦:
 
-* 2N = Max with 4 Support and No Weak Doubleton
-* 3M = Min with 4 Support
-* other between 2M and 3M = Max with 4 Support and Weak Doubleton in bid suit
+* 2♥ = Normal Accept with 2 or 3 Hearts
+* 2♠ = Maximum with 4 Hearts and a weak doubleton in Spades
+* 2N = Maximum with 4 Hearts without any weak doubleton
+* 3♣ = Maximum with 4 Hearts and a weak doubleton in Clubs
+* 3♦ = Maximum with 4 Hearts and a weak doubleton in Diamonds
+* 3♥ = Minimum with 4 Hearts
+
+1N-2♥:
+
+* 2♠ = Normal Accept with 2 or 3 Spades
+* 2N = Maximum with 4 Spades without any weak doubleton
+* 3♣ = Maximum with 4 Spades and a weak doubleton in Clubs
+* 3♦ = Maximum with 4 Spades and a weak doubleton in Diamonds
+* 3♥ = Maximum with 4 Spades and a weak doubleton in Hearts
+* 3♠ = Minimum with 4 Spades
+
+Responder can then re-transfer with a bid of one less than 4M and then initiate slam
+bidding if desired.  More complicated agreements are common in expert pairs.
+
+A few have tried to play instead with the suit bids showing Aces rather than weak
+doubletons.
+
+Scheme 2: Weak Doubleton Somewhere
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Others worry showing the doubletons can give away the show and shrink the 
+super-accepts to: 
+
+1N-2D:
+
+* 2H = Normal Accept with < 4 Hearts
+* 2S = Maximum with 4 Hearts and some Weak Doubleton
+* 2N = Maximum with 4 Hearts without any Weak Doubleton
+* 3H = Minimum with 4 Hearts
+
+1N-2H:
+
+* 2S = Normal Accept with < 4 Spades
+* 2N = Maximum with 4 Spades without any Weak Doubleton
+* 3C = Maximum with 4 Spades and some Weak Doubleton
+* 3S = Minimum with 4 Spades
+
+Responder can bid the next step to ask for the suit of the doubleton. Opener replies 
+using :term:`LMH steps` -- lower, middle, high.  For example::
+
+   1N - 2♦(♥s) - 2♠!(super-accept, some weak doubleton) 2N!(which?)
+   
+Then 3♣ = clubs, 3♦ = diamonds, 3♥ = spades. In spades it goes::
+
+   1N - 2♥(♠s) - 2N!(super-accept, some weak doubleton) 3♣!(which?)
+   
+Then 3♦ = clubs, 3♥ = diamonds, 3♠ = hearts.
+
+If you play with the robots on BBO, I think they use this scheme.
