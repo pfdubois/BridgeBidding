@@ -4,15 +4,20 @@ Bridge Bidding
 
 .. only:: html 
   
-   :ref:`Copyright <Copyright>` 2010-2024 by Paul F. Dubois (pfdubois@gmail.com)
+   Copyright 2010-2024 by Paul F. Dubois (pfdubois@gmail.com)   
    
    |today|
+   
+   
+   Click :ref:`HERE for Copyright, PDF, and E-Book Version Downloads Information 
+   <Copyright>`  
    
 .. toctree::
    :caption: Table of Contents
    :maxdepth: 1
    :numbered: 1
    
+   Copyright
    Preliminaries
    Nomenclature
    HandEvaluation
@@ -53,5 +58,4 @@ Bridge Bidding
    InterestingGadgets
    Glossary
    Resources
-   Copyright
    

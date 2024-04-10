@@ -2,10 +2,6 @@
 Preliminaries
 =============
 
-Click :ref:`Copyright <Copyright>` to go to a chapter at the end of the book 
-on how to read this book as web pages, a PDF, or an e-book. The book is free and
-redistributable to anyone, as described in its open-source license. 
-
 How I Came To Write This Book
 -----------------------------
 

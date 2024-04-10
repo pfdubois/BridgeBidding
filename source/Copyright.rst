@@ -1,8 +1,8 @@
 
 .. _Copyright:
 
-Copyright
-=========
+Copyright And Downloads
+=======================
 
 .. index::
    pair:Copyright;GPLv3
@@ -15,7 +15,7 @@ you can see a copy of this license at
 
   https://spdx.org/licenses/GPL-3.0-or-later.html
 
-This book is also available in these formats: 
+This book is available in these formats: 
 
 * Web pages are available at:
 

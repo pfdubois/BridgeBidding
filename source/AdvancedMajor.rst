@@ -203,6 +203,7 @@ Another System After J2NT
 
 .. index::
    pair:convention;Jacoby 2NT
+   pair:Jacoby 2NT;alternate responses
 
 The standard scheme of responses to Jacoby 2N (1M - 2N!(4 trump, opening hand)) 
 has problems. When either opener or responder make a jump to game, showing no slam 

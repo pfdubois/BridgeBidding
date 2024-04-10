@@ -55,7 +55,8 @@ Roman Keycard Blackwood (RKC)
 .. _RKC:
 
 .. index::
-   pair: convention; Roman Keycard Blackwood
+   pair: convention;RKC
+   
 
 .. warning::
    Before bidding RKC be sure you are able to tolerate any of its replies.
@@ -72,17 +73,26 @@ example, 1♥ – 1♠ – 4N is RKC for spades. The bidder in some circumstance
 be intending to end up in some other (higher) suit or notrump but for now
 responder answers as if the last bid suit is trump, which it very likely is.
 
-Responses are in steps:
+.. index::
+   pair:RKC;responses
+   
+.. rubric::
+   Responses to RKC
+
 
 #. 5♣ One keycard or four keycards
 #. 5♦ Zero keycards or three keycards
 #. 5♥ Two or five keycards without the trump Queen
 #. 5♠ Two or five keycards with the trump Queen.
 
-   This can also be bid with two or five keycards and enough trump to
+   Also bid 5♠ with two or five keycards and enough trump to
    guarantee a 10 card fit, even if you do not have the Queen.
 
-Responding with a void:
+.. index:: 
+   pair:RKC;responding with a void
+
+.. rubric::
+   Responding with a (Useful) Void
 
 -  5N Shows zero or two keycards and a useful void.
 -  6 of any suit below the trump suit shows 1 or 3 keycards with a
@@ -96,9 +106,8 @@ The bids shown are the “1430” response. Switch the meanings of 5♣ and 5♦
 and it is the “3014” responses. I use 3014 because 1430 won't work for clubs:
 4N - 5♦ means zero and is already past 5♣.
 
-We don't bid the slam if we know we are missing two keycards or a keycard and the 
-Queen of trumps. Remember, RKC is a tool for avoiding bad slams, not exploring for
-one. 
+RKC is a tool for avoiding bad slams, not exploring for
+one. The person who bids it must be prepared for any of the answers.
 
 When 4N is NOT Ace-Asking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -143,7 +152,8 @@ When clubs are trump, playing 0314, if you aren't going to be able to
 say yes to one key, do not bid RKC.
 
 The purpose of RKC is to keep you out of bad slams, not to find chancy
-ones. Use control-bidding to find a custom-fit slam.
+ones. Use control-bidding to find a custom-fit slam; then you might be able to
+bid RKC knowing you can interpret the answer correctly.
 
 What To Do After A 14 or 03 Response
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

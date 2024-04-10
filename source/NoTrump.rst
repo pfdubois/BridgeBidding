@@ -3,6 +3,8 @@
 
 .. index::
    pair: opening; notrump
+   single:1N opening
+   single:notrump ranges
 
 Opening Notrump
 ===============
@@ -190,7 +192,7 @@ time to decide if we have a game or not.  We first answer the question about
 the fit, and then the question about the game. 
 
 If you are 5-4 in the majors you also start with 2♣, Stayman, regardless of strength.
-See :ref:`Garbage Stayman <GarbageStayman>`.
+See :ref:`When Responder Is 5-4 In The Majors <FiveFour>`.
 
 If you have a five-card major and fewer than four in the other major, we use 
 :ref:`Major Transfers <transfers>`, regardless of strength.
@@ -315,6 +317,9 @@ and you know these affairs end badly.
 
 .. index:: Gerber, quantitative
 
+.. rubric::
+   After The Major Transfer 
+   
 After a transfer to 2M is accepted, responder bids:
 
 - Pass with less than invitational values.
@@ -328,7 +333,8 @@ After a transfer to 2M is accepted, responder bids:
 - 4N :term:`quantitative`.
 
 After a super-accept, the responder decides on whether to pass or bid game
-or try for slam. He knows a great deal about opener's hand.
+or try for slam. He knows a great deal about opener's hand. Bidding another suit should 
+be a control, looking for slam.
 
 What about transferring to one major and then bidding the other? That has to be 5-5 or
 better in the majors since with 5-4 we start with Stayman. We discuss those sequences 
@@ -392,7 +398,7 @@ available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
 
 - If your hand is weak, transfer to the five-card suit
   and pass. This gives your partner no chance to go wrong.  But use judgement: with 
-  a terrible five-card suit you might try Garbage Stayman.
+  a terrible five-card suit, you might try Garbage Stayman.
 
 - If your hand has five spades and four hearts, invitational or better, bid 2♣ Stayman, 
   and then:
