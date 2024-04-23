@@ -23,7 +23,7 @@ Two-Way Reverse Drury
 Two-way Reverse Drury is a partnership modification of 
 :ref:`Reverse Drury <Reverse_Drury>`. In
 Reverse Drury, we bid 2♣! as a passed hand to show a limit raise or better of
-opener's major. In Two-Way, we bid 2♦! to show a limit raise with four or more
+opener's major. In Two-Way, we bid 2♦! to show a limit raise with |4ormore| 
 trump, and 2♣! to show a limit raise with exactly three card support.
 
    
@@ -36,7 +36,7 @@ Bergen Raises
    pair: raise; major
    pair: convention; Bergen raise (of a major)
 
-Bergen Raises emphasize distinguishing three-card from four-card limit raises. 
+Bergen Raises emphasize distinguishing three-card from |4ormore|-card limit raises. 
 A four-card raise has a great deal more potential for game than a three-card 
 raise. Also, we get a :term:`mixed raise` and a :term:`preemptive` raise.
 
@@ -44,11 +44,11 @@ With |4ormore| cards,
 
 - 1M - 2M 6-10 HCP with 3 cards in M; or a good five points, particularly Axxx in 
   trumps.
-- 1M – 3M! 2-6 preemptive, 4-card raise
-- 1M – 3♣! 7-9 constructive (mixed) 4-card raise
-- 1M – 3♦! 10-11 limit 4-card raise
+- 1M – 3M! 2-6 preemptive, |4ormore|-card raise
+- 1M – 3♣! 7-9 constructive (mixed) |4ormore|-card raise
+- 1M – 3♦! 10-11 limit |4ormore|-card raise
 - 1M - 1N forcing may have 10-12 and 3 trump.
-- 1M – 2N! 13+ game forcing 4-card raise. (Jacoby 2N)
+- 1M – 2N! 13+ game forcing |4ormore|-card raise. (Jacoby 2N)
 
 If responder has 3 trumps and 10-12 points, he bids 3M the next chance he
 gets.
@@ -73,7 +73,8 @@ Bergen raises are off:
 * if there is an overcall or double
 
 Rationale: If there is a double, 2N! is a Jordan raise so
-you wouldn't need 3♦ for this.  After an overcall, you have cue bids.
+you wouldn't need 3♦ for this.  After an overcall, you have cue bids. See also
+:ref:`Jordan All The Time <JATT>`.
 
 .. index:: 
    pair: Bergen raise; reverse
@@ -259,6 +260,33 @@ See Larry Cohen's discussion at
 `Serious 3N <https://www.larryco.com/bridge-articles/serious-3nt>` for his
 thoughts on this expert-level convention. Of course, bridge players being bridge 
 players, there is also Non-Serious 3N.
+
+Jordan All The Time
+-------------------
+
+.. _JATT:
+
+.. index::
+   pair:convention;Jordan 2N
+   pair:convention;Jordan All The Time
+   
+   
+Recall that Jordan 2N is a |4ormore|-card limit+ raise of partner's major over RHO's
+takeout double. Since knowing that a raise shows four cards rather than three
+helps find game, it is very effective.  With only three-card support, we
+redouble and show the support later.  
+
+When the interference is a suit, the standard way to show a limit raise is to cue bid.
+There are two problems with this:
+
+* It doesn't differentiate between three- and |4ormore|- card raises.
+* A limit raise sometimes isn't possible, as in 1♥ (2♠) ?, where a bid of 3♠ would require 
+  game-forcing strength.
+  
+So by partnership agreement we change the meaning of a 2N bid here to be the same as 
+Jordan.  That's why I call it Jordan All The Time, although that's just my name. As 
+with any convention, we give up something, in this case the natural invitation with a 
+stopper in RHO's suit.  
 
 Assigning A Meaning To 1M - 3N
 ------------------------------

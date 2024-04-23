@@ -71,6 +71,26 @@ here.
 
 Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 
+.. rubric::
+   Last Train
+   
+A modification to control bidding, "Last Train" (named after the Monkee's hit, 
+"Last Train to Clarksville", is an agreement that once trump has been established, 
+bidding the last strain before game says, "I have no more controls that I can show 
+you below game, but if you have extras, I do have interest in slam."  This agreement
+of course does not show or deny a control in the bid suit.
+
+For example, after 1♠ - 3♠ - 4♣ (control), 4♥ would deny a control in diamonds but 
+show a hand that has slam interest but is not good enough to bid past 4♠ on its own.
+It says nothing about a control in hearts.
+
+The bid of course shows a control in any suit partner skipped over. For example, 
+1♠ - 3♠ - 4♦ - 4♥ shows a control in clubs but not necessarily in hearts. 
+
+The point of Last Train is to allow classifying your hand as having slam interest, 
+possible slam interest, or no slam interest by continuing past game, bidding Last Train,
+or just bidding game. 
+
 Five Notrump Pick-a-slam
 ------------------------
 

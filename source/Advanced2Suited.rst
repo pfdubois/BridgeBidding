@@ -32,7 +32,26 @@ The Sandwich 1N convention is a bid of 1N rather than double, showing
 the other two suits but less than an opening hand:
 
     (1x) - P - (1y) - 1N!(other two suits, fewer than 12 HCP)
-    
+ 
+Additional Michaels 2N Replies
+------------------------------
+
+.. index::
+   pair: convention;Michael Cue Bid
+   pair: Michaels;asking 
+   
+.. _MichaelsAsking:
+
+After you make a Michaels Cue Bid, say (1♥) 2♥ (P), 2N by your partner asks for your
+minor suit. By partner agreement, you can have additional responses:
+
+* Bidding your minor shows no extras
+* Bidding 3♥ shows your minor is clubs, with a good hand.
+* Bidding 3♠ shows your minor is diamonds, with a good hand.
+   
+This may prove useful even if partner intends to agree with your major but has a strong
+hand. 
+
 Extended Michaels
 -----------------
 
