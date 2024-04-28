@@ -24,26 +24,28 @@ easier to play.
 
 .. index::
    triple:major responses;as a passed hand;in competition
-
-Responding By Passed Hand Or After Interference
------------------------------------------------
-
+   
 A set of responses called the "standard" responses applies in two cases:
 
 #. If responder is a passed hand, or
-#. If there was competition (responders RHO doubled or bid)
+#. If there was competition (they doubled or overcalled).
 
-If responder is a passed hand, the opener may also have been a bit light and 
+These are also the rules for the older "Standard American (SAYC) system.
+The rules are pretty much what they were for minor openings.
+
+If responder is a passed hand, the opener may have opened light and 
 allowances must be made.
 
-People playing the older "Standard American" (SAYC) system just use these rules
-all the time, and they are pretty much the rules we saw for minor openings.
+Responding As A Passed Hand
+---------------------------
 
-We will assume now that you're a passed hand. The interference case is 
-covered later.
+.. warning::
+   Before choosing a response, you must revalue your hand in light of partner's bid.
 
-Weak Hands
-~~~~~~~~~~
+Here are the responses if we are a passed hand and there was no interference.
+
+.. rubric::
+   Weak Hands
 
 If you have fewer than 6 HCP you can pass, but if you have four of partner's suit with 
 5 points or an Ace, it is probably worth giving partner a simple raise. Do not try to
@@ -51,38 +53,37 @@ rescue partner if you have a stiff or void in his suit.  If you do, he likely wi
 bid it again.  Worst case, you're only at the one level and your partner has
 five trump.
 
-If you happen to have five or more of your partner's major, bid 4M. This is,
-contrary to appearances, a weak bid.  We may have only half the deck but in our
-trump suit we have at |10ormore|.  If we don't make our contract, at least we kept them 
-from finding their fit. Such a bid is called a :term:`preemptive` raise. 
+If you happen to have five or more of your partner's major and shortness, bid
+4M. This is, contrary to appearances, a weak bid.  We may have only half the
+deck but in our trump suit we have at |10ormore|.  If we don't make our
+contract, at least we kept them from finding their fit. Such a bid is called a
+:term:`preemptive` raise. 
 
 .. warning:
-   Do not bid 4M with a better hand. We go slow because jumping to game 
+   Do not bid 4M with a better hand. Jumping to game 
    might cause us to miss a slam. The most common error I see intermediates make is
    bidding 4M immediately with an opening hand.
-   
-If playing :ref:`Weak Jump Shifts <wjs>` one might be made here; we assume that
-in this book.
+      
 
-Competitive Hands
-~~~~~~~~~~~~~~~~~
+.. rubric::
+   Competitive Hands
 
 If you have six points, you must bid something.  Even if you have a void in
 partner's suit, you must bid something. Your partner could have an unbalanced hand with
 21 points. 
 
 .. warning:
-   Repeat after me: you must respond with 6 or more HCP.  
+   You must respond with 6 or more HCP, even if you have a void in partner's suit.
    
-There are three possible bids with a competitive hand: 2M, 1♠, and 1N:
+There are just three possible bids with a competitive hand: 2M, 1♠, and 1N:
 
 * With three or more of your partner's suit M, you make a simple 
   raise to 2M. Support with support! Otherwise,
 * Over 1♥, bid 1♠ if you have four spades.
-* Bid 1N. This says you do not any other bid.  
+* Bid 1N. This only says you do not any other bid but do have |6ormore| HCP.
 
 With a competitive hand, you can't bid 
-a new suit at the two-level. That requires a |10ormore| HCP.
+a new suit at the two-level. That requires a hand with |10ormore| HCP.
 
 Important: 1M - 1N does not say you have a balanced hand. If we made such a requirement,
 and your partner opens 1♥, suppose we have this hand:
@@ -112,39 +113,26 @@ to pass?". Yes. No rescuing allowed. As we will see, partner will have |6ormore|
 so if you bid three of something expect him to not have many of those and bid 3♥. You 
 may have just bid past the only contract we could make.
 
-Invitational Hands
-~~~~~~~~~~~~~~~~~~
-
-If your hand is invitational (after revaluing it if you have a fit):
-
 .. rubric::
-   Raising The Major
-   
-With three or more of your partner's major, raise. This invitational raise
-is  called a :term:`limit raise` because the bid limits your strength to this
-narrow range. How do we do it? It depends:
+   Invitational Hands
 
-* If we are a passed hand we bid 2♣!(limit raise, 3 or more trump) to make a limit raise. 
-  This is a conventional bid called :ref:`Reverse Drury <Reverse_Drury>`, discussed next.
+If your hand is invitational, and you have three or more of your partner's major,
+bid 2♣!(limit raise, 3 or more trump). This is a
+conventional bid called :ref:`Reverse Drury <Reverse_Drury>`, discussed below.
+The name Reverse Drury is usually shortened to just "Drury".
+This raise is called a :term:`limit raise` because the bid limits your strength to a
+narrow range. 
 
-* If there has been a one-level overcall, 2♣ goes back to its natural meaning, 
-  |5ormore| clubs with invitational values. The limit raise is to bid *their* suit,
-  a so-called :term:`cue bid`. Raising to three of your partner's major is preemptive.
-  
-* If they doubled, our limit raise is an artificial 2N! bid 
-  called :ref:`Jordan 2NT <Jordan2NT>`. It promises at least a 3-card raise and
-  invitational values.
-  
 If we had an invitational hand but it got better because we have a fit for partner's
-major, we just make a limit raise. The limit raise is artificial so we'll get another bid.
+major, we still just bid Drury. The limit raise is artificial so we'll get another bid.
 Don't just jump to game. Give partner a chance to admit he opened light. We can bid game 
 on our next bid if he didn't.
+
+For example, Pass - 1♠ - 2♣!(Drury) - 2♠ says "I opened light, stop!".
  
-.. rubric::
-   Other Bids 
-   
 If you don't have a raise, we're back to the same rules as for minor openings:
 
+* If your partner opened 1♥, bid 1♠ if you have |6ormore| HCP and |4ormore| spades.
 * Bid your longest suit. If you have two four-card suits bid the
   cheapest. If you have two |5ormore| card suits, bid the higher-ranked.
 * Bid 2N with a balanced hand and 11 or 12 points. With 10 HCP and no fit, it is
@@ -152,8 +140,47 @@ If you don't have a raise, we're back to the same rules as for minor openings:
 * A new possibility: Bid 3♣ with an invitational hand and |6ormore| clubs.
 
 .. note::
-   Only the artificial :term:`cue bid` or 2♣! Drury bids are forcing.
+   Only the 2♣! Drury bid is forcing because you are a passed hand. In fact, the whole
+   point of Drury is to give the responder a forcing raise. 
+ 
+.. index::
+   pair:convention;splinter
+     
+.. rubric::
+   Hands That Revalued To Game-Going
 
+If your hand was invitational but you have support for partner's major, you
+might now have a game-going hand even if you were a passed hand.  Fortunately,
+our instructions for invitational hands are to either bid Drury with no
+interference or to control-bid their suit with interference.  Both of those
+alternatives will result in our getting another bid, so we can raise to game.
+
+.. _splinter:
+
+There is also a new choice, the :term:`splinter` bid.  A splinter bid is a double-jump 
+in another suit, showing a hand with game-going values and a singleton or void in the
+bid suit.
+
+* 4♣, 4♦ over 1M, 
+* 4♥ over 1♠, and 
+* 3♠ over 1♥. 
+
+Since these bids are made before opener's second bid, they are alertable.
+Splinters can also be used by an opener after a major response, such as 1♦ - 1♥ - 4♣.
+
+Splinters are best described as a raise to game with no interest in slam unless
+partner has the "magic hand". If partner has no wasted values in the splinter
+suit, and has some extras, we might be in the magic "30 point deck" situation
+-- we have almost all the points in the other three suits. With no magic hand, 
+opener just bids the game. Otherwise control-bidding or key-card may ensue.
+
+Splinter bids, particularly the  1♥ - 3♠ splinter, have been known to cause
+people to stare like a deer caught in the headlights.  The thought process to
+use is: 1♠ would be a normal bid, 2♠ would be a jump-shift, so 3♠ is jumping
+twice, so it is a splinter.  Likewise over 1M, 2♣ is the 10+ bid, 3♣ is a jump-shift,
+so 4♣ is a splinter.
+
+Usually, one does not splinter if the singleton is an Ace. 
    
 Reverse Drury
 ~~~~~~~~~~~~~
@@ -197,7 +224,7 @@ suggested, the 2♦ response and the 2M response were swapped.
 
 Add Reverse Drury to your partnership as soon as you feel you both can recognize it. 
 You'll have to regret the times someone misses it. Also played by many is the two-way
-version, in which 2♣! is a three-card limit raise and 2♦! is a four or more card 
+version, in which 2♣! is a three-card limit raise and 2♦! is a |4ormore|-card 
 limit raise. 
 
 Responding As Unpassed Hand Without Interference
@@ -217,8 +244,11 @@ Responding As Unpassed Hand Without Interference
 Two Over One Game Force
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-If you are *not a passed hand*, and there is *no interference*, and
-your partner opened a *suit other than clubs*, then...
+If you are:
+
+* not a passed hand*, and 
+* there is no interference, and
+* your partner opened a *suit other than clubs*, then...
 
 OK, wait, before I tell you, that was the hard part. When you start
 playing 2/1 you are going to be getting mixed up because you apply these
@@ -228,19 +258,20 @@ and ask "What has happened so far?".
 Ready? Here we go again.
 
 If you are *not a passed hand*, and there is *no interference*, and
-your partner opened a *suit other than clubs*, then a non-jump two-level response in a 
-new suit is forcing to game or four of a minor. They require an opening hand.
+your partner opened a *suit other than clubs*, then a *non-jump* two-level response in a 
+new suit is forcing to game or four of a minor. These bids require an opening hand.
 
-There are six such sequences:
+There are six such sequences, all game forcing:
    
 * 1♥ - 2♣ 
 * 1♥ - 2♦
 * 1♠ - 2♣
 * 1♠ - 2♦
-* 1♠ - 2♥
+* 1♠ - 2♥ (|5ormore|)
+* 1♦ - 2♣ (|5ormore|)
 
-The auction 1♦ - 2♣ is game forcing too and was treated separately in the chapter on 
-:ref:`Responding To Minor Openings <MinorOpenings>`. It promises |5ormore| clubs.
+The auction 1♦ - 2♣ was treated separately in the chapter on 
+:ref:`Responding To Minor Openings <MinorOpenings>`. 
 
 We promise |5ormore| hearts or |4ormore| (rarely, 3) in a minor.
 
@@ -260,7 +291,7 @@ they would not have a bid and all have to bid 1N.
 
 Hmmm. OK, let's do that.
 
-* The range of the 1N response becomes 6 to 12 instead of 6 to a 10. 
+* The range of the 1N response becomes 6 to 11 or a bad 12 instead of 6 to 10. 
   We make this bid forcing for one round.
   
 * Opener will :term:`announce` "forcing". Opener must make another bid.
@@ -272,12 +303,11 @@ Honestly, the 1N forcing part is the hard part. The 2/1 auctions are easy.
    Invitational Hands
    
 With an invitational hand and three trump, we bid 1N(forcing) and then bid 3M on our next 
-turn. (These are the hands where we did Drury in standard).
+turn. (These are the hands where we did Drury in when we were a passed hand).
 
-With an invitational hand and |4ormore| trump, we bid 3M immediately. (These are the 
-hands where we did Jordan in standard.
+With an invitational hand and |4ormore| trump, we bid 3M immediately.
   
-Without a raise we bid as in standard. 
+Without a raise, we bid as in standard. 
 
 .. rubric::
    Game-Going Hands
@@ -285,14 +315,18 @@ Without a raise we bid as in standard.
 With a game-going hand and three trump, we basically make a 2/1 bid if we can.
 The rules are (besides the length and strength requirements):
 
-* Bid 1♠ with |5ormore|. 
+* Bid 1♠ with |5ormore|, or 
 * With four spades, prefer 1♠ to bidding 2m unless your minor is longer than your spades.
 
 If you do bid 1♠ it is forcing.
 
-With |4ormore| trump we bid 2N!. 2N is a conventional bid called Jacoby 2NT. It shows 
-a game-forcing raise with |4ormore| trump. See :ref:`Jacoby 2NT <Jacoby2NT>` for 
-continuations.
+With |4ormore| trump and a semi-balanced hand we bid 2N!. 2N is a conventional
+bid called Jacoby 2NT. It shows a game-forcing raise with |4ormore| trump. See
+:ref:`Jacoby 2NT <Jacoby2NT>` for continuations.
+
+If the hand is not balanced we also can consider a :ref:`splinter bid <splinter>`, 
+previously discussed. If the hand is strong enough to have definite slam interest we can 
+make a 2/1 bid or use Jacoby 2NT (such as with a 1=4=4=4 hand). 
    
 What follows is further discussion of these eight changes: six 2/1 bids, the forcing
 1N bid (:ref:`in the next chapter <OneNoForcing>`), and the 2N strong raise.
@@ -332,6 +366,7 @@ You have a dilemma:
 * 2N! is 
   :ref:`Jacoby 2NT <Jacoby2NT>` which is game-forcing and promises 4 trump. 
 * 3N gets to the wrong game. Partner will never guess you have support.
+* You don't have a singleton or void so no splinter bid applies.
 
 Therefore, you will bid 2♣; this is forcing because it is a new suit by an unpassed 
 hand. You'll tell partner about the support on your next bid by bidding spades. 
@@ -350,36 +385,6 @@ promises you had a five-card minor.
 If you do bid 1♠ over 1♥ holding five spades, you can if necessary use the 
 :ref:`checkback <BasicCheckback>` bids we'll learn later with invitational or better
 values to find a 5-3 fit. 
-
-
-Summary of Responses To 1M
---------------------------
-
-.. index:: Responses to 1M Opener
-
-.. table:: Responses to 1M Opener
-
-   +-------------+-----------+------------+-----------+
-   |Shape /      |Competitive|Invitational|Game Force |   
-   |Strength     |5+ - 10-   |10 - 12     |13+        |
-   +=============+===========+============+===========+
-   |Have Support |2M         |3M          |J2NT, 2/1  |
-   |BPH          |2M         |2♣(d)       |4M         |  
-   +-------------+-----------+------------+-----------+
-   |No Support   |1♠ or 1N(f)|1♠ or 1N(f) |1♠ or 2/1  |
-   |BPH          |1N         |2x or 2N    |N/A        |  
-   +-------------+-----------+------------+-----------+
-
-Notes:
-
-* BPH = By Passed Hand
-* Invitational raises are also called limit raises.
-* (d) BPH limit raise becomes 2♣ :ref:`Reverse Drury <Reverse_Drury>` when learned.
-* Weak hands below six HCP just pass, or bid 4M if they have four trump. 
-* 1N(f) is forcing by an unpassed hand. Announced.
-* Bidding a new suit at the two level must be |5ormore| hearts or |4ormore| in a minor 
-  (rarely 3 when 3=3=(43)).
-* Jacoby 2NT shows four trump; with just three, force to game first with a 2/1 bid.
 
 
 Jacoby 2NT
@@ -458,8 +463,8 @@ thinking their hand is not that great.
 
 .. _interference_major:
 
-Interference Over Major Openings
---------------------------------
+Responding After Interference
+-----------------------------
 
 .. index::
    pair: interference; major opening
@@ -501,7 +506,7 @@ To raise an opening 1M after an overcall,
 - A jump raise (e.g. 1M - 2♣ - 3M) is preemptive.
 - A jump to 4M shows a weak hand and |5ormore| trump.
 
-Without support notrump bids deny support and are natural; they show a stopper in the 
+Without support, notrump bids deny support and are natural; they show a stopper in the 
 overcalled suit:
 
 - 2N is invitational with a balanced hand, and shows a stopper in 
@@ -516,7 +521,8 @@ In this case, 1♠ (2♣) 3♣ is the limit raise. This lets opener sign
 off at 3♠ if he does not want to accept the invitation.
 
 To support after a double, simple raises remain the same, but stronger raises use 
-Jordan 2NT, discussed next.
+Jordan 2NT, discussed next. A new bid, the redouble, shows 10+ points and denies
+a four-card raise.  This means other 2-level bids are confined to 9 or fewer points.
 
 Examples:
 
@@ -527,6 +533,8 @@ Examples:
 - 1♥ (1♠) 3♥ weak hand, 4+ hearts
 - 1♥ (1♠) 4♥ weak hand, 5+ hearts
 - 1♥ ( X) 2N! Limit raise or better, 3+ hearts. Forcing for one round.
+- 1♥ ( X) XX 10+ HCP, forcing to 2♥.
+- 1♥ ( X) 2♣ |5ormore| clubs, < 10 points.
 - 1♥ (1♠) 2N Invitational, balanced hand. This bid can be passed.
 - 1♥ (2♦) 4♦ is a splinter in support of hearts.
 - 1♥ (2♠) presents a quandary because the 3♠ cue-bid would force opener to game.
@@ -563,6 +571,21 @@ low-level bid from the opponents.
 One of the competitive principles we use is that jumps in competition are weak. A
 notable exception is replying to your partner's takeout double.  Until we get
 to all that, just note that a bid of 3M here is a preemptive four-card raise.
+
+.. index::
+   pair:Jordan;over overcalls
+     
+Side note for more advanced players: There is a nasty case when the opponents
+make a preemptive bid. Imagine your partner opens 1♥ and your RHO bids 2♠. Ugh.
+If we only have an invitational hand, the cue bid of 3♠ would force us to 4♥. 
+We're left with a guess, or possibly a double hoping partner bids 3 of a minor
+which you can then correct to 3♥. But technically that is a negative double
+showing both minors, so it risks partner doing something else like 3N or 4m.
+
+By partnership agreement, you can make 2N a limit raise in this case. I call this 
+:ref:`Jordan All The Time <JATT>` (strictly my own name for it, as I've never seen
+another).
+
 
 Discussion
 ----------
@@ -652,3 +675,30 @@ A cue bid that is forcing to game is still appropriate sometimes:
 - 1♥ (2♠) 4♥ is a weak hand with five hearts
 - 1♥ (2♠) 3♠ is a game force showing an opening hand or better.
 
+Summary of Responses To 1M
+--------------------------
+
+.. index:: Responses to 1M Opener
+
+.. table:: Responses to 1M Opener
+
+   +-------------+-----------+------------+--------------------+
+   |Strength     |Competitive|Invitational|Game Force          |   
+   +=============+===========+============+====================+
+   |Have Support |2M         |3M          |J2NT, 2/1, Splinters|
+   +-------------+-----------+------------+--------------------+
+   |BPH          |2M         |2♣ Drury    |4M                  |  
+   +-------------+-----------+------------+--------------------+
+   |No Support   |1♠ or 1N(f)|1♠, 1N(f)   |1♠ or 2/1           |
+   +-------------+-----------+------------+--------------------+
+   |BPH          |1N         |2x or 2N    |N/A                 |  
+   +-------------+-----------+------------+--------------------+
+
+Notes:
+
+* BPH = By Passed Hand
+* Weak hands below six HCP just pass, or bid 4M if they have five trump and shortness.
+* 1N(f) is forcing by an unpassed hand. Announced.
+* Bidding a new suit at the two level must be |5ormore| hearts or |4ormore| in a minor 
+  (rarely 3 when 3=3=(43)).
+* Jacoby 2NT shows four trump; with just three, force to game first with a 2/1 bid.

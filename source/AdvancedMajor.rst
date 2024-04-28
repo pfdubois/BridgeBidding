@@ -267,8 +267,9 @@ Jordan All The Time
 .. _JATT:
 
 .. index::
-   pair:convention;Jordan 2N
+   pair:convention;Jordan 2NT
    pair:convention;Jordan All The Time
+   pair:Jordan 2NT;over overcalls
    
    
 Recall that Jordan 2N is a |4ormore|-card limit+ raise of partner's major over RHO's
