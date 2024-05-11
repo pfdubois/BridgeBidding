@@ -53,12 +53,6 @@ With (1), responder would like to have the contract be 3♣. With (2), responder
 like to force to game, probably 3N or 5♣, depending on opener's heart holding.
 
 The one bid 3♣ cannot mean two things. It is ambiguous. 
-
-Absent Lebensohl, a cue bid of their suit traditionally is Stayman. For example,
-1N (2♦) 3♦ is Stayman. Suppose opener bids spades but you have four hearts. Can you
-bid 3N without a stopper?  If opener had neither major, can he bid 3N without a stopper?
-It's ambiguous.  
-   
 Resolving ambiguity is the heart of Lebensohl.  How do we come up with a way to express 
 these different hands?
 
@@ -89,27 +83,43 @@ was just hearts. A D.O.N.T. bid of 2♦ shows "diamonds and a major". We'll reac
 it was just diamonds. If the intervenor makes a bid showing two definite suits, see 
 :ref:`Artificial Overcalls <Lebensohl2Suits>`, below.
 
-Lebensohl After A Natural Two-Level Overcall 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Over Two-Level Overcalls 
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. rubric::
-   Lebensohl is off when they double or bid 2♣
+   When Lebensohl Is Off
    
 If the overcall was in clubs, or intervenor doubled, Lebensohl is off. Systems are on.
 This is also true when they make an artificial 2♣ bid or an artificial double promising
 one long suit.
    
 Systems on means we use our normal bids, as if they had not bid. Double is
-Stayman, 2♦ is a transfer to hearts, and so on. If they doubled for penalty, it is a
-:ref:`runout <runout>` situation. If they made an artificial double that showed 
-one definite suit, we treat it as if they had bid that suit; but when the suit is 
-unknown our system is on, and redouble is Stayman.
+Stayman, 2♦ is a transfer to hearts, and so on. 
 
+If they doubled for penalty, it is a :ref:`runout <runout>` situation. If they
+made an artificial double that showed one definite suit, we treat it as if they
+had bid that suit; but when the suit is unknown our system is on, and redouble
+is Stayman. And as mentioned, if their double or 2♣ bid showed two definite
+suits, or they made an artificial bid such as 2♦ meaning the majors, see
+:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.
+
+So in particular:
+
+* 1N (2♣! long suit) system is on, double is Stayman;
+* 1N (2♣ natural) system is on, double is Stayman;
+* 1N (2♣! clubs and spades) use two-suited defense, not Lebensohl;
+* 1N (2♣! clubs and a higher) treat as a club bid, so system is on;
+* 1N (2♦! diamonds and a higher) treat as Lebensohl for diamonds;
+* 1N (2♣! a minor or both majors) system is on, double is Stayman;
+* 1N (2♥! hearts and a minor) treat as Lebensohl for hearts;
+* 1N (X) use our runout system
+* 1N (X! long suit) system is on, redouble is Stayman.
 
 .. rubric::
-   When they made a natural bid of 2♦, 2♥, or 2♠.
+   Over 2♦, 2♥, or 2♠
 
-Over their two-level overcall of 2♦, 2♥, or 2♠:
+Over their two-level overcall of 2♦, 2♥, or 2♠ (or a bid showing that suit and another
+unknown suit):
 
 * A two-level suit bid is non-forcing ("to play").
 * A three-level suit bid is game-forcing (fast bid).
@@ -125,8 +135,6 @@ isn't weak because if you were weak you could have just passed.
 Further, if responder has a game-forcing hand he can show other hand types besides a 
 suit of his own:
 
-* An "fast" :term:`cue bid` is Stayman and denies a stopper in their suit.
-* A "slow" cue bid is Stayman and shows a stopper. ("Slow shows").
 * An immediate bid of 3N over the overcall denies an unbid four-card major and denies
   a stopper.
 * A "slow" 3N bid denies an unbid four-card major and shows a stopper.
@@ -142,15 +150,53 @@ One can also still make normal bids at the four-level.
 
 The sharp-eyed reader will have noticed that there is no way to invite in notrump
 (we gave it up for the Lebensohl 2N), and there is no way to invite in a suit of
-lower-rank than the overcall. The explanation for the suit bids is that when 
-responder has a higher-ranked suit S he has three ways to bid it:
+lower-rank than the overcall. When 
+responder has a higher-ranked suit he has three ways to bid it, e.g.:
 
 * 2S -- to play
 * 2N relay then 3S -- invitational
 * 3S -- game-forcing
 
-But when the suit S is lower-ranked, the 2S bid does not exist, so the relay has to 
-mean the "to play" bid and we just don't have an invitational bid.
+But when the responder's suit is lower-ranked, the 2-level bid does not exist,
+so the relay has to mean the "to play" bid and we just don't have an
+invitational bid.
+
+.. rubric::
+   Stayman: An Evolving Story
+   
+.. index::
+   pair: double;Lebensohl
+   pair: Stayman;Lebensohl
+   
+In standard bidding, without Lebensohl, a cue bid of the overcalled suit is
+Stayman. For example, 1N (2♦) 3♦ is Stayman. Obviously you need a game-forcing
+hand.
+
+There is a twist to the normal Stayman pattern, however. They have bid a suit.
+Suppose opener replies spades but you have four hearts and not four spades. Can
+you now bid 3N without a stopper in their suit?  If opener had neither major, can he bid 3N
+without a stopper? It's ambiguous.  Sounds like a job for Lebensohl, and indeed
+it used to be. 
+
+The "original" Lebensohl (can we call it OGL?) approach is:
+
+* An "fast" :term:`cue bid` is Stayman and denies a stopper in their suit.
+* A "slow" cue bid is Stayman and shows a stopper. ("Slow shows").
+
+After this the Stayman dance is modified in obvious ways. For example,
+in these auctions, opener without a four-card major will have to bid:
+
+- 3N if he has no unbid four-card major and either has a diamond stopper or was
+  promised one by responder, or
+- 4♣ to show responder that we lack a major fit or a diamond stopper.
+
+Playing this way, a double is penalty-oriented.
+
+The newer approach is to play a double as a negative double. The cue bids 
+are not used for Stayman. It keeps the auction lower.
+
+.. warning:: 
+   You must be clear with your partner which version of double you are playing
 
 .. rubric::
    Examples 
@@ -172,43 +218,14 @@ Balanced hand, without a four-card major:
 
 For the Stayman cases:
 
-- 1N (2♦) 3♦ is GF Stayman, but denies a diamond stopper.
-- 1N (2♦) 2N! - 3♣! - 3♦ is GF Stayman and promises a diamond stopper.
-
-After this the Stayman dance is modified in obvious ways. For example,
-in these auctions, opener without a four-card major will have to bid:
-
-- 3N if he has no unbid four-card major and either has a diamond stopper or was
-  promised one by responder, or
-- 4♣ to show responder that we lack a major fit or a diamond stopper.
+- 1N (2♦) X is Stayman if playing the double as negative; OR
+- 1N (2♦) 3♦ is Stayman without a stopper, and
+- 1N (2♦) 2N! - 3♣ - 3♦ is Stayman with a stopper.
 
 .. note::
    Do not call the 2N bid by itself "Lebensohl".
-   Lebensohl is the entire system described in this chapter. This bid 
+   Lebensohl is the entire system described in this chapter. The 2N bid 
    is its signature, but it isn't the only thing to know.  
-
-.. index::
-   pair: double; Lebensohl
-
-.. rubric::
-   Lebensohl and  Doubles
-
-.. rubric::
-   Is Double Penalty?
-   
-Lebensohl per se does not say what a double of the overcall means. Two choices are:
-
--  A double is penalty-oriented, or,
--  A double shows competitive values and while
-   takeout-oriented it promises 2 or 3 in their suit. This allows
-   opener to pass for penalty without running into some massive fit for them. 
-
-Rodwell's pamphlet on Lebensohl says to play it for penalties.
-
-A reopening double by opener of an overcall in fourth seat is for takeout.
-
-The remainder of this section is less well standardized. I give some common-sense
-suggestions.
 
 Three-level Overcalls
 ~~~~~~~~~~~~~~~~~~~~~
