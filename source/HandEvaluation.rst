@@ -250,7 +250,8 @@ a mechanical adherence to points.
 The Hand 
 ~~~~~~~~
 
-.. index::The Hand 
+.. index::
+   pair:The Hand;evaluation 
 
 .. _TheHand:
 

@@ -289,6 +289,9 @@ going to produce two fast losers, 4N may become possible.
 :: rubric::
    Slam In The Hand?
 
+.. index::
+   pair:The Hand;control bidding 
+   
 Recall this important admonition: Blackwood and RKC are tools for avoiding bad slams,
 not for finding them. Previously we met :ref:`The Hand <TheHand>` and learned how to 
 start to bid when East or West was Dealer. 

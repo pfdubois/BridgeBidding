@@ -407,22 +407,19 @@ See :ref:`Jordan 2NT <Jordan2NT>`.
    Responding to Jacoby 2NT
 
 Opener responds to J2NT by revaluing his hand in light of the
-fit. We call this new value "declarer points". Then with a balanced hand,
-there are three bids available: 3M, 3N, or 4M. The 3N bid can be given a meaning since
-you've found a major fit.
+fit. We call this new value "declarer points".  Now:
 
--  1M - 2N! - 4M Jumping to game shows 12-15 declarer points, a minimum.
--  1M - 2N! - 3N 16\ :sup:`+` declarer points, semi-balanced.
--  1M - 2N! - 3M 16\ :sup:`+` declarer points, but good trumps.
+* With a balanced- or semi-balanced hand, there are three bids available: 3M, 3N,
+  or 4M. The 3N bid can be given a meaning since you've found a major fit.
 
-Note the theme -- the slower you go, the more you have. This is often termed,
-:term:`slow shows`. With a big hand, go as slow as you can but no slower; you must
-never make a bid your partner can pass short of game.
+  -  1M - 2N! - 4M Jumping to game shows 12-15 declarer points, a minimum.
+  -  1M - 2N! - 3M 16\ :sup:`+` declarer points, but good trumps (2 of the top 3 honors).
+  -  1M - 2N! - 3N 16\ :sup:`+` declarer points, semi-balanced, but not good trumps.
 
-With an unbalanced hand,
+* With an unbalanced hand,
 
--  1M - 2N! - 3♣/♦/W stiff or void in the bid suit. (W = the other major).
--  1M - 2N! - 4♣/♦/W, showing a good second |5ormore| card suit, strong hand.
+  -  1M - 2N! - 3♣/♦/W stiff or void in the bid suit. (W = the other major), or
+  -  1M - 2N! - 4♣/♦/W, showing a good second |5ormore| card suit, strong hand.
 
 You have a choice in the latter case since obviously you have a shortness. Choose the
 suit bid only with a :term:`good suit`. However, if you have a void, show the void. 
@@ -431,12 +428,22 @@ After the opener replies to J2N, a non-jump bid in a side suit is a control bid,
 which are discussed in more detail in the chapter on 
 :ref:`slam bidding <control_bidding>`.
 
-When opener shows shortness, responder must examine his holding in that suit. A good
-holding is paradoxically bad, because those values will likely be wasted in the play.
-However, no wasted vaues is the legendary "30-point deck" -- all your values are working
-and you have nearly all the honors in the other three suits. Exploring for slam should
-be considered.
+When opener shows shortness, responder must examine his holding in that suit. A
+good holding is paradoxically bad, because those values will likely be wasted
+in the play. However, no wasted vaues is the legendary "30-point deck"
+situation -- all your values are working and you have nearly all the honors in
+the other three suits. Explore for slam.
 
+If you and your partner do not routinely 1N with 15-17 HCP balanced hands
+that contain a five-card major, then you'd use the 3N response to show such a
+hand -- but that's an inferior way to play.
+
+.. rubric::
+   The Hand And Jacoby 2NT
+   
+.. index::
+   pair:The Hand;Jacoby 2NT
+   
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each:
 
@@ -450,16 +457,15 @@ In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 
 If West had been the Dealer, West would open either 1♥ or 1N, as we discussed.
 Suppose West opens 1♥. East has an opening hand and four hearts so would respond
-with Jacoby 2NT. West has no shortness to show nor a good five-card suit, but with
-extra values bids 3N::
+with Jacoby 2NT. West has no shortness to show nor a good five-card side suit, but with
+extra values bids 3♥::
 
    1♥ 2N!(four-card gf raise)
-   3N(15-17 HCP, semi-balanced)
+   3♥ (16+ declarer points, semi-balanced, good trumps)
    
-On this hand East would then probably bid 4♦ to show the diamond control and no
-club control. We are at least near slam. But some would just bid 4♥, I'm sure, 
-thinking their hand is not that great. 
-
+East would bid 4♦ to show the diamond control and no
+club control. West's 4N will reveal two keys without the trump Queen, so missing an 
+Ace and the trump Queen, West will leave it at 5♥.
 
 .. _interference_major:
 

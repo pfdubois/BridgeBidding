@@ -428,8 +428,12 @@ Partners must be on their toes not to pass the game-forcing bids.
    so that if opener has a 3-5 fit he can be the one to bid the suit.
 
 .. rubric::
-   The Hand 
-   
+   The Hand And Stayman
+ 
+.. index::
+   pair:The Hand;Stayman
+   pair:Stayman;power raise
+     
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each::
 
