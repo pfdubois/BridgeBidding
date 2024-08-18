@@ -59,7 +59,7 @@ The opening bids are:
 The opening bids from 2♦ through 5♦ are :term:`preemptive`.  Do not make them with
 weak hands even though you have the correct length. Note that you and your partner
 must agree on how strong your suit is. One suggested agreement is that a preempt 
-promise at least a Queen in the suit if non-vulnerable, or a :term:`good suit` 
+promises at least a Queen in the suit if non-vulnerable, or a :term:`good suit` 
 (two of top three honors or three of the top five, excluding QJT) if vulnerable. 
 
 In third seat you can stretch a bit. Be careful not to preempt with too good a holding; 
@@ -78,11 +78,12 @@ The next few chapters will give details on these bids and their sequelae.
 Choosing An Opening Bid
 -----------------------
 
-The rules are simple and depend only on your strength and shape. Choose the first bid in 
-the following lists that applies:
+The basic rules are simple and depend only on your strength and shape. Choose the first 
+bid in the following lists that applies:
 
 * If a preempt is appropriate, make it.
-* Open 2♣ with |22ormore| points.
+* Open 2♣ with |22ormore| points (some slightly weaker hands with great long suits are 
+  also appropriate).
 * Open 2N if you have a balanced hand with 20-21 points. 
 * Open 1N if you have a balanced hand with 15-17 points.
 
@@ -94,16 +95,6 @@ If you have 12-21 points (or an 11 HCP hand with an AK in one suit and another A
 * Open 1♦ if your shape is exactly 4=4=3=2.
 * Open 1♣.
 
-With two shapes you can consider breaking the rules:
-
-* With five clubs and four diamonds, you can open one diamond with less than 17 points.
-  You aren't strong enough to bid 2♦ on your second bid if you open 1♣, and rebidding
-  clubs usually shows |6ormore| clubs. So you can consider the qualities of each 
-  suit to choose which lie you are willing to tell. 
-* With a 4=5=2=2 hand and 14-16 points you might open 1N, as long as one of the doubletons
-  is Kx or better. You aren't strong enough to bid 2♠ on your second bid if you
-  open 1♥.
-
 ::
 
    "It's not how good, it's how many." -- Mike Moss
@@ -112,6 +103,50 @@ In following the rules for bidding, you almost always disregard the
 quality of the suits. It's all about shape. This applies to many situations, not just
 the opening bid.
 
+Beyond The Basic Rules
+~~~~~~~~~~~~~~~~~~~~~~
+
+Breaking the rules is possible. The cases where you might consider it involve 
+thinking ahead to what happens later. 
+
+.. note::
+
+   Ignore this section until you are utterly reliable recognizing the basic bids.  
+
+* With five clubs and four diamonds, you can open one diamond with less than 17 points.
+  You aren't strong enough to bid 2♦ on your second bid if you open 1♣, and rebidding
+  clubs usually shows |6ormore| clubs. So you can consider the qualities of each 
+  suit to choose which lie you are willing to tell. Experts don't do this but they have
+  additional tools to cope with the situation.
+  
+* With a 4=5=2=2 hand and 14-16 points you might open 1N, as long as one of the doubletons
+  is Kx or better. You aren't strong enough to bid 2♠ on your second bid if you
+  open 1♥.
+  
+* With a hand 4-4 in the minors, you have to think about what you are going to do if
+  your partner responds with a major. If you are going to be bidding 1N, you are 
+  losing a club suit fit if one exists.  If you are going to rebid 2♣ your partner will 
+  expect an unbalanced hand.  So if you plan to rebid 1N, open 1♣.
+  
+* Some players play "better minor", that is, if 3-3 in the minors they will open the
+  diamond suit if it is better than the club suit. This is especially true in third
+  seat with a minimal opener -- you rather expect your LHO is going to overcall and 
+  your partner may end up on opening lead, so you show the suit you want led.  
+  
+  This has a downside: if you don't do this, partner can count on your having 4 diamonds 
+  when you open a diamond 95% of the time. 
+
+* With a balanced hand with 17 HCP, if you have a decent five-card suit as well, 
+  consider bidding the hand as an 18 point hand, which means open the suit and rebid 2N
+  if not raised.
+  
+  Conversely, do not downgrade 18 HCP to a 1N opener, ever. There is no "bad 18".
+  
+* It is legal to open 1N with a singleton A, K, or Q. If you never do this it will be 
+  fine.  Strangely, it is better with a K or Q rather than an Ace since someone with
+  the Ace may underlead it. Again, people tend to do this because looking ahead, they
+  worry about a 1N rebid underselling their hand, but 2N overselling it. 
+  
 Opening in 4th Seat
 -------------------
 
@@ -150,7 +185,7 @@ and did so.
 
 But what would West open? That's a little harder. The textbook says 1♥.
 Hearts is the longest suit, and it is a five-card major.  Is that all there is to say?
-No. For reasons we'll get into later, West would also consider opening 1N to avoid 
-a rebid problem: if East answers 1N, West is shy of the values for a reverse to 2♠.
+No. West would also consider opening 1N to avoid 
+the rebid problem: if East answers 1N, West is shy of the values for a reverse to 2♠.
 As we'll see, West would be forced into a lie of one kind or another.
 

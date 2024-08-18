@@ -28,6 +28,10 @@ fit. Naturally, all of the schemes have a problem when responder's hand is 4333.
 A responder who is 4333 can decide that the four-carder is a five-carder, or that one
 of the 3-card suits is his other four-carder.
 
+Marc Smith teaches that you should not play any runout at all! He feels 
+that 1NX is "often your best contract" and doesn't want to play a system that forces
+the opener to bid. 
+
 Use The Runout Over Conventional Doubles?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

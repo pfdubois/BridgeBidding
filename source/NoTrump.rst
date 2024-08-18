@@ -819,10 +819,11 @@ discussed.
 Stolen Bids
 ~~~~~~~~~~~
 
-A system for dealing with overcalls of our 1N opener, popular with intermediates, is 
+A system popular with intermediates for dealing with overcalls of our 1N opener is 
 called "stolen bids". I think it is
-correct to mention it here, even though I don't like it, as so many of your intermediate
-partners will think it is standard. 
+correct to mention it here because so many of your 
+intermediate partners will think it is standard. More advanced players will know how
+to play it but will be complaining that you should learn :ref:`Lebensohl <Lebensohl>`.
 
 - 1N (2a) X! means the same as if responder had bid the overcalled suit,
   up to 2♠. In other words, a double means, "He stole my bid!". In particular
@@ -832,7 +833,6 @@ partners will think it is standard.
 - The three level bids don't have their special meanings; if a jump, it is a weak bid
   in the suit, such as 1N - (2♦) - 3♥(preemptive, hearts).
   
-Unfortunately, I'm not sure this is really better than playing everything natural. 
 You're giving up the chance of a penalty double.  Also, when the opponents know this
 is what you play, as they will at your club, or if they look at your card, they
 can get away with murder interfering with you, knowing you can't double them.
@@ -841,6 +841,14 @@ The right answer is some form of the Lebensohl convention, which is quite advanc
 You're lucky to find a partner who knows it. People who say they know it and don't 
 really are legion at the advanced-intermediate level.
 
+Natural
+~~~~~~~
+
+You can just play responder overcalls as natural, with two-level bids being competitive 
+and three-level bids game forcing. 2N is invitational showing a stopper.  Bidding their 
+suit (a :term:`cue bid`) is game-forcing Stayman.  However, over a 2♣ overcall you have
+a double as Stayman.
+
 .. index:: runout
 
 .. _runout:
@@ -848,14 +856,14 @@ really are legion at the advanced-intermediate level.
 Run For Your Life
 ~~~~~~~~~~~~~~~~~~
 
-You also need a system, called a "runout", when your 1N opener gets doubled for 
+You also can agree on a system, called a "runout", when your 1N opener gets doubled for 
 penalty. You've played 1N with a :term:`yarborough` dummy before? You don't want 
 to go there. Here's the simplest way out.
 
 After 1N (X) or 1N (Pass) Pass (X) Pass (Pass), responder has the following choices:
 
 - Pass if you are willing to play 1N doubled (typically a balanced hand with
-  at least competitive values). 
+  at least competitive values).  This is often your best contract.
 
 - XX is a relay to clubs, pass or correct. If responder is weak, we'll be
   better off in any suit fit. If opener has just two clubs he could bid 
