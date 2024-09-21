@@ -6,8 +6,10 @@ Advanced 2N Auctions
 .. index:
    pair:opening 2N;advanced system
 
-When partner opens 2N, or opens 2♣ and rebids 2N, the following is an expert structure
-for accommodating a variety of hand types.
+When partner opens 2N, or opens 2♣ and rebids 2N, we need to handle a variety of
+hand types, from weak to slam hands, and those with two suits; we have very little 
+room in which to do it.  I cannot recommend too highly Gavin 
+Wolpert's video lesson on this topic. I also mention the teaching of Marc Smith.
 
 Advanced players can be more nuanced about which hands they open 2N. Sometimes you have a 
 choice of opening one of a suit and then reversing, or opening 2N,
@@ -28,28 +30,21 @@ Wolpert suggests opening this 2N and then deal with it. On the other hand, a six
 minor hand can be too strong for opening 2N. Wolpert suggests a range of 17+ to 19 to 
 open 2N with a six card minor.
 
-Basic Responses
----------------
+We've discussed the basic :ref:`responses in 2N auctions <open2NR>`.
 
-Unlike the situation over 1N, there is no room for many conventions; in particular,  
-there is no escape sequence to get out in a minor. After a 2N opening, or 2N rebid
-over 2♣:
+* 3♣ is Stayman
+* 3♦ and 3♥ are transfers
+* 3♠ is :ref:`Minor Suit Stayman <MSS>`.
 
-* Pass with less than game-going values.
-* 3♣ is Stayman. Over a 3♦ reply use :ref:`Smolen<Smolen>` when 5-4 in 
-  the majors. An alternative choice is to play this as 
-  :ref:`Puppet Stayman<Puppet_Stayman>` .
-* 3♦ and 3♥ are transfers. 
-* 3♠ is a minor suit slam try; opener must bid 3N relay. Followups below.
-* 3N to play
+The simplest scheme for the four-level is:
+
 * 4♣ is Gerber. 
 * 4♦ and 4♥ are Texas transfers. 
-* 4N is quantitative, asking opener to bid 6N with a hand with good trick-taking ability.
-* 6N means you are sure we have 33 HCP but not 37 HCP.
-* 7N means you're having a good day.
 
-Stayman Auctions
-----------------
+However, we will see alternatives for those below.
+
+Stayman
+-------
 
 Bidding Stayman promises a four-card major. Stayman auctions are normal, including 
 responder bidding the "other major" as a power raise if opener bids a suit. Thus, the
@@ -86,7 +81,7 @@ Optional Improvement
 ~~~~~~~~~~~~~~~~~~~~
 
 If we Stayman with four of a major and six of a minor, when opener denies our 
-major it leaves room for the following experts-only manuever.
+major it leaves room for the following experts-only manuever by Wolpert.
   
 After 2N - 3♣ - 3♦ or 3♠, a slammish responder with four hearts and a
 six-card club suit bids 4♣. Then Opener bids:
@@ -205,9 +200,42 @@ and expensive (diamonds)for the more expensive major, spades.
 Responding With One Or Both Minors 
 ----------------------------------
 
-With no minor suit slam interest, just bid 3N. With just mild minor suit slam interest,
-bid 3N. You have to be seriously slammish to bid 3♠!.  There is no "minor escape" with
-a weak hand.
+It is nice to be able to deal with minor-oriented hands with slam potential. With 
+just one minor but no slam interest it is better just to try 3N.  With two, 
+we have 3♠ as :ref:`Minor Suit Stayman` which covers both trying for game in a minor or 
+with slam interest. Wolpert says, "You have to be seriously slammish to try for a 
+minor slam."
+
+.. rubric:: Two-Up Transfers 
+
+Marc Smith teaches different bids from 4♣ to 4♠, using "2-up" transfers. 
+This is definitely an improvement without getting very complicated:
+
+* 4♣ mild slam try or better in hearts
+* 4♦ mild slam try or better in spades
+* 4♥ mild slam try or better in clubs
+* 4♠ mild slam try or better in diamonds
+
+After the 2-up transfers to the majors, we are always going to play in the
+indicated major. Opener can indicate slam interest by bidding the "in-between",
+or complete the transfer with no slam interest.  Responder can bid the game
+over the in-between to show mild interest only.  Control bidding or keycard
+ensues to make a slam attempt. (Kickback 4♠ for hearts is a possible agreement here.)
+
+After 2N-4♥ (clubs) and 2N-4♠ (diamonds):
+
+* 4NT always says 'don't like'. This can be passed.
+* 5m says I have a fit but an unsuitable hand for slam.
+* The spare bid (4♠ over 4♥ or 5♣ over 4♠) says I have a good hand for slam.
+
+Responder can then bid 5m to show only a mild slam try, or jump to slam.
+
+There is so little room that control-bidding to find a grand slam needs 
+further discussion. This may be too much for all but the most expert partnerships.
+
+.. rubric:: Minor Slam Tries 
+
+The following is from Wolpert, and is more difficult than Smith's idea.
 
 With minor suit slam interest, bid 2N - 3♠! as a relay to 3N.
 Responder then bids the "other minor" or a short major to show both minors.
@@ -221,11 +249,12 @@ After 2N - 3♠! - 3N!:
 * 4♠ = both minors, spade splinter.
 * 4N = quantitative, both minors.
 
-Details follow.
-
 .. warning::
    
    After 2N - 3♠!, 4N is never keycard, it is a sign-off.
+
+You can see that the 4M bids cannot be natural, since you would have transfered to 
+one of them first. They are like the 1N - 3M splinters.
 
 When Partner Shows One Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -127,7 +127,7 @@ Redwood
    pair:slam try; Redwood
    single:response;RKC
    
-Redwood is superior to :ref:`Minorwood <Minorwood>` in my opinion.
+Redwood is superior to :ref:`Minorwood <Minorwood>`.
 
 Redwood, or One-Over Keycard, is a :ref:`Roman Keycard <RKC>` bid for the minors, that
 leaves more room for responses.  The bid one over an agreed minor suit at the four level
@@ -156,19 +156,21 @@ After a 1st or 2nd step replay, bidding the next step asks about the trump Queen
 After any reply the bid of one over the trump suit asks for Kings. You should use
 the number of Kings or the cheapest specific King, whatever you do for ordinary RKC.
 
+When there is no explicit agreement, the one-over bid is not RKC if it could be 
+something else.  For example, 1♦ - 2♣ - 4♦ is not RKC for clubs.  In particular, if
+4♥ could be natural, it is not RKC for diamonds. In that case, the two-over bid of
+4♠ is the RKC bid; but you must check to be sure you have enough room for any feasible 
+reply.
+
+Playing Redwood, 4N is never RKC.
+
 Examples::
 
    1♦ - 2♦(inverted or not) - 4♥!(RKC for diamonds) - 4N!(one or four)
-   1♣ - 2♦ - 2♥ - 3♣ - 4♦! because clubs was agreed
    1♠ - 2♦ - 4♥!(RKC for diamonds); implicit agreement
-   1♣ - 2♣ - 4♦ - 4♠ - 4N to play
+   1♣ - 2♣ - 4♦!(RKC for clubs) - 4♠ - 4N to play
    1♣ - 2♣ - 4N quantitative
    
-The last two examples illustrate that when the one-over bid was available,
-to bid 4N is always a signoff or quantitative.
-
-When there is no explicit agreement, the one-over bid is not RKC if it could be 
-something else.  For example, 1♦ - 2♣ - 4♦ is not RKC for clubs.
 
 Three Spades Kickback
 ---------------------

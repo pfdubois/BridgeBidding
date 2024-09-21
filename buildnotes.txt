@@ -39,4 +39,8 @@ The workflow is:
       git push
       
       (Assuming you have git properly connected and credentialed to pfdubois.github.com)
+
+I found I had to run 
+git config http.postBuffer 524288000
+after getting an error about the remote end hung up unexpectedly.
       

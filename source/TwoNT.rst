@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 The 2N Opening Family
 =====================
 
@@ -27,6 +29,8 @@ diamonds than hearts, which is not permitted. Opening 2N may be the least evil.
 
 Responses
 ---------
+
+.. _open2NR:
 
 Unlike the situation over 1N, there is no room for many conventions; in particular,  
 there is no escape sequence to get out in a minor. Otherwise:
@@ -67,12 +71,29 @@ Any agreement about 3♠ suffers from the problem that opener's RHO can double f
 spade lead, possibly sinking the ship.  We really have to be serious about a possible
 minor slam before risking this.
 
-A common agreement is "Minor Suit Stayman", showing both minor suits. Experts
-do not play this. Again, if you might make 3N you should bid it.
+A common agreement is :ref:`Minor Suit Stayman <MSS>`, showing both minor suits, below.
 
-Experts make 3♠ a relay to 3N, followed by responder showing a minor as a slam try. 
-
-See :ref:`Advanced 2N Bidding <advanced2N>` for a full expert system.
+See :ref:`Advanced 2N Bidding <advanced2N>` for a more expert systems.
 
 I have no section on dealing with interference over a 2N opener because doing so is 
 almost never advisable. As a general rule, responder as Captain would deal with it.
+
+.. _MSS:
+
+.. index:: Minor Suit Stayman
+
+.. rubric:: Minor Suit Stayman
+
+A bid of 3♠ shows at least 5-4 in the minor suits and of course the values for game.  
+Opener can bid:
+
+* 3N to deny a four-card minor
+* 4m to show a four-card minor
+* 4♥ to show a slam interest with |5ormore| clubs.
+* 4♠ to show a slam interest with |5ormore| diamonds.
+
+Playing in notrump is always on the table.
+
+
+Note: Some play MSS over 1N too, but most experts deal with such hands using the 3-level 
+"splinter" methods.
