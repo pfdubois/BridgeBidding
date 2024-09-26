@@ -34,14 +34,24 @@ by bidding game, or declining with 3M.
 After a limit raise, opener generally passes, bids 4M, or starts exploring for
 slam by bidding a :term:`control`.
 
-After a preemptive raise to 4M, opener passes nearly always. Remember, that means 
-five trump and a weak hand, not a strong hand.
+After a preemptive raise to 4M, opener passes nearly always. Remember, 4M means 
+five trump and a weak hand, not a strong hand. 
+
+In all cases opener can explore for slam with a :term:`control bid`, :term:`splinter`,
+:ref:`Blackwood <Blackwood>` or :ref:`Roman Keycard Blackwood <RKC>`.
 
 After One Heart - One Spade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The 1♠ response is not limited and therefore opener must bid. Be aware
 that 1♠ does not deny 3 hearts; responder's next bid of 3♥ or 4♥ shows 3-card support.
+
+-  With four spades, we usually bid 2♠. This is not forcing.
+   Bidding 2♠ has debatable requirements. I like it to show four spades or three spades 
+   and an outside singleton or void.  Experts may bid 2♠ regardless with three spades.
+-  With four spades and 15-17 points bid 3♠. With more bid 4♠ or a :term:`splinter`.
+
+Lacking spade support:
 
 -  1N shows a minimum opener and a balanced hand.
 -  2♥ shows a minimum opener (12-14) and |6ormore| hearts.
@@ -50,10 +60,6 @@ that 1♠ does not deny 3 hearts; responder's next bid of 3♥ or 4♥ shows 3-c
    or to reverse.
 -  3♥ is invitational and shows |6ormore| hearts (15-17).
 -  4♥ shows 19+ and |6ormore| hearts.
--  With four spades, we usually bid 2♠. This is not forcing.
-   Bidding 2♠ has debatable requirements. I like it to show four spades or three spades 
-   and an outside singleton or void.  Experts may bid 2♠ regardless with three spades.
--  With four spades and 15-17 points bid 3♠. With more bid 4♠ or a :term:`splinter`.
    
 After 1N Forcing
 ~~~~~~~~~~~~~~~~
@@ -123,8 +129,7 @@ Responder should prefer back to the major with a doubleton otherwise.
 The entire probability of having to bid a short minor is lowered by
 always opening 1N with a five-card major.
 
-.. rubric::
-   Responder Continues
+.. rubric:: Responder Continues
 
 Note that responder's 1N forcing bid limited his hand to a maximum of 12
 points.
@@ -170,23 +175,26 @@ With a flattish 13-15, but relatively weak holdings in the 4-card
 suit(s), 1N(forcing) followed by 3N is sometimes appropriate to avoid
 partner getting too excited.
 
-After A 2/1
-~~~~~~~~~~~
+After A 2/1 Response
+~~~~~~~~~~~~~~~~~~~~
 
 Once we have made a 2/1 game-forcing bid, if the opponents interfere 
 we either will bid game or double them for penalty. In such a situation if
 one partner passes the other is forced to double or bid on.
 
-There are two styles of Two Over One.  You are forced to choose whether:
-* (A) Rebidding 2M promises a six-card suit; or,
-* (B) Rebidding at the three-level promises extras.
+.. important::
+
+   There are two styles of Two Over One.  You are forced to choose whether:
+   
+   | (A) Rebidding 2M promises a six-card suit; or,
+   | (B) Rebidding at the three-level promises extras.
 
 (A) and (B) cannot both be true. Consider a 5=2=2=4 opener with 12 HCP. 
 Say he opens 1♠ and hears responder say 2♦. He has neither six spades nor enough
 points to bid 3♣. 
 
 I'm going to teach what at the moment is the trend, (A). When I first started to write
-the predecessors to this book, it was decidedly (B), as popularized by Hardy.
+this book twenty years ago, it was decidedly (B), as popularized by Hardy.
 There are also divisions about whether 1♦ - 2♣ is a game-force; Lawrence, for example,
 says no.  But this book will say yes.
 

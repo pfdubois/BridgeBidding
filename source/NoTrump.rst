@@ -1,3 +1,4 @@
+.. include:: ../rst_prolog.txt
 
 .. _strong1N:
 
@@ -16,21 +17,30 @@ invitational, game-going, or slam interest.
 
 When a hand is eligible to open in notrump, we are anxious to do so. As we will see,
 we will have an entire system devoted to bidding such hands that almost always gets us,
-if we are not disturbed, to a good contract.  
+if we are not disturbed, to a good contract.  The "system" is very extensive, which is
+why this chapter is so long.
 
-When do you open a hand in notrump? The hand must have:
+If you are not very experienced, a good target is to get through the section 
+:ref:`Major Transfers <transfers>` and make sure you and your partner are solid on 
+that much.
 
+When Do You Open Notrump?
+-------------------------
+
+With many bids it matters what your strength and shape are and these might vary with 
+which :term:`seat` you're in.  With notrump, there is no variation with seat.
+The hand must have:
+
+* A shape that is :term:`balanced`, 4-3-3-3, 4-4-3-2, or 5-3-3-2. Note that that
+  means no voids, no singletons, and at most one doubleton.
+  
 * A HCP strength in a specific range:
 
   - 15-17 to open 1N
   - 20-21 to open 2N
   - With 22-24 we open 2♣ and rebid 2N
-  - With 25-27 we open 2♣ and rebid 3N
-  - and so on.
+  - With 25-27 we open 2♣ and rebid 3N, and so on.
   
-* A shape that is :term:`balanced`, 4-3-3-3, 4-4-3-2, or 5-3-3-2. Note that that
-  means no voids, no singletons, and at most one doubleton.
-
 What about hands with the right shape but wrong strength?  You'll handle 12-14
 point hands with no five-card major by opening a minor and bidding notrump on
 the second round. For 18-19 point hands you'll open a suit, and bid 2N 
@@ -41,18 +51,28 @@ on the second round.
    such as (most popularly) 12-14.  They open 1N in that range and open a suit then
    rebid 1N when their hand is a traditional 1N opener. They alert the 1N bid.
 
-As you get more experience, you may find some hands you want to open in notrump
-despite not being really balanced. These so-called :term:`semi-balanced` hands
-have two doubletons.
+.. rubric:: Hands You Sometimes Open 1N
 
-* A 5-4-2-2 hand, as long as one of the doubletons is Kx or better.
-* A 6-3-2-2 hand if the long suit is a good minor and both doubletons
-  are Kx or better. 
+* As you get more experience, you may want to open 1N with some :term:`semi-balanced` hands.
+  You can consider this with these shapes:
 
-When you open in notrump, you have told your partner your strength within 3 points, 
-and that you have a balanced shape. This means your partner is actually best placed
-to decide where you are going, because he knows his own hand and a lot about yours,
-while you know nothing of his yet.  For now at least, he's the :term:`Captain`.
+  - A 5-4-2-2 hand, as long as one of the doubletons is Kx or better, and
+    the long suit is a minor.
+  - A 6-3-2-2 hand if the long suit is a good minor and both doubletons
+    are Kx or better, and the long suit is a minor.
+
+* Should you open 1N with a five-card major? Almost always. There are a few hands, where 
+  the major contains say 9 or 10 of the points, that you might open 1M, but
+  you'll always struggle to get partner to believe your strength.
+
+* When you are more experienced you'll likely find yourself wanting to upgrade some 
+  14 point hands that contain a good five-card suit and open them 1N. Likewise, you will
+  not open a 17 HCP hand that has such a suit, preferring to open the suit and rebid 2N.
+  When overcalling the opponents, be careful about doing it with 15 HCP hands -- you'll 
+  need a five-card or longer suit anyway, and bidding that suit may be preferable.
+
+How To Choose A Response To 1N
+------------------------------
 
 The responder is going to reply using an extremely well-defined structure, the "system",
 which has a high probability of getting you to a good contract. This system is so useful
@@ -63,26 +83,15 @@ that we try to use it whenever we can:
 #.  After we open a strong 2♣ and rebid notrump.
 #.  When we open 2N.
 
-The rest of this chapter is devoted to explaining the "system".  You'll notice it is
-a very long chapter, because there are a lot of subtleties.
+The rest of this chapter is devoted to explaining the "system" over 1N.  You'll 
+notice it is a very long chapter, because there are a lot of subtleties. 
+The ideas mostly carry over to the higher-level notrump bids as detailed in
+:ref:`The 2N Opening Family <open2N>`.
 
-Should you open 1N with a five-card major? Yes. There are a few hands, where the major
-contains say 9 or 10 of the points, that you might open 1M, but you'll always struggle
-to get partner to believe your strength.
-
-.. rubric::
-   About The HCP Range For 1N
-
-When you are more experienced you'll likely find yourself wanting to upgrade some 
-14 point hands that contain a good five-card suit and open them 1N. Likewise, you will
-not open a 17 HCP hand that has such a suit, preferring to open the suit and rebid 2N.
-When overcalling the opponents, be careful about doing it with 15 HCP hands -- you'll 
-need a five-card or longer suit anyway, and bidding that suit may be preferable.
-
-These decisions involve that more mature hand evaluation sense that I discussed. 
-
-How To Choose A Response To 1N
-------------------------------
+When you open in notrump, you have told your partner your strength within 3 points, 
+and that you have a balanced shape. This means your partner is actually best placed
+to decide where you are going, because he knows his own hand and a lot about yours,
+while you know nothing of his yet.  For now at least, he's the :term:`Captain`.
 
 Assume your partner has opened 1N. You, as responder, should:
 
@@ -96,7 +105,7 @@ Assume your partner has opened 1N. You, as responder, should:
    the majors.
 
 -  In hands with no majors, note if the hand has a six-card minor. Do not
-   do anything special with a five-card minor.
+   do anything special on your first response with a five-card minor.
 
 Generally, a hand whose principal feature is a long minor wants to be in
 3N if it is strong enough, unless it is a strong hand that might want to be in a
@@ -108,8 +117,9 @@ minor slam. This is especially true playing matchpoints.
 Responding With No Major Suit Or Long Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In responding to your partner's 1N opener, if you determine that there no major suit 
-or long minor, your actions are determined by your point count alone:
+In responding to your partner's 1N opener, if you determine that 
+there is no |4ormore| card major suit or |6ormore| card minor, your actions are determined
+by your point count alone:
 
 * With a hand with fewer than 8 HCP, pass.
 * With an invitational hand (8-9 HCP) bid 2N.

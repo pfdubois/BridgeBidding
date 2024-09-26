@@ -73,7 +73,7 @@ minor slam before risking this.
 
 A common agreement is :ref:`Minor Suit Stayman <MSS>`, showing both minor suits, below.
 
-See :ref:`Advanced 2N Bidding <advanced2N>` for a more expert systems.
+See :ref:`Advanced 2N Bidding <advanced2N>` for more expert systems.
 
 I have no section on dealing with interference over a 2N opener because doing so is 
 almost never advisable. As a general rule, responder as Captain would deal with it.

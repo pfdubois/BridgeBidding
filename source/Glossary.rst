@@ -397,6 +397,10 @@ Glossary
    runout
       A method of escaping from a penalty double, such as a double of a 1N opener.
 
+   seat
+      Your position with respect to the Dealer or the opener. For example, the Dealer
+      is in first seat, and his partner is in third seat.
+      
    semi-balanced
       A hand with a 5-4-2-2 or 6-3-2-2 shape, the longest being a minor.
 
