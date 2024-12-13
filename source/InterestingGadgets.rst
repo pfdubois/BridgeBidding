@@ -359,3 +359,32 @@ NMF.
 
 With Wolff, 3♣!(Wolff relay to 3♦) allows responder to place the contract. There are 
 some subtleties to it, which I leave for your own research if interested.
+
+Response Swapping Over Black Overcalls
+--------------------------------------
+
+.. index::
+   pair:convention;response swapping 
+   
+When we open a suit and the opponents make an overcall a black suit, up to and
+including 3♣, we switch the meanings of the other two suit bids in response
+(i.e. they become transfers to one another).  
+
+For example, after 1♦ (2♠), a bid 
+of 3♥ would normally mean a good hand with hearts while a bid of 3♣ would be a good
+hand with clubs. By swapping meanings, we mean 3♥ shows clubs while 3♣ shows hearts.
+
+This gives us the usual benefit of transfers: two ways to show a suit.  For example,
+with a preemptive hand with hearts we could bid 3♣ and then pass opener's 3♥ reply, 
+but with a better hand we can make another bid, such as showing support for opener 
+along with our hearts. 
+
+Another example::
+
+   1♠ (2♣) 2♦!(hearts) (P)
+   2♥ (P)  2♠
+   
+holding Qxx KQxxx xxx xx, but passing 2♥ with x JT9xxx Kxx xxx.
+
+More elaborate versions can be played, but this is the simplest. Remember, it does not 
+apply above 3♣.

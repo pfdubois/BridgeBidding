@@ -200,11 +200,11 @@ and expensive (diamonds)for the more expensive major, spades.
 Responding With One Or Both Minors 
 ----------------------------------
 
-It is nice to be able to deal with minor-oriented hands with slam potential. With 
-just one minor but no slam interest it is better just to try 3N.  With two, 
-we have 3♠ as :ref:`Minor Suit Stayman` which covers both trying for game in a minor or 
-with slam interest. Wolpert says, "You have to be seriously slammish to try for a 
-minor slam."
+It is nice to be able to deal with minor-oriented hands with slam potential.
+With just one minor but no slam interest it is better just to try 3N.  With
+two, we have 3♠ as :ref:`Minor Suit Stayman <MSS>` which covers both trying for
+game in a minor or with slam interest. Wolpert says, "You have to be seriously
+slammish to try for a minor slam."
 
 .. rubric:: Two-Up Transfers 
 

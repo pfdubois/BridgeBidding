@@ -770,8 +770,8 @@ two suits, one of them possibly unknown, in
 
 .. _transferdoubled:
 
-When a major transfer is doubled or overcalled
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dealing With Interference To A Transfer
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 A double of an artificial bid is lead-directing. So, opener's RHO may double
 to show that he wants a lead of the (artificial) suit that responder just bid.
@@ -805,6 +805,8 @@ Note the theme again: 4N is quantitative any time we have not affirmatively agre
 on a suit.
 
 The responder is still :term:`Captain`, and we're waiting to hear his opinion.
+
+
 
 .. _staymandoubled:
 

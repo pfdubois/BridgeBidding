@@ -90,6 +90,7 @@ Here are general principles to guide you:
    one now being a level too high. If they don't, we weren't likely to make 3♠.
      
 * Do not "sacrifice" against a part-score. Do not sacrifice vulnerable. Be hesitant 
-  about sacrificing at the five-level. 
+  about sacrificing at the five-level; if you are vulnerable you'd be better off if you
+  almost never did it.
      
 Look for a reason to bid, not a reason to pass.
