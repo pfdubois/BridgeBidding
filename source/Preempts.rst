@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+ 
 Preemptive Opening Bids
 =======================
 
@@ -23,37 +25,72 @@ Two-Level Preempts
 
 Opening bids (or jump overcalls if playing :ref:`Weak Jump Shifts <wjs>`) of
 2♦, 2♥, and 2♠ are weak bids, showing a six card suit with 5-10 points, with 10
-being rare. If we are vulnerable, the suit must be a good one, that is, two of
-the top three honors or three of the top five, not counting QJT. Not vulnerable, the bid 
-promises at least a Queen and a six-card suit. 
-
-Since 2♣ is the strong opening, 3♣ preempts with six very good clubs are common.
+being rare. (Since 2♣ is the strong opening, 3♣ preempts with six very good clubs are 
+common.)
 
 .. warning::
-   Some opponents will preempt on complete air. Both the common bidding "rules" 
-   and the ACBL regulations are complicated. Some people have much different ranges
-   than 5-10.
-   
-The most common error is not preempting with too little, but with too much.
-In first or second seat, if hand contains an outside
-four-card major, or even a good three-card major holding, or is near the top of
-the range, you might forego the preempt. 
+   ACBL regulations are complicated. They depend on the level of the competition.
+   You should read them. Be aware that some people have much different ranges than 5-10.
+   They don't have to alert them in most cases. You can ask or check their cards.
+ 
+The meanings of these bids has changed over time. Originally, in the Goren era, these 
+two-bids were strong bids.  However, the frequency of hands strong enough to open at the 
+two level was small, and the difficulties the weak bids cause to the opponents is large,
+so the strong two bids were all incorporated into the 2♣ bid, and the 2♦, 2♥, and 2♠
+bids became weak.
 
-Opinion differs here. There are many very good players who preempt with 
-less than these honor requirements. However sticking to the requirements 
-has some positive payoffs in finding 3N games and in playing defense
-when they bid over it. 
+But how weak? That too has evolved.  
 
-In third seat it is often advisable to open at the two level with a six-card suit if 
-you have even up to 14 HCP.    
+In third seat it is generally agreed 
+that almost anything goes -- your partner could not open, and it is very likely their 
+hand. Interfering with their auction becomes paramount.  In third seat it is often 
+advisable to open at the two level with a six-card suit if you have even up to 14 HCP.    
 
 .. index:: fourth-seat bidding
 
-These bids have an entirely different meaning in fourth seat. There is
-no reason to preempt in fourth seat. A two-level bid in fourth seat
-shows a hand that would have opened at the one level and then rebid the
-suit at the two level, typically six cards and 12-14 points. Likewise,
-higher bids show progressively more powerful hands.
+In fourth seat you do not preempt, you pass if you can't make a one-level opening.
+With a six-card suit and a minimal opening hand, you can open at the two-level.
+
+The following styles apply in 1st and 2nd seats. 
+
+.. rubric::
+   The Traditional Style
+   
+In what we might call the traditional style, still taught and played by many but now 
+giving way to lighter styles, the rules were this:
+
+* If we are vulnerable, the suit must be a good one, that is, two of
+  the top three honors or three of the top five, not counting QJT. 
+
+* Not vulnerable, the bid promises at least a Queen and a six-card suit. 
+
+* Usually one does not preempt with a four-card major, or even a good three-card 
+  major.
+
+The most common error is not preempting with too little, but with too much.
+
+The philosophy behind these rules emphasized a combination of competing to the right 
+contract if it is our hand besides interfering with their auction. Hence the concern
+that preempting with a four-card major might be missing a major-suit fit.
+
+.. rubric::
+   The Light Style
+   
+Expert opinion has swung to these bids being lighter. While a combination of suit 
+quality and hand strength is relevant when vulnerable, the emphasis is on interference.
+The honor requirements are abandoned.  This makes it harder on one's partner to choose
+a response but the odds are that it is their hand rather than ours.  
+
+Far from being an inhibition, having a four-card major is viewed as a plus.  
+If the opponents want to get into the auction they are more likely 
+to be bidding a minor at the three-level, or getting into a contract in a major
+with a poor trump split. 
+
+Marc Smith says he routinely opens two of a major in first seat with nothing but a 
+decent five-card suit. 
+
+Do note the appropriate ACBL regulations: you have to state a range on your card, and
+it is not entirely free to bid outside it.
 
 .. index::
    pair: preempt; responses
@@ -94,10 +131,6 @@ Three-level opening bids are similar to two-level preempts, except they
 show a seven card suit or six good clubs. To compete over such a preempt
 requires more than a minimum opening hand.
 
-Three-level openings in fourth seat are not preemptive. They show a hand
-that would open at the one level and rebid at the three level, typically
-a six card suit and 17-19 points.
-
 An advanced idea for pursuing slam after partner preempts is 
 :ref:`Preempt Keycard <preempt_keycard>`.
 
@@ -109,10 +142,6 @@ or better. The bid is not strong, and partner must be cautious about
 going on. Other than that the treatment is similar to the three-level
 preempt.  
 
-Again, in 4th seat this is a powerful bid, showing 20 points
-or more. If it really is so great a hand that you are afraid of being
-left short of game by a partner with almost nothing, it is likely a
-candidate for a 2♣ opener.
 
 See :ref:`Bidding Distributional Hands <BDH>` for more thoughts.
 
@@ -124,8 +153,13 @@ Bidding in Passout Seat
    pair: two-level opener; passout seat
 
 There are no preempts in :term:`passout seat`. 2♣ is still strong. 
-But 2♦, 2♥, and 2♠ show a six card suit, 12-15. Three level bids are 16-19. 
-Four level bids are 20+. To bid this way is to say that you would have rebid this
+But 2♦, 2♥, and 2♠ show a six card suit, 12-15. 
+
+There is no standard meaning for the three-level bids.  An easy idea that I like is:
+
+* Three level bids are 16-19 with |6ormore| cards.
+
+To bid this way is to say that you would have rebid this
 whatever the response to 1x; you are just making both bids at once.
 
 If this situation does not apply, then you may “borrow a King” -- that
