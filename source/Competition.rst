@@ -89,8 +89,22 @@ Here are general principles to guide you:
    should now bid 3♠ or double for penalty. The balance did its job. They might go down
    one now being a level too high. If they don't, we weren't likely to make 3♠.
      
-* Do not "sacrifice" against a part-score. Do not sacrifice vulnerable. Be hesitant 
+* Do not "sacrifice" against a part-score. Very rarely sacrifice vulnerable. Be hesitant 
   about sacrificing at the five-level; if you are vulnerable you'd be better off if you
   almost never did it.
+  
+* When you and partner have bid and raised a suit, bidding another suit is NEVER done 
+  to try to find a better fit. I call this the Church of We Agreed -- we agreed, so 
+  I am not suggesting we look elsewhere. I'm saying something else -- asking for help
+  in that suit, or showing a control, or asking for a control, for example.
+  
+* It is usually the person who is short in their agreed suit that needs to do some 
+  competing if appropriate.
+  
+* If they agree a suit after your partner's overcall, for you to proceed to the three 
+  level in another suit is to agree with your partner's suit. For example,
+  (1♥) 1♠ (2♥) 3♣ -- you can't be looking for a fit at the three level when your partner 
+  might only have 8 points, so this bid shows spade support and a good club suit.  
+  This extra information helps partner decide how high to go.
      
-Look for a reason to bid, not a reason to pass.
+Above all: Look for a reason to bid, not a reason to pass.

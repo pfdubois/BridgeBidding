@@ -20,25 +20,40 @@ I set out to remedy the situation for myself.  I soon realized others were in
 the same boat, especially people in other countries for whom bridge books were
 expensive. So I made it my goal to provide an Open Source book that helps a
 bridge player get from intermediate to advanced. I have constantly revised my
-set of explanations as my own understanding has grown. This book puts all my
-efforts in one volume again.
+set of explanations as my own understanding has grown. 
+
+In 2024 I was fortunate to place in the top 10 in the world in the Realbridge.online 
+bidding contest.  I wish my cardplay and defense would keep up!
+
+The Bidding Rules Have Two Branches
+-----------------------------------
 
 The first part of this book presents the Two Over One Game Force (2/1) system
 that is popular in North America. The more basic Standard American Yellow Card
-(SAYC)is subsumed in that system, since when responder is a passed hand 2/1 reverts
-to SAYC's rules.
+(SAYC) is subsumed in that system. Here is what I mean.
 
-Few people play even basic SAYC as written.
-There are many aspects of bidding, including the vital areas of competing for
-part scores and making game tries, that are not explicitly in the systems at
-all. In cases where the standard is sometimes or often ignored, I'll try to
-point that out. 
+Let's suppose I deal and I open a heart. The next person passes and you, my partner,
+bid two diamonds.  You have made a two-level bid over my higher-ranked suit. In the
+2/1 system, that bid promises an opening hand, which means that together we have 
+enough points for game.  Hence we are in a "game-forcing" auction, meaning that 
+neither of us can pass short of 3N or a four-level bid.
 
-Until we get to the Advanced chapters, I will not present many alternative ways of
-doing things.  I didn't like, when I was learning, books that said I could do this or
-that, when I had no basis in experience to make an informed choice.
+By contrast, suppose you deal and pass, and the next opponent passes. I bid a heart,
+and you reply two diamonds. You already passed, so you cannot have an opening hand,
+and so your bid cannot "force to game".  Obviously, whatever our bidding rules are
+going to be in this situation, they have to be different now. As it happens, the rules
+we will use are the older SAYC set of rules that historically preceded the adoption 
+of 2/1. We also need to use those rules when the opponent to the left of the opener 
+makes a bid before the responder can speak.
 
-The :ref:`Resources <bibliography>` chapter lists other sources of information. 
+You will still find people playing SAYC. The predecessor to that was "Goren",
+the system popularized by Charles Goren and that I learned as a child 70 years ago.
+The name SAYC originated in a convention card the American Contract Bridge
+League (ACBL) created for an event in which everyone was to play the same
+convention card. Apparently the sample cards were yellow in color.
+Few people play SAYC as it was written. In cases where the standard is
+sometimes or often ignored, I'll point that out. 
+
 
 How to Use This Book
 --------------------
@@ -67,7 +82,7 @@ spending equal time on the other two-thirds of bridge.
    pair:convention;expected with 2/1
    
 Here's a guide to what follows. First we cover 2/1's key bids, competitive
-bidding, and basic slam bidding. The 2/1 part of the system really has two
+bidding, and basic slam bidding. The 2/1 system really has two
 parts: the two-over-one and 1N-forcing bids and their followups; and this set of
 expected conventions:
 
@@ -77,7 +92,7 @@ expected conventions:
 - :ref:`Inverted Minors <inverted_minors>`, and
 - :ref:`Roman Keycard Blackwood <RKC>`.
 
-There is no real connection between 2/1 and this set of conventions except that
+There is no real connection between the 2/1 bids and this set of conventions except that
 most players of 2/1 also play those conventions.  As you are learning you'll
 need to tell potential partners which of these conventions you haven't mastered
 yet. Fourth Suit Forcing and New Minor Forcing are so close in spirit that you
@@ -87,7 +102,7 @@ high on the want list from your partner.
 .. warning::
    Do not agree to play a convention unless you have a solid knowledge of it, including
    not just the initial bids but the followups, including what to do if the opponents
-   interfere.  Everyone fails to recognize that a bid is conventional now and then,
+   interfere.  Everyone now and then fails to recognize that a bid is conventional,
    both when they make it and when partner makes it, but each such error cancels out
    a year's worth of benefits from playing it.
 
@@ -95,6 +110,14 @@ I believe that new players should learn 2/1 from the beginning, adding in the
 conventions just mentioned ASAP. You have to learn the SAYC meanings as well,
 since they apply when opener is a passed hand or there is interference. That's
 the approach we're taking here.
+
+There are many aspects of bidding, including the vital areas of competing for
+part scores and making game tries, that are not explicitly in these systems at
+all. 
+
+Until we get to the Advanced chapters, I will not present many alternative ways of
+doing things.  I didn't like, when I was learning, books that said I could do this or
+that, when I had no basis in experience to make an informed choice.
 
 Casual Partners
 ---------------
@@ -140,16 +163,17 @@ Use Bridge Books in the subject and mail to me at ``pfdubois@gmail.com``.
 Acknowledgments
 ---------------
 
-Thank you to my long-time teacher, Mike Moss, who taught me almost
-everything I know. I have also received help from teachers and expert
-players including Howard Schutzman, Oliver Clarke, Alex Martelli, and 
-Jim and Pat Leary; and encouragement from my fellow learners and partners, 
-especially Douglas Schmickrath, David Silberman, Julia Beatty, Ally Whiteneck, and 
-John Engstrom.
+Thank you to my long-time teacher, Mike Moss, who taught me almost everything I
+know. Lately I have greatly profited by taking lessons from Marc Smith. I have
+also learned from expert players including Marty Bergen, Rob Barrington, Gavin
+Wolpert, Howard Schutzman, Oliver Clarke, Alex Martelli, and Jim and Pat Leary;
+and received encouragement from my fellow learners and partners, especially
+Douglas Schmickrath, David Silberman, Julia Beatty, Ally Whiteneck, and John
+Engstrom.
 
-More recently I have taken lessons from Marc Smith, and purchased the video
-lessons of Marty Bergen, Rob Barrington and Gavin Wolpert. I am definitely a
-#Gavinista. 
+I am definitely a #Gavinista. Gavin's set of video lessons at wolpertbridge.com covers 
+everything; if you learn better from people than from books, this might be the best 
+path for you.
 
 About The Author
 ----------------
