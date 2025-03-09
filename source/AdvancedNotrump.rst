@@ -2,7 +2,7 @@ Advanced One Notrump Structure
 ==============================
 
 .. index::
-   pair: 1N structure;Advanced
+   pair: 1N Responses;Advanced
    
 .. _AdvancedNT:
    
@@ -36,6 +36,8 @@ major without missing a 5-3 major fit.
  
  .. index::
     triple:convention;five-card Stayman;Puppet Stayman
+    pair:1N Responses;Five-Card Stayman
+    pair:1N Responses;Puppet Stayman
     
 The bid 1N - 3♣!(has a three-card major) is a game forcing bid that promises a major suit 
 that is *exactly* three-cards long. You can have 0 to 4 
@@ -72,7 +74,9 @@ Three-Level Replies To 1N
 -------------------------
 
 .. index::
-   pair:1N structure;three-Level
+   pair:1N Responses;advanced three-Level
+   pair:1N Responses;advanced four-way Transfers
+   pair:1N Responses;advanced splinters
    
 Assuming we play 1N - 3♣ as Five-Card Stayman, game forcing, here is my recommended 
 structure for the remaining bids at the three-level. These are all game forcing.  See

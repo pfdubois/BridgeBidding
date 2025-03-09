@@ -7,8 +7,8 @@
    single:1N opening
    single:notrump ranges
 
-Opening Notrump
-===============
+Notrump Openings
+================
 
 If using this chapter as a reference, be sure you've read 
 :ref:`Notation and Nomenclature <Notation>` and review 
@@ -31,57 +31,70 @@ With many bids it matters what your strength and shape are and these might vary 
 which :term:`seat` you're in.  With notrump, there is no variation with seat.
 The hand must have:
 
-* A shape that is :term:`balanced`, 4-3-3-3, 4-4-3-2, or 5-3-3-2. Note that that
-  means no voids, no singletons, and at most one doubleton.
+* A shape that is :term:`balanced`, 4-3-3-3, 4-4-3-2, or 5-3-3-2. 
+  No voids, no singletons, and at most one doubleton.
   
 * A HCP strength in a specific range:
 
-  - 15-17 to open 1N
-  - 20-21 to open 2N
-  - With 22-24 we open 2♣ and rebid 2N
-  - With 25-27 we open 2♣ and rebid 3N, and so on.
+  - 15-17 open 1N
+  - 20-21 open 2N
+  - 22-24 open 2♣ and rebid 2N
+  - 25-27 open 2♣ and rebid 3N, and so on.
   
-What about hands with the right shape but wrong strength?  You'll handle 12-14
-point hands with no five-card major by opening a minor and bidding notrump on
-the second round. For 18-19 point hands you'll open a suit, and bid 2N 
-on the second round. 
+What about hands with the right shape but wrong strength?  
+
+* 12-14 points with no five-card major open a minor and bid notrump on
+  the second round. If you do have a five-card major, open it. 
+  
+* 18-19 points open a suit, and bid 2N on the second round. 
 
 .. note::
    You'll encounter people playing "weak notrumps", where the range does not include 16,
-   such as (most popularly) 12-14.  They open 1N in that range and open a suit then
-   rebid 1N when their hand is a traditional 1N opener. They alert the 1N bid.
+   such as (most popularly) 12-14.  They open 1N in that range. They open a suit then
+   rebid 1N when their hand is a traditional 1N opener, alerting that 1N bid.
 
 .. rubric:: Hands You Sometimes Open 1N
 
-* As you get more experience, you may want to open 1N with some :term:`semi-balanced` hands.
-  You can consider this with these shapes:
+* As you get more experience, you may want to open 1N with some :term:`semi-balanced` 
+  hands. You can consider this with these shapes:
 
   - A 5-4-2-2 hand, as long as one of the doubletons is Kx or better, and
     the long suit is a minor.
   - A 6-3-2-2 hand if the long suit is a good minor and both doubletons
     are Kx or better, and the long suit is a minor.
 
-* Should you open 1N with a five-card major? Almost always. There are a few hands, where 
-  the major contains say 9 or 10 of the points, that you might open 1M, but
-  you'll always struggle to get partner to believe your strength.
+Should you open 1N with a five-card major? Almost always. There are a few
+hands, where the major contains say 9 or 10 of the points, that you might open
+1M, but you'll always struggle to get partner to believe your strength.
 
-* When you are more experienced you'll likely find yourself wanting to upgrade some 
-  14 point hands that contain a good five-card suit and open them 1N. Likewise, you will
-  not open a 17 HCP hand that has such a suit, preferring to open the suit and rebid 2N.
-  When overcalling the opponents, be careful about doing it with 15 HCP hands -- you'll 
-  need a five-card or longer suit anyway, and bidding that suit may be preferable.
+When you are more experienced you'll likely find yourself wanting to upgrade some 
+14 point hands that contain a good five-card suit and open them 1N. 
+  
+When overcalling the opponents, be careful about doing it with 15 HCP hands -- you'll 
+need a five-card or longer suit anyway, and bidding that suit may be preferable.
+  
+.. warning::
+   Never downgrade a hand with 18 HCP to open 1N. Do upgrade 17 HCP hands with five-card  
+   suits, especially if that suit is a good minor, rebidding 2N next.
 
+.. index::
+   pair:1N Responses;Introduction
+   
 How To Choose A Response To 1N
 ------------------------------
 
 The responder is going to reply using an extremely well-defined structure, the "system",
-which has a high probability of getting you to a good contract. This system is so useful
+which has a high probability of getting you to a good contract. This "system" is so useful
 that we try to use it whenever we can:
        
-#.  After we open 1N;
-#.  After we make a notrump overcall of the opponent's opening suit bid;
-#.  After we open a strong 2♣ and rebid notrump.
-#.  When we open 2N.
+#.  After we open or overcall 1N;
+#.  When we open 2N;
+#.  When we open 2♣ and rebid notrump.
+
+Important:
+
+* The system is not on when you open a suit and rebid notrump. 
+* Whether it is on when the opener's LHO bids or doubles varies. 
 
 The rest of this chapter is devoted to explaining the "system" over 1N.  You'll 
 notice it is a very long chapter, because there are a lot of subtleties. 
@@ -104,7 +117,7 @@ Assume your partner has opened 1N. You, as responder, should:
    These cases are each treated differently. We have special rules when 5-4 in 
    the majors.
 
--  In hands with no majors, note if the hand has a six-card minor. Do not
+-  In hands with no majors, note if the hand has a |6ormore|-card minor. Do not
    do anything special on your first response with a five-card minor.
 
 Generally, a hand whose principal feature is a long minor wants to be in
@@ -121,7 +134,7 @@ In responding to your partner's 1N opener, if you determine that
 there is no |4ormore| card major suit or |6ormore| card minor, your actions are determined
 by your point count alone:
 
-* With a hand with fewer than 8 HCP, pass.
+* With fewer than 8 HCP, pass.
 * With an invitational hand (8-9 HCP) bid 2N.
 * With a game-going hand (10-15 HCP), bid 3N.
 * With a slam invitational hand (16+-17 HCP) bid 4N.
@@ -155,10 +168,11 @@ over a quantitative 4N bid.
 Responding With A Major Suit Or Long Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-When your hand does have a major suit or a six-card minor suit, you'll begin with one of 
-the techniques discussed later in this chapter (:ref:`Stayman <Stayman>`,
-:ref:`transfers to majors <transfers>`, or :ref:`Minor Relay <Minor_Relay>`). 
-These all force your partner to reply in a certain way.
+When your hand does have a |4ormore| card major suit or a |6ormore|-card minor suit, 
+you'll begin with one of the techniques discussed later in this chapter
+(:ref:`Stayman <Stayman>`, :ref:`transfers to majors <transfers>`, or
+:ref:`Minor Relay <Minor_Relay>`). These all force your partner to reply in a
+certain way.
 
 After he replies, if you bid 4N when it is your next turn, that's :term:`quantitative`,
 not Ace-asking. If he bid a suit because you made him do it, it doesn't mean you have
@@ -177,7 +191,10 @@ longer major, or a six-card or longer minor.
 
 .. _Stayman:
 
-.. index::Stayman Convention
+.. index::
+   single:Stayman Convention
+   pair:1N Responses;Stayman
+   pair:convention;Stayman
 
 Stayman Convention
 ------------------
@@ -187,7 +204,7 @@ four-card major and asking the opener to say if he does or does not have a four
 (or five) card major.  There are three circumstances in which responder bids 2♣
 Stayman:
 
-1. Responder has an exactly four-card major, your hand is not :term:`flat`, and it has at 
+1. Responder has an exactly four-card major, the hand is not :term:`flat`, and it has at 
    least invitational values.
 
 2. Responder has a less than invitational hand with a stiff or void in clubs, and 
@@ -195,17 +212,15 @@ Stayman:
    or 4=4=4=1.  
    
 3. Responder's hand is 5-4 in the majors, any strength. 
+   See :ref:`When Responder Is 5-4 In The Majors <FiveFour>`.
    See :ref:`Garbage Stayman <GarbageStayman>` for when it is weak.
 
 The goal of Stayman is to discover if we have a major fit, and at the same 
 time to decide if we have a game or not.  We first answer the question about
 the fit, and then the question about the game. 
 
-If you are 5-4 in the majors you also start with 2♣, Stayman, regardless of strength.
-See :ref:`When Responder Is 5-4 In The Majors <FiveFour>`.
-
 If you have a five-card major and fewer than four in the other major, we use 
-:ref:`Major Transfers <transfers>`, regardless of strength.
+:ref:`Major Transfers <transfers>`, regardless of strength, not Stayman.
 
 .. note:: 
    Stayman 2♣ is artificial but not alerted, because it has become common practice. 
@@ -243,31 +258,29 @@ Otherwise he indicates whether a fit has been
 found, and whether his hand is invitational, game forcing, or has slam 
 interest: 
 
-If a fit has been found, responder tells opener the good news: he raises the
-major suit to the 3-level to invite game, or to the four level to play.
-Isn't this a simple game? 
-
-If a fit has been found but responder has too good a hand to bid game,  bidding
-three of the other major (3W) shows a power raise (18+ HCP).  It is a game force, 
-of course.
-
-For example: 1N - 2♣ - 2♠ - 3♥!(power raise). Now opener should start 
-:term:`control bidding`. (Control bidding will be discussed later).
-
-With no fit, Responder bids notrump; how many notrump shows
-responder's strength:
+* If a fit has been found, responder tells opener the good news: he raises the
+  major suit to the 3-level to invite game, or to the four level to play.
   
-* 2N no fit, with an invitational hand.
-* 3N no fit, but enough points for game.
-* Three level bids in a new suit are game forcing and may show interest in a
-  slam.
-* 4N is a :ref:`quantitative raise <quantitative_raises>` denying a fit.
-* 4♣ is plain :ref:`Gerber <Gerber>`, asking opener how many Aces they have.
+* If a fit has been found but responder has too good a hand to bid game,  bidding
+  three of the other major (3W) shows a power raise (18+ HCP).  It is a game force, 
+  of course.
 
-Note that having checked for a fit, the responder may know the answer but the
-opener does not know it yet. So, a sequence like 1N - 2♣ - 2♠ - 4N is a
-:term:`quantitative` raise, not Ace-asking; and 4♣! is asking for Aces with
-:ref:`Gerber <Gerber>` and agreeing to the suit.
+  For example: 1N - 2♣ - 2♠ - 3♥!(power raise). Now opener should start 
+  :term:`control bidding`. (Control bidding will be discussed later).
+
+* With no fit, Responder bids notrump; how many notrump shows responder's strength:
+  
+   - 2N no fit, with an invitational hand.
+   - 3N no fit, but enough points for game.
+   - Three level bids in a new suit are game forcing and may show interest in a
+     slam.
+   - 4N is a :ref:`quantitative raise <quantitative_raises>` denying a fit.
+   - 4♣ is plain :ref:`Gerber <Gerber>`, asking opener how many Aces they have.
+
+Note that having checked for a fit, the responder may know whether there is a
+fit or not but the opener does not know it yet. So, a sequence like 1N - 2♣ -
+2♠ - 4N is a :term:`quantitative` raise, not Ace-asking; and 4♣! is asking for
+Aces with :ref:`Gerber <Gerber>` and agreeing to the suit.
 
 .. rubric::
    Opener's Third Bid
@@ -284,17 +297,25 @@ Major Transfers
 
 .. index::
    pair:transfer;major
-   pair:transfer;Jacoby transfer
+   pair:transfer;Jacoby transfers
    pair:transfer;super-accept
+   pair:1N Responses;Jacoby transfers
 
 So much for hands with four card majors -- but what if you have a five-card 
 major? You may have a fit if opener has three cards in your suit. 
+
+.. warning::
+   If you have 5-4 in the majors, you use Stayman.  This section applies when 
+   you have fewer than four cards in the other major.
 
 Rather than bid our major suit in response to 1N, we bid the suit below
 it, so that the strong hand then bids the suit first and becomes the declarer if 
 we have a fit in that suit. This is called a :dfn:`transfer`, also known as
 a Jacoby transfer. Opener announces “transfer”. This is worth about three-fourths of a 
 trick on average compared to letting the responder be the declarer. That's huge!
+
+Transferring has a subtler benefit, letting the responder get in his second bid
+at a lower level, thus expanding the bidding language.
 
 - 1N – 2♦ is a transfer to hearts.
   
@@ -342,37 +363,69 @@ After a transfer to 2M is accepted, responder bids:
 - 4♣ Gerber
 - 4N :term:`quantitative`.
 
+.. note::
+   After a transfer, any bid at the three-level or higher establishes a game force.
+
 After a super-accept, the responder decides on whether to pass or bid game
 or try for slam. He knows a great deal about opener's hand. Bidding another suit should 
 be a control, looking for slam.
 
-What about transferring to one major and then bidding the other? That has to be 5-5 or
-better in the majors since with 5-4 we start with Stayman. We discuss those sequences 
-in the :ref:`three-level replies <Three_Level_Suit_Responses>` section later in this 
-chapter. 
+.. _responding55:
 
-Interference
-~~~~~~~~~~~~
+Responding With 5-5 Hands 
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We'll talk about auctions like 1N (2♠) later. But one thing to know right now is
-that you cannot transfer on the three level, as in 1N (2♠) 3♦ -- not a transfer 
-to hearts.  
+.. index::
+   1N Responses;5-5 hands
+   
+Remember that after a transfer, any bid at the three-level is game forcing.  With
+less than a game-forcing hand you cannot show the second suit. Also remember that 
+with 5-4 in the majors you start with :ref:`Stayman <FiveFour>`.
+  
+With 5-5 in the majors:
+
+* Transfer to the better major with a weak hand, then pass. 
+* Transfer to hearts and bid 2♠ with an invitational hand.
+* Transfer to spades and bid 3♥ with a game-forcing hand.
+
+Note how in the last two cases responder must be 5-5 because if 5-4 he would have 
+started with Stayman.
+
+When you have five in a major and a |4ormore|-card minor:
+
+* Transfer to the major first. Then:
+  
+  - Pass with a less than invitational hand
+  - Bid 2N with an invitational hand 
+  - Bid the minor with a game-forcing hand. You may be very strong with interest in 
+    a minor slam.
+
+Interference by LHO
+~~~~~~~~~~~~~~~~~~~
+
+When opener's LHO interferes, such as 1N (2♠), see 
+:ref:`Dealing With Interference Over 1N <1ninterference>`. Short answer: the standard
+is that bids are natural, and a redouble is Stayman. Double is by agreement but most 
+usefully takeout at the two-level.
+
+One thing to know right now is that you cannot transfer on the three-level, as in 
+1N (2♠) 3♦ -- not a transfer to hearts.  This is a common beginner error.
+
+Doubles of artificial bids such as Stayman and transfer bids are always asking for
+that suit to be led. This is called a :term:`lead-directing` bid. 
 
 If opener's RHO doubles or overcalls Stayman or a transfer bid,
 responder will take the lead in punishing them since only responder knows how many
-points he has. Neither Stayman nor a transfer promised any points.
-
-Doubles of artificial bids such as Stayman and transfer bids are always asking for
-that suit to be led. This is called a :term:`lead-directing` bid.
-
-To avoid overload for newer learners, I've left details for later, but it is part of
-the Stayman and transfer conventions:
+points he has. Neither Stayman nor a transfer promised any points. See:
 
 * :ref:`When Stayman is Doubled <staymandoubled>`
 * :ref:`When Our Transfer is Doubled <transferdoubled>`
-* For overcalls opener generally passes. Responder's double is for penalty.
-* For doubles, opener redoubles for penalty. Otherwise he generally passes.
-  Then responder's redouble asks for the transfer again.
+
+You should learn these defenses as part of learning Stayman and transfers.
+
+.. index::
+   single: Stayman, Garbage
+   pair:1N Responses;Garbage Stayman
  
 Garbage Stayman
 ~~~~~~~~~~~~~~~
@@ -397,6 +450,7 @@ There is a more complicated version I am not mentioning, so check with partner.
 .. index::
    pair: Stayman; five-four majors
    pair: transfers; five-four majors
+   pair: 1N Responses; 5-4 majors
 
 .. _FiveFour:
 
@@ -472,6 +526,7 @@ Texas Transfers
 
 .. index::
    pair:convention;Texas Transfers
+   pair:1N Responses;6-card major
 
 Texas Transfers are not standard, but are so common you must be sure you agree on this 
 with your partner. Check the boxes on your convention cards.
@@ -501,6 +556,12 @@ You don't use Texas if:
 .. index:: 
    pair: relay;minor
    pair: transfer;minor
+   pair:1N Responses;minor relay
+   single: relay, difference from transfer
+   single: transfer, difference from relay
+   single: relay
+   single: minor relay
+   pair: convention; Minor Relay
 
 Minor Relay
 -----------
@@ -508,13 +569,6 @@ Minor Relay
 The 2♠!(long minor) response to 1N forces opener to bid 3♣!(forced), 
 which responder can pass or correct to 3♦, to play. This is called a :term:`relay`.
 
-.. index:: 
-   single: relay, difference from transfer
-   single: transfer, difference from relay
-   single: relay
-   single: minor relay
-   pair: convention; Minor Relay
-   
 Opener alerts 2♠, and partner should alert the 3♣ reply because the opener 
 doesn't necessarily have clubs.  Since it is an alert, not an announcement,
 you do not say "relay to clubs" unless asked.
@@ -550,6 +604,9 @@ lower minor (clubs), and the higher bid (spades) to the higher minor
 (diamonds).
 
 .. _Three_Level_Suit_Responses:
+
+.. index::
+   pair:1N Responses;3-level responses 
 
 Three-Level Suit Responses
 --------------------------
@@ -707,9 +764,11 @@ etc. So we just show the first bid and then a question mark.
    +-------------+-----------+------------+-----------+--------------+
    |5-card major |T + pass   |T + 2N      |T + 3N     |T + varies    |
    +-------------+-----------+------------+-----------+--------------+
-   |S 5♠ - 4♥    |2♥ Garbage |2♠          | 3♠ gf     |              |
+   |5-5 majors   |T ♥|♠, pass|T-> ♥, +2♠  |T->♠, +3♥  |T-> ♥, +3♥    |
    +-------------+-----------+------------+-----------+--------------+
-   |S 4♠ - 5♥    |T ♥ + Pass |T ♥ + 2♠    |T♥ + 3♠    |              |
+   |S 5♠ - 4♥    |2♣, +2♠    |2♣, +2♠/2♦  |2♣, Smolen?|2♣, Smolen?   |
+   +-------------+-----------+------------+-----------+--------------+
+   |S 4♠ - 5♥    |2♣, +2♥    |T + 2♠/2♦   |2♣, Smolen?|2♣, Smolen?   |
    +-------------+-----------+------------+-----------+--------------+
    |4441 or 4450 |2♣ + pass  |2♣ + invite |2♣ + game  |2♣ + varies   |
    +-------------+-----------+------------+-----------+--------------+
@@ -723,10 +782,11 @@ etc. So we just show the first bid and then a question mark.
 Notes:
 
 * "+ something" means what you bid next, depending on opener's rebid. 
-* S 5-4 Majors start with Stayman. Table shows responder bid after 2♦ reply.
 * T means :ref:`transfer <transfers>` to the major M. 
 * R is :ref:`Minor Relay <Minor_Relay>` and its slam try followup.
-
+* The 5-4 majors hands all begin with 2♣. 
+* Smolen?: over a 2♦ reply, bid the five-card major unless playing 
+  :ref:`Smolen <Smolen>`, in which case bid the other major.
 
 .. _1ninterference:
 
@@ -747,10 +807,15 @@ The treatments for interference with major transfers and Stayman are a standard
 part of those conventions.  Note that in either case responder has promised 
 absolutely no points, so generally responder controls the action.
 
-When 1N is overcalled:
+When 1N is doubled:
 
-* Double is for penalty except a double of 2♣ is Stayman.
+* Doubling a 2♣ overcall is Stayman. 
+* If they make a penalty double, whatever agreements are in place for a 
+  :ref:`Runout <runout>` apply.
+* If they make an artificial double, systems are on, redouble being Stayman.
 * A cue-bid of diamonds, hearts, or spades is Stayman.
+* A double of diamonds, hearts, or spades is penalty -- but this is one of those areas
+  where many players treat it as takeout at the two-level.
 * Bids at the 2-level are less than invitational, natural, to play.
 * Bids at the 3-level are game-forcing, natural.
 * Bidding 2NT is natural, invitational and promises a stopper in their suit.
@@ -865,8 +930,8 @@ a double as Stayman.
 
 .. _runout:
 
-Run For Your Life
-~~~~~~~~~~~~~~~~~~
+Runouts
+~~~~~~~
 
 You also can agree on a system, called a "runout", when your 1N opener gets doubled for 
 penalty. You've played 1N with a :term:`yarborough` dummy before? You don't want 
@@ -934,10 +999,7 @@ in good conscience:
   Learn :ref:`Lebensohl <Lebensohl>` eventually.
 * Alternate :ref:`Advanced Runouts <AdvancedRunouts>`.
 
-Note that you don't really need special bids for 5-5 in the majors:
+Note that you don't really need special bids for 5-5 in the majors, as explained
+in :ref:`Responding When 5-5 <responding55>`.
 
--  With a sub-invitational hand, transfer to your best suit and then
-   pass.
--  With an invitational hand, transfer to hearts and then bid 2♠.
--  With a game-forcing hand transfer to spades and then bid 4♥.
--  With slam interest, transfer to spades and then bid 3♥.
+
