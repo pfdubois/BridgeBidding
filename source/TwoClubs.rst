@@ -1,4 +1,4 @@
-
+.. include:: ../rst_prolog.txt
 
 The Strong Two Club Opener
 ==========================

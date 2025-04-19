@@ -4,8 +4,7 @@ Preemptive Opening Bids
 =======================
 
 .. index:: 
-   pair: opening bids; preemptive
-   single:preempt
+   pair: opening bids;preempts
 
 If using this chapter as a reference, be sure you've read :ref:`Notation and
 Nomenclature <Notation>` and review :ref:`Classifying Your Hand
@@ -35,7 +34,7 @@ common.)
  
 The meanings of these bids has changed over time. Originally, in the Goren era, these 
 two-bids were strong bids.  However, the frequency of hands strong enough to open at the 
-two level was small, and the difficulties the weak bids cause to the opponents is large,
+two level was small, and the difficulties the weak-two bids cause to the opponents is large,
 so the strong two bids were all incorporated into the 2♣ bid, and the 2♦, 2♥, and 2♠
 bids became weak.
 
@@ -64,8 +63,10 @@ giving way to lighter styles, the rules were this:
 
 * Not vulnerable, the bid promises at least a Queen and a six-card suit. 
 
-* Usually one does not preempt with a four-card major, or even a good three-card 
+* Usually one does not preempt in a minor with a four-card major, or even a good three-card 
   major.
+  
+* Some times you preempt at the two-level with a bad seven-card suit.
 
 The most common error is not preempting with too little, but with too much.
 
@@ -93,7 +94,10 @@ Do note the appropriate ACBL regulations: you have to state a range on your card
 it is not entirely free to bid outside it.
 
 .. index::
-   pair: preempt; responses
+   pair:preempts;responses
+   pair:preempts;RONF
+   pair:preempts;feature
+   pair;preempts;Ogust
 
 Responses
 ~~~~~~~~~
@@ -103,7 +107,8 @@ relies on the idea that a nine card fit is relatively safe at the three
 level. It does not require a lot of points, but it does require three
 trump.
 
-Excepting a raise, other bids by responder are forcing. The 2N bid
+Excepting a raise, other bids by responder are forcing. This is referred to as "RONF",
+"Raise Only Non Forcing". The 2N bid
 is a conventional bid that asks the opener to bid a suit in which he
 holds an outside Ace or King, or else to rebid his suit. Knowing 
 that the opener has an outside entry may permit responder to go to game.
@@ -121,8 +126,11 @@ how the particular cards you hold will play opposite your partner's. This
 is a situation in which it is nice to be confident partner followed the rules
 about suit quality.
 
-If the opponents overcall our preemptive bid, a double is for penalty. Our other 
-bids retain their same meanings.  
+.. index::
+   pair:preempts;overcalls of
+   
+If the opponents overcall our preemptive bid, a double is for penalty. It is not takeout.
+Other bids retain their same meanings.  
 
 Three-Level Preempts
 --------------------
@@ -142,8 +150,11 @@ or better. The bid is not strong, and partner must be cautious about
 going on. Other than that the treatment is similar to the three-level
 preempt.  
 
-
 See :ref:`Bidding Distributional Hands <BDH>` for more thoughts.
+
+See :ref:`Competing Over Preempts <CompetingPreempts>` and other topics in
+:ref:`Competing After A Suit Opening <CompetingSuit>` for how to counter your 
+opponents' preempts.
 
 Bidding in Passout Seat
 -----------------------
@@ -184,6 +195,7 @@ Ogust
 
 .. index::
    pair:convention;Ogust
+   pair:preempts;Ogust
    
 Ogust (pronouced somewhat like August) is an alternative set of responses to a 2N 
 inquiry after partner opens a weak two. After 2x - 2N!(hand inquiry):

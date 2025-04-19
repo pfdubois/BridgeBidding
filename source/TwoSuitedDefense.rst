@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 General Defense to Two-Suited Bids
 ==================================
 

@@ -1,10 +1,13 @@
+.. include:: ../rst_prolog.txt
+
 .. _competition:
 
 Competitive Bidding
 ===================
 
 Methods of dealing with competition are woven throughout the other bidding topics. 
-This chapter contains notes on an assortment of special topics.
+This chapter contains some general principles to guide you.  The following two 
+chapters contain some particulars on competing in suits and in notrump.
 
 In an established partnership, you can develop a style -- be it aggressive,
 conservative, insane cowboy, you name it. It is important to realize that 
@@ -13,16 +16,14 @@ as a partnership knowing what that style is. If you overcall very lightly,
 for example, your partner must be more conservative with replies to those
 overcalls. 
 
-Here are general principles to guide you:
-
-* Do not bid your same values twice.
+*  Do not bid your same values twice.
 
    For example, you open 1♥, LHO overcalls 1♠, your partner bids 2♥, and RHO 
    raises to 2♠. Do you now compete to 3♥?
 
    Ask yourself, "Do I have something more to tell my partner?" If your hand was
    an ordinary 13 point opening hand, you have shown those values already. Pass.
-   Only go on if you have extras.
+   Only go on if you have something extra, such as more points or more trump.
 
    If LHO now passes, your partner can use the same principal -- he has promised 
    you six points and three hearts, but if he really has nine points or has four hearts, 
@@ -32,17 +33,26 @@ Here are general principles to guide you:
    for the three level, all the more so with four trumps. Vulnerable, with only
    three trumps, a double might get you to the dreaded -200.
 
-* Another guideline is the "Law of Total Tricks", which says that with a fit,
+.. index::Law of Total Tricks
+
+*  Another guideline is the "Law of Total Tricks", which says that with a fit,
    the total number of tricks available in the hand is the sum of the lengths
    of the trump holdings. For example, in a competitive auction where they have
    shown an 8 card spade fit and we have a 9 card heart fit, there are 17 Tricks
    available. So if they can make 8 tricks in spades, we will be able to make 9 Tricks
    in hearts.
    
-   In particular just remember that with 4 trump in support you're not going to get too    
+   In particular just remember that with a nine-card fit you're not going to get too    
    burned at the three level. 
 
-* A passed hand is not always a poor hand. If your partner passed 
+.. index::
+   pair:preempts;competing with
+      
+*  Never preempt over a preempt. For example, the open 2♥ and you have six or seven 
+   spades to the KJ and another King. Pass. You must not bid 2♠ or 3♠. Your partner will 
+   consider those to be strong bids.
+
+*  A passed hand is not always a poor hand. If your partner passed 
    after LHO opened, it may be that he did not have enough to overcall. It 
    may also be that he did have enough, but didn't have a long enough suit, or his 
    suit is the one LHO bid. That's completely different from your partner
@@ -51,35 +61,38 @@ Here are general principles to guide you:
    as "Partner has less than an opener." We'll see this at work in the section on
    reopening with a double.
 
-* Realize when you are "off the hook". Your partner makes a takeout double, but
+*  Realize when you are "off the hook". Your partner makes a takeout double, but
    your RHO bids over it.  Or, your partner makes an :ref:`Unusual 2N <unusual>` bid but 
    RHO intervenes.  You're off the hook!  You do not have to bid unless you have a 
    worthwhile thing to say. When you do make such a "free" bid, your partner will infer 
    that you have some reason to bid; when you bid because you have to, he cannot make 
    such an inference.
    
-* Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
+*  Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
    thing you can, you're saying you don't have 8 good points. Just because it is a 
    competitive auction doesn't mean to always go low. 
    
-* Competing with balanced hands (e.g. 5332) but no fit is never as good as it looks. 
+*  Competing with balanced hands (e.g. 5332) but no fit is never as good as it looks. 
    Lean toward defending.
    
-* If you have no defensive values, lean toward competing with something positive like
-   and extra trump.
+*  If you have no defensive values, lean toward competing with something positive like
+   an extra trump.
          
-* Extreme shapes call for extreme measures. 
+*  Extreme shapes call for extreme measures. 
+
    Read Marty Bergen's famous book, :title:`Points Schmoints`. If you have a double fit, 
    or you have a 6 - 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
+
+.. index::balancing
    
-* To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`. As a simple 
+*  To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`. As a simple 
    guideline, bid as though you had one more King in your hand, and your partner in 
    reply will bid as though he had one fewer. At matchpoints, if your opponents are
    attempting to pass out two of a major, try very hard to balance.
    Be sure to balance properly and you'll be a valued partner. 
    
-* If partner balances, but the opponents "take the push" by going one higher, we 
-  don't double and we don't raise.  For example::
+*  If partner balances, but the opponents "take the push" by going one higher, we 
+   don't double and we don't raise.  For example::
   
      (1♥) P (2♥)  P 
      (P ) X (P)  2♠
@@ -89,22 +102,28 @@ Here are general principles to guide you:
    should now bid 3♠ or double for penalty. The balance did its job. They might go down
    one now being a level too high. If they don't, we weren't likely to make 3♠.
      
-* Do not "sacrifice" against a part-score. Very rarely sacrifice vulnerable. Be hesitant 
-  about sacrificing at the five-level; if you are vulnerable you'd be better off if you
-  almost never did it.
+*  Do not "sacrifice" against a part-score. Very rarely sacrifice vulnerable. Be hesitant 
+   about sacrificing at the five-level; if you are vulnerable you'd be better off if you
+   almost never did it.
   
-* When you and partner have bid and raised a suit, bidding another suit is NEVER done 
-  to try to find a better fit. I call this the Church of We Agreed -- we agreed, so 
-  I am not suggesting we look elsewhere. I'm saying something else -- asking for help
-  in that suit, or showing a control, or asking for a control, for example.
+*  When you and partner have bid and raised a major suit, bidding another suit is NEVER 
+   done to try to find a better fit. I call this the Church of We Agreed -- we agreed, so 
+   I am not suggesting we look elsewhere. I'm saying something else -- asking for help
+   in that suit, or showing a control, or asking for a control, for example.
   
-* It is usually the person who is short in their agreed suit that needs to do some 
-  competing if appropriate.
+*  When you and partner have agreed on a minor suit, bids below 3N *show* stoppers.  
+   Bidding NT shows stoppers in all the unbid suits. If at some point there is only 
+   one suit where you have not found stoppers, bidding that suit *asks* partner to bid
+   NT if he has a stopper in that suit.
   
-* If they agree a suit after your partner's overcall, for you to proceed to the three 
-  level in another suit is to agree with your partner's suit. For example,
-  (1♥) 1♠ (2♥) 3♣ -- you can't be looking for a fit at the three level when your partner 
-  might only have 8 points, so this bid shows spade support and a good club suit.  
-  This extra information helps partner decide how high to go.
+*  It is usually the person who is short in their agreed suit that needs to do some 
+   competing if appropriate.
+  
+*  If they agree a suit after your partner's overcall, for you to proceed to the three 
+   level in another suit is to agree with your partner's suit. For example,
+   (1♥) 1♠ (2♥) 3♣ -- you can't be looking for a fit at the three level when your partner 
+   might only have 8 points, so this bid shows spade support and a good club suit.  
+   This extra information helps partner decide how high to go.
      
-Above all: Look for a reason to bid, not a reason to pass.
+*  Look for a reason to bid, not a reason to pass, but don't bid without a reason.
+   We are never "just competing". This is admittedly tougher to judge in matchpoints.

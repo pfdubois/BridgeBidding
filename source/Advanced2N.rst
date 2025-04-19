@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. _advanced2N:
 
 Advanced 2N Auctions

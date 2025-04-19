@@ -1,10 +1,8 @@
-
+.. include:: ../rst_prolog.txt
 
 .. index::
    pair: opening; minor
    pair: responding; 1m
-
-.. include:: ../rst_prolog.txt
 
 .. _minoropenings:
 
@@ -41,23 +39,25 @@ you cannot, to bid your longest suit.
 .. rubric::
    Rules For Choosing Your Strain
    
-Here is the decision tree:
+Here is the decision tree for responding to 1m. 
+This list will be filtered with a constraint that will depend on your hand strength,
+whether you have previously passed (are a "passed hand"), whether your RHO interfered
+(overcalled or doubled), or neither. We choose the strain amongst the *feasible*
+suits:
 
 * If you have two |5ormore|-card suits of equal length you choose the higher-ranked suit. 
 * Between two four-card suits of equal length choose the cheapest. 
 * Bid notrump if you don't have an eligible four-card suit.
-* We're not telling you the whole truth yet. 
-
-This principle will be filtered with a constraint that will depend on your hand strength,
-whether you have previously passed (are a "passed hand"), whether your RHO interfered
-(overcalled or doubled), or neither. We choose the strain amongst the *feasible*
-suits.
-
+* Going to 2♣ over 1♦ requires an opening hand; or if you are already a passed hand, 
+  requires |10ormore| HCP.  Lacking that bid 1N.
+* Bid a four-card major in preference to a diamond suit if you do not have an opening
+  hand. 
+  
 You will also choose a level to bid, depending on hand strength.
 
 For example, suppose your hand is 4 spades, 4 hearts, 0 diamonds and 5 clubs. We write
 that hand shape 4=4=0=5. If your partner opens a diamond, then your longest suit is 
-clubs, but clubs would need to bid at the 2-level.  As we will see, you can only bid 
+clubs, but clubs would need to bid at the 2-level.  You can only bid 
 that if you have a certain number of points. If you don't 
 have enough points, then we rule out 2♣, your longest suit, and choose between 
 your two four-card suits, hearts and spades. And that choice goes to the cheapest, 
@@ -143,12 +143,8 @@ we can bid 2N to show our 11 or 12 with no four-card major.
 
 Special: We can bid 1♦ - 2♣ only if RHO interfered or we were a passed hand. In those 
 cases it shows |10ormore| points and |5ormore| clubs.
-
-.. attention::
-   The Whole Truth
  
-Our decision tree on what suit to bid didn't tell you the whole truth: With less than a 
-game-forcing hand we prefer to bid a four-card major first rather than 
+With less than a game-forcing hand we prefer to bid a four-card major first rather than 
 a five-card diamond suit::
 
      ♠A4
@@ -195,7 +191,6 @@ Inverted Minors is one of the :ref:`expected conventions with 2/1 <expected_conv
 
 If you cannot get to 3N you may need to stop in 4m or 5m; 5m has to usually include 
 around 29 points. 
-
 
 .. rubric::
    Looking For Slam

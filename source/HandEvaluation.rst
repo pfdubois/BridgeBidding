@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. _Hand_Evaluation:
 
 .. index:: hand evaluation

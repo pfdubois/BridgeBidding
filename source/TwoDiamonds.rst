@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. index::
    pair:opening;two diamonds
 
@@ -84,7 +86,7 @@ Mini-Roman
 .. index::
    pair:convention; mini-Roman
 
-A mini-Roman 2♦ opener is a 4441 or 4405 hand, 11-15 HCP. The most frequent
+A mini-Roman 2♦ opener is a 4441 or 4405 hand, 10-15 HCP. The most frequent
 agreement seems to be that the bid promises 4 spades -- the 1=4=4=4 hand being 
 handled by opening a diamond; but that is not universal. 
 
@@ -98,6 +100,8 @@ contract in game or makes an invitational bid in a suit.
 The mini-Roman is part of a family of Roman 2♦ bids which chiefly differ as to strength.
 A Precision player's 2♦ opener means explicitly a diamond shortage but NOT a 4=4=1=4
 shape necessarily.
+
+In third or fourth seat you can open mini-Roman with as few as 8 HCP in an ACBL open game.
 
 Mexican Two Diamonds
 --------------------

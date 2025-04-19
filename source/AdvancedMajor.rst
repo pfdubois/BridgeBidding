@@ -45,7 +45,8 @@ With |4ormore| cards,
 - 1M - 2M 6-10 HCP with 3 cards in M; or a good five points, particularly Axxx in 
   trumps.
 - 1M – 3M! 2-6 preemptive, |4ormore|-card raise
-- 1M – 3♣! 7-9 constructive (mixed) |4ormore|-card raise
+- 1M – 3♣! 7-9 constructive (mixed) |4ormore|-card raise. Opener can bid an artificial
+  3♦ as a game try, asking responder to bid game with a maximum.
 - 1M – 3♦! 10-11 limit |4ormore|-card raise
 - 1M - 1N forcing may have 10-12 and 3 trump.
 - 1M – 2N! 13+ game forcing |4ormore|-card raise. (Jacoby 2N)

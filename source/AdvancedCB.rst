@@ -1,3 +1,4 @@
+.. include:: ../rst_prolog.txt
 
 .. _Checkback:
    

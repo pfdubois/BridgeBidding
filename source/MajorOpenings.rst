@@ -1,10 +1,10 @@
+.. include:: ../rst_prolog.txt
+
 Responding To Major Openings
 ============================
 
 .. index::
    pair: opening; major
-
-.. include:: ../rst_prolog.txt
 
 If using this chapter as a reference, be sure you've read 
 :ref:`Notation and Nomenclature <Notation>` and review 
@@ -23,7 +23,8 @@ easier to play.
 .. _standard:
 
 .. index::
-   triple:major responses;as a passed hand;in competition
+   pair:major responses;passed hand
+   pair:major responses;competition
    
 A set of responses called the "standard" responses applies in two cases:
 
@@ -550,7 +551,9 @@ Examples:
 
    
 .. index::
-   triple:2N;Jordan 2N;Truscott 2N
+   pair:convention;Jacoby 2NT
+   pair:convention;Truscott 2NT
+   pair:convention;Dormer 2NT
 
 .. _Jordan2NT:
    
@@ -579,7 +582,7 @@ notable exception is replying to your partner's takeout double.  Until we get
 to all that, just note that a bid of 3M here is a preemptive four-card raise.
 
 .. index::
-   pair:Jordan;over overcalls
+   pair:Jordan 2NT;over overcalls
      
 Side note for more advanced players: There is a nasty case when the opponents
 make a preemptive bid. Imagine your partner opens 1♥ and your RHO bids 2♠. Ugh.

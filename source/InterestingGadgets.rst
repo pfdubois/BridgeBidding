@@ -288,6 +288,26 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
    quantitative raise to 4N, but is 5-4 or better in the minors. Opener can
    choose between 4N or 5m or 6m.
 
+.. index::
+   pair:convention;Specific Ace Ask (ACOL 4N)
+   pair:4N;opening
+   
+Specific Ace Ask 4N
+-------------------
+
+With a very strong hand, sometimes you need to know not how many Aces partner has but
+whether they have a certain one, in order to bid slam. The Specific Ace Ask 4N, also 
+called the ACOL 4N, is an opening bid of 4N. The responses are:
+
+* 5♣ shows no Aces
+* 5♦ shows the Ace of diamonds
+* 5♥ shows the Ace of hearts
+* 5♠ shows the Ace of spades
+* 6♣ shows the Ace of clubs
+* 5N shows two Aces
+
+Opener places the contract.  
+
 Montreal Relays
 ---------------
 

@@ -1,8 +1,10 @@
+.. include:: ../rst_prolog.txt
+
 Advanced One Notrump Structure
 ==============================
 
 .. index::
-   pair: 1N Responses;Advanced
+   pair: 1N;Advanced Structure
    
 .. _AdvancedNT:
    
@@ -36,8 +38,8 @@ major without missing a 5-3 major fit.
  
  .. index::
     triple:convention;five-card Stayman;Puppet Stayman
-    pair:1N Responses;Five-Card Stayman
-    pair:1N Responses;Puppet Stayman
+    pair:1N;Five-Card Stayman
+    pair:1N;Puppet Stayman
     
 The bid 1N - 3♣!(has a three-card major) is a game forcing bid that promises a major suit 
 that is *exactly* three-cards long. You can have 0 to 4 
@@ -74,9 +76,9 @@ Three-Level Replies To 1N
 -------------------------
 
 .. index::
-   pair:1N Responses;advanced three-Level
-   pair:1N Responses;advanced four-way Transfers
-   pair:1N Responses;advanced splinters
+   pair:1N;advanced three-level responses
+   pair:1N;advanced four-way transfers
+   pair:1N;advanced splinters
    
 Assuming we play 1N - 3♣ as Five-Card Stayman, game forcing, here is my recommended 
 structure for the remaining bids at the three-level. These are all game forcing.  See
@@ -105,7 +107,7 @@ Four-Way Transfers
 .. _fourway:
 
 .. index::
-   triple: convention;Four-Way Transfers;derivation
+   pair:convention;Four-Way Transfers
 
 Four-way transfers are an excellent 1N structure enhancement. This version, in which
 2♠ is "range ask or clubs", lets us guarantee that 2♣ Stayman promises a four-card
@@ -175,7 +177,9 @@ Summary of Four-Way Transfers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   triple: convention;Four-Way Transfers;summary
+   pair:convention;Four-Way Transfers
+   pair:1N;Four-Way Transfers
+   pair:1N;Range Ask
 
 In addition to the two major transfers, we have two minor transfers; for clubs. 
 

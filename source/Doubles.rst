@@ -638,6 +638,7 @@ agreed to play. Check these:
 * If your partner was forced to bid and doubled, it is for penalty.
 * The double of an overcall of a preemptive opener is penalty.
 * When we have established a fit, doubling is penalty.
+* When your partner preempts and they overcall, doubling is penalty.
 
 When the advancer bids, such as 1♦ (1♥) [banana] (2♥), opener's double on his second bid 
 shows |16ormore| points. When the number of points the "banana" promised is 

@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 
 .. _1N_Defenses:
 
@@ -24,6 +26,7 @@ dealing with weaker notrump openings.
 
 .. index::
    pair:convention;Unusual 2N
+   pair;1N;Unusual 2N
 
 (1N) - 2N is always "unusual 2N" showing 5-5 in the minors. No cheating on length here!
 
@@ -53,7 +56,7 @@ D.O.N.T.
 .. index::
    pair: convention; D.O.N.T.
    single: two-suited bids
-   pair: 1N opening;defense
+   pair:1N; D.O.N.T. defense
 
 D.O.N.T stands for Disturbing Opponents' No Trump, and is another idea from
 the fertile mind of Marty Bergen. The emphasis is on getting in there
@@ -99,6 +102,7 @@ Cappelletti (Hamilton)
 .. index::
    pair: convention; Cappelletti
    pair: convention; Hamilton
+   pair:1N;Cappelletti or Hamilton defense
    single: two-suited bids
 
 In this scheme, which is perhaps the most common non-natural set of

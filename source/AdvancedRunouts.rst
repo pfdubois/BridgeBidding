@@ -1,9 +1,9 @@
+.. include:: ../rst_prolog.txt
+
 .. index::
    single: runouts after 1N is doubled
    
 .. _AdvancedRunouts:
-
-.. include:: ../rst_prolog.txt
 
 Advanced Runouts
 ================

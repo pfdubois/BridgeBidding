@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 Advanced Notrump Defenses
 =========================
 
@@ -42,7 +44,7 @@ Landy
 .. index::
    pair:convention; Landy
    single: two-suited bids
-   pair: 1N opening or overcall; defenses to
+   pair: 1N;Landy defense
 
 Landy is simple: 2♣ shows both majors, at least 5-4.  According to the Bridge Guys 
 website, Landy can claim to be the very first conventional method.  Many variations 
@@ -59,7 +61,7 @@ Meckwell
    pair:convention; Meckwell
    pair:convention; D.O.N.T (modified, a.k.a. Meckwell)
    single: two-suited bids
-   pair:1N opening;defense
+   pair:1N;Meckwell defense
 
 In this modification of D.O.N.T., the double works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
@@ -92,7 +94,7 @@ Modified Cappelletti
 .. index::
    pair: convention; Cappelletti (modified)
    single: two-suited bids
-   pair:1N opening;defense
+   pair:1N;Cappelletti (modified) defense
 
 In this modified or "modern" Cappelletti, the 2♣ bid works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
@@ -116,13 +118,56 @@ Bloomen
 .. index::
    pair: convention; Bloomen
    single: two-suited bids
-   pair:1N opening;defense
+   pair:1N;Bloomen defence
 
 Bloomen is related to Cappelletti. All 2-level suit bids are natural long suits. 
 A double is a relay to 2♣, and then intervenor bids one of the Capp two-suited bids: 
 2♦ for both majors, or 2M for a major and a minor. As usual, 2N asks for the minor.
 Doubling and then bidding a suit at the three level is a strong 
 six-carder, while bidding directly at the three level a normal preempt.
+
+Suction
+-------
+
+.. index::
+   pair: convention; Suction
+   single: two-suited bids
+   pair:1N;Suction defence
+   
+.. warning::
+   This defense is not permitted in ACBL tournaments below the Open chart level.
+   
+Suction is quite popular against strong 1♣ or strong 2♣ as well. Just make the obvious
+modifications.
+
+A suit bid denies that suit and shows either the next suit up or the two suits above that.
+So:
+
+- X shows an equal hand
+- 2♣ shows long diamonds or hearts and spades
+- 2♦ shows long hearts or spades and clubs
+- 2♥ shows long spades or clubs and diamonds
+- 2♠ shows long clubs or !diamonds and hearts
+- 2N shows clubs and diamonds
+
+Note that for these bids, the two suits in the alternative  are "touching".  
+
+If responder passes, advancer always bids the next strain; if the intervenor has that
+suit he passes, otherwise bids the next suit up, pass or correct.  For example::
+
+   (1N) 2♣!(diamonds or the majors) (P) 2♦!(required)
+   ( P) 2♥!(the majors, pass or correct)
+
+There remain two more bids to include the non-touching combinations:
+
+- 3♣ shows the rounded suits, clubs and hearts
+- 3♦ shows the pointed suits, diamonds and spades
+
+Some do not include these latter bids. You can end up in four of a minor, which would be
+pretty alarming unless you have values and they are all in those suits.
+
+As usual, advancer is off the hook if responder bids.  The defense can
+treat the 2-level bids as a natural overcall of the possible long suit.
 
 Woolsey
 -------
@@ -132,8 +177,8 @@ Woolsey
 .. index::
    pair:convention; Multi-Landy
    pair:convention; Woolsey
-   single: two-suited bids
-   pair:1N opening;defense
+   single:two-suited bids
+   pair:1N;Woolsey defense
 
 Woolsey is sometimes called Multi-Landy.
 After a 1N opening or overcall:
@@ -167,7 +212,7 @@ More sophisticated defenses are based on :ref:`Lebensohl <Lebensohl>`.
 
 .. index::
    pair:convention;Mohan
-   pair:1N opening;defense
+   pair:1N;Mohan defense
    
 Mohan
 ----- 

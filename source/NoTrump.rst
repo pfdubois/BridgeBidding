@@ -3,9 +3,9 @@
 .. _strong1N:
 
 .. index::
-   pair: opening; notrump
-   single:1N opening
+   pair: opening;notrump
    single:notrump ranges
+   single:1N
 
 Notrump Openings
 ================
@@ -78,7 +78,7 @@ need a five-card or longer suit anyway, and bidding that suit may be preferable.
    suits, especially if that suit is a good minor, rebidding 2N next.
 
 .. index::
-   pair:1N Responses;Introduction
+   pair:1N;choosing a response
    
 How To Choose A Response To 1N
 ------------------------------
@@ -193,7 +193,7 @@ longer major, or a six-card or longer minor.
 
 .. index::
    single:Stayman Convention
-   pair:1N Responses;Stayman
+   pair:1N;Stayman
    pair:convention;Stayman
 
 Stayman Convention
@@ -296,10 +296,9 @@ Major Transfers
 .. _transfers:
 
 .. index::
-   pair:transfer;major
-   pair:transfer;Jacoby transfers
-   pair:transfer;super-accept
-   pair:1N Responses;Jacoby transfers
+   pair:1N;major transfers
+   pair:1N;Jacoby transfers
+   pair:major transfers;super-accept
 
 So much for hands with four card majors -- but what if you have a five-card 
 major? You may have a fit if opener has three cards in your suit. 
@@ -376,7 +375,7 @@ Responding With 5-5 Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   1N Responses;5-5 hands
+   1N;5-5 hands
    
 Remember that after a transfer, any bid at the three-level is game forcing.  With
 less than a game-forcing hand you cannot show the second suit. Also remember that 
@@ -424,15 +423,12 @@ points he has. Neither Stayman nor a transfer promised any points. See:
 You should learn these defenses as part of learning Stayman and transfers.
 
 .. index::
-   single: Stayman, Garbage
-   pair:1N Responses;Garbage Stayman
+   pair:1N;Garbage Stayman
  
 Garbage Stayman
 ~~~~~~~~~~~~~~~
 
 .. _GarbageStayman:
-
-.. index:: Garbage Stayman
 
 The term :term:`Garbage Stayman` is often mistakenly used. A standard part of
 Stayman is that you can bid 2♣ with a weak hand having a club shortage and
@@ -448,9 +444,9 @@ passes or corrects to 2♠.
 There is a more complicated version I am not mentioning, so check with partner.  
 
 .. index::
-   pair: Stayman; five-four majors
-   pair: transfers; five-four majors
-   pair: 1N Responses; 5-4 majors
+   pair: Stayman;five-four majors
+   pair: transfers;five-four majors
+   pair: 1N;5-4 majors
 
 .. _FiveFour:
 
@@ -526,7 +522,7 @@ Texas Transfers
 
 .. index::
    pair:convention;Texas Transfers
-   pair:1N Responses;6-card major
+   pair:1N;6-card major
 
 Texas Transfers are not standard, but are so common you must be sure you agree on this 
 with your partner. Check the boxes on your convention cards.
@@ -554,13 +550,8 @@ You don't use Texas if:
 .. _Minor_Relay:
 
 .. index:: 
-   pair: relay;minor
-   pair: transfer;minor
-   pair:1N Responses;minor relay
-   single: relay, difference from transfer
-   single: transfer, difference from relay
-   single: relay
-   single: minor relay
+   pair:1N;minor relay
+   single;transfer vs. relay
    pair: convention; Minor Relay
 
 Minor Relay
@@ -606,7 +597,7 @@ lower minor (clubs), and the higher bid (spades) to the higher minor
 .. _Three_Level_Suit_Responses:
 
 .. index::
-   pair:1N Responses;3-level responses 
+   pair:1N;3-level responses 
 
 Three-Level Suit Responses
 --------------------------
@@ -641,7 +632,7 @@ with 3N or 5m depending on his hand; or he can control-bid or ask for Aces.
    Do not let an allegedly more experienced partner bully you on this.
    
 .. index::
-   pair: opening; balanced
+   pair: opening;balanced
 
 Between 1N and 2N
 -----------------
@@ -679,7 +670,7 @@ Smolen
 .. _Smolen:
 
 .. index::
-   pair: convention; Smolen
+   pair:convention; Smolen
 
 Smolen is an optional convention, but quite common for advanced intermediates.
 When partner opens 1N and we have a hand that is 5 - 4 in the majors, 
@@ -688,7 +679,7 @@ major, we now bid the four-card suit, *at the three level*; this is a :term:`pup
 that lets the opener declare the 5-3 fit if he has 3 of the long suit. 
 
 .. index:: 
-   pair: chart; balanced openings
+   pair: chart;balanced openings
 
 Summary Charts
 --------------
@@ -720,7 +711,7 @@ Summary of Notrump Raises
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   single:summary of 1N raises
+   pair:1N;Summary of Balanced Raises
 
 The point ranges given here are for a 15-17 1N bid. Over a weak 1N or a
 2N opener, make the corresponding adjustment. All these responses deny a
@@ -743,7 +734,7 @@ Summary of Responses to 1N
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index:: 
-   single:summary of 1N Responses
+   pair:1N;Summary of Responses
 
 The columns are the responder's strength; the rows are his hand shape. In 
 the cells, two bids separated by a plus sign mean, first bid is the reply 
@@ -794,7 +785,7 @@ Dealing With Interference Over 1N
 ---------------------------------
 
 .. index:
-   pair:1N opening; interference with
+   pair:1N;interference with
    
 The no-trump structure is highly evolved and generally gets you to the right 
 place -- so much so, that your opponents will be anxious to get in your way so
@@ -831,7 +822,7 @@ two suits, one of them possibly unknown, in
 :ref:`General Defense To Two-Suited Bids <defense_two_suited>`.
 
 .. index::
-   pair: transfer; interference with
+   pair: transfer;interference with
 
 .. _transferdoubled:
 
@@ -972,7 +963,7 @@ As the defender, you do not bid (1N) - 2N to show you have a notrump opener too 
 double for penalty. That's why 2N is free to have a special meaning.
 
 .. index::
-   pair: interference; three-level
+   pair: 1N;three-level interference
 
 Three-Level Interference
 ~~~~~~~~~~~~~~~~~~~~~~~~

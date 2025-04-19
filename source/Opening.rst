@@ -81,7 +81,7 @@ Choosing An Opening Bid
 The basic rules are simple and depend only on your strength and shape. Choose the first 
 bid in the following lists that applies:
 
-* If a preempt is appropriate, make it.
+* If a :term:`preempt` is appropriate, make it.
 * Open 2♣ with |22ormore| points (some slightly weaker hands with great long suits are 
   also appropriate).
 * Open 2N if you have a balanced hand with 20-21 points. 
@@ -151,7 +151,7 @@ Opening in 4th Seat
 -------------------
 
 .. index::
-   pair: preempt; not in passout seat
+   pair: preempts; not in passout seat
    pair: opening; in passout seat
 
 Pearson Points: To find your Pearson Points, add your HCP to the number of

@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. _BasicCheckback:
 
 Finding 5-3 and 4-4 Major Fits

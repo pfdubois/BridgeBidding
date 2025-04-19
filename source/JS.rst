@@ -15,7 +15,7 @@ must recognize the situation. Specifically,
 * Does the bid have another meaning already?
 
 .. index::
-   pair:jump-shift; preemptive
+   pair:jump-shift;preempts
 
 .. _wjs:
 

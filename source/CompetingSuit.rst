@@ -1,3 +1,7 @@
+.. include::  ../rst_prolog.txt
+
+.. _CompetingSuit:
+
 Competing After A Suit Opening
 ==============================
 
@@ -46,7 +50,8 @@ He emphasizes understanding the safety of various overcalls. For
 example, after an auction that begins (1♣)-P-(2♣), bidding is strongly
 encouraged, because RHO does not have diamonds, hearts, or spades, and
 has limited values; whereas after (1♥)–P–(2♥), clubs and diamonds
-are not safe – either opponent may have them.
+are not safe – either opponent may have them. (The first example assumes they are 
+not playing :ref:`Inverted Minors <inverted_minors>`.)
 
 When you are in fourth seat, you can overcall, but if passing would end the auction
 see :ref:`Balancing <Balancing>`.  If they have both bid you need a very good suit,
@@ -54,8 +59,8 @@ probably six cards, and very good values. This is called a 'live auction'. For a
 know the opener has a strong hand and was about to bid again. This situation is 
 dangerous.
 
-.. rubric::
-   Responding To Partner's Overcall 
+Responding To Partner's Overcall 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
 Responding to an overcall:
 
@@ -78,7 +83,7 @@ Your partner needs to learn you can be trusted. Avoid these errors:
 
 
 Weak Jump Overcalls
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 .. index::
    pair: overcall; weak jump overcall
@@ -95,6 +100,7 @@ once it becomes clear your partner is not being preempted by your bid.
 By the way, your partner should respond to this as if you opened a weak two-bid.
 In particular, 2N should be whatever it would be for you (feature ask, for example)
 had they just opened 2x. 
+
 
 
 Michaels Cue Bid
@@ -145,8 +151,12 @@ or a penalty pass.
 Without values, of course, you are off the hook and can pass. 
 
 An advanced agreement is that the 2N reply asking for the second suit shows a good hand, 
-while 3♣ asks for the second suit. A bid like 3♣ is a "pass or correct" bid; the
-Michaels bidder will pass if his second suit is clubs.
+while 3♣ asks for the second suit intending to pass. A bid like 3♣ is called a 
+"pass or correct" bid; the Michaels bidder will pass if his second suit is clubs.
+
+.. index::
+   pair:preempts;competing with 
+   
 
 Unusual 2NT
 -----------
@@ -218,3 +228,54 @@ denies a stopper in their suit(s) and asks partner to bid
 Responder is asking opener to bid 3N if he has a stopper in hearts. Quite often 
 the Western Cue bidder has some help in their, such as a half-stopper, but does 
 not feel secure bidding 3N on their own.
+
+.. _CompetingPreempts:
+
+Competing Over Preempts
+-----------------------
+
+.. index::
+   pair:preempts;Western Cue 
+   pair:preempts;Michaels
+   
+Generally, preemptive bids work. They suck up bidding room and you are limited in 
+ways to enter the auction.  Since you never preempt over a preempt, if you do something
+it is at least an opening hand.  If you have to bid at the 3-level, it must be pretty
+good.
+
+Doubling is for takeout up to some agreed limit.  For example, you can agree a double
+of 2♠ is takeout but a double of 3♠ is penalty. I believe the "standard" limit is 2♠
+from SAYC but most good pairs play it higher, some even to 4♠. 
+
+Bidding your own suit is forcing. So (2♥) 3♣ is a good opening hand and is forcing.
+If you bid a minor it is likely that 3N is under consideration.
+
+Finally we have the question of cue bids. The meaning depends on whether their bid
+is a major or minor suit:  
+
+* When they have opened two of a minor m, bidding 3m is Michaels, showing both majors.
+
+* When they have opened two of a major M, bidding 3M is Western Cue. If you have a 
+  |5ormore|-card suit in the other major, you would bid that directly.  
+
+.. index::
+   pair:preempts;Leaping Michaels
+   pair:preempts;Non-Leaping Michaels
+   pair:convention;Leaping Michaels
+   pair:convention;Non-Leaping Michaels
+   
+Leaping Michaels
+~~~~~~~~~~~~~~~~
+
+You really have to have an agreement on this one.
+
+Over a 2M preempt, a bid of four of a minor by agreement shows |5ormore| of
+the other major, and |5ormore| of the minor, with a strong hand of course since you
+are on the four-level.  This is considered a bid of the major with additional information
+as to strength and the minor suit. So for example, a reply of 4N by advancer would be
+key-card for the major, and bidding another suit would show a control with slam interest.
+Sometimes Leaping Michaels uncovers a nice double-fit and a slam.
+
+Over 3M preempts, you can also agree to Non-Leaping Michaels, with a bid of 4m showing
+the same thing.
+

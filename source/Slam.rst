@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. _slam_bidding:
 
 Slam Bidding
