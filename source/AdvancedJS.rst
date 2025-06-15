@@ -135,3 +135,12 @@ A great writeup of this method is in :title:`25 More Bridge Conventions You Shou
 Opener in responding must remember he's just been raised! Consider the bid
 virtually forcing. What counts are your holdings in the two suits that have
 been mentioned, not so much HCP per se.
+
+Simplifed Approach
+~~~~~~~~~~~~~~~~~~
+
+To avoid the confusion about fit jump vs. splinter, one can play by a simpler rule: any 
+jump-shift in a contested auction is a fit-showing jump.  The only splinter is in 
+the opponent's suit. That means that the normal "splinter" bid in an outside suit is 
+available to show extra strength.  For example, after 1♠ (2♣), 4♦ shows spade support
+with a hand with good diamonds that forces to game. 
