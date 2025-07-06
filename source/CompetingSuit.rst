@@ -59,11 +59,14 @@ dangerous.
 Responding To Partner's Overcall 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
-Responding to an overcall:
+Responding to an overcall as the advancer:
 
 * Recognize in choosing a response that partner's range is 8-17 HCP because he did not
-  double. You don't have to bid if we're not going anywhere. Resist rescuing when 
-  you are short in partner's suit.
+  double. You should have a lot of information already about points around the table.
+* There is no standard as to when an overcall is forcing, but the usual agreement is that
+  an overcall at the one level is forcing but a two-level overcall is not. Of course
+  if the responder then bids you're off the hook.
+* Resist rescuing when you are short in partner's suit.
 * A bid of a new suit is forcing by an unpassed hand and denies a fit for the overcall.
 * A simple raise is competitive. 
 * A jump raise is preemptive.
@@ -76,9 +79,9 @@ RHO might bid, most frequently to raise the opener. See
 Your partner needs to learn you can be trusted. Avoid these errors:
 
 * Overcalling when you should really pass.
+* Passing when you really should bid.
 * Overcalling with a suit you don't want led.
 * Not leading the overcaller's suit when you can.
-
 
 Weak Jump Overcalls
 ~~~~~~~~~~~~~~~~~~~
