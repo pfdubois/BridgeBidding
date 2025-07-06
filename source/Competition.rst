@@ -48,13 +48,15 @@ overcalls.
 .. index::
    pair:preempts;competing with
       
-*  Never preempt over a preempt. For example, the open 2♥ and you have six or seven 
+*  Never preempt over a preempt. For example, they open 2♥ and you have six or seven 
    spades to the KJ and another King. Pass. You must not bid 2♠ or 3♠. Your partner will 
-   consider those to be strong bids.
+   consider those to be strong bids. This situation is also an exception to the saying
+   that jumps in competition are weak. You aren't weak or you wouldn't bid.  2♠ over 2♥
+   shows a good opening hand with spades, but 3♠ shows a stronger hand.
 
 *  A passed hand is not always a poor hand. If your partner passed 
    after LHO opened, it may be that he did not have enough to overcall. It 
-   may also be that he did have enough, but didn't have a long enough suit, or his 
+   may also be that he did have enough, but didn't have a good enough suit, or his 
    suit is the one LHO bid. That's completely different from your partner
    passing in the first seat. It helps to say in your mind, "Partner has 
    a hand that could not bid over that opener." That's not the same at all 
@@ -66,7 +68,7 @@ overcalls.
    RHO intervenes.  You're off the hook!  You do not have to bid unless you have a 
    worthwhile thing to say. When you do make such a "free" bid, your partner will infer 
    that you have some reason to bid; when you bid because you have to, he cannot make 
-   such an inference.
+   such an inference. To bid, you will be short in their suit and shapely.
    
 *  Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
    thing you can, you're saying you don't have 8 good points. Just because it is a 

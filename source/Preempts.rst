@@ -32,11 +32,11 @@ common.)
    You should read them. Be aware that some people have much different ranges than 5-10.
    They don't have to alert them in most cases. You can ask or check their cards.
  
-The meanings of these bids has changed over time. Originally, in the Goren era, these 
-two-bids were strong bids.  However, the frequency of hands strong enough to open at the 
-two level was small, and the difficulties the weak-two bids cause to the opponents is large,
-so the strong two bids were all incorporated into the 2♣ bid, and the 2♦, 2♥, and 2♠
-bids became weak.
+The meanings of these bids has changed over time. Originally
+these two-bids were strong bids.  However, the frequency of hands strong enough
+to open at the two level was small, and the difficulties the weak-two bids
+cause to the opponents is large, so the strong two bids were all incorporated
+into the 2♣ bid, and the 2♦, 2♥, and 2♠ bids became weak.
 
 But how weak? That too has evolved.  
 
@@ -105,19 +105,18 @@ Responses
 A raise from the two level to the three level is purely preemptive and
 relies on the idea that a nine card fit is relatively safe at the three
 level. It does not require a lot of points, but it does require three
-trump.
+trump. It puts tremendous pressure on the opponents.
 
-Excepting a raise, other bids by responder are forcing. This is referred to as "RONF",
-"Raise Only Non Forcing". The 2N bid
-is a conventional bid that asks the opener to bid a suit in which he
-holds an outside Ace or King, or else to rebid his suit. Knowing 
-that the opener has an outside entry may permit responder to go to game.
-This 2N bid is called "feature-asking".  There are other schemes for 2N,
-chiefly one called :ref:`Ogust <Ogust>`.
+Excepting a raise, other bids by responder are forcing. This is referred to as
+"Raise Only Non Forcing (RONF)". The 2N bid is a conventional bid that asks the
+opener to bid a suit in which he holds an outside Ace or King, or else to rebid
+his suit. Knowing that the opener has an outside entry may permit responder to
+go to game. This 2N bid is called "feature-asking".  There are other schemes
+for 2N, chiefly one called :ref:`Ogust <Ogust>`.
 
 Generally a bid other than a raise is going to show a hand of 16 points 
-or so. Also, be prepared for opener to simply rebid his suit.  He could quite well
-have nothing else to say.
+or so. You must have a tolerance for opener to simply rebid his suit.  He could quite well
+have nothing else to say. Do not bid just to get your partner out of a 6-0 or 6-1 split.
 
 One test used to decide whether to raise a 2M preempt to the four level is the 
 “Rule of 17”: add the HCP to the number of trumps held, and go to game if the
@@ -131,6 +130,18 @@ about suit quality.
    
 If the opponents overcall our preemptive bid, a double is for penalty. It is not takeout.
 Other bids retain their same meanings.  
+
+Competing 
+~~~~~~~~~
+
+If you preempt, you never bid again unless forced to bid. If your
+partner raises you, he isn't inviting you to go on with a decent preemptive
+hand. It is quite a psychological test when you preempt with a hand that is, or
+almost is, too good for a preempt. Your partner raises and guilt sinks in. Don't do it.
+He won't trust you in the future and won't raise when he should.
+
+To compete against a preempt, see
+:ref:`Competing Over Preempts <CompetingPreempts>`.
 
 Three-Level Preempts
 --------------------

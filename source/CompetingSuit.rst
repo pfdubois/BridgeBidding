@@ -239,25 +239,105 @@ Competing Over Preempts
    pair:preempts;Western Cue 
    pair:preempts;Michaels
    
-Generally, preemptive bids work. They suck up bidding room and you are limited in 
-ways to enter the auction.  Since you never preempt over a preempt, if you do something
-it is at least an opening hand.  If you have to bid at the 3-level, it must be pretty
-good.
+Preemptive bids work. They suck up bidding room and you are limited in 
+ways to enter the auction.  Once you see how annoying there are, you'll know to preempt
+more.
 
-Doubling is for takeout up to some agreed limit.  For example, you can agree a double
+Are you weak or just competitive? Pass, even if you also have a big long suit. 
+You never preempt over a preempt. 
+
+.. rubric:: Competing Over Two-Level Preempts
+
+Doubling is for takeout but can also be a very strong hand. 
+The higher-ranking their suit, the more likely you're pushing us to the 3-level so
+the better your hand needs to be. 
+
+For example, you can agree a double
 of 2♠ is takeout but a double of 3♠ is penalty. I believe the "standard" limit is 2♠
-from SAYC but most good pairs play it higher, some even to 4♠. 
+from SAYC but most good pairs play it higher, some even to 4♠. Double can also show 
+a hand too strong to just overcall, around 17/18 or more points. 
 
-Bidding your own suit is forcing. So (2♥) 3♣ is a good opening hand and is forcing.
-If you bid a minor it is likely that 3N is under consideration.
+Overcalling requires a good |5ormore| card suit as well as an opening 
+hand or close to it. If you can bid it at the two-level you are much safer than at 
+the three level. Your partner is going to feel pressure to raise with support.
+If you bid a minor it is likely that 3N is under consideration. Also, be extremely 
+careful if partner is a passed hand -- your game potential is low if all you have is 
+a basic opener. 
 
-Finally we have the question of cue bids. The meaning depends on whether their bid
-is a major or minor suit:  
+You can overcall in notrump but you probably want two stoppers unless you can see 
+where your tricks are soming from.
 
-* When they have opened two of a minor m, bidding 3m is Michaels, showing both majors.
+Bidding their suit is :ref:`Michaels <Michaels>`. 
 
-* When they have opened two of a major M, bidding 3M is Western Cue. If you have a 
-  |5ormore|-card suit in the other major, you would bid that directly.  
+Very important to know: if they preempt and then the advancer doubles our bid, that
+double is for penalty, not takeout.  For example::
+
+   (2♥) 2♠ (X) 
+   
+is penalty, not takeout for the minors.
+
+Deciding Factors
+~~~~~~~~~~~~~~~~
+
+When it is a close call between acting or passing, factors
+to consider are:
+
+* How many cards do you hold in their suit?
+  Three is terrible. The partner who is short (2, 1, or 0) in their suit
+  has the burden to overcall or balance. With |4ormore| in their suit, you can consider 
+  notrump if you have 15-18 points, with two stoppers likely, or plan to defend.
+  
+* Are we vulnerable?
+* To what level are we bidding?
+* If we are considering an overcall, what is our suit's quality?
+* The more balanced your hand, the less likely you should compete.
+ 
+.. rubric:: Responding after (2x) X (P)
+
+.. index:: 
+   pair:Lebensohl;over weak two bids
+   
+It is really not possible to have a coherent scheme for responding to the double of 
+a weak two bid unless you use 
+:ref:`Lebensohl After Doubles Of Weak Two Bids <Lebensohl_Applications>`. 
+For example, after (2♠) X (P), suppose you have one of these two hands:
+
+* ♠xx ♥KJx ♦987654 ♣94
+* ♠xx ♥Kxx ♦KQJ765 ♣94
+
+With the first hand, you really need to bid 3♦ and have your partner pass it.
+With the second hand, you want to invite your partner to go on knowing you have a 
+good diamond suit, but you don't have enough to force to game. The one bid of 3♦ has
+to mean one or the other. So if you don't use this form of the Lebensohl convention,
+you're stuck with it meaning a weak hand. 
+
+When you have a game forcing hand you can bid their suit (3♠ in this case) as a game 
+forcing bid, hoping partner can help you decide on 3N, 4♥, or 5m depending on your 
+hand and his. Again, Lebensohl can help. 
+
+When you have a suit that is above the preempt, such as hearts over a diamond 
+preempt, you have a two-level bid available to show weakness and can use the three-level
+bids to show invitational responses (8-11 HCP).
+
+Of course, you can also convert the double to penalty with the correct hand but 
+since you are under the long suit this is rare.
+   
+.. rubric:: Responding After Higher Levels
+
+They will often reinforce a preempt to the 3- or 4-level.  Suppose partner
+doubles but they raise. A :ref:`Responsive Double <responsive_double>` will
+show partner it is our hand, |10ormore| points and an unclear direction. 
+Be aggressive in competing at the three-level if you can.  When they go to the
+4-level, it is even more important to compete if you have values. They might be
+bidding game or they might be sacrificing.
+
+It is useful to play 4N to mean, "two places to play".  This bid lets you disambiguate
+two bids of five of the other major as in Lebensohl:
+
+* (2♠) X (4♠) 5♥ is a good hand with heart support. It is a slam try. 5N! instead
+  would be "Pick-a-slam"
+* (2♠) X (4♠) 4N! says you have either a modest hand with heart support or both minors.
+  After the doubler bids his best minor, 5♥ is to play.
 
 .. index::
    pair:preempts;Leaping Michaels

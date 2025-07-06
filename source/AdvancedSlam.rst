@@ -93,13 +93,14 @@ The point of Last Train is to allow classifying your hand as having slam interes
 possible slam interest, or no slam interest by continuing past game, bidding Last Train,
 or just bidding game. 
 
-Five Notrump Pick-a-slam
+Five Notrump Pick-A-Slam
 ------------------------
 
 .. _pick_a_slam:
 
 .. index::
    pair: convention; pick-a-slam
+   pair: 5N;pick-a-slam
 
 When we have not agreed on a suit but you determine that the partnership has
 the points to be in slam, a jump bid of 5N is a great alternative to just 

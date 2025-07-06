@@ -33,7 +33,8 @@ Lebensohl After We Open 1N
 
 Since life will usually be easy for us after we open 1N, opponents are motivated to
 interfere.  That uses up the room we need to decide our :term:`strain` and level.  
-Lebensohl gives up one natural reply in order to effectively double the remaining space.
+Lebensohl gives up one natural reply in order to effectively double the remaining 
+bidding space.
 
 Suppose we open 1N and this is overcalled. Of course, if responder
 is weak they need do nothing. But what if responder is competitive or better?
@@ -52,58 +53,57 @@ Imagine responder has one of these two hands:
 With (1), responder would like to have the contract be 3♣. With (2), responder would
 like to force to game, probably 3N or 5♣, depending on opener's heart holding.
 
-The one bid 3♣ cannot mean two things. It is ambiguous. 
-Resolving ambiguity is the heart of Lebensohl.  How do we come up with a way to express 
-these different hands?
+The one bid 3♣ cannot mean both kinds of hands. It is ambiguous. How do we come
+up with a way to express these different hands?
 
-When we have a |5ormore| card suit to show, it might be:
+We will use 2N, called the Lebensohl 2N. It is an artificial bid and is alerted as 
+a :term:`relay` to 3♣. It is called a relay rather than a transfer because the bidder
+is not promising he has clubs. 
 
-* Competitive, wanting to stop in responder's suit;
-* Invitational;
-* Game-forcing. 
+After we bid 2N!(relay), partner must bid 3♣. Then we can make a three-level
+bid. So there are two ways, for example, to bid 3♦ over 1N (2♥): 
 
-We will use an artificial bid, called Lebensohl 2N, to effectively double the number
-of 3-level bids available to us. This bid is called Lebensohl 2N. 
-After we bid 2N!(relay), partner must bid 3♣. Then we
-can make a three-level bid. So there are two ways, for example, to bid 3♦. Bid 3♦ right
-away, or first bid 2N!(relay) and after opener bids 3♣, bid 3♦. 
+#. Bid 2N!(relay) and after opener bids 3♣, bid 3♦, or;
+#. Bid 3♦ right away.
 
-Bidding immediately is called a "fast" bid; going through the relay first is
-the "slow" bid. For suits, the fast bid will be the stronger way; for Stayman,
-the slow cue bid will show a stopper, while the fast will deny one. For 3N, slow 
-will show a stopper, fast will deny a stopper.
+So we can use (1) for hand 1, and (2) for hand 2.  We have "disambiguated" the 3♦ bid.
 
-.. important:: 
-   How We Treat Artificial Bids
+Bidding immediately over their overcall is called a "fast" bid; going through
+the relay first is the "slow" bid. 
 
-When the intervenor has made a bid that shows one suit and an unknown second suit,
-we ignore the second suit for the moment and proceed as if they had bid the known suit.
-For example, a Cappelletti 2♥ bid shows "hearts and a minor". We'll react as if it 
-was just hearts. A D.O.N.T. bid of 2♦ shows "diamonds and a major". We'll react as if
-it was just diamonds. If the intervenor makes a bid showing two definite suits, see 
-:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.
+The reason people feel Lebensohl is complicated is that bids have different meanings
+depending on what suit we have and what suit was overcalled. 
+
 
 Over Two-Level Overcalls 
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. rubric::
    When Lebensohl Is Off
-   
+ 
+If the intervenor makes a bid showing two definite suits, 
+we don't use Lebensohl. See 
+:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.  
+
 If the overcall was in clubs, or intervenor doubled, Lebensohl is off. Systems are on.
-This is also true when they make an artificial 2♣ bid or an artificial double promising
-one long suit.
-   
 Systems on means we use our normal bids, as if they had not bid. Double is
 Stayman, 2♦ is a transfer to hearts, and so on. 
 
-If they doubled for penalty, it is a :ref:`runout <runout>` situation. If they
-made an artificial double that showed one definite suit, we treat it as if they
-had bid that suit; but when the suit is unknown our system is on, and redouble
-is Stayman. And as mentioned, if their double or 2♣ bid showed two definite
-suits, or they made an artificial bid such as 2♦ meaning the majors, see
-:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.
+This is also true when they make an artificial 2♣ bid or an artificial double promising
+one long suit. 
 
-So in particular:
+If they doubled for penalty, it is a :ref:`runout <runout>` situation.
+
+.. rubric::
+   Over Artificial Bids Showing One Definite Suit
+
+When the intervenor has made a bid that shows one definite suit and an unknown
+second suit, we ignore the second suit for the moment and proceed as if they
+had bid the known suit. For example, a Cappelletti 2♥ bid shows "hearts and a
+minor". We'll react as if it was just hearts. A D.O.N.T. bid of 2♦ shows
+"diamonds and a major". We'll react as if it was just diamonds. 
+
+Examples:
 
 * 1N (2♣! long suit) system is on, double is Stayman;
 * 1N (2♣ natural) system is on, double is Stayman;
@@ -174,9 +174,9 @@ hand.
 
 There is a twist to the normal Stayman pattern, however. They have bid a suit.
 Suppose opener replies spades but you have four hearts and not four spades. Can
-you now bid 3N without a stopper in their suit?  If opener had neither major, can he bid 3N
-without a stopper? It's ambiguous.  Sounds like a job for Lebensohl, and indeed
-it used to be. 
+you now bid 3N without a stopper in their suit?  If opener had neither major,
+can he bid 3N without a stopper? It's ambiguous.  Sounds like a job for
+Lebensohl, and indeed it used to be. 
 
 The "original" Lebensohl (can we call it OGL?) approach is:
 
@@ -193,7 +193,7 @@ in these auctions, opener without a four-card major will have to bid:
 Playing this way, a double is penalty-oriented.
 
 The newer approach is to play a double as a negative double. The cue bids 
-are not used for Stayman. It keeps the auction lower.
+are used less.
 
 .. warning:: 
    You must be clear with your partner which version of double you are playing
@@ -208,7 +208,7 @@ Five-card suit:
 - 1N (2♦) 3♥ is game-forcing.
 - 1N (2♥) 2N! - 3♦ is to play
 - 1N (2♥) 3♦ is game-forcing; there is no way to invite in diamonds.
-- 1N (2♣) 2♦ is a transfer to hearts. (Lebensohl off for clubs!)
+- 1N (2♣) 2♦ is a transfer to hearts. (Lebensohl is off for clubs!)
 
 Balanced hand, without a four-card major:
 
@@ -272,35 +272,107 @@ complicated scheme.
    pair: double; Lebensohl
    pair: preempts; defense
 
-Answering Takeout Doubles Of Weak Two Bids
-------------------------------------------
+Lebensohl After Doubles Of Weak Two Bids
+----------------------------------------
 
-When an opponent opens a weak two bid, and we double it, that shows a decent
-opening hand with shortness in their suit. The double is for takeout.
-But we run into a familiar dilemma. Consider an auction that begins (2♥)
-X (P) ? where the advancer holds a very weak hand with six diamonds.
-Advancer definitely wants to bid three diamonds and have that be that.
+When an opponent opens a weak two bid, and our partner doubles it, he usually
+shows a decent opening hand with shortness in their suit. The double is
+presumed to be for takeout but it could be a strong hand. For other
+bids see :ref:`Competing Over Preempts <CompetingPreempts>`. Assuming
+for the moment that the responder passes, we must classify our hand into weak,
+positive response, or game-forcing.  
 
-But if he has a much stronger hand with diamonds that wants to go to game,
-then he wishes he could ask partner whether he has hearts stopped.
+Eric Rodwell suggested in his Lebensohl pamphlet that the borders of the "positive
+response" be 6-10 points. Gavin Wolpert says 8-11 points. 
 
-The solution is to realize that (2♥) X (P) ? is not that different from
-1N (2♥) ?. We can just play Lebensohl. The doubler can refuse a 2N! relay to 
-show a strong hand.
+Consider an auction that begins (2♥) X (P) ? where the advancer holds a hand with 
+six diamonds. Absent some agreement, advancer with a hand that is:
+
+* Weak -- wants to bid diamonds and have partner pass
+* Positive -- wants to bid diamonds and hope partner bids again 
+
+A bid of 3♦ cannot tell two different stories. Once again, the Lebensohl
+concept solves the problem. If you do not play this convention you'll have to
+let the 3-level bids be weak.
+
+Lebensohl Over Weak Twos
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+If the suit that we want to bid, y, is of lower rank than the preempt, we are
+going to have to bid it at the three level. Going through 2N!(relay) Lebesohl
+shows the weaker hands.
+
+* 2N! is a relay to 3♣, pass or correct. 
+* Immediate 3-level bids are positive responses. 
+
+When the suit we want to bid, y, is higher-ranked than the preempt suit, we have three
+bids available. 
+
+* An immediate 2y shows the weak hand.
+* 2N! followed by 3y shows a positive response with 4 cards in y.
+* An immediate 3y shows a positive response with |5ormore| cards in y.
+
+For example:
+
+* 2♥ X P 2♠ = weak hand
+* 2♥ X P 3♠ = positive with five spades
+* 2♥ X P 2N!; P 3♣! P 3♠ positive with four spades
+
+The relay does not have to be accepted if the doubler had a strong hand. This is 
+called "breaking" the relay.
+
+This meaning of 3y is current "expert standard" according to Wolpert.
+If you are new to Lebensohl it isn't going to kill you to just use the direct 3-level
+bid for any positive response for consistency with the other case. 
+
+Game Forcing Hands  
+~~~~~~~~~~~~~~~~~~
+
+What if we want to force to game but, allowing for the fact that
+partner may not have four of an unbid major, can we do better than just bidding
+4M and hoping? Our only other tool is to bid their suit.
+
+For example, over 2♥ X P, suppose we have a game forcing hand with ♠AQx. We aren't 
+sure where we belong, be it 4♠, 3N, or perhaps 5m. Again, we use the 2N relay to 
+double the language available:
+
+* The direct "fast" cue bid shows we do not have four of the other major but are forcing
+  to game. 
+* The "slow" 2N relay before the cue bid shows |4ormore| cards of the other 
+  major and forcing to game but no stopper. 
+* 2N relay and then 3N also shows 4 cards in the other major but with a stopper, 
+  offering a choice of games.
+
+Again, if you are new to this, it isn't going to kill you to cue bid to show the 
+game force or just bid 4 of the other major when you don't have a stopper.  A seven-card
+fit won't be the end of the world.
+
+.. rubric:: Notes
 
 There is one more scenario that should be considered Lebensohl::
 
    (1x) X (2x) ?
    
 where x is not clubs. This is similar to (2x) X (P) ? Thus, play 2N here as
-the relay to clubs.  This means:
+the Lebensohl relay.  A double is a :ref:`responsive <responsive_double>`.
 
-* 2y is to play
-* 2N is a relay to 3♣, pass or correct. To play if the suit was not biddable at the 
-  level, otherwise invitational.
-* 3-level bids are game forcing. 
+Be careful not to just count points when distinguishing a positive vs. a game-forcing
+reply.  If you have five cards in your major, especially, you might want to upgrade. 
 
-Again, refusing the relay shows a strong hand. 
+.. index::
+   pair:convention;Better Minor Lebensohl
+   pair:Lebensohl;Better Minor
+
+You can make also play Better Minor Lebensohl in this scenario. Statistically it pays, 
+but requires you to remember it and gives up differentiating weak and positive
+hands with clubs.
+
+After the 2N!(relay) bid, the person responding to it bids their better minor
+suit rather than always bidding clubs. This has the advantage of finding a
+better minor suit fit when the 2N bidder has both minors.  Obviously in the
+case of holding a hand with long diamonds, you just correct to diamonds or
+hearts over 3♣, but you can't correct 3♦ to clubs so you just can't bid the
+relay. The direct 3♣ response to the double has to be assumed to be weak.
 
 .. index::
    pair:overcall of 2♣ opener;Lebensohl
@@ -414,4 +486,6 @@ be off in situations such as:
 * when the opponents have made a penalty double
 * when we have already found a fit
 * when we are already in a game-forcing auction.
+
+
 
