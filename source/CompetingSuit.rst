@@ -137,11 +137,11 @@ natural; this is especially possible after the opponents open 1♣ or 1♦.
    they mean by it, if only at the end of the auction. This is one case when silence 
    does not mean standard.
 
-Over an opening 2♠, a bid of 3♠ should be :ref:`Western Cue <Western_Cue>`, asking 
-partner to bid 3N with a spade stopper. There isn't enough room for Michaels.
-
 Some partners agree to use Michaels only with minimal or maximum hands -- 
 see :ref:`Minimax <minimax>`.
+
+Over a 2M preempt, with a strong two-suited hand you can show the other major and a 
+minor all at once using :ref:`Leaping Michaels <LeapingMichaels>`.
 
 A question arises when the Michaels bid shows a major and an unknown suit, 
 and the responder makes a bid, but advancer has no support for the major.
@@ -347,6 +347,8 @@ two bids of five of the other major as in Lebensohl:
    pair:preempts;Non-Leaping Michaels
    pair:convention;Leaping Michaels
    pair:convention;Non-Leaping Michaels
+   
+.. _LeapingMichaels:
    
 Leaping Michaels
 ~~~~~~~~~~~~~~~~
