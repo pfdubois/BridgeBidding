@@ -195,8 +195,10 @@ in these auctions, opener without a four-card major will have to bid:
 
 So what does double mean in a Lebensohl situation?  E.g., 1N (2♥) X?
 
-It is possible to play X as penalty-oriented. However, a
-newer approach is to play a double as a negative double. The hope is to be able to 
+It is standard to play X as penalty-oriented. (This was the recommendation in 
+Eric Rodwell's 2005 pamphlet, :title:`Lebensohl`. 
+
+A newer approach is to play a double as a negative double. The hope is to be able to 
 find fits with invitational hands, which are not sufficiently strong for the 
 Stayman cue bids.
 

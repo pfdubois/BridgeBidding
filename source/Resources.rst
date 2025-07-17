@@ -6,8 +6,6 @@ Resources
 
 .. _bibliography:
 
-Here are the sources I have found most useful on each topic.
-
 Books
 -----
    
@@ -81,7 +79,7 @@ Online
 ------
    
 #. Larry Cohen (https://www.larryco.com), 
-   Robert Barrington (https://www.learnbridge.com) and
+   Robert Barrington (https://www.learnbridge.com), and
    Gavin Wolpert (https://wolpertbridge.com) have articles, videos
    and lessons.  YouTube has great content including Rob, Gavin, and Pete Hollands.
    
@@ -92,7 +90,7 @@ Online
 #. Marty Bergen (http://martybergen.com) has audio-visual courses in addition to books 
    and pamphlets.
    
-#. Rob Barrington and Gavin Wolpert have produced five years (as of 2024) of free 
+#. Rob Barrington and Gavin Wolpert have produced years of free 
    "Wednesday Morning Tournament" episodes on Barrington's YouTube channel 
    "Bridge Lesson". Each episode is a very careful collaboration on 8 hands.
    
