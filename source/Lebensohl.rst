@@ -162,23 +162,20 @@ so the relay has to mean the "to play" bid and we just don't have an
 invitational bid.
 
 .. rubric::
-   Stayman: An Evolving Story
+   Stayman
    
 .. index::
-   pair: double;Lebensohl
    pair: Stayman;Lebensohl
    
 In standard bidding, without Lebensohl, a cue bid of the overcalled suit is
 Stayman. For example, 1N (2♦) 3♦ is Stayman. Obviously you need a game-forcing
 hand.
 
-There is a twist to the normal Stayman pattern, however. They have bid a suit.
+There is a twist to the normal Stayman pattern, however. 
 Suppose opener replies spades but you have four hearts and not four spades. Can
 you now bid 3N without a stopper in their suit?  If opener had neither major,
 can he bid 3N without a stopper? It's ambiguous.  Sounds like a job for
-Lebensohl, and indeed it used to be. 
-
-The "original" Lebensohl (can we call it OGL?) approach is:
+Lebensohl:
 
 * An "fast" :term:`cue bid` is Stayman and denies a stopper in their suit.
 * A "slow" cue bid is Stayman and shows a stopper. ("Slow shows").
@@ -190,10 +187,18 @@ in these auctions, opener without a four-card major will have to bid:
   promised one by responder, or
 - 4♣ to show responder that we lack a major fit or a diamond stopper.
 
-Playing this way, a double is penalty-oriented.
+.. index::
+   pair: double;Lebensohl
 
-The newer approach is to play a double as a negative double. The cue bids 
-are used less.
+.. rubric::
+   Double
+
+So what does double mean in a Lebensohl situation?  E.g., 1N (2♥) X?
+
+It is possible to play X as penalty-oriented. However, a
+newer approach is to play a double as a negative double. The hope is to be able to 
+find fits with invitational hands, which are not sufficiently strong for the 
+Stayman cue bids.
 
 .. warning:: 
    You must be clear with your partner which version of double you are playing
@@ -218,7 +223,7 @@ Balanced hand, without a four-card major:
 
 For the Stayman cases:
 
-- 1N (2♦) X is Stayman if playing the double as negative; OR
+- 1N (2♦) X is negative, probably with only an invitational hand.
 - 1N (2♦) 3♦ is Stayman without a stopper, and
 - 1N (2♦) 2N! - 3♣ - 3♦ is Stayman with a stopper.
 
