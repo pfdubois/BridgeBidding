@@ -63,9 +63,9 @@ Meckwell
    single: two-suited bids
    pair:1N;Meckwell defense
 
-In this modification of D.O.N.T., the double works harder in order to make 2♥
-and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
-by partnership agreement,
+:term:`Meckwell` is a modification of D.O.N.T. in which the double works harder
+in order to make 2♥ and 2♠ natural. After opponents open 1N, either in direct
+seat, or after two passes by partnership agreement,
 
 -  X! Long minor or both majors
 
@@ -126,48 +126,6 @@ A double is a relay to 2♣, and then intervenor bids one of the Capp two-suited
 Doubling and then bidding a suit at the three level is a strong 
 six-carder, while bidding directly at the three level a normal preempt.
 
-Suction
--------
-
-.. index::
-   pair: convention; Suction
-   single: two-suited bids
-   pair:1N;Suction defence
-   
-.. warning::
-   This defense is not permitted in ACBL tournaments below the Open chart level.
-   
-Suction is quite popular against strong 1♣ or strong 2♣ as well. Just make the obvious
-modifications.
-
-A suit bid denies that suit and shows either the next suit up or the two suits above that.
-So:
-
-- X shows an equal hand
-- 2♣ shows long diamonds or hearts and spades
-- 2♦ shows long hearts or spades and clubs
-- 2♥ shows long spades or clubs and diamonds
-- 2♠ shows long clubs or !diamonds and hearts
-- 2N shows clubs and diamonds
-
-Note that for these bids, the two suits in the alternative  are "touching".  
-
-If responder passes, advancer always bids the next strain; if the intervenor has that
-suit he passes, otherwise bids the next suit up, pass or correct.  For example::
-
-   (1N) 2♣!(diamonds or the majors) (P) 2♦!(required)
-   ( P) 2♥!(the majors, pass or correct)
-
-There remain two more bids to include the non-touching combinations:
-
-- 3♣ shows the rounded suits, clubs and hearts
-- 3♦ shows the pointed suits, diamonds and spades
-
-Some do not include these latter bids. You can end up in four of a minor, which would be
-pretty alarming unless you have values and they are all in those suits.
-
-As usual, advancer is off the hook if responder bids.  The defense can
-treat the 2-level bids as a natural overcall of the possible long suit.
 
 Woolsey
 -------
@@ -239,4 +197,103 @@ transfered to his suit and then raised to get to the same place. Not needing two
 with the same meaning, the "slow" bid of 3M is the strong one, an idea similar to 
 :ref:`Lebensohl <Lebensohl>`.
 
+.. _Suction:
 
+.. index::
+   pair: convention; Suction
+   single: two-suited bids
+   pair:1N;Suction defence
+   
+Suction
+-------
+
+.. warning::
+   This defense is not permitted in ACBL tournaments below the Open chart level.
+   
+Suction is quite popular against strong 1♣ or strong 2♣ as well. Just make the obvious
+modifications.
+
+A suit bid denies that suit and shows either the next suit up or the two suits above that.
+So:
+
+- X shows an equal hand
+- 2♣ shows long diamonds or hearts and spades
+- 2♦ shows long hearts or spades and clubs
+- 2♥ shows long spades or clubs and diamonds
+- 2♠ shows long clubs or diamonds and hearts
+- 2N shows clubs and diamonds
+
+Note that for these bids, the two suits in the alternative  are "touching".  
+
+If responder passes, advancer always bids the next strain; if the intervenor has that
+suit he passes, otherwise bids the next suit up, pass or correct.  For example::
+
+   (1N) 2♣!(diamonds or the majors) (P) 2♦!(required)
+   ( P) 2♥!(the majors, pass or correct)
+
+There remain two more bids to include the non-touching combinations:
+
+- 3♣ shows the rounded suits, clubs and hearts
+- 3♦ shows the pointed suits, diamonds and spades
+
+Some do not include these latter bids. You can end up in four of a minor, which would be
+pretty alarming unless you have values and they are all in those suits.
+
+As usual, advancer is off the hook if responder bids.  The defense can
+treat the 2-level bids as a natural overcall of the possible long suit. Or you 
+can wait until they clarify their suit and then play Lebensohl with double being values.
+
+
+.. _CRASH:
+
+.. index::
+   pair:convention;CRASH
+   pair:1N;CRASH defense
+   pair:1♣ strong;CRASH defense
+   
+CRASH
+-----
+  
+.. warning::
+   This defense is not permitted in ACBL tournaments below the Open chart level.
+
+CRASH stands for Color RAnk SHape, using different bids to show two suits of
+the same color, or rank (minors or majors), or shape (pointed or round), along
+with other natural bids.  It can be used over a strong club opener as well.
+
+The basic idea is that three steps are used to show two-suited hands:
+
+* X: shows two suits of the same Color (red/black)
+* 2♣: shows two suits of the same Rank (major/minor) 
+* 2♦: shows two suits of the same Shape (round/pointed)
+* 2♥: natural
+* 2♠: natural
+
+That would leave 2N as both minors as usual.
+
+Another version is to keep X as showing values / penalty, so that we have:
+
+* X: penalty-oriented
+* 2♣: shows two suits of the same Color (red/black) 
+* 2♦: shows two suits of the same Rank (major/minor)
+* 2♥: natural
+* 2♠: natural
+* 2N: shows two suits of the same Shape (round/pointed)
+
+Over a strong 1♣, X = color, 1♦ = Rank, and 1N = shape is usual.
+
+Advancer will assume that the two suited bids show length in the advancer's short 
+suits and bid the best of those. Interventor can correct if this is wrong.
+
+Dealing with the artificial bids showing two 
+indefinite suits is difficult.  
+
+Marc Smith suggests that responder "double and keep on doubling" if they have
+values. After all, CRASH's obvious defect is that they get to the three-level
+quite often. You can play all other bids natural. 
+
+Another approach is for Responder to wait until after advancer bids and have Lebensohl on
+when it gets back to them. 
+
+
+ 

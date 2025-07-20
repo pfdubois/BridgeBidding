@@ -66,8 +66,6 @@ You can call the director after you discover misinformation, but you need
 to show you were damaged by the misinformation to get relief, and that is 
 hard to think out at the table, and hard for the director. 
 
-My conclusion is that it is best to play the runout on after any double, as long as
-responder has a way to show values. 
 
 Meckwell Escapes
 ----------------
@@ -78,8 +76,13 @@ Meckwell Escapes
    pair:runout;Meckwell Escapes
    pair:convention;Meckwell Escapes
 
-Meckwell Escapes are similar to the Meckwell bids over interference with our 1N opener.
+:term:`Meckwell` Escapes are similar to the Meckwell bids over interference with our 1N opener.
 A great combination is to play :ref:`Meckwell <Meckwell>` and Meckwell Escapes.
+Naturally, you have to strain sometimes to find an escape so all the usual shape 
+constraints are relaxed.
+
+I understand that as Meckwell themselves play it, the escape interchanges the redouble 
+and the pass:
 
 * Pass!(forcing, shows either clubs, diamonds, or both majors). 
 
@@ -88,10 +91,17 @@ A great combination is to play :ref:`Meckwell <Meckwell>` and Meckwell Escapes.
   Next, responder passes or bids 2♦ with |5ormore| cards in the minor, or 2♥! 
   shows 4-4 majors or better.
   
-* 2♣ promises clubs and a higher suit, 4-4 at least. 
-* 2♦ promises diamonds and a higher suit, 4-4 at least. 
-* 2♥ and 2♠ are natural |5ormore|-card suits.
-* Redouble is natural, not forcing. You think we can make 1N.
+* XX! is natural, not forcing. You think we can make 1N.
+
+However, interchanging Pass and Redouble is not at all necessary.  Having 1NX be 
+a possible contract may be an advantage when playing a strong NT. It certainly is 
+less confusing. 
+
+The rest of Meckwell is unchanged in the escape:
+
+* 2♣ promises clubs and a higher suit. 
+* 2♦ promises diamonds and a higher suit. 
+* 2♥ and 2♠ are natural |4ormore|-card suits.
 * Texas transfers are on.
 
 The Handy Runout
@@ -108,8 +118,8 @@ encouragement from Ally Whiteneck. It works properly only when the 1N opener doe
 have two doubletons. Over a strong 1N you can probably afford to fudge this requirement 
 because the strength will help you if you land in a bad fit.
 
-Direct Seat Doubles
-~~~~~~~~~~~~~~~~~~~
+.. rubric::
+   Direct Seat Doubles
 
 After 1N (X), responder bids:
 
@@ -158,8 +168,8 @@ If in a forcing auction, we bid a suit or 2N, it is not forcing. It is
 constructive and shows 10-12 HCP. If you bid a suit at the three level
 or cue bid the opponent's suit, it is forcing. 
 
-Fourth Seat Doubles
-~~~~~~~~~~~~~~~~~~~
+.. rubric::
+   Fourth Seat Doubles
 
 When RHO doubles after two passes,  we know responder is not invitational
 since he passed, but he could have up to near-invitational values. 
@@ -172,7 +182,6 @@ After 1N - (P) - P - (X), opener:
    or pass if willing to sit for the double.
 -  If LHO bids, you are now back in your 1N overcall treatment, such as 
    :ref:`Lebensohl <Lebensohl>`.
-
 
 Guoba
 -----
@@ -187,10 +196,10 @@ A redouble starts a relay to show a 5-card suit. An immediate suit bid shows non
 four-card suits, the suit bid and one higher. Or, responder can pass and show touching 
 suits on his next turn, or pass a redouble for penalty.
 
-Direct Seat Doubles
-~~~~~~~~~~~~~~~~~~~
+.. rubric::
+   Direct Seat Doubles
 
-After 1N - CX), responder bids:
+After 1N (X), responder bids:
 
 * Pass!(not necessarily for penalty)
 
@@ -212,8 +221,8 @@ After 1N - CX), responder bids:
   
 * Redouble forces 2♣, and responder can pass or correct to a 5-card suit.
   
-Fourth Seat Doubles
-~~~~~~~~~~~~~~~~~~~
+.. rubric::
+   Fourth Seat Doubles
 
 After 1N - (P) - P - (X), opener:
 

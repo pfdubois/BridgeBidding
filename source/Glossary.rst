@@ -301,7 +301,11 @@ Glossary
       
    major
       Spades or hearts; frequently abbreviated :abbr:`M`.
-
+    
+   Meckwell
+      The partnership of Jeff Meckstroth and Eric Rodwell, and the name of their 
+      convention for interfering over 1N openers.
+      
    minimax
       A style of making two-suited bids, in which the bid is not used for intermediate 
       hands.

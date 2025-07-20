@@ -81,9 +81,8 @@ Over Two-Level Overcalls
 .. rubric::
    When Lebensohl Is Off
  
-If the intervenor makes a bid showing two definite suits, 
-we don't use Lebensohl. See 
-:ref:`Artificial Overcalls <Lebensohl2Suits>`, below.  
+If the intervenor makes a bid showing two definite suits, we don't use
+Lebensohl. See :ref:`Artificial Overcalls <Lebensohl2Suits>`, below.  
 
 If the overcall was in clubs, or intervenor doubled, Lebensohl is off. Systems are on.
 Systems on means we use our normal bids, as if they had not bid. Double is
@@ -93,6 +92,7 @@ This is also true when they make an artificial 2♣ bid or an artificial double 
 one long suit. 
 
 If they doubled for penalty, it is a :ref:`runout <runout>` situation.
+
 
 .. rubric::
    Over Artificial Bids Showing One Definite Suit
@@ -233,6 +233,15 @@ For the Stayman cases:
    Do not call the 2N bid by itself "Lebensohl".
    Lebensohl is the entire system described in this chapter. The 2N bid 
    is its signature, but it isn't the only thing to know.  
+
+.. rubric::
+   When They Get Tricky, We Get Even
+      
+Rarely you will encounter defenses that show two indefinite choices, such as 
+:ref:`Suction <Suction>` or :ref:`CRASH <CRASH>`.  Against such choices double
+should show values as the opponents will often get too high sorting out their choices.
+I suggest otherwise passing and waiting until they have selected a suit, and 
+then bid Lebensohl against that. 
 
 Three-level Overcalls
 ~~~~~~~~~~~~~~~~~~~~~
