@@ -13,7 +13,7 @@ Notrump Openings
 If using this chapter as a reference, be sure you've read 
 :ref:`Notation and Nomenclature <Notation>` and review 
 :ref:`Classifying Your Hand <classification>` to classify your hand as weak, competitive,
-invitational, game-going, or slam interest. 
+invitational, opening-strength, or strong. 
 
 When a hand is eligible to open in notrump, we are anxious to do so. As we will see,
 we will have an entire system devoted to bidding such hands that almost always gets us,
@@ -43,7 +43,7 @@ The hand must have:
   
 What about hands with the right shape but wrong strength?  
 
-* 12-14 points with no five-card major open a minor and bid notrump on
+* 12-14 points with no five-card major: open a minor and bid notrump on
   the second round. If you do have a five-card major, open it. 
   
 * 18-19 points open a suit, and bid 2N on the second round. 
@@ -56,10 +56,11 @@ What about hands with the right shape but wrong strength?
 .. rubric:: Hands You Sometimes Open 1N
 
 * As you get more experience, you may want to open 1N with some :term:`semi-balanced` 
-  hands. You can consider this with these shapes:
+  hands in the 15-17 HCP range. You can consider this with these shapes:
 
   - A 5-4-2-2 hand, as long as one of the doubletons is Kx or better, and
-    the long suit is a minor.
+    the long suit is a minor or you are specifically 4=5=2=2. With
+    5=4=2=2 you always open 1♠ and rebid 2♥.
   - A 6-3-2-2 hand if the long suit is a good minor and both doubletons
     are Kx or better, and the long suit is a minor.
 
@@ -93,8 +94,8 @@ that we try to use it whenever we can:
 
 Important:
 
-* The system is not on when you open a suit and rebid notrump. 
-* Whether it is on when the opener's LHO bids or doubles varies. 
+* The system is not on when opener bids a suit and rebids notrump. 
+* When the 1N opener's LHO bids or doubles, it varies. 
 
 The rest of this chapter is devoted to explaining the "system" over 1N.  You'll 
 notice it is a very long chapter, because there are a lot of subtleties. 
@@ -163,7 +164,7 @@ if you are worried about having fast losers in a suit or an opener that upgraded
    
 The 5N bid as Grand Slam Force is the standard but it has been all but replaced by
 :ref:`5N Pick-A-Slam <pick_a_slam>`. Whichever you play it applies to a 5N bid
-over a quantitative 4N bid.
+over a quantitative 4N bid or below.
 
 Responding With A Major Suit Or Long Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -303,18 +304,20 @@ Major Transfers
 So much for hands with four card majors -- but what if you have a five-card 
 major? You may have a fit if opener has three cards in your suit. 
 
-.. warning::
+.. note::
    If you have 5-4 in the majors, you use Stayman.  This section applies when 
    you have fewer than four cards in the other major.
 
 Rather than bid our major suit in response to 1N, we bid the suit below
-it, so that the strong hand then bids the suit first and becomes the declarer if 
-we have a fit in that suit. This is called a :dfn:`transfer`, also known as
-a Jacoby transfer. Opener announces “transfer”. This is worth about three-fourths of a 
-trick on average compared to letting the responder be the declarer. That's huge!
+it. This is called a :dfn:`transfer`, also known as
+a Jacoby Transfer. Opener announces “transfer”. The opener will accept the transfer
+by bidding the next suit up.  
 
-Transferring has a subtler benefit, letting the responder get in his second bid
-at a lower level, thus expanding the bidding language.
+See :ref:`Transfers and Relays Expand Our Language <TransferLanguage>` for more
+explanation of the benefits of transfers and relays. Jacoby Transfers and
+Stayman are the first two conventional bids that you learn.  They are not some
+esoteric thing you can skip -- any partner will assume you know them. But for now,
+you don't have to reason why, yours is to but do or die.
 
 - 1N – 2♦ is a transfer to hearts.
   
@@ -345,6 +348,9 @@ If you ever find yourself arguing to yourself that your partner *probably* has
 some points because he transferred, you've fallen in love with your hand again, 
 and you know these affairs end badly.
 
+The opener has to accept the transfer precisely because his partner may have 
+absolutely nothing else.
+
 .. index:: Gerber, quantitative
 
 .. rubric::
@@ -362,8 +368,11 @@ After a transfer to 2M is accepted, responder bids:
 - 4♣ Gerber
 - 4N :term:`quantitative`.
 
-.. note::
-   After a transfer, any bid at the three-level or higher establishes a game force.
+So, avoid confusion by remembering that after a transfer, any bid at the
+three-level or higher except for the raise to 3M establishes a game force.
+If your partner transfers you to hearts and then bids 3♣, you can't pass just 
+because you have two hearts and five clubs.  Partner may be interested in 3N or 
+maybe even 6♣. If the latter does not look likely, you'll probably just bid 3N.
 
 After a super-accept, the responder decides on whether to pass or bid game
 or try for slam. He knows a great deal about opener's hand. Bidding another suit should 

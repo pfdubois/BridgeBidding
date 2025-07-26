@@ -15,9 +15,12 @@ Note Your Seat!
 
 You must always check your position and vulnerability. If you have not previously
 passed ("an unpassed hand"), there are slightly different rules than if you are.
-Some rules for passed hands are sometimes labeled "BPH" (By Passed Hand). vulnerability
+Some rules for passed hands are sometimes labeled "BPH" (By Passed Hand). Vulnerability
 factors in less than you think, but it is important in preemptive bidding and other
 competitive situations.
+
+Also note whether or not your partner is an unpassed hand, passed hand, or opened 
+or overcalled / doubled. 
 
 .. _classification:
 
@@ -26,23 +29,33 @@ competitive situations.
 Classifying Your Hand
 ---------------------
 
-The key is to know whether your hand is weak, competitive,
-invitational, game-going, or has slam-interest, and to constantly re-evaluate
+If you are the dealer or everyone before you has passed, you are considering 
+opening the bidding. We'll discuss the details of what you open and what 
+strength you need as we go, but the dividing line is around 12 HCP -- below that 
+you pass, above it you open.
+
+In all other situations, 
+the key is to know whether your hand is weak, competitive,
+invitational, game-going, or stronger, and to constantly re-evaluate
 it as the auction proceeds. You make an initial assessment of this and then 
 modify it as the auction gives you more information.
+
+If your partner opened, you are the :term:`responder`. 
 
 * Weak: under 6 points
 * Competitive: 6 to a bad 10 points. Also called "minimal".
 * Invitational: 10 to a bad 12 points. A raise of this size is called a "limit" raise.
-* Game-going: A good 12 or more points. Also called "game-forcing".
-* Slam interest: When we either have 33 points between us, or have found a suit fit 
-  and are not too far below that.
+* Game-forcing: A good 12 or more points. Also called "an opening hand".
+  An opening hand opposite an opening hand should be in game (3N or higher).
+* Strong: 15-19: we have to get to game but may also explore more to see if we 
+  have slam interest. When we either have 33 points between us, or have found a suit fit 
+  and are not too far below that, we probably belong in slam.
 
-Our goal is to bid to the best :term:`strain` and :term:`level` for our combined hands.
-To be at the two-level it would be nice if we had at least
-more points than they do. After all, we're contracting to make 8 out of 13
-tricks, which is 62% of the tricks. While being able to name the strain will help, having
-fewer than 50% of the points could be a problem.
+Our goal is to bid to the best :term:`strain` and :term:`level` for our
+combined hands. To be at the two-level it would be nice if we had at least more
+points than they do. After all, we're contracting to make 8 out of 13 tricks,
+which is 62% of the tricks. While being able to name the strain will help,
+having fewer than 50% of the points could be a problem.
 
 For a game at 3NT we need at least 25 points; for the four-level in a suit, 26 points.
 For a minor game 29 points. The six level usually needs 33 total points, and the 
@@ -54,6 +67,9 @@ Deciding what to do with 10 or 12 points is where a lot of the agony happens.
 It used to be that a minimum opening hand was 13 HCP. So if responder had 12, they
 wanted to be in game.  But with the opening requirements now down to 12, responder
 wants a decent 12 or 13.
+
+Competitive auctions we will cover later -- but the concepts and need to classify our
+hand are the same.
 
 Is This Forcing?
 ----------------

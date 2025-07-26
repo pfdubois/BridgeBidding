@@ -24,12 +24,12 @@ Bridge Bidding
    Alerting
    Opening
    Planning
+   NoTrump
+   TwoNT
    MinorOpenings
    Checkback
    MajorOpenings
    OpenerRebid
-   NoTrump
-   TwoNT
    TwoClubs
    Preempts
    Doubles
@@ -55,6 +55,7 @@ Bridge Bidding
    AdvancedNTDefenses
    AdvancedJS
    AdvancedRunouts
+   AdvancedTransfers
    InterestingGadgets
    Glossary
    Resources

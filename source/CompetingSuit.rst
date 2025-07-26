@@ -11,7 +11,8 @@ Overcalls
 ---------
 
 An overcall is a bid after the opponents have opened. This chapter discusses
-doing so when the opponents opened a suit. The range for an overcall is 8-17
+doing so when the opponents opened a suit and we make the lowest available bid
+in our own strain. The range for an overcall is 8-17
 points. An overcall is above all a request for your partner to lead your suit,
 so the first requirement is a suit you want led. On the bottom end, a one-level
 overcall can be much more relaxed than a two-level overcall.
@@ -22,14 +23,13 @@ enough for game opposite your strong holding. Your partner will think it is a
 :term:`takeout` double at first. This "power double" is discussed in
 :ref:`Takeout Doubles <takeout_double>`.
 
-Classify your hand as usual. For a more
-dangerous case such as a two-level overcall, especially vulnerable, you need a
-good hand and a good suit. For less dangerous cases, you need one or the other.
-In both cases, you should want the suit led if your partner becomes the opening
-leader.
+To make an overcall in a dangerous case such as a two-level overcall,
+especially vulnerable, you need a good hand and a good suit. For less dangerous
+cases, you need one or the other. In both cases, you should welcome the suit being led
+if your partner becomes the opening leader.
 
 One case that requires special caution is overcalling a minor at the two level.
-Your reward is not high and your risk is high, especially vulnerable.  It is
+Your reward is not high while your risk is high, especially vulnerable.  It is
 really best to have a good six-card suit, and 10+ HCP.
 
 You can overcall 1N with 15-18 HCP and a stopper (preferably more) in their suit.
@@ -40,7 +40,8 @@ With more points and the same kind of hand, you cannot bid 2N, because it is a
 conventional bid called :ref:`Unusual Two Notrump <unusual>`. You double first.
 
 You can overcall with a very strong four-card suit at the one level, and a maximum
-strength. Your partner may not like it but sometimes it is right.
+strength. Your partner may not like it but sometimes it is right. It should be a 
+good lead-directing bid.
 
 Mike Lawrence's “Complete Book of Overcalls” has a complete discussion.
 He emphasizes understanding the safety of various overcalls. For
@@ -83,13 +84,16 @@ Your partner needs to learn you can be trusted. Avoid these errors:
 * Overcalling with a suit you don't want led.
 * Not leading the overcaller's suit when you can.
 
+A very advanced approach to responding to an overcall is 
+:ref:`Transfer Advances <TransferAdvances>`.
+
 Weak Jump Overcalls
 ~~~~~~~~~~~~~~~~~~~
 
 .. index::
    pair: overcall; weak jump overcall
 
-A jump overcall such as (1♥) 2♠ is essentially like an opening weak two
+A jump overcall such as (1♥) 2♠ is essentially an opening weak two
 or three bid. A good suit is needed. As with a preempt, after you make this bid 
 you should almost never bid again. 
 
