@@ -26,6 +26,8 @@ is so-named because the auction has begun 1x - 1y - 1z. Since it is identical to
 TWNMF if "z" is no-trump, the two conventions are played together. In this approach, it is 
 still possible to have a fourth-suit auction such as 1♥ - 1♠ - 2♣ - 2♦!. 
 
+Finally we show an idea of Marc Smith like TWNMF for the case of the 2N rebid.
+
 .. index::
    pair:convention;Two-Way New Minor Forcing (TWNMF)
    pair:convention;Two-Way Checkback Stayman
@@ -142,3 +144,62 @@ and responder has an invitational or better hand. The name comes from writing th
 Essentially we extend the ideas of TWNMF to these additional auctions.
  
 Research XYZ with a partner after having plenty of TWNMF experience.
+
+.. _NMF2:
+
+.. index::
+   pair:convention;TWNMF over 2N rebid
+   pair:Marc Smith;TWNMF over 2N rebid
+   
+TWNMF over 2N
+-------------
+
+In the section on :ref:`New Minor Forcing <NMF>`, we saw that in auctions where 
+the opener rebids 2N to show an 18-19 balanced hand, 1m - 1M - 2N, that a bid of 3w!,
+the other minor, is an artificial bid asking if opener has three-card support of M.
+
+Here is a more complete scheme after 1x - 1M - 2N suggested to me by Marc Smith:
+
+* 3♣! is a mandatory relay to 3♦; see below for examples. This is a 
+  :ref:`Lebensohl-like <Lebensohl>` relay to show various weak hands. 
+* 3♦! is the Stayman-like NMF bid.
+* 3♥! is a slam try in x. It sets x as trump.
+* 3♠! is a slam try in M. It sets M as trump.
+
+The 3♣ puppet to 3♦ is used for a number of weak hand types:
+
+* After 1♣-1♠-2N - holding a hand like Jxxxx/xx/QJxxx/x intending to pass
+  partner's forced 3♦.
+
+* After 1♥-1♠-2NT - Jxxx/x/KJxxxx/xx same
+
+* After 1x-1♠-2NT - Q109xxx/x/Qxx/xxx intending to sign off in 3♠
+
+* After 1m-1♠-2N - Qxxxx/Kxxxx/xx/x intending to bid 3♥ to offer a choice of
+  3♥/3♠
+  
+* After 1♦-1♠-2N - Jxxx/x/xx/KJxxxx responder bids 3N over 3♦ showing weak with
+  long clubs - opener can pass or convert to 4♣
+
+
+The 3♦ is looking for major fits:
+
+* After 1♣-1♦-2N-3♦ holding something like Kxxx/Qxxx/Axxx/x perhaps - might also have
+  only one major.
+
+  If opener bids 3♥ and responder continues with 3♠, that says I wasn't
+  interested in your hearts but I have four spades.
+  This sequence probably has slam interest as 3NT would also suggest four
+  spades but no interest beyond game.
+
+* After 1m-1♥-2N-3♦ - responder may have any hand with five hearts, just looking
+  to find a 5-3 fit.
+  
+  Responder might also have 4-4 in majors. If opener shows 3♥, he can
+  continue with 3♠/3N as above.
+
+* 1m-1♠-2N-3♦ - responder could have any hand looking for a 5-3 spade fit,
+  or 5-4 in majors looking for 4-4 hearts or 5-3 spades.
+
+After the 1x-1M-2N-3♥/♠ slam tries, responder has set trumps and opener should 
+make control bids.

@@ -146,6 +146,7 @@ The uses of NMF are (where w stands for the unbid minor):
 - 1♣/♦/♥ – 1M – 2N - 3w!(NMF)
 
   Responder holding four+ spades and / or four hearts would like to check for a fit. 
+  For a more sophisticated scheme, see :ref:`this scheme from Marc Smith <NMF2>`.
 
 .. note::
    In the auction 1♥ - 1♠ - 1N, 2♣ clubs is NMF; or with partnership

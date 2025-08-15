@@ -9,7 +9,7 @@ Bridge Bidding
    |today|
    
    
-   Click :ref:`HERE for Copyright, PDF, and E-Book Version Downloads Information 
+   :ref:`Copyright, PDF, and E-Book Version Downloads Information 
    <Copyright>`  
    
 .. toctree::

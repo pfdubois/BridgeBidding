@@ -53,6 +53,7 @@ html_show_sphinx = True
 
 # If true, "(C) Copyright ..." is shown in the HTML footer. Default is True.
 html_show_copyright = True
+html_static_path = ['_static']
 #
 # PDF
 #
@@ -124,6 +125,7 @@ latex_show_urls = 'inline'
 epub_author = author
 epub_publisher = author
 epub_copyright = copyright
+epub_cover=('_static/cover.jpg','')
 epub_tocdepth = 2
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
