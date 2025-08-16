@@ -365,20 +365,23 @@ usually bids 4♣! pass or correct.
 
 There are more complicated agreements about follow-ups, but that's the basics.
 
+.. _Wolff:
+
 Wolff Signoff
 -------------
 
 .. index::
    pair:convention;Wolff Signoff
    
-After the auction starts 1m - 1M - 2N, opener is showing 18-19 points.  As we have
-seen, New Minor Forcing is available to optimists looking to get to the right game.
-Wolff is for pessimists, who are worried about signing off when they don't have the
-values for game.  This allows for more light 1M bids but it is incompatible with 
-NMF. 
+After the auction starts 1m - 1M - 2N, opener is showing 18-19 points.  As we
+have seen, :ref:`New Minor Forcing <NMF>` is available to optimists looking to
+get to the right game. Wolff is for pessimists, who are worried about signing
+off when they don't have the values for game.  It lets you make that 1M bid a little
+lighter.
 
-With Wolff, 3♣!(Wolff relay to 3♦) allows responder to place the contract. There are 
-some subtleties to it, which I leave for your own research if interested.
+With Wolff, 3♣!(Wolff relay to 3♦) allows responder to place the contract. 
+Full descriptions are available on bridge sites. However, 
+consider instead Marc Smith's version of it, which I call :ref:`TWNFM over 2N <NMF2>`.
 
 Response Swapping Over Black Overcalls
 --------------------------------------

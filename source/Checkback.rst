@@ -146,7 +146,10 @@ The uses of NMF are (where w stands for the unbid minor):
 - 1♣/♦/♥ – 1M – 2N - 3w!(NMF)
 
   Responder holding four+ spades and / or four hearts would like to check for a fit. 
-  For a more sophisticated scheme, see :ref:`this scheme from Marc Smith <NMF2>`.
+  Directly bidding 3♥ or 3♠ shows a fifth major card but a weak hand.
+  
+  For more sophisticated schemes, see :ref:`TWNMF over 2N <NMF2>` or the 
+  :ref:`Wolff Signoff <Wolff>`.
 
 .. note::
    In the auction 1♥ - 1♠ - 1N, 2♣ clubs is NMF; or with partnership
@@ -236,4 +239,4 @@ The two-way version of NMF, :ref:`Two-Way NMF <TWNMF>`, also known as "Two-Way
 Checkback Stayman" is, as Marty Bergen titled his lesson on the subject,
 "Infinitely Better and Easier" than NMF. Few non-experts play it however. This
 is just one of those historical oddities where everyone got taught the wrong
-thing solely because it has one lesss conventional bid in it.
+thing solely because it has one less conventional bid in it.

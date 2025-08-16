@@ -26,7 +26,8 @@ is so-named because the auction has begun 1x - 1y - 1z. Since it is identical to
 TWNMF if "z" is no-trump, the two conventions are played together. In this approach, it is 
 still possible to have a fourth-suit auction such as 1♥ - 1♠ - 2♣ - 2♦!. 
 
-Finally we show an idea of Marc Smith like TWNMF for the case of the 2N rebid.
+In another chapter we show an idea of Marc Smith like TWNMF for the case of the 2N rebid.
+See :ref:`TWNMF over 2N <NMF2>`.
 
 .. index::
    pair:convention;Two-Way New Minor Forcing (TWNMF)
@@ -150,6 +151,7 @@ Research XYZ with a partner after having plenty of TWNMF experience.
 .. index::
    pair:convention;TWNMF over 2N rebid
    pair:Marc Smith;TWNMF over 2N rebid
+   pair:convention;Wolff Signoff
    
 TWNMF over 2N
 -------------
@@ -158,7 +160,11 @@ In the section on :ref:`New Minor Forcing <NMF>`, we saw that in auctions where
 the opener rebids 2N to show an 18-19 balanced hand, 1m - 1M - 2N, that a bid of 3w!,
 the other minor, is an artificial bid asking if opener has three-card support of M.
 
-Here is a more complete scheme after 1x - 1M - 2N suggested to me by Marc Smith:
+A convention responding 3♣ as a relay to 3♦ to signoff weak hands is the Wolff Signoff.
+Details are widely available on bridge sites. 
+
+A different version with the same signature bid has been suggested by Marc Smith.
+You could call it a variant of the Wolff Signoff or TWNMF over 2N:
 
 * 3♣! is a mandatory relay to 3♦; see below for examples. This is a 
   :ref:`Lebensohl-like <Lebensohl>` relay to show various weak hands. 
