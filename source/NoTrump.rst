@@ -351,6 +351,9 @@ and you know these affairs end badly.
 The opener has to accept the transfer precisely because his partner may have 
 absolutely nothing else.
 
+For an advanced choice for a "superaccept", see 
+:ref:`Advanced Superaccepts <AdvancedSuperaccepts>`.
+
 .. index:: Gerber, quantitative
 
 .. rubric::
@@ -419,8 +422,8 @@ usefully takeout at the two-level.
 One thing to know right now is that you cannot transfer on the three-level, as in 
 1N (2♠) 3♦ -- not a transfer to hearts.  This is a common beginner error.
 
-Doubles of artificial bids such as Stayman and transfer bids are always asking for
-that suit to be led. This is called a :term:`lead-directing` bid. 
+Doubles of artificial bids such as Stayman and transfer bids are almost always
+asking for that suit to be led. This is called a :term:`lead-directing` bid. 
 
 If opener's RHO doubles or overcalls Stayman or a transfer bid,
 responder will take the lead in punishing them since only responder knows how many
@@ -812,7 +815,7 @@ When 1N is doubled:
 * Doubling a 2♣ overcall is Stayman. 
 * If they make a penalty double, whatever agreements are in place for a 
   :ref:`Runout <runout>` apply.
-* If they make an artificial double, systems are on, redouble being Stayman.
+* If they make an artificial double, systems are on.
 * A cue-bid of diamonds, hearts, or spades is Stayman.
 * A double of diamonds, hearts, or spades is penalty -- but this is one of those areas
   where many players treat it as takeout at the two-level.
@@ -846,10 +849,12 @@ responder's suit. A decided minority of intermediates know the correct bids here
 Let T be the suit of the transfer bid, and let M be the target suit of the transfer.
 For example, in 1N - 2♦(transfer), T is diamonds, M is hearts.
 
-After 1N - 2T (X):
+After 1N (P) 2T (X), the opponents are presumably bidding T:
 
 - Pass: Opener has 2 cards in M. M is not agreed trump. 
   Subsequently, if the next player passes, a XX by responder transfers again to M. 
+  A bid of the transfer suit, such as 1N (P) 2♥ (X); P (P) 3♥ is 
+  :ref:`Western Cue <Western_Cue>` asking opener to bid 3N with a stopper.
 - 2M: Agrees M as trump, shows 3+ cards in M. 
 - 3M: Agrees M as trump, shows 4+ cards in M, and a maximum opener. 
 - XX: Opener has the transfer suit, willing to play in 2T redoubled. Opener 

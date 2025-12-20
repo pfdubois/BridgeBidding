@@ -10,7 +10,7 @@ Advanced One Notrump Structure
    
 What follows is a description of a complete system for the 1N suite of bids.
 Bids we keep from the standard methods include Jacoby Transfers, Texas 
-Transfers, Stayman, and Garbage Stayman. You can add Smolen if you do not play that 
+Transfers, Stayman, and Garbage Stayman. Add Smolen if you do not play that 
 already.
 
 To this we add 1N - 3♣!(Five-card Stayman), new meanings for 1N - 3♦ / 3♥ / 3♠,
@@ -18,17 +18,19 @@ and an expert version of Four-Way Transfers. Note that the Four-Way Transfers
 presented here preserve the property that 2♣ Stayman guarantees a four-card
 major. 
 
-Recall this terminology is:
+Recall this terminology:
 
 * A bid is called a :term:`puppet` if it is a bid of a major suit that actually shows the 
   other major suit. The motivation is to get the other hand to declare.
  
 * A :term:`transfer` bid asks partner to bid a suit that you definitely hold, while a 
-  :term:`relay` bid asks partner to bid a suit that you may or may not hold, with 
-  you planning to bid again.
+  :term:`relay` bid asks partner to bid a suit that you may or may not hold. Transfers
+  can be "completed" by bidding the requested suit, or "broken" by doing something else.
+  Relays are usually completed, while different kinds of transfers may or may not
+  be broken.
   
 The following topics are in the recommended order for adding them to your agreements.
-Five-card Stayman should be learned early as it helps us open 1N with a five-card
+Five-card Stayman should be learned first as it helps us open 1N with a five-card
 major without missing a 5-3 major fit.
 
 .. _fivecardstayman:
@@ -41,32 +43,55 @@ major without missing a 5-3 major fit.
     pair:1N;Five-Card Stayman
     pair:1N;Puppet Stayman
     
-The bid 1N - 3♣!(has a three-card major) is a game forcing bid that promises a major suit 
-that is *exactly* three-cards long. You can have 0 to 4 
-cards in the other major as well.  (You would transfer with five or more.)
-
+The bid 1N - 3♣!(five-card major?) is a game forcing bid.
 Opener replies 3♥ or 3♠ if he has a five-card major.
 Otherwise he bids 3♦!(no five-card major). Then responder continues:
 
 * 3N with no four-card major; or,
-* Bids the three-card major, showing four in the other major M (a puppet).
+* Puppets his major (bids the short major).
 
 Opener now places the contract in 3N, 4M, or makes a control bid in support of M.
 
-You should adopt this convention if nothing else in this chapter. This
-convention ensures lets you open 1N with a five-card major with no fear of
-missing a major fit.  Since 1N has a narrow range, bidding over a 1N opener is
-much more precise than opening 1M with its huge 12-21 range.
+Use regular Stayman if you are 4-4 in the majors, are 4-5 in the majors, 
+or don't have a game-forcing hand: 
+
+* When 4-4, we need the room provided by regular Stayman to sort out the possibility 
+  of a fit in one of the two majors. 
+* When 4-5 we have Smolen to find the 3-5 fit. 
+
+.. note::
+   I find it easiest to agree that 3♣︎ promises an exactly three-card major. 
+
+That requirement helps me remember that I do not use it
+when 4-4, 4-1, or 4-5. It is logical, too, that I'm doing it because I seek a five-card
+major, hence the name Five-Card Stayman. 
+
+The 1N - 3M! splinter 
+bids (below) should be used with this bid, so that 
+in the system taken a whole one only bids 1N - 3♣︎! when 3-2, 3-3, or 3-4 in the 
+majors. 
+
+One benefit of using 3♣︎ is that in the sequence
+1N - 3♣︎! - 3♦︎!(no 5M) - 3N, the defense does not know if the opener has a four-card major 
+or not, only that the responder did not have one. Compare to 1N - 2♣︎ - 2♦︎ - 3N. 
+So while you can get this minor benefit using 3♣︎ when 4-2, it makes it harder to 
+remember the rules, while knowing responder has a three-card major often helps opener 
+decide that notrump is comfortable when a fit is not found.
+
+This convention ensures opener can open 1N with a five-card major with no fear of
+missing a major suit game.  Since 1N has a narrow range, bidding over a 1N opener is
+much more precise than opening 1M with its huge 12-21 range. 
 
 Hands that are predominantly both minor suits should prefer to use
-one of the three-level bids described in the next session if they have the right shape.
+one of the three-level bids described in the next section if they have the right shape.
 
 A weak or invitational hand with six clubs is handled in 
 :ref:`Four-Way Transfers <fourway>`.
 
 Some refer to this bid as Puppet Stayman, but strictly speaking that is a different
 convention over a 2N opener. Puppet Stayman came first and has the "puppet" manuever 
-in common with this convention, hence the naming problem.
+in common with this convention, hence the naming problem. But our 3♦︎ reply here does 
+not show or deny a four-card major.
 
 .. index::
    pair: convention; Four-suit Transfers
@@ -86,7 +111,7 @@ structure for the remaining bids at the three-level. These are all game forcing.
 
 After 1N, with a game forcing hand, 
 
-* 3♣ is Five-Card Stayman (promises a 3-card major)
+* 3♣ is Five-Card Stayman
 * 3♦ is a five-five or better hand in the minors.
 * 3♥ is a "splinter" showing exactly 3 spades and 1 heart, with (54) in the minors.
   Alert this as "3=1=(54)"
@@ -133,17 +158,17 @@ we use two bids for those hands:
 * 2N transfers to 3♦ 
 
 Now agree that opener, instead of completing the transfer 
-regardless, only completes it with a hand that would accept an invite to 3N; either a
-16-17 point hand or holding Qx or better in the target minor. He bids the suit 
+regardless, only completes it with a hand that would accept an invite to 3N; perhaps a
+16-17 point hand or holding Qxx or better in the target minor. He bids the suit 
 "in between" to show neither:
 
 * 1N - 2♠!(♣s) - 2N!(min hand)
-* 1N - 2♠!(♣s) - 3♣!(max hand or ♣Qx or better)
+* 1N - 2♠!(♣s) - 3♣!(max hand)
 
 and:
 
 * 1N - 2N!(♦s) - 3♣!(min hand)
-* 1N - 2N!(♦s) - 3♦!(max hand or ♦Qx)
+* 1N - 2N!(♦s) - 3♦!(max hand)
 
 We realize we have no way to just make an invitational bid in notrump, 
 because 1N - 2N doesn't mean that any more. No problem! We change the alerts!
@@ -154,7 +179,7 @@ because 1N - 2N doesn't mean that any more. No problem! We change the alerts!
 Now we bid 1N - 2♠!(range ask or ♣s) with any hand that we would have before plus 
 any hand that would be a traditional 2N invitation lacking a four-card major. 
 
-The opener views the 2♠ bid as asking, "Would you accept a 2N invite?" and bids 2N
+The opener views the 2♠ bid as asking, "Would you accept a 3N invite?" and bids 2N
 if the answer is no, and 3♣ if the answer is yes. After he says no, responder can pass
 or bid 3♣.  After he says yes, responder can pass or bid on. 
 
@@ -198,7 +223,7 @@ and for diamonds:
   - 3♦ to play.
   - Pass to play 3♣ when 5-5 in minors.
   
-* 1N - 2N!(♦s) - 3♦!(max hand or ♦Qx)
+* 1N - 2N!(♦s) - 3♦!(max hand)
   - Pass to play 3♦
   - 3N to play, no stiff or void in a major
   - 3M! splinter concern for 3N

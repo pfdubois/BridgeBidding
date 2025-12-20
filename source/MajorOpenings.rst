@@ -31,7 +31,7 @@ A set of responses called the "standard" responses applies in two cases:
 #. If responder is a passed hand, or
 #. If there was competition (they doubled or overcalled).
 
-These are also the rules for the older "Standard American (SAYC) system.
+These are also the rules for the older Standard American (SAYC) system.
 The rules are pretty much what they were for minor openings.
 
 If responder is a passed hand, the opener may have opened light and 
@@ -48,15 +48,21 @@ Here are the responses if we are a passed hand and there was no interference.
 .. rubric::
    Weak Hands
 
-If you have fewer than 6 HCP you can pass, but if you have four of partner's suit with 
-5 points or an Ace, it is probably worth giving partner a simple raise. Do not try to
-rescue partner if you have a stiff or void in his suit.  If you do, he likely will just
-bid it again.  Worst case, you're only at the one level and your partner has
-five trump.
+If you have fewer than 6 HCP you can pass. But if:
+
+* You have an Ace, three trump, and some shape
+* You have four trump and five points
+
+you can make a simple raise. The reason is that if the opponents have half the points,
+they are going to get into the auction. Make it hard for them.
+
+Do not try to rescue partner if you have a stiff or void in his suit.  If you
+do, he likely will just bid it again.  Worst case, you're only at the one level
+and your partner has five trump. 
 
 If you happen to have five or more of your partner's major and shortness, bid
 4M. This is, contrary to appearances, a weak bid.  We may have only half the
-deck but in our trump suit we have at |10ormore|.  If we don't make our
+deck but we have |10ormore| trump.  If we don't make our
 contract, at least we kept them from finding their fit. Such a bid is called a
 :term:`preemptive` raise. 
 
@@ -510,7 +516,7 @@ To raise an opening 1M after an overcall,
   spades.
 - Cue-bid the overcalled suit to make a limit raise or better.
 - A jump cue-bid is a splinter in support of opener's suit.
-- A jump raise (e.g. 1M - 2♣ - 3M) is preemptive.
+- A jump raise (e.g. 1M - 2♣ - 3M) is preemptive. Usually you have four trump.
 - A jump to 4M shows a weak hand and |5ormore| trump.
 
 Without support, notrump bids deny support and are natural; they show a stopper in the 
@@ -519,10 +525,6 @@ overcalled suit:
 - 2N is invitational with a balanced hand, and shows a stopper in 
   their suit.  
 - 3N bids game, again with stoppers.
-
-Thus,  shows a
-weak hand with at least four trump. Having nine trump between the
-hands should be relatively safe at the three level. 
 
 In this case, 1♠ (2♣) 3♣ is the limit raise. This lets opener sign
 off at 3♠ if he does not want to accept the invitation.
@@ -548,8 +550,7 @@ Examples:
   If you have a suitable hand you might be able to make a negative double and come back 
   to 3♥ to compete. A plain 3♥ is invitational. Lacking the strength to bid 3♥, all you 
   can do is pass.
-
-   
+  
 .. index::
    pair:convention;Jacoby 2NT
    pair:convention;Truscott 2NT
@@ -593,7 +594,7 @@ showing both minors, so it risks partner doing something else like 3N or 4m.
 
 By partnership agreement, you can make 2N a limit raise in this case. I call this 
 :ref:`Jordan All The Time <JATT>` (strictly my own name for it, as I've never seen
-another).
+another). Some experts even play 2N as a four-card raise over any interference.
 
 
 Discussion
@@ -610,11 +611,11 @@ You have a dilemma. Your hand revalues to about 16 points -- one for the doublet
 and one for the extra club. You cannot bid:
 
 * 1♠ -- you'd be lying, because you do not have four spades
-* 1N --  forcing, but conceals your extra values.
+* 1N --  forcing, but lies about your values.
 * 2♥ or 3♥ -- too small, not forcing so partner might pass
 * 4♥ -- too big, this is a shutout showing a weak hand and five trumps.
 
-The just-right Goldilocks response is 2♣; your next bid will be 4♥. Note that
+The just-right Goldilocks response is 2♣; your next bid will be hearts. Note that
 you could bid 1N(forcing) with a minimal hand with three hearts, bidding 4♥
 next. However, with the extras in this hand, 2♣ is right.
 

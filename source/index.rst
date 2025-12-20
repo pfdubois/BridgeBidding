@@ -46,6 +46,7 @@ Bridge Bidding
    Lebensohl
    TwoDiamonds
    AdvancedMajor
+   AdvancedMajorStructure
    AdvancedNotrump
    Advanced2N
    Advanced2Clubs

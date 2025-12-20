@@ -102,6 +102,8 @@ only when 1N is already forcing, such as in 2/1 by unpassed hands. Or, you have
 to play 1N as "semi-forcing", announce it, and have your opponents laugh and ask, 
 "What does that mean?". (Larry Cohen says it means, "Forcing"!)
 
+If you want to explore this further, see :ref:`Advanced Major Structures <AMS>`.
+
 .. index::
    pair:raise; fit-showing jump
    pair:convention;fit-showing jump
@@ -274,7 +276,7 @@ Jordan All The Time
    
    
 Recall that Jordan 2N is a |4ormore|-card limit+ raise of partner's major over RHO's
-takeout double. Since knowing that a raise shows four cards rather than three
+takeout double. Knowing that a raise shows four cards rather than three
 helps find game, it is very effective.  With only three-card support, we
 redouble and show the support later.  
 
@@ -290,11 +292,18 @@ Jordan.  That's why I call it Jordan All The Time, although that's just my name.
 with any convention, we give up something, in this case the natural invitation with a 
 stopper in RHO's suit.  
 
+Examples::
+
+   1♥︎ (2♦︎) 3♦︎ (three-card limit+ raise)
+   1♥︎ (2♦︎) 2N!(four-card limit+ raise)
+   1♥︎ (1♠︎) 2N!(four-card limit+ raise)
+   1♥︎ (2♠︎) 2N!(four-card limit+ raise)
+
 Assigning A Meaning To 1M - 3N
 ------------------------------
 
 You might have noticed that the bid 1M - 3N does not exist. It would just be wasteful.
-You have 2/1 bids to force to game more slowly.  There are two conventional meanings
+You have 2/1 bids to force to game more slowly.  There are several conventional meanings
 for this bid:
 
 #. 1M - 3N shows exactly 3 card support, and a balanced hand, with minimal game-forcing 
@@ -304,3 +313,6 @@ for this bid:
    
 #. 1M - 3N shows four card support with a void somewhere. It is a kind of a mysterious
    super-splinter.  
+   
+#. 1M - 3N is part of a "two-tiered splinter" scheme, showing hands where the responder
+   has a game-forcing hand but it is only so because of the splinter.

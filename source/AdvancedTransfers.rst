@@ -18,6 +18,13 @@ to gain on the opening lead.  While that is all true, it isn't the key reason
 for transfers. The key reason is that it expands our bidding language allowing us to
 distinguish more hand types.
 
+See the chapter on :ref:`Lebensohl <Lebensohl>` for an example of expanding
+hand types using a :term:`relay`.
+
+.. note::
+   A transfer or relay lets you make a forcing bid with a non-forcing hand.
+
+
 Suppose you are not playing Jacoby Transfers. After partner opens 1N, suppose you 
 have a weak hand with five hearts. You want to bid 2♥ but have it be to play. 
 With a stronger hand, you don't know if we belong in hearts, 2N, 3N, or maybe 
@@ -29,14 +36,30 @@ Now you can bid 2N, for example, with partner already knowing you have five or m
 hearts.  You can bid 3♣ as a game force.  You can bid 3♥ to invite with six hearts.
 You can bid 3N and get possibly corrected to 4♥.
 
-See the chapter on :ref:`Lebensohl <Lebensohl>` for a similar example of expanding
-hand types using a :term:`relay`.
 
-An additional power that can be available is that accepting the transfer or not 
-adds additional power to describe that hand too.
+For some transfer-based conventions, accepting the transfer or not is a choice.
+In others you must accept it. When the choice is available, it allows the opener to 
+describe his hand more.
 
 The remainder of this chapter shows some advanced uses of the transfer idea.
 
+.. _AdvancedSuperaccepts:
+
+.. index::
+   pair:Jacoby Transfer;superaccept
+   pair:superaccept;advanced 
+   
+Advanced Superaccepts
+---------------------
+
+In standard bidding, we "superaccept" partner's Jacoby Transfer with a maximum 1N hand
+with four of partner's major M by bidding 3M rather than 2M. 
+
+A more refined scheme is this:
+
+* 3M shows a maximum hand with four trump but no doubleton (i.e., hand is 4333).
+* 3x shows a maximum hand with four trump and a doubleton in x.
+  
 .. _TransferAdvances:
 
 .. index::
@@ -125,31 +148,26 @@ three-card from |4ormore|- card raises, show our own weak suit, etc.
 There is a real cost: a 1N response is not available as a final contract, so we 
 need to have a plan for that case.
 
-After 1M (X), 
+After 1M (X), some bids remain the same:
 
 * 1♠ is |5ormore| spades, forcing. Especially if two-suited, make this bid rather
   than a transfer to the other one.
-* 1N! up to (M-1)! are transfers to the next higher suit. 
-
-  - Transferring to M is a three-card raise.
-  - Transferring to another suit shows either:
-    
-    - A |5ormore|-card suit, with three-card support. You bid 2M next; or,
-    - A weak hand with a |6ormore|-card suit. You pass next.
-    
-* 2M is a minimal three-card raise
+* 2M is a minimal three-card raise (but definitely minimal, unlike the standard bid)
 * 3M is a minimal |4ormore|- card raise
 * 2N is Jordan, a |4ormore|- card raise, limit+.
-* Optionally 1♠ (X) 3♥! and 1♥ (X) 3♦! are mixed four-card raises.
 * XX is as usual (10+ HCP). 
-* Would have bid 1N in standard? Pass, bid later if possible.
-* Pass if none of these apply.
 
-To summarize, the direct raise is minimal, 3 cars; the jump raise is preemptive;
-the transfer-raise is lead-directing and your next bid shows your values.
-If you don't want to try to remember the mixed raise bids, just use 3M.
+The bids from 1N! up to (M-1)! are transfers to the next higher suit. 
 
-After the transfer, Opener should assume that partner is transferring to his own 
+Transferring to M is a good three-card raise, more than a raise to 2M but enough for
+redouble or Jordan.
+
+Transferring to another suit shows either:
+    
+* A |5ormore|-card suit, with three-card support. You bid 2M next; or,
+* A weak hand with a |6ormore|-card suit. You pass next.
+ 
+After a transfer, Opener should assume that partner is transferring to his own 
 suit and bid exactly as we would if partner bid his own suit non forcing:
 
 * Opener normally accepts the transfer with most hands.
@@ -163,4 +181,16 @@ suit and bid exactly as we would if partner bid his own suit non forcing:
 
 Note that accepting the transfer is not a raise, it just shows none of the other
 hand types.
+   
+Optionally 1♠ (X) 3♥! and 1♥ (X) 3♦! are mixed four-card raises.
+
+The use of 1N as a transfer leaves us with no bid with a hand that would have bid 
+1N in standard? In this case, pass, and bid later if possible.
+
+If none of the bids above apply, pass.
+
+To summarize, the direct raise is minimal, 3 cards; the jump raise is preemptive;
+the transfer-raise is lead-directing and your next bid shows your values.
+If you don't want to try to remember the three-level mixed raise bids, just use 3M.
+
 
