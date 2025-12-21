@@ -259,10 +259,9 @@ With the Serious 3NT convention, 3NT is a serious slam try, while the control-sh
 bid is mild interest in slam, and just bidding game shows no slam interest. 
 But it isn't a simple agreement, because when is 3N just to play?
 
-See Larry Cohen's discussion at 
-`Serious 3N <https://www.larryco.com/bridge-articles/serious-3nt>` for his
-thoughts on this expert-level convention. Of course, bridge players being bridge 
-players, there is also Non-Serious 3N.
+See Larry Cohen's discussion at www.larryco.com for his thoughts on this
+expert-level convention. Of course, bridge players being bridge players, there
+is also Non-Serious 3N.
 
 Jordan All The Time
 -------------------
@@ -291,13 +290,6 @@ So by partnership agreement we change the meaning of a 2N bid here to be the sam
 Jordan.  That's why I call it Jordan All The Time, although that's just my name. As 
 with any convention, we give up something, in this case the natural invitation with a 
 stopper in RHO's suit.  
-
-Examples::
-
-   1♥︎ (2♦︎) 3♦︎ (three-card limit+ raise)
-   1♥︎ (2♦︎) 2N!(four-card limit+ raise)
-   1♥︎ (1♠︎) 2N!(four-card limit+ raise)
-   1♥︎ (2♠︎) 2N!(four-card limit+ raise)
 
 Assigning A Meaning To 1M - 3N
 ------------------------------

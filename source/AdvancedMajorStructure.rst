@@ -23,7 +23,7 @@ assuming no interference from opener's LHO:
 * 2N! is a game-forcing raise with four trumps.
 * 3m! is an invitational raise with |6ormore| cards in the minor.
 
-In the case of responding by a passed hand, the 2N bid is off the table and 2♣︎!(Drury) 
+In the case of responding by a passed hand, the 2N bid is off the table and 2♣ (Drury) 
 becomes the limit raise, with 3M becoming a preemptive four-card raise.
 
 There are a couple of weaknesses in this approach. Most importantly, the range of the 
@@ -63,7 +63,7 @@ The approach features distinguishing 3- vs. 4-card raises, and a non-forcing 1N:
 * 2N! is a game-forcing raise with four trumps.
 * 1N followed by 3M is a limit raise with three or more trumps.
 * 3♦! is a limit-raise with |4ormore| trumps.
-* 3♣︎! is an invitational raise with |6ormore| clubs.
+* 3♣! is an invitational raise with |6ormore| clubs.
 
 .. rubric::
    1N not forcing
@@ -71,7 +71,7 @@ The approach features distinguishing 3- vs. 4-card raises, and a non-forcing 1N:
 We make 1N not forcing, also called semi-forcing. This means 1N can be passed
 with a minimal opening balanced or semi-balanced hand. This approach lets you open 1M
 with as few as 11 HCP. It also solves the Flannery hand -- you just 
-open 1 ♥︎ and pass a 1N response. We reply 1N if we have support but not enough 
+open 1 ♥ and pass a 1N response. We reply 1N if we have support but not enough 
 for the constructive 2M. Yes, sometimes you miss a 5-3 fit below game, but sometimes
 that's a better score anyway. Or not.
 
@@ -107,11 +107,11 @@ If opener rebids 2M over our 1N, showing six trump, responder should jump to gam
 Bidding 3M would only promise two trump. If opener jump-shifts, jumping to game 
 shows a three-card limit raise; slow shows.
 
-For four-card limit raises, we use the artificial 3♦︎ Bergen raise. However, we 
-keep 3♣︎ with its standard meaning of a six-card invitational bid. The advantage
+For four-card limit raises, we use the artificial 3♦ Bergen raise. However, we 
+keep 3♣ with its standard meaning of a six-card invitational bid. The advantage
 of this approach is not just retaining the original meaning.  The opponents are unable
-to double the 3♣︎ Bergen mixed-raise bid and so have to commit to the four-level to bid 
-over 3M.  Any opener bid over 3♣︎ is forcing. We don't try to improve the part-score.
+to double the 3♣ Bergen mixed-raise bid and so have to commit to the four-level to bid 
+over 3M.  Any opener bid over 3♣ is forcing. We don't try to improve the part-score.
 
 To distinguish 3- vs. 4- card limit raises in competition, see 
 :ref:`Jordan All The Time <JATT>`.

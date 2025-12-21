@@ -60,7 +60,7 @@ or don't have a game-forcing hand:
 * When 4-5 we have Smolen to find the 3-5 fit. 
 
 .. note::
-   I find it easiest to agree that 3♣︎ promises an exactly three-card major. 
+   I find it easiest to agree that 3♣ promises an exactly three-card major. 
 
 That requirement helps me remember that I do not use it
 when 4-4, 4-1, or 4-5. It is logical, too, that I'm doing it because I seek a five-card
@@ -68,13 +68,13 @@ major, hence the name Five-Card Stayman.
 
 The 1N - 3M! splinter 
 bids (below) should be used with this bid, so that 
-in the system taken a whole one only bids 1N - 3♣︎! when 3-2, 3-3, or 3-4 in the 
+in the system taken a whole one only bids 1N - 3♣! when 3-2, 3-3, or 3-4 in the 
 majors. 
 
-One benefit of using 3♣︎ is that in the sequence
-1N - 3♣︎! - 3♦︎!(no 5M) - 3N, the defense does not know if the opener has a four-card major 
-or not, only that the responder did not have one. Compare to 1N - 2♣︎ - 2♦︎ - 3N. 
-So while you can get this minor benefit using 3♣︎ when 4-2, it makes it harder to 
+One benefit of using 3♣ is that in the sequence
+1N - 3♣! - 3♦!(no 5M) - 3N, the defense does not know if the opener has a four-card major 
+or not, only that the responder did not have one. Compare to 1N - 2♣ - 2♦ - 3N. 
+So while you can get this minor benefit using 3♣ when 4-2, it makes it harder to 
 remember the rules, while knowing responder has a three-card major often helps opener 
 decide that notrump is comfortable when a fit is not found.
 
@@ -90,7 +90,7 @@ A weak or invitational hand with six clubs is handled in
 
 Some refer to this bid as Puppet Stayman, but strictly speaking that is a different
 convention over a 2N opener. Puppet Stayman came first and has the "puppet" manuever 
-in common with this convention, hence the naming problem. But our 3♦︎ reply here does 
+in common with this convention, hence the naming problem. But our 3♦ reply here does 
 not show or deny a four-card major.
 
 .. index::
