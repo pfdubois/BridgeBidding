@@ -66,7 +66,8 @@ latex_show_pagerefs = True
 
 # This used to be needed to get the suit symbols black and white. Now (2026) it 
 # just works with xelatex. You do get two harmless error messages about U+FE0E
-# at the end of the make.
+# at the end of the make. 
+
 # te.tex_replacements += [
 #     ['♥', r'\ensuremath{\heartsuit}'],
 #     ['♣', r'\ensuremath{\clubsuit}'],

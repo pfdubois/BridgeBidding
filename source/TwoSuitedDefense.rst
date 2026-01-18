@@ -83,9 +83,7 @@ Pass if you cannot make one of these bids.
 Opener's rebids are generally natural. A cue bid of one of their suits shows a 
 stopper in that suit and denies one in the other suit.
 
-.. rubric:: Example
 
-They open 1♦︎.
 
 Only One Suit Is Known
 ----------------------
@@ -139,13 +137,12 @@ In an auction like::
 we now know both suits. Bidding 3♠ is Western Cue showing a stopper in spades but 
 denying one in diamonds. Double is for penalty.
    
-Summary for Defending Unusual 2N
---------------------------------
+.. rubric:: Example: Unusual 2N Defense
 
 .. index::
    pair: two-suited bids; defense to
    pair: convention; Unusual vs. Unusual
-   pair: convention; lower-lower
+   pair: convention; lower-lower defense
 
 The implicit cue-bid of the suit corresponding to partner's suit is limit raise or better; 
 of the "4th suit", game forcing. Actually bidding partner's suit is just competitive, and
@@ -168,3 +165,23 @@ lowest of theirs, diamonds, corresponds to the lowest of ours, clubs.
 - 3♠ is a preemptive bid
 - 3♦ is a limit raise or better of clubs
 - 3♥ is a GF bid of spades
+
+.. rubric:: Example: Michael's Cue Bid Defense
+
+.. index::
+   pair: two-suited bids; defense to
+   pair: convention; Michael's Cue Bid
+   pair: convention; lower-lower defense
+
+Partner opens 1♦︎, and your RHO overcalls 2♦︎, showing both majors. That makes the majors
+"their" suits and the minors "our" suits. Then your bids mean:
+
+* Pass means none of the following describe your hand
+* Double means you have a penalty double of one or both of their suits.
+* 3♦︎ is a competitive raise of diamonds (less than a limit raise)
+* 3♣︎, the other of "our" suits, is a preemptive bid of clubs.
+* 2♥︎, the lower of "their" suits, is a game forcing bid with clubs, the lower of 
+  "our" suits.
+* 2♠︎, the higher of "their" suits, is a limit raise or better in diamonds.
+* 3♥︎ is a jump-cue bid slam try, showing heart shortness.
+* 3♠︎ is a jump-cue bid slam try, showing spade shortness. 

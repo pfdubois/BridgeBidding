@@ -7,18 +7,27 @@ make clean all
 populates the directory docs with the html site, and the epub and pdf files, along with
 zip files for the html and text outputs.
 
-The Tex Live distribution for the Mac, MacTeX is installed, along with the latest Python and 
-Sphinx packages.
+The Tex Live distribution for the Mac, MacTeX is installed, along with
+the latest Python and Sphinx packages.
 
 To update Python: pip install --update Python
 To update Sphinx: pip install --update Sphinx
 To update MacTex see their site.
 
-GitHub / Github pages used to do version control and publishing from the BridgeBidding 
+Warning errors:
+
+The make latexpdf command gets two harmless error messages about the Unicode VS15
+symbol (U+FE0E). This is a symbol that gets appended on to the suit symbols to make 
+them black and white for sure. 
+
+The make epub command gets a harmless warning error about the file .nojekyll.  
+That is an empty file in the subdirectory docs that is used to publish the html onto the 
+git site. It is needed to get the themes right.
+
+GitHub / Github pages is used to do version control and publishing from the BridgeBidding 
 repository, see github.com.
 
 git push from the computer publishes to pfdubois.github.io/BridgeBidding.  
-The file .docs/.nojekyll is needed to get the themes right.
 
 The workflow is:
    Edit files (I use BBEdit)
@@ -29,7 +38,7 @@ The workflow is:
    I do that first to be sure I see error messages in the html build. 
    Then:
       make all
-      This cleans then populates the docs subdirectory. That directory becomes the
+      This cleans, then populates, the docs subdirectory. That directory becomes the
       website after you do the git push below.)
       
       Commit changes to the local git:
