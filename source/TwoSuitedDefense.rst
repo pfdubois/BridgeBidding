@@ -83,6 +83,10 @@ Pass if you cannot make one of these bids.
 Opener's rebids are generally natural. A cue bid of one of their suits shows a 
 stopper in that suit and denies one in the other suit.
 
+.. rubric:: Example
+
+They open 1♦︎.
+
 Only One Suit Is Known
 ----------------------
 

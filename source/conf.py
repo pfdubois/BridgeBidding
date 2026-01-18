@@ -57,26 +57,29 @@ html_static_path = ['_static']
 #
 # PDF
 #
+latex_engine = 'xelatex'
 papersize ='letter'
 latex_documents = [
     (master_doc, sproject+'.tex', booktitle, author, 'manual', False),
 ]
 latex_show_pagerefs = True
 
-te.tex_replacements += [
-    ['♥', r'\ensuremath{\heartsuit}'],
-    ['♣', r'\ensuremath{\clubsuit}'],
-    ['♦', r'\ensuremath{\diamondsuit}'],
-    ['♠', r'\ensuremath{\spadesuit}']
-    ]
-te.init()
+# This used to be needed to get the suit symbols black and white. Now (2026) it 
+# just works with xelatex. You do get two harmless error messages about U+FE0E
+# at the end of the make.
+# te.tex_replacements += [
+#     ['♥', r'\ensuremath{\heartsuit}'],
+#     ['♣', r'\ensuremath{\clubsuit}'],
+#     ['♦', r'\ensuremath{\diamondsuit}'],
+#     ['♠', r'\ensuremath{\spadesuit}']
+#     ]
+# te.init()
 
-# Can also change this to use a4paper or letter, and make it two columns if
-# desired by adding \twocolumn to the preamble
-# Could make selectable via env variables ?
+# Can also change this to use a4paper or letter, and make it one column if
+# desired by removing \twocolumn to the preamble
 
 my_preamble = r'''
-\usepackage[utf8]{inputenc}
+\usepackage{unicode-math}
 \pagenumbering{arabic}
 \pagestyle{headings}
 \setlength{\headheight}{14.0pt}
