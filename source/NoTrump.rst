@@ -572,9 +572,9 @@ Minor Relay
 The 2♠!(long minor) response to 1N forces opener to bid 3♣!(forced), 
 which responder can pass or correct to 3♦, to play. This is called a :term:`relay`.
 
-Opener alerts 2♠, and partner should alert the 3♣ reply because the opener 
-doesn't necessarily have clubs.  Since it is an alert, not an announcement,
-you do not say "relay to clubs" unless asked.
+2♠ and the 3♣ reply are alertable. This is because the responder doesn't have spades,
+and opener doesn't necessarily have clubs.  Since it is an alert, not an announcement,
+you do not say "relay to clubs" unless asked in face-to-face play.
 
 The Minor Relay is not for five-card minors, and not for 
 invitational or better hands or hands that have a four-card major. Minor relays are to be 

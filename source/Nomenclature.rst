@@ -26,7 +26,7 @@ Notation and Nomenclature
 =========================
 
 In the beginning there was a Dealer. The Dealer gets the first chance to
-:term:`call`, and sits in the first chair. When in turn each person makes a
+:term:`call`, and sits in the "first chair". When in turn each person makes a
 call, the first one to make a call other than Pass is called the opener.
 Technically, a call other than a Pass is a :term:`bid`, but we confess
 sometimes we give a list of possible bids and one of them is Pass.
@@ -50,10 +50,13 @@ or:
 * w meaning the "other" minor after one has been mentioned
 
 It might help to remember the W and w if you think of these letters upside down.
+In most of bridge literature they use OM for "other major". Obviously my way is
+The Way. 
 
-Bids by a partnership without interference are separated by spaces or a dash, as in
-1N - 2♥ - 2♠ or just 1N 2♥ 2♠. If a bid is alertable, it is followed by an exclamation 
-point and a suggested explanation, as in 
+Bids by a partnership without interference are separated by spaces or a
+dash, as in 1N - 2♥ - 2♠ or 1N-2♥-2♠ or just 1N 2♥ 2♠. If a bid is
+alertable, it is followed by an exclamation point and a suggested
+explanation, as in 
 
    1N - 3♥!(both majors, game force) 
 
@@ -64,6 +67,12 @@ been explained. When opponents intervene, their bids are shown in parentheses, a
 
 which shows a 2♥ overcall of an opening 1♦, followed by a bid of 2♠ by
 the responder, and the opener going to game with 4♠.
+
+.. note::
+   There are sometimes phrases such as "Opener alerts".  In face-to-face play you
+   alert your partner's bids, and online you alert your own. As I find such phrases
+   I will try to make them more neutral; read any such phase you encounter as meaning 
+   that the bid is alertable.
 
 The adjectives “weak”, “competitive”, “invitational” (abbreviated :term:`inv`),
 “game-forcing” (abbreviated :term:`gf`), and "slam interest" are descriptions
