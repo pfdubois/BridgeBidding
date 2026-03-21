@@ -27,7 +27,7 @@ the suits are at least 5-4 and you have an opening hand.
 The Sandwich 1N convention is a bid of 1N rather than double, showing 
 the other two suits but less than an opening hand:
 
-    (1x) - P - (1y) - 1N!(other two suits, less than opening hand)
+    (1x) - P - (1y) - 1N! (other two suits, less than opening hand)
  
 
 Mathe Defense To A Big Club
@@ -71,7 +71,7 @@ knew to lead spades so you could return a heart.
 
 We change the agreement about what a new suit by you means; it shows a lead-directing
 raise.  Partner is authorized to correct to 3♥ for you if necessary. So in this case
-you bid 2♠!(heart raise, lead-directing). You also might do this for example if you had 
+you bid 2♠! (heart raise, lead-directing). You also might do this for example if you had 
 three hearts and ♠KQ52. 2N remains feature-asking but can also be used to keep the 
 bidding open for your next bid when you really do have a good hand.
 
@@ -94,20 +94,20 @@ Puppet Stayman
 .. index::
    pair: convention; Puppet Stayman
    
-Over 2N or 2♣ followed by 2N, bid 3♣!(asking for a four- or five-card major) if you have 
+Over 2N or 2♣ followed by 2N, bid 3♣! (asking for a four- or five-card major) if you have 
 a 3-card or 4-card major. Puppet Stayman is game forcing because, lacking a major, the 
 opener will reply 3N. The 3♣ bid need not be alerted, but the responses must be alerted.
 
 Responses are:
 
-- 3♦!(No five card major, one or two 4 card majors)
+- 3♦! (No five card major, one or two 4 card majors)
  
   * 3♥! Responder has four SPADES <-- major you do NOT have!
   * 3♠! Responder has four HEARTS <-- major you do NOT have!
   * 3N! Responder does not have a four card major
   * 4♦! Responder has both 4 card majors. Opener has choice of games.
 
-- 3M!(five cards) 
+- 3M! (five cards) 
 
   * Responder normally chooses between 3N or 4M.
   * Responder with slam interest and 3+ card fit in M can bid the other major
@@ -117,7 +117,7 @@ Responses are:
   * 4N is quantitative (M is not agreed as our suit)
   * Suit bids at the five level are splinters.
     
-- 3N!(Opener has no four or five card majors)
+- 3N! (Opener has no four or five card majors)
 
 The name “Puppet” comes from the 3♥ and 3♠ rebids after a 3♦ response,
 in which the responder bids the major he DOESN'T have, so that the
@@ -178,9 +178,9 @@ Showing Both Majors in Stayman
 Having 4-4 majors and a maximal 1N opener, opener bids 3♣ as a response
 to Stayman. Responder then transfers to their suit (or best suit).
 
-1N 2♣ 3♣!(max, 4-4 majors) 3♦!(transfer) 3♥
+1N 2♣ 3♣! (max, 4-4 majors) 3♦! (transfer) 3♥
 
-1N 2♣ 3♣!(max, 4-4 majors) 3♥!(transfer) 3♠
+1N 2♣ 3♣! (max, 4-4 majors) 3♥! (transfer) 3♠
 
 After this, responder can pass, bid the game, or explore for slam as
 appropriate. 
@@ -214,7 +214,7 @@ responses so that 5-3 fits can be found in either major.
 
 2N - 3♣  (or 1N - 3♣ by partnership agreement):
 
-- 3♦!(Opener has no five card major, has one or more 4 card majors)
+- 3♦! (Opener has no five card major, has one or more 4 card majors)
  
   * 3♥! Responder has four SPADES <-- major you do NOT have!
   * 3♠! Responder has four HEARTS <-- major you do NOT have!
@@ -241,10 +241,10 @@ shows five spades.
 Minor Suit Stayman
 ------------------
 
-1N - 2♠!(minor suit Stayman) shows 4-4 or better in the minors and at least invitational
+1N - 2♠! (minor suit Stayman) shows 4-4 or better in the minors and at least invitational
 values.  It denies a four-card major. 
 
-2N - 3♠!(minor suit Stayman) can also be played with game-forcing values.
+2N - 3♠! (minor suit Stayman) can also be played with game-forcing values.
 
 
 Sons Of Texas
@@ -324,7 +324,7 @@ four-card major; instead , he bids an artificial 1♦. Responses of 1♥ or
 1♥.
 
 A response of 1♦ shows enough values to respond but is otherwise
-artificial. Opener's rebids after 1♣ - 1♦!(artificial, no five-card major):
+artificial. Opener's rebids after 1♣ - 1♦! (artificial, no five-card major):
 
 -  1♥ promises 4 hearts, does not deny 4 spades
 -  1♠ promises 4 spades, denies 4 hearts
@@ -356,7 +356,7 @@ Namyats with a hand with no more than five losers.
 If the responder wishes the opener to become the declarer, or has slam interest,
 he can temporize with the intervening suit, e.g. 
 
-* 4♦!(transfer to 4♠) - 4♥!(transfer to 4♠).
+* 4♦! (transfer to 4♠) - 4♥! (transfer to 4♠).
 
 To accept the Namyats transfer is a sign-off.
 
@@ -379,7 +379,7 @@ get to the right game. Wolff is for pessimists, who are worried about signing
 off when they don't have the values for game.  It lets you make that 1M bid a little
 lighter.
 
-With Wolff, 3♣!(Wolff relay to 3♦) allows responder to place the contract. 
+With Wolff, 3♣! (Wolff relay to 3♦) allows responder to place the contract. 
 Full descriptions are available on bridge sites. However, 
 consider instead Marc Smith's version of it, which I call :ref:`TWNFM over 2N <NMF2>`.
 
@@ -404,7 +404,7 @@ along with our hearts.
 
 Another example::
 
-   1♠ (2♣) 2♦!(hearts) (P)
+   1♠ (2♣) 2♦! (hearts) (P)
    2♥ (P)  2♠
    
 holding Qxx KQxxx xxx xx, but passing 2♥ with x JT9xxx Kxx xxx.

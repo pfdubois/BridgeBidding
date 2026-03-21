@@ -100,7 +100,7 @@ transfer. Any following bids are natural.
 If advancer's next bid is overcaller's suit, it is to play but with a lead-direction 
 to the suit we transfered to::
 
-   (1♣)-1♥-(P)-1N!(clubs) 
+   (1♣)-1♥-(P)-1N! (clubs) 
    (P )-2♣-(P)-2♥
    
 We have three card support but the bid is to play with a club lead wanted if they 
@@ -108,7 +108,7 @@ declare.
 
 Transfer to the overcalled suit is by contrast a good raise.
 
-   (1♣)-1♥-(P)-2♦!(hearts)
+   (1♣)-1♥-(P)-2♦! (hearts)
    (P )-2♥-(P)- ?
    
 At this point overcaller can bid hearts at an appropriate level or a game try in another
@@ -116,7 +116,7 @@ suit.
 
 You can also bid a second suit::
 
-   (1♣)-1♥-(P)-1N!(clubs)
+   (1♣)-1♥-(P)-1N! (clubs)
    (P )-2♣-(P)-2♦
    
 showing diamonds but longer clubs.

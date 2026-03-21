@@ -15,8 +15,8 @@
 .. |13ormore| replace:: 13+
 .. |16ormore| replace:: 16+
 .. |22ormore| replace:: 22+
-.. |3ormore| replace:: 3(or more}
-.. |4ormore| replace:: 4(or more)
-.. |5ormore| replace:: 5(or more)
-.. |6ormore| replace:: 6(or more)
-.. |7ormore| replace:: 7(or more)
+.. |3ormore| replace:: 3 (or more}
+.. |4ormore| replace:: 4 (or more)
+.. |5ormore| replace:: 5 (or more)
+.. |6ormore| replace:: 6 (or more)
+.. |7ormore| replace:: 7 (or more)

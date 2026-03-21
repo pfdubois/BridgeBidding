@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 #
+# To see the choices go to sphinx-doc.org.   
 project = u'BridgeBidding'
 booktitle = u'Bridge Bidding'
 bookshorttitle = u'Bridge Bidding'
@@ -13,16 +14,13 @@ release = ' '
 sproject = project.replace(' ','')
 
 import sphinx.util.texescape as te
-needs_sphinx = '1.9'
+needs_sphinx = '9.0'  ### ha ha ha when I started it was 1.9; no idea really
 copyright = '2024, Paul F. Dubois' 
 author = 'Paul F. Dubois'
 language = 'en'
 exclude_patterns = []
 pygments_style = 'sphinx'
 todo_include_todos = False
-# Example configuration for intersphinx: refer to the Python standard library.
-#intersphinx_mapping = {'http://pfdubois.com/publish/': None}
-#extensions = ['sphinx.ext.intersphinx', 'sphinx.ext.ifconfig']
 #The github one generates a .nojekyll file in the html so that my own theme is used
 #on github
 extensions = ['sphinx.ext.ifconfig','sphinx.ext.githubpages','sphinx.ext.extlinks']
@@ -126,10 +124,14 @@ latex_show_urls = 'inline'
 #EPUB
 #
 # Bibliographic Dublin Core info.
+epub_title = "Bridge Bidding"
+epub_description = "A guide to bridge bidding for intermediate to advanced players"
 epub_author = author
 epub_publisher = author
+epub_language = "English"
 epub_copyright = copyright
-epub_cover=('_static/cover.jpg','')
+epub_scheme = "URL"
+#epub_cover=('_static/cover.jpg','')
 epub_tocdepth = 2
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.

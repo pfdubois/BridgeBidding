@@ -12,7 +12,7 @@ you also can't say that until later. These two conventions do a better job on on
 both of these fronts.
 
 Another system is "steps", a system in which responder shows his point count in steps
-of three HCP starting with 2♦!(0-3), 2♥(4-6), etc.  This is not an advanced convention,
+of three HCP starting with 2♦! (0-3), 2♥(4-6), etc.  This is not an advanced convention,
 it is a mistake.  
 
 
@@ -49,21 +49,21 @@ Parrish Relay
 The Parrish convention applies after a Two Hearts Bust response.  It provides a way
 for opener to bid a suit and have it be non-forcing, thus stopping below game.
 
-The Parrish Relay is a bid of 2♠!(relay) over 2♣ - 2♥!(bust), forcing responder
+The Parrish Relay is a bid of 2♠! (relay) over 2♣ - 2♥! (bust), forcing responder
 to bid 2N. Opener's next bid is now not forcing.  Note that any concern about
 wrong-siding notrump is not correct, because if Opener is willing to play in
 notrump they don't use the relay. 
  
 By contrast, after 2♥!, suit bids other than the relay are forcing. So:
 
-   | 2♣ - 2♥!(bust) 
+   | 2♣ - 2♥! (bust) 
    | 2N is not forcing
    | 3♣/3♦/3♥/3♠ are forcing
    |
    | but
    |
-   | 2♣ - 2♥!(bust) 
-   | 2♠!(relay) - 2N!(forced) 
+   | 2♣ - 2♥! (bust) 
+   | 2♠! (relay) - 2N! (forced) 
    | 3♣/3♦/3♥/3♠ are not forcing
 
   

@@ -13,7 +13,7 @@ Bids we keep from the standard methods include Jacoby Transfers, Texas
 Transfers, Stayman, and Garbage Stayman. Add Smolen if you do not play that 
 already.
 
-To this we add 1N - 3♣!(Five-card Stayman), new meanings for 1N - 3♦ / 3♥ / 3♠,
+To this we add 1N - 3♣! (Five-card Stayman), new meanings for 1N - 3♦ / 3♥ / 3♠,
 and an expert version of Four-Way Transfers. Note that the Four-Way Transfers
 presented here preserve the property that 2♣ Stayman guarantees a four-card
 major. 
@@ -43,9 +43,9 @@ major without missing a 5-3 major fit.
     pair:1N;Five-Card Stayman
     pair:1N;Puppet Stayman
     
-The bid 1N - 3♣!(five-card major?) is a game forcing bid.
+The bid 1N - 3♣! (five-card major?) is a game forcing bid.
 Opener replies 3♥ or 3♠ if he has a five-card major.
-Otherwise he bids 3♦!(no five-card major). Then responder continues:
+Otherwise he bids 3♦! (no five-card major). Then responder continues:
 
 * 3N with no four-card major; or,
 * Puppets his major (bids the short major).
@@ -72,7 +72,7 @@ in the system taken a whole one only bids 1N - 3♣! when 3-2, 3-3, or 3-4 in th
 majors. 
 
 One benefit of using 3♣ is that in the sequence
-1N - 3♣! - 3♦!(no 5M) - 3N, the defense does not know if the opener has a four-card major 
+1N - 3♣! - 3♦! (no 5M) - 3N, the defense does not know if the opener has a four-card major 
 or not, only that the responder did not have one. Compare to 1N - 2♣ - 2♦ - 3N. 
 So while you can get this minor benefit using 3♣ when 4-2, it makes it harder to 
 remember the rules, while knowing responder has a three-card major often helps opener 
@@ -162,21 +162,21 @@ regardless, only completes it with a hand that would accept an invite to 3N; per
 16-17 point hand or holding Qxx or better in the target minor. He bids the suit 
 "in between" to show neither:
 
-* 1N - 2♠!(♣s) - 2N!(min hand)
-* 1N - 2♠!(♣s) - 3♣!(max hand)
+* 1N - 2♠! (♣s) - 2N! (min hand)
+* 1N - 2♠! (♣s) - 3♣! (max hand)
 
 and:
 
-* 1N - 2N!(♦s) - 3♣!(min hand)
-* 1N - 2N!(♦s) - 3♦!(max hand)
+* 1N - 2N! (♦s) - 3♣! (min hand)
+* 1N - 2N! (♦s) - 3♦! (max hand)
 
 We realize we have no way to just make an invitational bid in notrump, 
 because 1N - 2N doesn't mean that any more. No problem! We change the alerts!
 
-* 1N - 2♠!(range ask or ♣s) - 2N!(min hand)
-* 1N - 2♠!(range ask or ♣s) - 3♣!(max hand)
+* 1N - 2♠! (range ask or ♣s) - 2N! (min hand)
+* 1N - 2♠! (range ask or ♣s) - 3♣! (max hand)
 
-Now we bid 1N - 2♠!(range ask or ♣s) with any hand that we would have before plus 
+Now we bid 1N - 2♠! (range ask or ♣s) with any hand that we would have before plus 
 any hand that would be a traditional 2N invitation lacking a four-card major. 
 
 The opener views the 2♠ bid as asking, "Would you accept a 3N invite?" and bids 2N
@@ -193,8 +193,8 @@ a stiff or void in a suit if they have one, on their way to 3N.  This says,
 And finally, what Gavin Wolpert calls "Free Cheddar" - a solution to the weak 5-5 in
 the minors hand:
 
-* 1N - 2N!(♦s) - 3♣(min) - Pass (!)
-* 1N - 2N!(♦s) - 3♦(max) - Pass (!)
+* 1N - 2N! (♦s) - 3♣(min) - Pass (!)
+* 1N - 2N! (♦s) - 3♦(max) - Pass (!)
 
 Note how the responder is the Captain throughout. 
 
@@ -208,22 +208,22 @@ Summary of Four-Way Transfers
 
 In addition to the two major transfers, we have two minor transfers; for clubs. 
 
-* 1N - 2♠!(range ask or ♣s) - 2N!(min hand)
+* 1N - 2♠! (range ask or ♣s) - 2N! (min hand)
   - Pass to play 2N
   - 3♣ to play 3♣
   
-* 1N - 2♠!(range ask or ♣s) - 3♣!(max hand)
+* 1N - 2♠! (range ask or ♣s) - 3♣! (max hand)
   - Pass to play 3♣
   - 3N to play, no stiff or void
   - 3♦!, 3♥!, 3♠! splinter concern for 3N
   
 and for diamonds:
 
-* 1N - 2N!(♦s) - 3♣!(min hand)
+* 1N - 2N! (♦s) - 3♣! (min hand)
   - 3♦ to play.
   - Pass to play 3♣ when 5-5 in minors.
   
-* 1N - 2N!(♦s) - 3♦!(max hand)
+* 1N - 2N! (♦s) - 3♦! (max hand)
   - Pass to play 3♦
   - 3N to play, no stiff or void in a major
   - 3M! splinter concern for 3N
@@ -231,11 +231,11 @@ and for diamonds:
 It is best to add this agreement: after a positive reply, a bid by responder to 
 the suit above the minor at the four level is now RKC.  Examples:
 
-* 1N - 2♠!(range ask or ♣s) 
-  3♣(max) - 4♦!(RKC for clubs)
+* 1N - 2♠! (range ask or ♣s) 
+  3♣(max) - 4♦! (RKC for clubs)
   
-* 1N - 2N!(♦s)
-  3♦(max) - 4♥!(RKC for diamonds)
+* 1N - 2N! (♦s)
+  3♦(max) - 4♥! (RKC for diamonds)
 
 .. index::
    pair:transfer;super-accept
@@ -306,11 +306,11 @@ super-accepts to:
 Responder can bid the next step to ask for the suit of the doubleton. Opener replies 
 using :term:`LMH steps` -- lower, middle, high.  For example::
 
-   1N - 2♦(♥s) - 2♠!(super-accept, some weak doubleton) 2N!(which?)
+   1N - 2♦(♥s) - 2♠! (super-accept, some weak doubleton) 2N! (which?)
    
 Then 3♣ = clubs, 3♦ = diamonds, 3♥ = spades. In spades it goes::
 
-   1N - 2♥(♠s) - 2N!(super-accept, some weak doubleton) 3♣!(which?)
+   1N - 2♥(♠s) - 2N! (super-accept, some weak doubleton) 3♣! (which?)
    
 Then 3♦ = clubs, 3♥ = diamonds, 3♠ = hearts.
 

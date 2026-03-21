@@ -60,10 +60,10 @@ We will use 2N, called the Lebensohl 2N. It is an artificial bid and is alerted 
 a :term:`relay` to 3♣. It is called a relay rather than a transfer because the bidder
 is not promising he has clubs. 
 
-After we bid 2N!(relay), partner must bid 3♣. Then we can make a three-level
+After we bid 2N! (relay), partner must bid 3♣. Then we can make a three-level
 bid. So there are two ways, for example, to bid 3♦ over 1N (2♥): 
 
-#. Bid 2N!(relay) and after opener bids 3♣, bid 3♦, or;
+#. Bid 2N! (relay) and after opener bids 3♣, bid 3♦, or;
 #. Bid 3♦ right away.
 
 So we can use (1) for hand 1, and (2) for hand 2.  We have "disambiguated" the 3♦ bid.
@@ -123,7 +123,7 @@ unknown suit):
 
 * A two-level suit bid is non-forcing ("to play").
 * A three-level suit bid is game-forcing (fast bid).
-* A bid of 2N!(relay to 3♣) forces opener to bid 3♣. Now responder:
+* A bid of 2N! (relay to 3♣) forces opener to bid 3♣. Now responder:
 
   - Can pass with a weak hand with long clubs;
   - Bid a suit of lower rank than the overcall as a signoff (slow bid); or
@@ -315,7 +315,7 @@ Lebensohl Over Weak Twos
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 If the suit that we want to bid, y, is of lower rank than the preempt, we are
-going to have to bid it at the three level. Going through 2N!(relay) Lebesohl
+going to have to bid it at the three level. Going through 2N! (relay) Lebesohl
 shows the weaker hands.
 
 * 2N! is a relay to 3♣, pass or correct. 
@@ -383,7 +383,7 @@ You can make also play Better Minor Lebensohl in this scenario. Statistically it
 but requires you to remember it and gives up differentiating weak and positive
 hands with clubs.
 
-After the 2N!(relay) bid, the person responding to it bids their better minor
+After the 2N! (relay) bid, the person responding to it bids their better minor
 suit rather than always bidding clubs. This has the advantage of finding a
 better minor suit fit when the 2N bidder has both minors.  Obviously in the
 case of holding a hand with long diamonds, you just correct to diamonds or
@@ -441,7 +441,7 @@ The opposition has bid a suit 2♦, 2♥, or 2♠ over our 1N opener.
 - Double is penalty-oriented with at least two cards in their suit.
 - Two-level suit bids are to play
 - Three-level suit bids are game forcing
-- 2N! is a relay to 3♣!(forced), pass or correct.  If responder corrects to a 
+- 2N! is a relay to 3♣! (forced), pass or correct.  If responder corrects to a 
   suit he could have bid at the two-level, it is invitational; otherwise, to play.
 - 3N is to play with a stopper.
 - A cue bid is game-forcing Stayman. Opener should show a major if he has one.
@@ -480,7 +480,7 @@ Take for example this auction::
    (1♠) 2♦ (2♠) ?
 
 Without an agreement, a 3♦ bid here is hard to read. With Good - Bad 2N, 3♦ might be 
-a good four-card diamond suit with 9 points, while 2N!(relay) - 3♣!(forced) - 3♦ might be 
+a good four-card diamond suit with 9 points, while 2N! (relay) - 3♣! (forced) - 3♦ might be 
 only six points and partner will know not to compete further.
 
 This convention also applies when you opened::

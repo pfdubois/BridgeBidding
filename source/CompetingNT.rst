@@ -78,7 +78,7 @@ two-suited bids require at least 5-4 in either order.
 In response to 2♣ and 2♦, pass unless you have shortness, or bid the
 next higher suit, or on rare occasion, a good long suit of your own.
 
-Exampe: Suppose  the bidding goes (1N) 2♦!(Diamonds and a higher suit)
+Exampe: Suppose  the bidding goes (1N) 2♦! (Diamonds and a higher suit)
 
 * With ♠KQ86 ♥Q8 ♦98 ♣98764 you would bid 2♥, because your hearts and spades
   are better than your diamonds.
@@ -114,12 +114,12 @@ bids:
 -  X penalty-oriented (a hand equal or better to the one shown by the
    opener)
    
--  2♣!(long unknown suit). This is a :term:`relay`, completely artificial.
+-  2♣! (long unknown suit). This is a :term:`relay`, completely artificial.
 
    With a good six-card club suit, advancer may pass. Or, advancer bids 
-   2♦!(relay), then intervenor will pass or correct to 2♥, 2♠, or 3♣.
+   2♦! (relay), then intervenor will pass or correct to 2♥, 2♠, or 3♣.
    
--  2♦!(hearts and spades)
+-  2♦! (hearts and spades)
 
    Advancer normally bids his best major, pass or correct.
    

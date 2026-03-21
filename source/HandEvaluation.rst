@@ -114,6 +114,9 @@ loser and a doubleton Queen is two losers. The maximum number of losers per
 suit is the smaller of three and the suit's length. 
 
 Add a loser if the hand has no aces. A Queen without another honor is 2.5 losers.
+Or call it 3. Some say call it 2 when this is the trump suit.
+
+Optionally, add 1 for an Aceless hand.
 
 Example: ♠AQ8 ♥Q8 ♦KJ32 ♣AQJ3 has 1 + 2 + 2 + 1 or six losers.
 
@@ -122,7 +125,7 @@ and subtract from 24 to get an estimate of the number of tricks you
 should take with your agreed-upon trump suit. 
 
 Unfortunately you can't say, “Partner, how many losers?”, so you have to infer this from 
-the bidding: an opening hand is about 7, a limit raise is 8, a simple raise
+the bidding: a minimal opening hand is about 7, a limit raise is 8, a simple raise
 is 9. A two-club opener is about 4. The hands in-between are 5 or 6.
 
 Thus if you open one spade, and partner raises you to two spades, you
@@ -221,7 +224,7 @@ Let's look at a comparison of the basic and Bergen models.
   This hand has 13HCP - 1 for a flat hand = 12 HCP in either system. The hand has 
   the honors in different suits, which is not a plus.
 
-- ♠AT942 ♥KJ832 ♦ void ♣AKQ 
+- ♠AT942 ♥KJ832 ♦ --- ♣AKQ 
 
   This hand has 19 points, 17 HCP plus 2 for length in the basic system. 
   
@@ -229,7 +232,7 @@ Let's look at a comparison of the basic and Bergen models.
   shape, for a total of 23 points. Clubs has three honors, but it doesn't get the 
   "good suit" bonus because it doesn't have four cards.
 
-- ♠AT942 ♥KQJ4 ♦ void ♣AKT7
+- ♠AT942 ♥KQJ4 ♦ --- ♣AKT7
 
   This hand has 17 HCP, plus one for length in the basic system. In the Bergen system
   we add 2 for the 2 "good suits", hearts and clubs, and 3 for the void, for a total of 
@@ -243,8 +246,8 @@ Let's look at a comparison of the basic and Bergen models.
 
 One cannot emphasize enough the need to revalue continuously as the auction proceeds.
 
-Assuming a fit has been found, the losing trick counts here are 8, 3, 2, and 8,
-respectively.
+Assuming a fit has been found, the losing trick counts here are 8, 4, 4, and 8 
+(or 9, if you add one for no Aces), respectively.
 
 There are several other hand evaluation methods. In the end, it takes judgment, not
 a mechanical adherence to points.
@@ -278,5 +281,8 @@ one for the "good" heart suit, and subtract one for the dubious doubleton clubs.
 We're feeling good about the shape of 4=5=2=2, although 4=5=3=1 would be better. 
 Our honors are pretty well together -- if we changed the ♥K to the ♦K we'd be 
 less enthusiastic. 
+
+Once we manage to find our heart fit, the LTC for West is 6, and for East, 7.
+Both points and LTC point to our being in game but short of slam.
 
 We'll be back later to see how we would bid these hands.

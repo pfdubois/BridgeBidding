@@ -435,9 +435,9 @@ So which of these two hands is shown by bidding 3♦?  Absent some agreement,
 unsettled as to notrump stoppers or a suit agreement. As things stand, in standard
 bidding, we must resort to things like cue bids or just taking chances.
 
-Make this simple agreement with your partner: a response of 2N!(relay) asks partner
-to bid 3♣!(forced).  You are showing a long suit. This may or may not be a weak hand. 
-Then 2N!(relay) - 3♣!(forced) - 3♦(to play) shows (A), while an immediate 3♦ is a game 
+Make this simple agreement with your partner: a response of 2N! (relay) asks partner
+to bid 3♣! (forced).  You are showing a long suit. This may or may not be a weak hand. 
+Then 2N! (relay) - 3♣! (forced) - 3♦(to play) shows (A), while an immediate 3♦ is a game 
 force with a hand like (B).  
 
 Note that the natural meaning of 2N is lost.

@@ -231,7 +231,7 @@ denies a stopper in their suit(s) and asks partner to bid
 3N if they have a stopper. For example:
 
    | 1♦ (1♥) 1♠ (P) 
-   | 2♣ (P ) 3♥!(asking for heart stopper)
+   | 2♣ (P ) 3♥! (asking for heart stopper)
 
 Responder is asking opener to bid 3N if he has a stopper in hearts. Quite often 
 the Western Cue bidder has some help in their, such as a half-stopper, but does 

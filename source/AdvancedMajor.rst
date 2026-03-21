@@ -58,11 +58,11 @@ The following part is optional: a bid of 3 of the other major shows game-forcing
 values, four trump, and a singleton or void somewhere. If opener rebids the next 
 available step, responder shows the suit by making step rebids:
 
-- 1♥ - 3♠!(gf raise, stiff or void somewhere) - 3N!(asking where)
+- 1♥ - 3♠! (gf raise, stiff or void somewhere) - 3N! (asking where)
 
   Responses are 4♣! clubs, 4♦ diamonds, 4♥ hearts
 
-- 1♠ - 3♥!(gf raise, stiff or void somewhere) - 3N!(asking where)
+- 1♠ - 3♥! (gf raise, stiff or void somewhere) - 3N! (asking where)
 
   Responses are 3N! clubs, 4♣ diamonds, 4♦ hearts
 
@@ -143,7 +143,7 @@ After 1♥ - 2♥:
 * 2♠! asks in what suit responder would accept a game try; 2N by responder
   meaning spades. Responder just bids 3♥ if there isn't one. 
   
-* 3♣! / 3♦! / 2N!(spades) is a game try that shows shortness.
+* 3♣! / 3♦! / 2N! (spades) is a game try that shows shortness.
 
 * 3♥ is a game try needing trump honors.
 
@@ -194,7 +194,7 @@ These bids are all alertable, of course.
 In addition, bids at the four level below trump are splinters with four-card support,
 any strength. With more than 15, opener should bid game.
 
-In our example, the bidding would go 1♣ - 1♠ - 2♠ - 2N!(inquiry); 3♣!(min, 3 spades).
+In our example, the bidding would go 1♣ - 1♠ - 2♠ - 2N! (inquiry); 3♣! (min, 3 spades).
 This allows responder to stop at 3♠ if needed.
 
 Had the suit been hearts, the auction would start 1♣ - 1♥ - 2♥ - 2N!.
@@ -209,7 +209,7 @@ Another System After J2NT
    pair:convention;Jacoby 2NT
    pair:Jacoby 2NT;alternate responses
 
-The standard scheme of responses to Jacoby 2N (1M - 2N!(4 trump, opening hand)) 
+The standard scheme of responses to Jacoby 2N (1M - 2N! (4 trump, opening hand)) 
 has problems. When either opener or responder make a jump to game, showing no slam 
 interest, their partner with extras is stuck -- it may be right to go on, or it may be 
 bad, and it is most often just a guess. Another complaint is that the standard answers
@@ -220,9 +220,9 @@ version of the same idea for established intermediate to advanced partnerships:
 
 Consider an extra King or so as "extras", or a hand with great playing strength.
 
-After 1M - 2N!(game forcing, 4+ card support), opener bids:
+After 1M - 2N! (game forcing, 4+ card support), opener bids:
 
-* 3♣!(minimal opener) to show a minimal hand. Any other bid shows extras. 
+* 3♣! (minimal opener) to show a minimal hand. Any other bid shows extras. 
 * 3♦! extras without shortness
 * 3♥! extras with club shortness
 * 3♠! extras with diamond shortness

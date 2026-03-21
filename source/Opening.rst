@@ -20,7 +20,7 @@ the minors. Why?  Because opening the bidding is a two-edged sword. When you
 bid, the requirements for your opponent to bid over you are less than for them
 to open the bidding. When you open one of a minor, the opponents can mention
 either major cheaply.  Conversely, opening 1♠ makes life tough on them, and so
-you can shade your 1h♠ requirements.
+you can shade your 1♠ requirements.
 
 In third seat, chances are greatly
 increased that your LHO will open. Bergen says one estimate is to subtract your points
@@ -118,6 +118,9 @@ thinking ahead to what happens later.
   clubs usually shows |6ormore| clubs. So you can consider the qualities of each 
   suit to choose which lie you are willing to tell. Experts don't do this but they have
   additional tools to cope with the situation.
+  
+* With a five-card major and a six-card minor, unless very strong it 
+  is probably right to open the major, given the emphasis on finding major fits.
   
 * With a 4=5=2=2 hand and 14-16 points you might open 1N, as long as one of the doubletons
   is Kx or better. You aren't strong enough to bid 2♠ on your second bid if you

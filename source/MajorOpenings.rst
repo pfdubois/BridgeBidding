@@ -124,7 +124,7 @@ may have just bid past the only contract we could make.
    Invitational Hands
 
 If your hand is invitational, and you have three or more of your partner's major,
-bid 2♣!(limit raise, 3 or more trump). This is a
+bid 2♣! (limit raise, 3 or more trump). This is a
 conventional bid called :ref:`Reverse Drury <Reverse_Drury>`, discussed below.
 The name Reverse Drury is usually shortened to just "Drury".
 This raise is called a :term:`limit raise` because the bid limits your strength to a
@@ -135,7 +135,7 @@ major, we still just bid Drury. The limit raise is artificial so we'll get anoth
 Don't just jump to game. Give partner a chance to admit he opened light. We can bid game 
 on our next bid if he didn't.
 
-For example, Pass - 1♠ - 2♣!(Drury) - 2♠ says "I opened light, stop!".
+For example, Pass - 1♠ - 2♣! (Drury) - 2♠ says "I opened light, stop!".
  
 If you don't have a raise, we're back to the same rules as for minor openings:
 
@@ -467,7 +467,7 @@ Suppose West opens 1♥. East has an opening hand and four hearts so would respo
 with Jacoby 2NT. West has no shortness to show nor a good five-card side suit, but with
 extra values bids 3♥::
 
-   1♥ 2N!(four-card gf raise)
+   1♥ 2N! (four-card gf raise)
    3♥ (16+ declarer points, semi-balanced, good trumps)
    
 East would bid 4♦ to show the diamond control and no
@@ -564,7 +564,7 @@ Jordan 2NT
 If the opener's LHO makes a takeout double of a major, 2N! shows a limit raise or better
 with four trump.
 
-   | 1M - (X) - 2N!(four-card limit raise or better)
+   | 1M - (X) - 2N! (four-card limit raise or better)
 
 This bid is called Jordon 2NT (who popularized it in America) or Truscott 2NT
 (who invented it in 1954) or Dormer 2NT (who popularized it in Europe).
@@ -633,7 +633,7 @@ over 1♠ unless you have five of them.
 
 Note that if you are a passed hand, your hand might have just become game
 forcing due to the fit. Still, you don't just bid 4♥ right away. You bid
-2♣!(reverse Drury), showing a limit raise. If partner then bids 2♥, you can
+2♣! (reverse Drury), showing a limit raise. If partner then bids 2♥, you can
 then raise to 4♥, telling your story beautifully -- I had a near-opening hand,
 but now that you bid hearts, I have enough for game with my distribution.
 

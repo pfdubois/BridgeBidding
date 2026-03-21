@@ -50,7 +50,7 @@ With 14 points, responder must drive the auction to game. But alas,
 - 3♠ sets spades as trump, so we'd need six of them
 - 3N could be very, very wrong.
 
-But 2♥!(forcing, artificial), called Forth Suit Forcing or FSF, forces the
+But 2♥! (forcing, artificial), called Forth Suit Forcing or FSF, forces the
 auction to game (or four of a minor). Everyone can slow down, and responder's
 next bid will further explain his hand. Note that Fourth Suit Forcing (FSF)
 almost always implies that the suit responder bid first is five cards long;
@@ -77,14 +77,14 @@ two important fronts:
 Example::
 
   1♦ – 1♠ 
-  2♣ - 2♥!(forcing, says nothing about hearts)
+  2♣ - 2♥! (forcing, says nothing about hearts)
   
 Holding 3 spades, we bid 2S. Otherwise, we bid 2N with a heart stopper. 
 
 With opener lacking a heart stopper or 3 spades, the auction might go::
 
     1♦ – 1♠
-    2♣ – 2♥!(gf, says nothing about hearts)
+    2♣ – 2♥! (gf, says nothing about hearts)
     3♣ – 3♦
     4♦
 
@@ -134,16 +134,16 @@ level you might not follow this rule. But you should switch to
 
 The uses of NMF are (where w stands for the unbid minor):
 
-- 1m – 1♥ – 1N - 2w!(NMF) 
+- 1m – 1♥ – 1N - 2w! (NMF) 
 
   Responder holding five hearts wants to know if we have a 5-3 fit. 
   
-- 1m – 1♠ – 1N - 2w!(NMF)
+- 1m – 1♠ – 1N - 2w! (NMF)
 
   Responder holding five spades and possibly four hearts would like to check for a 
   fit. 
   
-- 1♣/♦/♥ – 1M – 2N - 3w!(NMF)
+- 1♣/♦/♥ – 1M – 2N - 3w! (NMF)
 
   Responder holding four+ spades and / or four hearts would like to check for a fit. 
   Directly bidding 3♥ or 3♠ shows a fifth major card but a weak hand.
@@ -165,11 +165,11 @@ rebids his suit, or shows stoppers. While accomplishing this we have game-forcin
 to make when we have a maximum (14 points):
 
 -  Shows four of the other major by bidding it. For example,
-   1♦ – 1♠ – 1N – 2♣!(NMF) - 2♥
+   1♦ – 1♠ – 1N – 2♣! (NMF) - 2♥
 -  Shows three in partner's major and 14 points by jump bidding it. For example,
-   1♦ – 1♠ – 1N – 2♣!(NMF) – 3♠. 
+   1♦ – 1♠ – 1N – 2♣! (NMF) – 3♠. 
 -  Shows three in partner's major by bidding it. For example,
-   1♦ – 1♠ – 1N – 2♣!(NMF) – 2♠
+   1♦ – 1♠ – 1N – 2♣! (NMF) – 2♠
 -  With a minimum:
    - Bid 2N with stoppers in the two unbid suits (Remember, w was bid artificially); or
    - Rebid your minor.
@@ -192,7 +192,7 @@ first. If there is a double 5-3 and 4-4 fit, we want the suit with the
    a stranger.
 
 Sometimes it takes longer to tell the story but the story gets
-told. Compare these continuations after 1♦ – 1♠ – 1N -2♣!(NMF). The
+told. Compare these continuations after 1♦ – 1♠ – 1N -2♣! (NMF). The
 responder has bid spades:
 
 * 2♥(opener has 4 hearts)-2♠(has five spades)-4♠(has 3 spades and accepts invite)

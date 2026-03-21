@@ -269,14 +269,14 @@ keycard you usually use.  This procedure is called "optional keycard".
 Due to a lack of room, for clubs opener should "reject" with two keycards without the Q
 saving the 5♣ bid to mean "Two with the Queen". Thus playing 1430:
 
-* After 2N - 3♠!(relay) - 3N - 4♦!(clubs), 
+* After 2N - 3♠! (relay) - 3N - 4♦! (clubs), 
   
   - With a poor hand for a diamond slam, or two keycards without the Q, opener bids 4♥;
   - With one or four keycards, opener bids 4♠;
   - With zero or three keycards, opener bids 4N;
   - With two keycards and the Q♣, opener bids 5♣.
 
-* After 2N - 3♠!(relay) - 3N - 4♣!(diamonds),
+* After 2N - 3♠! (relay) - 3N - 4♣! (diamonds),
 
   - With a poor hand for a diamond slam, opener bids 4♦;
   - With one or four keycards, opener bids 4♥;
@@ -303,7 +303,7 @@ the similarity to the situation over 1N openings.
 Opener's 4N, 5♣, or 5♦ are then to play, or opener may just bid a minor slam.
 
 A small gadget: when the shortness is in hearts, 
-2N - 3♠ - 3N - 4♥!(0 or 1 hearts, 5-5 minors), then
+2N - 3♠ - 3N - 4♥! (0 or 1 hearts, 5-5 minors), then
 a 4♠ bid shows opener's slam interest, and responder bids 4N.  Opener now shows the 
 suit of interest. Responder has to decide about the slam.
 

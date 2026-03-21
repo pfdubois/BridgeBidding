@@ -58,7 +58,7 @@ dash, as in 1N - 2♥ - 2♠ or 1N-2♥-2♠ or just 1N 2♥ 2♠. If a bid is
 alertable, it is followed by an exclamation point and a suggested
 explanation, as in 
 
-   1N - 3♥!(both majors, game force) 
+   1N - 3♥! (both majors, game force) 
 
 where the suggested alert is either in parentheses, or immediately follows, or has just 
 been explained. When opponents intervene, their bids are shown in parentheses, as in 

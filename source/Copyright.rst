@@ -7,7 +7,7 @@ Copyright And Downloads
 .. index::
    pair:Copyright;GPLv3
    
-Copyright, 2010-2024, Paul F. Dubois
+Copyright, 2010-2026, Paul F. Dubois
 
 This book is non-commercial and meant for free redistribution to other 
 bridge players. It is licensed under the GNU GPLv3 license.
@@ -50,5 +50,8 @@ This book is available in these formats:
  
   https://github.com/pfdubois
   
-  The file buildnotes.txt explains the necessary environment, using Sphinx, Python, 
-  and LaTex. 
+  The file buildnotes.txt explains the necessary environment, using git, Sphinx, Python, 
+  and LaTex. The sources are in the text markdown language reStructuredText; a primer
+  is part of the Sphinx documentation at sphinx-dog.org, while the full documentation 
+  is on docutilis.sourceforge.io. 
+  

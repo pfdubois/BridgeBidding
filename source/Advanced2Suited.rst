@@ -33,7 +33,7 @@ the suits are at least 5-4 and you have an opening hand.
 The Sandwich 1N convention is a bid of 1N rather than double, showing 
 the other two suits but less than an opening hand:
 
-    (1x) - P - (1y) - 1N!(other two suits, fewer than 12 HCP)
+    (1x) - P - (1y) - 1N! (other two suits, fewer than 12 HCP)
  
 Additional Michaels 2N Replies
 ------------------------------
@@ -80,7 +80,7 @@ Here's an example. (1♦) 2♦ shows spades and either hearts or clubs. So:
 
 - (1♦) 2♦ - 2♥ I do not like spades. I have 3 hearts. If hearts isn't your other suit, 
   bid your minor.
-- (1♦) 2♦ - 2N!(Asks for the other suit, constructive) 
+- (1♦) 2♦ - 2N! (Asks for the other suit, constructive) 
 
 Asking for the other suit with 2N and then going back to spades is a game try:
 
@@ -89,7 +89,7 @@ Asking for the other suit with 2N and then going back to spades is a game try:
 “Super” pass and correct bids can be made if a fit is certain and the
 hand is weak, as preemptive:
 
-- (1♣) 2♣ - 3♦!(support for diamonds and hearts, weak)
+- (1♣) 2♣ - 3♦! (support for diamonds and hearts, weak)
    
 Using Extended Michaels and U2NT together, we cover all the bases::
 

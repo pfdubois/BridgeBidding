@@ -169,9 +169,9 @@ Playing Redwood, 4N is never RKC.
 
 Examples::
 
-   1♦ - 2♦(inverted or not) - 4♥!(RKC for diamonds) - 4N!(one or four)
-   1♠ - 2♦ - 4♥!(RKC for diamonds); implicit agreement
-   1♣ - 2♣ - 4♦!(RKC for clubs) - 4♠ - 4N to play
+   1♦ - 2♦(inverted or not) - 4♥! (RKC for diamonds) - 4N! (one or four)
+   1♠ - 2♦ - 4♥! (RKC for diamonds); implicit agreement
+   1♣ - 2♣ - 4♦! (RKC for clubs) - 4♠ - 4N to play
    1♣ - 2♣ - 4N quantitative
    
 
@@ -190,13 +190,13 @@ or bid Jacoby 2N; in the latter case the responses to J2NT take precedence.
 
 These are kickback:
 
-* 1♣ - 1♥ - 3♥ - 3♠!(Kickback)
-* 1♥ - 2N! - 3♦!(shortness) - 3♠!(Kickback)
+* 1♣ - 1♥ - 3♥ - 3♠! (Kickback)
+* 1♥ - 2N! - 3♦! (shortness) - 3♠! (Kickback)
 
 but not:
 
 * 1♠ - 2♥ - 3♥ - 3♠(natural)
-* 1♥ - 2N! - 3♠!(shortness)
+* 1♥ - 2N! - 3♠! (shortness)
 
 Full Kickback
 -------------
@@ -234,7 +234,7 @@ you jumped to.
 
 Example::
 
-   1♣ - 2♣!(inverted)
+   1♣ - 2♣! (inverted)
    5♦! 
    
 Here 2♦ would be natural, 3♦ a jump-shift, and 4♦ a splinter in support of clubs. So 5♦ 
@@ -266,7 +266,7 @@ a special response set called 0-1-1-2-2, which means:
 
 Example::
 
-   3♥ - 4♣!(Preempt Keycard)
+   3♥ - 4♣! (Preempt Keycard)
    4♥(one keycard) - Pass
    
 We see that you should be willing to go to 5♥ if partner has one with the Queen or 
@@ -289,8 +289,8 @@ An optional convention to use with inverted minors is “Minorwood”, a
 jump to four of the minor after a two of a minor response. This becomes
 Roman Keycard Blackwood for the minor. For example,
 
-- 1♣ – 2♣!– 4♣!(asks for keycards)
-- 1♣ – 2♣! - 2♥ – 4♣!(asks for keycards)
+- 1♣ – 2♣!– 4♣! (asks for keycards)
+- 1♣ – 2♣! - 2♥ – 4♣! (asks for keycards)
 
 but not in a non-jump sequence such as 1♣ – 2♣! - 2♥ – 3♦ – 4♣ in which the players 
 simply discover they lack a spade stopper and decide to play in clubs.

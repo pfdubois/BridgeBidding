@@ -12,6 +12,9 @@ BUILDDIR      = build
 ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 PUBLISH = docs
 PUBNAME = BridgeBidding
+EPUB = build/epub/BridgeBidding.epub
+CLEAN_EPUB = build/epub/BridgeBiddingX.epub
+EBOOK_CONVERT_PATH = /Applications/calibre.app/Contents/MacOS/ebook-polish
 
 .PHONY: help clean html dirhtml singlehtml epub latex latexpdf text man linkcheck 
 
@@ -58,7 +61,12 @@ singlehtml:
 
 epub:
 	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
-	@echo
+#	@echo "Polishing EPUB with Calibre..."
+#	$(EBOOK_CONVERT_PATH) "$(EPUB)" "$(CLEAN_EPUB)" \
+#	  -u \
+#	  --add-soft-hyphens \
+#	  || echo "ebook-polish failed — ensure calibre tools are in PATH"
+#	@echo
 	@echo "Build finished. The epub file is in $(BUILDDIR)/epub."
 
 latex:

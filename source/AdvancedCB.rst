@@ -13,12 +13,12 @@ Advanced Checkback
    pair:convention;Fourth Suit Forcing
    pair:convention;New Minor Forcing
    
-The Checkback Family is New Minor Forcing (NMF), Fourth Suit Forcing, and XYZ. 
+The Checkback Family is New Minor Forcing (NMF), Fourth Suit Forcing (4sf), and XYZ. 
 NMF has a variant, Two-Way New Minor Forcing (TWNMF). The first two conventions were 
 covered previously; TWNMF is described in detail in this chapter.
 
 Two-way New Minor Forcing (TWNMF), also called Two-Way Checkback Stayman, distinguishes 
-invitational vs. game-forcing hands by using both 2♣ and 2♦ as artificial and is close to
+invitational vs. game-forcing hands by using both 2♣ and 2♦ as artificial and is
 universally used amongst experts instead of NMF.
 
 XYZ extends the idea of TWNMF to the case of the opener's rebid being 1♠, and
@@ -42,6 +42,9 @@ Two-way New Minor Forcing (TWNMF), also called Two-Way Checkback Stayman, applie
 a 1N rebid by opener after responder bids a major. Responder distinguishes invitational 
 vs. game-forcing hands with his first rebid.
 
+Playing this convention instead of NMF is, as Marty Bergen says, "Infinitely easier 
+and better".
+
 .. note::
 
    Some also play TWNMF after auctions that begin 1♣ - 1♦; I do not, to avoid
@@ -56,34 +59,34 @@ minimal values.
 Checkback: Invitational Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We bid 2♣!(artificial) with invitational hands containing five of our 
-major or four of the other major. Opener must rebid 2♦!(forced). 
+We bid 2♣! (artificial) with invitational hands containing five of our 
+major or four of the other major. Opener must rebid 2♦! (forced). 
 The bid can be explained as "invitational with five of our major or four of the
 other major, or a weak hand with diamonds".  
 
 After 1m - 1M - 1N, a weak hand with five cards in M should rebid 2M, to play.
 
-Then, in the case of 1m - 1♠ - 1N - 2♣!(artificial) - 2♦!(forced), responder bids:
+Then, in the case of 1m - 1♠ - 1N - 2♣! (artificial) - 2♦! (forced), responder bids:
 
 * Pass - signoff in 2♦.
-* 2♥- Invitational with 5 spades and 4 hearts.
-* 2♠- Mildly invitational with 5+ spades.
+* 2♥ - Invitational with 5 spades and 4 hearts.
+* 2♠ - Mildly invitational with 5+ spades.
 * 2NT - Invitational, with 4-card support for opener's minor. This allows
   opener to sign off in 3 of the minor if he wishes.
-* 3♣- Invitational with 4 spades and clubs.
-* 3♦- Invitational with 4 spades and diamonds.
-* 3♥- Invitational with 5-5 in the majors.
-* 3♠- Invitational with 6 spades.
+* 3♣ - Invitational with 4 spades and clubs.
+* 3♦ - Invitational with 4 spades and diamonds.
+* 3♥ - Invitational with 5-5 in the majors.
+* 3♠ - Invitational with 6 spades.
 
 If responder's suit had been hearts, make the corresponding changes:
 
 * Pass - signoff in 2♦.
-* 2♥- Mildly invitational with 5+ hearts
-* 2♠- Invitational with 5 hearts and four spades
-* 2NT- Invitational with four-card support for opener's minor.
-* 3♣- Invitational with 4 hearts and clubs
-* 3♦- Invitational with 4 hearts and diamonds
-* 3♥- Invitational with 6 hearts
+* 2♥ - Mildly invitational with 5+ hearts
+* 2♠ - Invitational with 5 hearts and four spades
+* 2NT - Invitational with four-card support for opener's minor.
+* 3♣ - Invitational with 4 hearts and clubs
+* 3♦ - Invitational with 4 hearts and diamonds
+* 3♥ - Invitational with 6 hearts
 
 If responder does not have support for opener's minor, and no interest in pursuing 
 a major fit, he raises 1N to 2N and does not use TWNMF. In the sequences above, 
@@ -105,7 +108,7 @@ Two-Suited Minimal Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 If you have a minimal hand and bypassed a five-card diamond suit to bid a four-card
-major, you can bid the 2♣!(relay) and pass the obligatory 2♦!(forced).
+major, you can bid the 2♣! (relay) and pass the obligatory 2♦! (forced).
 
 With 5 or more in M, bid 2M to drop dead.  With five spades and four hearts,
 bid 2H showing your shape; opener can pass or correct.  It should do better than 1N.
@@ -123,8 +126,8 @@ go through 2♦! first if we were just game-forcing. A jump to 3♦, such as
 
 Optionally, you can make 3♣ a slam try too and show the weak hand in clubs by bidding::
     
-    1N  2N!(relay to 3♣)
-    3♣!(forced)  Pass
+    1N  2N! (relay to 3♣)
+    3♣! (forced)  Pass
     
 This is possible since a plain balanced invite begins with the 2♣ relay so the direct
 2N is an unused bid. The problem is that the 2N bid may be error-prone. So I prefer

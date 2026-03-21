@@ -4,13 +4,12 @@ Bridge Bidding
 
 .. only:: html 
   
-   Copyright 2010-2024 by Paul F. Dubois (pfdubois@gmail.com)   
+   Copyright 2010-2026 by Paul F. Dubois (pfdubois@gmail.com)   
    
    |today|
    
    
-   :ref:`Copyright, PDF, and E-Book Version Downloads Information 
-   <Copyright>`  
+   :ref:`Link to information on Copyright, HTML, PDF, and E-Book Versions <Copyright>`  
    
 .. toctree::
    :caption: Table of Contents

@@ -207,7 +207,7 @@ The opener's rebids after the game-forcing bid are:
   hearts and four spades, but not extra values.
 - Supporting responder's minor shows at least four cards or perhaps three strong ones.
   2N is a option, see below. A jump-shift to the four level is a splinter in support of 
-  responder, such as 1♠ - 2♥ - 4♣!(club shortness in support of hearts).
+  responder, such as 1♠ - 2♥ - 4♣! (club shortness in support of hearts).
 - A new suit at the two level is natural, 4 cards, any strength. 
 - A new suit at the 3 level shows either extra length in the new suit or extra strength
   in the opener's hand.

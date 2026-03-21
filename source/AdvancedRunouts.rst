@@ -84,9 +84,9 @@ constraints are relaxed.
 I understand that as Meckwell themselves play it, the escape interchanges the redouble 
 and the pass:
 
-* Pass!(forcing, shows either clubs, diamonds, or both majors). 
+* Pass! (forcing, shows either clubs, diamonds, or both majors). 
 
-  Opener bids 2♣!(forced).
+  Opener bids 2♣! (forced).
   
   Next, responder passes or bids 2♦ with |5ormore| cards in the minor, or 2♥! 
   shows 4-4 majors or better.
@@ -125,8 +125,8 @@ After 1N (X), responder bids:
 
 -  Pass! – shows near-invitational or better values and a willingness to play 
    1N doubled.
--  Redouble! – Shows a five card suit; opener bids 2♣!(relay), pass or correct.
--  2x!(pass or correct) – denies a five-card suit, shows lowest 4-card suit, beginning a 
+-  Redouble! – Shows a five card suit; opener bids 2♣! (relay), pass or correct.
+-  2x! (pass or correct) – denies a five-card suit, shows lowest 4-card suit, beginning a 
    relay until a 7 card fit is found.
 -  3♣, 3♦, 3♥, 3♠: Preemptive, usually a seven card suit.
 -  3NT to play.
@@ -201,7 +201,7 @@ suits on his next turn, or pass a redouble for penalty.
 
 After 1N (X), responder bids:
 
-* Pass!(not necessarily for penalty)
+* Pass! (not necessarily for penalty)
 
   Opener must redouble or bid a five-card minor.  If the redouble comes back to 
   responder, he bids:

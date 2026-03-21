@@ -266,7 +266,7 @@ interest:
   three of the other major (3W) shows a power raise (18+ HCP).  It is a game force, 
   of course.
 
-  For example: 1N - 2♣ - 2♠ - 3♥!(power raise). Now opener should start 
+  For example: 1N - 2♣ - 2♠ - 3♥! (power raise). Now opener should start 
   :term:`control bidding`. (Control bidding will be discussed later).
 
 * With no fit, Responder bids notrump; how many notrump shows responder's strength:
@@ -279,9 +279,18 @@ interest:
    - 4♣ is plain :ref:`Gerber <Gerber>`, asking opener how many Aces they have.
 
 Note that having checked for a fit, the responder may know whether there is a
-fit or not but the opener does not know it yet. So, a sequence like 1N - 2♣ -
-2♠ - 4N is a :term:`quantitative` raise, not Ace-asking; and 4♣! is asking for
-Aces with :ref:`Gerber <Gerber>` and agreeing to the suit.
+fit or not but the opener does not know it yet. So:
+
+* 1N - 2♣ - 2♠ - 4N is a :term:`quantitative` raise, not Ace-asking; and 
+* 1N - 2♣ - 2♠ - 4♣! is :ref:`Gerber <Gerber>`.
+
+If you have found a spade fit and want to bid Blackwood or RKC over 2♠︎, you can't do
+it yet; bid 3♥︎! (power raise) and after opener shows a control or bids some level of 
+spades, then 4N will be available.
+  
+The point is that in the first case, responder may know we have a spade fit but 
+the opener does not, so 4N cannot be Ace-asking because the person being asked doesn't
+know the fit has been found.
 
 .. rubric::
    Opener's Third Bid
@@ -416,7 +425,7 @@ Interference by LHO
 
 When opener's LHO interferes, such as 1N (2♠), see 
 :ref:`Dealing With Interference Over 1N <1ninterference>`. Short answer: the standard
-is that bids are natural, and a redouble is Stayman. Double is by agreement but most 
+is that bids are natural, and 1N (X) XX is Stayman. Double is by agreement but most 
 usefully takeout at the two-level.
 
 One thing to know right now is that you cannot transfer on the three-level, as in 
@@ -450,7 +459,7 @@ Stayman.
 
 Garbage Stayman refers to bidding weak hands that are 4-4 or better
 in the majors. The idea is that you can bid Stayman even if you are not willing to pass
-a 2♦ reply. Playing Garbage Stayman, you now rebid 2♥!(weak, 4-4 in majors) and opener 
+a 2♦ reply. Playing Garbage Stayman, you now rebid 2♥! (weak, 4-4 in majors) and opener 
 passes or corrects to 2♠.  
 
 There is a more complicated version I am not mentioning, so check with partner.  
@@ -569,7 +578,7 @@ You don't use Texas if:
 Minor Relay
 -----------
 
-The 2♠!(long minor) response to 1N forces opener to bid 3♣!(forced), 
+The 2♠! (long minor) response to 1N forces opener to bid 3♣! (forced), 
 which responder can pass or correct to 3♦, to play. This is called a :term:`relay`.
 
 2♠ and the 3♣ reply are alertable. This is because the responder doesn't have spades,
@@ -812,22 +821,29 @@ absolutely no points, so generally responder controls the action.
 
 When 1N is doubled:
 
-* Doubling a 2♣ overcall is Stayman. 
 * If they make a penalty double, whatever agreements are in place for a 
-  :ref:`Runout <runout>` apply.
+  :ref:`Runout <runout>` apply. The default is that XX asks opener to bid 2♣︎ 
+  so that responder can place the contract in his best suit.
 * If they make an artificial double, systems are on.
+
+If they double and don't alert it, check their card or ask about it. It is too hard
+to get the director to protect you from a failure to alert and failure to alert is
+very common for some reason.
+
+After an overcall:
+* Over a 2♣︎ overcall, the system is on, and double is Stayman.
 * A cue-bid of diamonds, hearts, or spades is Stayman.
-* A double of diamonds, hearts, or spades is penalty -- but this is one of those areas
-  where many players treat it as takeout at the two-level.
+* A double of diamonds, hearts, or spades is penalty -- but many players treat it as 
+  takeout at the two-level.
 * Bids at the 2-level are less than invitational, natural, to play.
 * Bids at the 3-level are game-forcing, natural.
 * Bidding 2NT is natural, invitational and promises a stopper in their suit.
 * Bidding 3NT is natural, and promises a stopper in their suit.
 
-.. note::
-   Many intermediates play :ref:`stolen bids <stolenbids>`, instead. See below.
-   The defense played by advanced players is :ref:`Lebensohl <Lebensohl>`, a
-   somewhat difficult convention.
+These "natural" bids are the default. Many intermediates play 
+:ref:`stolen bids <stolenbids>`, instead. See below. The defense played by advanced
+players is :ref:`Lebensohl <Lebensohl>`, a somewhat difficult
+convention.
 
 We'll talk later about defending against interfering bids that are artificial and show
 two suits, one of them possibly unknown, in 
@@ -901,17 +917,18 @@ discussed.
 Stolen Bids
 ~~~~~~~~~~~
 
-A system popular with intermediates for dealing with overcalls of our 1N opener is 
-called "stolen bids". I think it is
-correct to mention it here because so many of your 
-intermediate partners will think it is standard. More advanced players will know how
-to play it but will be complaining that you should learn :ref:`Lebensohl <Lebensohl>`.
+A system popular with intermediates for dealing with overcalls of our 1N
+opener is called "stolen bids". I think it is correct to mention it here
+because so many of your intermediate partners will think it is standard.
+More advanced players will know how to play it but will be complaining
+that you should learn :ref:`Lebensohl <Lebensohl>`.
 
 - 1N (2a) X! means the same as if responder had bid the overcalled suit,
-  up to 2♠. In other words, a double means, "He stole my bid!". In particular
+  up to 2♥︎. In other words, a double means, "He stole my bid!". In particular
   a double of (2♣) is Stayman.
 - Any bid above the overcall has an unchanged meaning. However, bidding NT promises 
-  a stopper in the overcalled suit. Example: 1N (2♦) 2♥!(transfer to spades).
+  a stopper in the overcalled suit. Example: 1N (2♦) 2♥! (transfer to spades).
+- Agree with partner what 2♠︎ will mean; minor transfer most likely.
 - The three level bids don't have their special meanings; if a jump, it is a weak bid
   in the suit, such as 1N - (2♦) - 3♥(preemptive, hearts).
   
@@ -921,7 +938,7 @@ can get away with murder interfering with you, knowing you can't double them.
 
 The right answer is some form of the Lebensohl convention, which is quite advanced.
 You're lucky to find a partner who knows it. People who say they know it and don't 
-really are legion at the advanced-intermediate level.
+really know it are legion at the advanced-intermediate level.
 
 Natural
 ~~~~~~~

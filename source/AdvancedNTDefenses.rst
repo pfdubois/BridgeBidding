@@ -69,7 +69,7 @@ seat, or after two passes by partnership agreement,
 
 -  X! Long minor or both majors
 
-   Response: 2♣!(relay); then the doubler passes, corrects to 2♦, or
+   Response: 2♣! (relay); then the doubler passes, corrects to 2♦, or
    bids 2♥ to show both majors.
 
 -  2♣! Clubs and a major suit
@@ -103,7 +103,7 @@ by partnership agreement,
 -  X Equal hand, penalty-oriented
 -  2♣! Diamonds or, a minor and a major.
 
-   Advancer bids 2♦!(relay), and intervenor then passes or bids his major.
+   Advancer bids 2♦! (relay), and intervenor then passes or bids his major.
    Advancer can then ask for the minor with 2N! (good hand) or 3♣! (pass or correct).
 
 -  2♦! Both majors
@@ -144,7 +144,7 @@ After a 1N opening or overcall:
 -  X Shows an equal hand, penalty-oriented
 -  2♣! Shows both majors, as in Landy.
 -  2♦! Shows a single-suited hand in an unspecified major suit. Advancer relays 
-   with 2♥!(forced), pass or correct.
+   with 2♥! (forced), pass or correct.
 -  2♥! Shows long hearts and an unspecified four-card minor. 2N asks for the minor.
 -  2♠! Shows long spades and an unspecified four-card minor. 2N asks for the minor.
 -  2N Shows both minors.
@@ -228,8 +228,8 @@ Note that for these bids, the two suits in the alternative  are "touching".
 If responder passes, advancer always bids the next strain; if the intervenor has that
 suit he passes, otherwise bids the next suit up, pass or correct.  For example::
 
-   (1N) 2♣!(diamonds or the majors) (P) 2♦!(required)
-   ( P) 2♥!(the majors, pass or correct)
+   (1N) 2♣! (diamonds or the majors) (P) 2♦! (required)
+   ( P) 2♥! (the majors, pass or correct)
 
 There remain two more bids to include the non-touching combinations:
 

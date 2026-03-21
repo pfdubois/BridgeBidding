@@ -145,7 +145,7 @@ have a minimum.
 So what caused the problem? It was that opener's first suit was lower ranked than
 his second. Therefore the opener needs a very good hand to do that.
 
-A :term:`reverse` by opener is a rebid that meets two tests:
+A :term:`reverse` by opener is a rebid in a new suit that meets two tests:
 
 #. Opener's rebid is in a suit higher than his original suit, AND
 #. Opener's rebid is a level higher than responder's bid.
@@ -165,10 +165,11 @@ Example: 1♦ - 1♠ - 2♥. Hearts is higher than diamonds, and the 2♥ bid is
 Opener has more at least as many diamonds as hearts (typically 5-4).  
 
 There is one important exception. If responder has made a two-level bid he has
-shown at least 10 points, so if responder has to preference to 3♥, there is no
+shown at least 10 points, so if responder has to preference to the , there is no
 problem -- we're already known to have around 23 points. Therefore, we do not
-consider a 2-level continuation a reverse. For example, Pass - 1♥ - 2♣ - 2♥.
-The 2♣ bid shows 10+ points.
+consider a 2-level continuation a reverse. For example, after 1♣︎ (1♠︎) 2♥︎ (P), opener's 
+bid of 2♠︎ is not a reverse.  If responder doesn't like spades, he can bid 3♣︎ knowing 
+that the 2♥︎ bid shows 10+ points, so 3♣︎ will be "safe". 
 
 Downey and Pomer's book :title:`Standard Bidding With SAYC` has a long 
 section on reverses with a lot of examples.
@@ -227,7 +228,7 @@ mean a weak hand, and an offer to play there. And with (2), we get to start gues
    convention;Ingberman
    convention;Lebensohl
    
-Optionally, 2N!(relay) is a conventional bid telling your partner that you may
+Optionally, 2N! (relay) is a conventional bid telling your partner that you may
 have a minimal hand. It asks opener to rebid his first suit; then you will pass
 or correct to your suit. This convention is called Ingberman 2N or Lebensohl
 Over Reverses.  Your partner should say "alert" (which is why I used the
@@ -235,7 +236,7 @@ exclamation point).
 
 Any bid other than a suit preference or 2N is game forcing when using this convention.
 
-2N!(relay) - 3♣(forced) - 3♠(to play) shows a minimal hand like
+2N! (relay) - 3♣(forced) - 3♠(to play) shows a minimal hand like
 (1), while a direct 2♠ is forcing a round and shows 5+ spades. After the relay,
 bidding one of partner's two suits is showing a suit preference with a weak hand.
 

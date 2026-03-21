@@ -26,8 +26,7 @@ also apply to plain Blackwood.
 .. attention::
    Blackwood and RKC are tools for avoiding bad slams, not for finding slams.
 
-Be sure that any answer is acceptable, that you can still stop safely if you cannot
-bid slam. You can and must bid a six-level slam if you use Blackwood and then find you
+You can and must bid a six-level slam if you use Blackwood and then find you
 are off one Ace.
 
 A bid of 4N, when it is not quantitative, 
@@ -59,14 +58,11 @@ Roman Keycard Blackwood (RKC)
 .. index::
    pair: convention;RKC
    
-
-.. warning::
-   Before bidding RKC be sure you are able to tolerate any of its replies.
-   Be sure you're going to bid the slam if only off one keycard.
-   Off one keycard and the Queen of trump, do not bid the slam.
-   
 In a suit auction, 4N is almost always Roman Keycard Blackwood. If you are a beginner 
 you can play basic Blackwood but you should learn RKC early on.
+
+RKC is a tool for avoiding bad slams, not exploring for
+one. The person who bids it must be prepared for any of the possible replies.
 
 The responses are based on their being five :dfn:`keycards`, which are the four
 Aces and the King of trump. If a trump suit has not been agreed to, 4N implicitly
@@ -75,41 +71,78 @@ example, 1♥ – 1♠ – 4N is RKC for spades. The bidder in some circumstance
 be intending to end up in some other (higher) suit or notrump but for now
 responder answers as if the last bid suit is trump, which it very likely is.
 
+.. warning::
+   
+   Be sure you're going to bid the slam if only off one keycard.
+   Off one keycard and the Queen of trump, do not bid the slam.
+   
+You usually cannot use RKC if you have a side suit with two fast losers, such as 
+a doubleton. This is a frequent error.
+For example, you hold:
+
+::
+   ♠︎AKJ95 ♥︎AQT5 ♦︎84 ♣︎KQ
+   
+You are interested in a spade slam and partner has agreed spades. If you ask for keycards,
+you will be fine if partner has two keycards.  You will be fine if partner has no 
+keycards, you can just stop by bidding 5♠︎. But if partner says "1", you are in a pickle.
+If he has the A♣︎, you will go down in 6♠︎. If he has the A♦︎, you want to bid the slam.
+ 
 .. index::
    pair:RKC;responses
    
 .. rubric::
    Responses to RKC
 
+The responses are in steps; you should learn them as steps: "first step, zero or three", 
+rather than "5♣︎, one or four", because later you may want to learn other variations 
+that don't start at 4N:
 
-#. 5♣ One keycard or four keycards
-#. 5♦ Zero keycards or three keycards
-#. 5♥ Two or five keycards without the trump Queen
-#. 5♠ Two or five keycards with the trump Queen.
+* 5♣︎ – Zero keycards or three keycards
+* 5♦︎ – One keycard or four keycards
+* 5♥ – Two or five keycards without the trump Queen
+* 5♠ – Two or five keycards with the trump Queen.
 
-   Also bid 5♠ with two or five keycards and enough trump to
-   guarantee a 10 card fit, even if you do not have the Queen.
+Also bid 5♠ with two or five keycards and enough trump to
+guarantee a 10 card fit, even if you do not have the Queen.
+   
+The bids shown are the "3014" responses, sometimes pronounced "thirty
+fourteen". Switch the meanings of 5♣ and 5♦ and it is the “1430”
+responses. I use 3014 because 1430 won't work for clubs: 4N - 5♦ means
+zero and is already past 5♣.
+
+The 4N bidder should then bid the slam if only off one keycard. If you do not 
+have the Queen of trumps as well as being missing a keycard, do not bid slam, but 
+stop at 5 of your suit.  To ask for keycards and then stop at 5 is a sin called 
+"Chicken Blackwood". 
+
+We discuss how to find whether or not you have the Queen below. It isn't always possible.
+
 
 .. index:: 
    pair:RKC;responding with a void
 
 .. rubric::
    Responding with a (Useful) Void
-
--  5N Shows zero or two keycards and a useful void.
--  6 of any suit below the trump suit shows 1 or 3 keycards with a
-   useful void in the bid suit.
--  6 of the trump suit shows 1 or 3 controls and a useful void in a
-   higher suit.
    
-A void is not useful in a suit your partner bid.
+What is a "useful void"? If the opponents have been silent, it is any suit outside trumps
+except a suit your partner showed.  If they have bid a suit(s), it is their suit.
 
-The bids shown are the “1430” response. Switch the meanings of 5♣ and 5♦
-and it is the “3014” responses. I use 3014 because 1430 won't work for clubs:
-4N - 5♦ means zero and is already past 5♣.
+There are two methods I've heard of. This first one is the easiest: bid whatever strain
+you were going to bid, except bid it at the six level instead, but not past six trumps.
+For example, playing 1430, 1♥︎ – 4N – 6♦︎ would show zero or three plus a useful void, 
+and 1♥︎ – 4N – 6♥︎ would show two with a void. You don't have room to show if you do or 
+don't have the Q♥︎ since you can't bid past 6♥︎.
 
-RKC is a tool for avoiding bad slams, not exploring for
-one. The person who bids it must be prepared for any of the answers.
+The second method is:
+
+* 5N Shows zero or two keycards and a useful void.
+* 6 of any suit below the trump suit shows 1 or 3 keycards with a
+  useful void in the bid suit.
+* 6 of the trump suit shows 1 or 3 controls and a useful void in a
+  higher suit.
+   
+Remember, a void is not useful in a suit your partner bid.
 
 When 4N is NOT Ace-Asking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -123,7 +156,7 @@ A bid of 4N is not always RKC or Blackwood. Here are the exceptions:
 
 -  After 1N - 2♣ - 2M, 4N is quantitative. Responder can instead
    first bid 3W! (the other major) to agree on opener's suit and show extras.
-   Opener will bid a control and then 4N is Ace-asking.
+   Opener will bid a :term:`control` and then 4N is Ace-asking.
    
 -  After a 1x opener, a direct 4N is plain Blackwood. Responder has a
    self-sufficient trump suit and just needs to ask for aces.
@@ -134,10 +167,8 @@ other bid. See :ref:`Redwood <Redwood>` for example.
 When Not To Bid RKC
 ~~~~~~~~~~~~~~~~~~~
 
-It is generally useless to bid RKC if you are missing two keycards and
-have a worthless doubleton (worse than Kx or Ax). The problem is that you
-learn nothing if partner replies, “One keycard”. You may or may not have
-two fast losers. In general it is necessary to think ahead and make sure
+We mentioned the "worthless doubleton" trap. But there are other traps.
+It is necessary to think ahead and make sure
 you can take yes for an answer. Learning partner has two keycards but
 you don't want to be in a club slam is an unpleasant experience.
 
@@ -178,15 +209,16 @@ Bidding six of trumps shows an outside King in a suit above trumps.
 Asking For Kings
 ~~~~~~~~~~~~~~~~
 
-Asking for Kings promises that the partners hold all five keycards. To
-ask for Kings, the RKC bidder bids 5N. Responder bids the number of
-Kings *not counting the trump King*, using 6♣ is none, 6♦ is 1, and so on. 
+Asking for Kings promises that the partners hold all five keycards. It
+doesn't imply more values. To ask for Kings, the RKC bidder bids 5N.
+Responder bids the number of Kings *not counting the trump King*, using
+6♣ is none, 6♦ is 1, and so on. 
 
 .. _Specific_Kings:
 
 An alternate by agreement, called "Specific Kings",  is to show your lowest 
 King by bidding that suit if it is below trump. If it is impossible to show a 
-king because it is above 6  of your trump suit. you should either make an impossible bid
+king because it is above 6 of your trump suit. you should either make an impossible bid
 (e.g., show a king you have denied earlier in the auction) or just bid 6 of your suit.
 
 Responder has the right to just bid the grand slam if he can tell he has 
@@ -326,8 +358,7 @@ two diamond losers.
 As it is, if we ask with 4N, the reply is 5♥, two without the Queen. We are missing 
 an Ace and the Queen of trump. That's too much -- if we are missing just one keycard 
 but have the Queen of trump, that's a 6♥ bid.  As it is, we just pass 5♥.
-The 1N system did its job very well, this is not a good slam, about 25%. This hand is
-a perfect example of this admonition:
+The 1N system did its job very well, this is not a good slam, about 25%. 
 
 If West had been the dealer, after 1♥ - 2N! - 3N! - 4♦(control), we would get to the
 same place. 

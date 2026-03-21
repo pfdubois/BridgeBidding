@@ -38,7 +38,7 @@ Flannery 2♦
    pair: convention; Flannery 2♦
    pair: opening; Flannery 2♦
 
-The Flannery 2♦!(5 hearts, four spades, 11 to 15 HCP) opener covers a hand with five
+The Flannery 2♦! (5 hearts, four spades, 11 to 15 HCP) opener covers a hand with five
 hearts and four spades and values insufficient to reverse on the second bid.
 Obviously, you lose the ability to make a weak 2♦ opener.
 
