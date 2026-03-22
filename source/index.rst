@@ -24,6 +24,7 @@ Bridge Bidding
    Opening
    Planning
    NoTrump
+   NTSummary
    TwoNT
    MinorOpenings
    Checkback

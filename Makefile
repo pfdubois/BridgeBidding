@@ -13,8 +13,8 @@ ALLSPHINXOPTS   = -d $(BUILDDIR)/doctrees $(SPHINXOPTS) source
 PUBLISH = docs
 PUBNAME = BridgeBidding
 EPUB = build/epub/BridgeBidding.epub
-CLEAN_EPUB = build/epub/BridgeBiddingX.epub
-EBOOK_CONVERT_PATH = /Applications/calibre.app/Contents/MacOS/ebook-polish
+#CLEAN_EPUB = build/epub/BridgeBiddingX.epub
+#EBOOK_CONVERT_PATH = /Applications/calibre.app/Contents/MacOS/ebook-polish
 
 .PHONY: help clean html dirhtml singlehtml epub latex latexpdf text man linkcheck 
 
