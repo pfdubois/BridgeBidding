@@ -136,12 +136,12 @@ Worst case: you have a bad, flat hand. Bid the 4 card suit and hope.
 
 Examples, assuming responder is not 4333:
 
-* After 1N (X) - Pass! - 2♣, suppose responder is 2434 or 4432. He will bid 2♥. 
+* After 1N (X) – Pass! – 2♣, suppose responder is 2434 or 4432. He will bid 2♥. 
   If opener has a heart doubleton, he must have at least three in all the other suits 
   because he does not have two doubletons.  Therefore he can bid 3♠, and if that
   is not responder's "other suit", responder can end the auction at 3♣. 
 
-* 1N - (X) - 2♦!, responder shows diamonds and a higher suit. If opener has only a 
+* 1N – (X) – 2♦!, responder shows diamonds and a higher suit. If opener has only a 
   doubleton in diamonds he will bid 2♥. Otherwise he passes. If hearts is not responder's 
   second suit he bids his second suit, knowing opener must have three of them.
 
@@ -174,7 +174,7 @@ or cue bid the opponent's suit, it is forcing.
 When RHO doubles after two passes,  we know responder is not invitational
 since he passed, but he could have up to near-invitational values. 
 
-After 1N - (P) - P - (X), opener:
+After 1N – (P) – P – (X), opener:
 
 -  Opener should bid a five card suit if they have one. Otherwise opener
    should pass and let responder bid if LHO is silent.
@@ -206,10 +206,10 @@ After 1N (X), responder bids:
   Opener must redouble or bid a five-card minor.  If the redouble comes back to 
   responder, he bids:
   
-  - Pass. If they bid all doubles are for penalty.
-  - 2♣! shows clubs and diamonds;
-  - 2♦! shows diamonds and hearts;
-  - 2♥! shows hearts and spades.
+  – Pass. If they bid all doubles are for penalty.
+  – 2♣! shows clubs and diamonds;
+  – 2♦! shows diamonds and hearts;
+  – 2♥! shows hearts and spades.
     
 * 2♣ shows clubs and a major. 
 
@@ -224,7 +224,7 @@ After 1N (X), responder bids:
 .. rubric::
    Fourth Seat Doubles
 
-After 1N - (P) - P - (X), opener:
+After 1N – (P) – P – (X), opener:
 
 * Redoubles to show a five-card minor. Responder relays to 2♣ or bids 2♦ to show 5 
   diamonds and not 3 clubs.

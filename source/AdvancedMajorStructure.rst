@@ -45,7 +45,7 @@ A Sample Alternative Structure
 
 Here is an example structure by Gavin Wolpert.  He has a course "Master Series 
 Major Suit Structure" you should take if you intend to adopt this approach as it 
-includes details and follow ons. When judging some other major raise structure, 
+includes details and follow-ons. When judging some other major raise structure, 
 knowing the arguments about this one may help.
 
 .. note::
@@ -90,7 +90,7 @@ Playing help-suit or natural game tries after a constructive raise is your choic
 
 When we have |4ormore| trump, we bid 3M, also showing a range of 8-10 dummy points.
 This is called a "mixed raise". 
-We give up the premptive four-card raise in favor of this one since mixed raises
+We give up the preemptive four-card raise in favor of this one since mixed raises
 help opener judge whether or not to bid the game.  Nine-card fits are incredibly more 
 likely to make game than eight-card fits.
 

@@ -22,7 +22,7 @@ my books with an exclamation mark after them.
 Some bids that would appear to need an alert do not because they have become so common
 that they are no longer "unexpected" meanings.  In some cases the ACBL has decided 
 the alert is helping the offense by reminding partner of the special meaning more than
-it is helping the defense. The most famous of these is Stayman: 1N - 2♣ would seem
+it is helping the defense. The most famous of these is Stayman: 1N – 2♣ would seem
 to require an alert because it does not show clubs. But by now, "everybody" knows that.
 
 It is better to alert if you aren't sure. Opponents will help you learn when it is not 
@@ -49,7 +49,7 @@ opponents that, but only at the right time:
   own side's defense and not allowed.
 * Absolutely NEVER correct what your partner just said. It is a terrible case of 
   unauthorized information.  Don't do it by making a big face, either. It amounts to
-  cheating. Some expter tournaments use screens so that people can't see their partner for
+  cheating. Some expert tournaments use screens so that people can't see their partner for
   this reason.
   
 You do have to volunteer this information.  You might say to the opponents, for example,
@@ -99,6 +99,6 @@ it helps your partner.  The cases are:
   and then rebid a strong NT, but they alert rather than announce.
   
 * On Jacoby transfers to a major, announce the suit partner has shown (e.g., "spades").
-  Note that 1N - 2S as the Minor Relay is alerted. It is a relay not a transfer.
+  Note that 1N – 2S as the Minor Relay is alerted. It is a relay not a transfer.
   
 * When 1N is forcing, partner announces "forcing".

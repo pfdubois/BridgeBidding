@@ -43,7 +43,7 @@ hearts and four spades and values insufficient to reverse on the second bid.
 Obviously, you lose the ability to make a weak 2♦ opener.
 
 If you open 1♥ then responder will assume you do not hold four spades, and in particular 
-1♥ - 1♠ shows five spades. 
+1♥ – 1♠ shows five spades. 
 
 The responses are:
 
@@ -55,13 +55,13 @@ The responses are:
 
 * 2N! inquires about opener's minor suits. The bid is one-round forcing. Responses are:
   
-  - 3♣ shows a 4=5=1=3 shape.
-  - 3♦ shows a 4=5=3=1 shape.
-  - 3♥ shows a 4=5=2=2 shape, minimum.
-  - 3♠ shows a 4=5=2=2 shape, maximum.
-  - 3N shows a 4=5=2=2 shape, both minors stopped.
-  - 4♣ shows a 4=5=0=4 shape.
-  - 4♦ shows a 4=5=4=0 shape.
+  * 3♣ shows a 4=5=1=3 shape.
+  * 3♦ shows a 4=5=3=1 shape.
+  * 3♥ shows a 4=5=2=2 shape, minimum.
+  * 3♠ shows a 4=5=2=2 shape, maximum.
+  * 3N shows a 4=5=2=2 shape, both minors stopped.
+  * 4♣ shows a 4=5=0=4 shape.
+  * 4♦ shows a 4=5=4=0 shape.
 
 A sequence such as 2♦!-2N!-3♦!-3M would be invitational, not forcing. 
   

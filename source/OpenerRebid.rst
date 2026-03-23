@@ -15,7 +15,7 @@ Opener's second bid is called his "rebid". This chapter discusses opener's rebid
 in particular when 1N is forcing or a 2/1 game forcing bid has occurred.
 
 Bidding a :term:`control` is covered later in :ref:`Control Bidding <control_bidding>`,
-but in simplist terms think "bidding my Aces and voids up the line".
+but in simplest terms think "bidding my Aces and voids up the line".
 
 After A Major Raise
 ~~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ five trump and a weak hand, not a strong hand.
 In all cases opener can explore for slam with a :term:`control bid`, :term:`splinter`,
 :ref:`Blackwood <Blackwood>` or :ref:`Roman Keycard Blackwood <RKC>`.
 
-After One Heart - One Spade
+After One Heart – One Spade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The 1♠ response is not limited and therefore opener must bid. Be aware
@@ -85,11 +85,11 @@ Opener's rebid over a forcing 1N response is as follows.
 -  If none of the above applies, bid the longest side suit up the line,
    but always rebid hearts when holding |4ormore| hearts and five spades.
 
-The last rule can mean bidding a short minor suit. For example, after 1♠ - 1N(forcing),
+The last rule can mean bidding a short minor suit. For example, after 1♠ – 1N(forcing),
 
    ♠KQJT7 ♥KJT ♦A83 ♣74
 
-opener has to bid 2♦; and after 1♥ - 1N(forcing),
+opener has to bid 2♦; and after 1♥ – 1N(forcing),
 
    ♠AQJT ♥KJT85 ♦Q4 ♣74
 
@@ -134,7 +134,7 @@ always opening 1N with a five-card major.
 Note that responder's 1N forcing bid limited his hand to a maximum of 12
 points.
 
-If opener has rebid his major, e.g. 1♠ – 1N(forcing) - 2♠, then
+If opener has rebid his major, e.g. 1♠ – 1N(forcing) – 2♠, then
 responder's bids are:
 
 -  pass with 6-9 HCP
@@ -157,9 +157,9 @@ If opener has rebid a minor,
 -  Jump raise the major to 3M with 10-12 points, 3 trumps.
 -  Raise the minor is 10-12 points, usually |5ormore| in the suit.
 -  Sometimes responder jumps to game with a hand that got better when
-   opener rebid. For example, 1♠ – 1N(forcing) - 2♥ – 4♥.
+   opener rebid. For example, 1♠ – 1N(forcing) – 2♥ – 4♥.
 
-After a jump shift by opener, e.g. 1♠ – 1N(forcing) - 3♣,
+After a jump shift by opener, e.g. 1♠ – 1N(forcing) – 3♣,
 
 -  responder usually prefers back to opener's major with 2 card support,
    or bids 3N with stoppers, even when holding good four card support in
@@ -168,7 +168,7 @@ After a jump shift by opener, e.g. 1♠ – 1N(forcing) - 3♣,
 -  With 3 card support in the major and 10-12 support, responder jumps
    to game in the major.
 
-The auction 1♠ – 1N! - (2♦ or 2♥) – 3♣ is to play, although with a
+The auction 1♠ – 1N! – (2♦ or 2♥) – 3♣ is to play, although with a
 specially suitable hand opener may make another call.
 
 With a flattish 13-15, but relatively weak holdings in the 4-card
@@ -195,7 +195,7 @@ points to bid 3♣.
 
 I'm going to teach what at the moment is the trend, (A). When I first started to write
 this book twenty years ago, it was decidedly (B), as popularized by Hardy.
-There are also divisions about whether 1♦ - 2♣ is a game-force; Lawrence, for example,
+There are also divisions about whether 1♦ – 2♣ is a game-force; Lawrence, for example,
 says no.  But this book will say yes.
 
 The opener's rebids after the game-forcing bid are:
@@ -207,7 +207,7 @@ The opener's rebids after the game-forcing bid are:
   hearts and four spades, but not extra values.
 - Supporting responder's minor shows at least four cards or perhaps three strong ones.
   2N is a option, see below. A jump-shift to the four level is a splinter in support of 
-  responder, such as 1♠ - 2♥ - 4♣! (club shortness in support of hearts).
+  responder, such as 1♠ – 2♥ – 4♣! (club shortness in support of hearts).
 - A new suit at the two level is natural, 4 cards, any strength. 
 - A new suit at the 3 level shows either extra length in the new suit or extra strength
   in the opener's hand.
@@ -285,9 +285,9 @@ When no fit is established, responder's second bid is as follows:
 - A jump in a new suit shows a singleton or void in that suit and
   support for opener's last bid major suit. Thus:
 
-  - 1♠ – 2♣ – 2♠ – 4♦!
-  - 1♠ – 2♣ – 2N – 4♦!
-  - 1♠ – 2♣ – 3♣ – 4♦!
+  * 1♠ – 2♣ – 2♠ – 4♦!
+  * 1♠ – 2♣ – 2N – 4♦!
+  * 1♠ – 2♣ – 3♣ – 4♦!
 
   All show a :term:`splinter` in diamonds in support of spades.
   
@@ -346,7 +346,7 @@ points responder should bid game.
 If agreement at 2♠ is reached through some sequence such as 1♦ – 1♠ –
 2♠, a responder's bid of 3♣ would again be a help-suit game try.
 
-So what meaning then should we give to 1M - 2M - 3M? The simple interpretation is that
+So what meaning then should we give to 1M – 2M – 3M? The simple interpretation is that
 this invites partner to bid game if on the top of his 2M bid. However, one can also
 play it, and I do, as a sort of trump-suit game try -- asking partner for help in 
 the trump suit, perhaps holding a hand with the strength mostly outside the 

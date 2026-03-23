@@ -68,7 +68,7 @@ typically is a jump-shift and takes 19 HCP.
 
 The second difficult case is that you have a strong two-suited hand
 and are tempted to open 2♣.  It can be quite difficult to show both suits before getting
-too high.  Especially with both minors, the auction 2♣ - 2♦ - 3m gets you to a very 
+too high.  Especially with both minors, the auction 2♣ – 2♦ – 3m gets you to a very 
 awkward place. So, opening 2♣ with say 22 HCP is not required.  If your partner really has
 nothing and passes your opening bid, you probably are not missing a game anyway.  
 But certainly with hands even better than that, you have to open 2♣.

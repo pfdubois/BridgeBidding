@@ -5,7 +5,7 @@
 All About Jump-Shifts
 =====================
 
-A :term:`jump-shift` is a jump bid of a new suit. For example 1♥ - 3♣ is a jump-shift 
+A :term:`jump-shift` is a jump bid of a new suit. For example 1♥ – 3♣ is a jump-shift 
 because a bid of 3♣ is a jump over 1♥. In understanding the meaning of such a bid we 
 must recognize the situation. Specifically, 
 
@@ -30,16 +30,16 @@ competition is our agreement. If it isn't a strong bid, it must be alerted.
 
 For example:
 
-* 1♣ - (1♦) - 2♥ shows a hand with weak values, not interest in game, with
+* 1♣ – (1♦) – 2♥ shows a hand with weak values, not interest in game, with
   six hearts. No alert is required.
-* 1♥ - (X) - 3♣ shows a hand with weak values, not interested in game, 
+* 1♥ – (X) – 3♣ shows a hand with weak values, not interested in game, 
   with |6ormore| clubs. No alert is required.
-* (1♣) - P - (1♥) - 2♠ is premptive, |6ormore| spades. No alert required.
-* If 1♣ - 2♠ is preemptive, alert it.
-* If 1♥ - 3♣ is preemptive, alert it.
+* (1♣) – P – (1♥) – 2♠ is preemptive, |6ormore| spades. No alert required.
+* If 1♣ – 2♠ is preemptive, alert it.
+* If 1♥ – 3♣ is preemptive, alert it.
 
 A jump-shift could also be a conventional bid, such as a 
-Bergen raise, or the special cases such as 1♦ - 3♣ where it is invitational.
+Bergen raise, or the special cases such as 1♦ – 3♣ where it is invitational.
 Another alternative is to play 
 :ref:`fit-showing jumps <fit_showing_jump>`. Those are great but a little tricky.
 
@@ -73,7 +73,7 @@ Opener could hold hands as different as:
     | AJxxx KJ xxx KJx or 
     | AQJxx Ax xxxx Kx
 
-Using a strong jump-shift, 1♥ - 3♦ - 3N - 4♠ leaves the decision to go on
+Using a strong jump-shift, 1♥ – 3♦ – 3N – 4♠ leaves the decision to go on
 to the opener, where it should be, because it is the opener's hand that is 
 most unknown. In the case of the second hand, knowing there are the points for slam, 
 and partner has show a decent five card diamond suit, spade support, and
@@ -90,7 +90,7 @@ where you want to go. Thus the utility of the jump-shift came into question.
 Good players remain divided on the issue: weak? strong? or something else?
 It is up to you and your partner. 
 
-Some jump shifts, by the way, are a little hard to spot, particularly 1♥ - 2♠. 
+Some jump shifts, by the way, are a little hard to spot, particularly 1♥ – 2♠. 
 Feel sorry for your partner when he goofs.  
 
 .. index:: Soloway Jump Shifts

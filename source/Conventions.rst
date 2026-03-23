@@ -101,8 +101,8 @@ Improving Your 1N Structure
   
 Three conventions that use the :term:`puppet` concept are:
 
-* :ref:`Five-Card Stayman <fivecardstayman>` (1N - 3♣!),
-* :ref:`Smolen<Smolen>` (1N - 2♣ - 2♦ - 3M), and 
+* :ref:`Five-Card Stayman <fivecardstayman>` (1N – 3♣!),
+* :ref:`Smolen<Smolen>` (1N – 2♣ – 2♦ – 3M), and 
 * :ref:`Puppet Stayman <puppet_stayman>`.
 
 Of these, Five-Card Stayman is the best improvement to the basic 1N system that you 
@@ -114,7 +114,7 @@ can make, and adding it does not affect the rest of your structure.
    concealing the opener's four-card holdings.
    
 You can expert-level the rest of your 1N system with four-way transfers and 
-improved 1N - 3M splinters in the chapter 
+improved 1N – 3M splinters in the chapter 
 :ref:`Advanced One Notrump Structure <AdvancedNT>`.
 
 More Advanced Concepts

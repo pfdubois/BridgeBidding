@@ -55,7 +55,7 @@ Walker gives this example for a very strong hand that came up at a sectional::
 
    ♠AKQ84 ♥A98 ♦A8 ♣A54
 
-The use of a traditional jump-shift resulted in the auction 1♦- 2♠ - 3♥.
+The use of a traditional jump-shift resulted in the auction 1♦ - 2♠ - 3♥.
 Responder was now stuck: 3N isn't strong enough, and could be passed. You can't
 rebid spades or raise diamonds or hearts, and you don't know if diamonds or
 hearts are running. Change one of the Aces to a 10 or J and the 3N rebid would

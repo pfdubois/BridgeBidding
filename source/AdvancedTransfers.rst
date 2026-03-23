@@ -71,7 +71,7 @@ Transfer Advances
 -----------------
 
 Transfer Advances (aka Rubens Advances) is a different way of responding to
-partner's overcalls in a major.  E.g., (1♣)-1♥-(P)-?. Recall that in this context a 
+partner's overcalls in a major.  E.g., (1♣) – 1♥ – (P) – ?. Recall that in this context a 
 bid of 2m is not forcing nor is 2♥. We can do more using Transfer Advances.
 
 There are as many versions of this convention as their are people who play it.
@@ -98,26 +98,26 @@ After the transfer bid, 99% of the time overcaller completes the
 transfer. Any following bids are natural.
 
 If advancer's next bid is overcaller's suit, it is to play but with a lead-direction 
-to the suit we transfered to::
+to the suit we transferred to::
 
-   (1♣)-1♥-(P)-1N! (clubs) 
-   (P )-2♣-(P)-2♥
+   (1♣) – 1♥ - (P) - 1N! (clubs) 
+   (P ) - 2♣ - (P)- 2♥
    
 We have three card support but the bid is to play with a club lead wanted if they 
 declare.
 
 Transfer to the overcalled suit is by contrast a good raise.
 
-   (1♣)-1♥-(P)-2♦! (hearts)
-   (P )-2♥-(P)- ?
+   (1♣) - 1♥- (P) -2 ♦! (hearts)
+   (P ) - 2♥ -(P)- ?
    
 At this point overcaller can bid hearts at an appropriate level or a game try in another
 suit. 
 
 You can also bid a second suit::
 
-   (1♣)-1♥-(P)-1N! (clubs)
-   (P )-2♣-(P)-2♦
+   (1♣) - 1♥ - (P) - 1N! (clubs)
+   (P ) - 2♣ - (P) - 2♦
    
 showing diamonds but longer clubs.
 

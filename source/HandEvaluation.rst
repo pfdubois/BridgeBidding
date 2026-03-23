@@ -12,7 +12,7 @@ for exchanging information with your partner about your hand: its strength, its 
 its stoppers in other suits. You can't tell your partner anything without first 
 knowing what you want to say.
 
-Learning this is the work of a lifetime. Further, this judgement must change with every 
+Learning this is the work of a lifetime. Further, this judgment must change with every 
 step of the auction; our ♠KJ75 becomes decidedly less valuable when the opponent to our 
 left bids spades, The same holding became decidedly more valuable when partner bids or 
 supports spades.
@@ -51,7 +51,7 @@ hands all have the same value, 13 HCP:
 
 -  ♠AQ7 ♥K54 ♦K32 ♣J432 
 -  ♠AQT ♥KT9 ♦KT9 ♣JT98 
--  ♠AKQJT987 ♥- ♦KT987 ♣-
+-  ♠AKQJT987 ♥--- ♦KT987 ♣---
 -  ♠A32 ♥K54 ♦KQJ ♣5432 
 -  ♠QJ ♥QJ ♦QJ2 ♣KJ7654 
 
@@ -66,7 +66,7 @@ Subtract one point for a :term:`flat` (4-3-3-3) hand.
 If you get a very distributional hand, such as a 6-5-1-1, be very aggressive; 
 such hands will take a lot of tricks.  "Six-five, come alive" is wise advice.  
 
-A "good" or "upgradeable" hand for a given point count is one with the honors
+A "good" or "upgradable" hand for a given point count is one with the honors
 concentrated and / or touching, and with more than its expected share of 9's
 and 10's, with Aces and Kings more than Queens and Jacks. A "bad" or
 "downgradeable" hand is the opposite. .
@@ -177,9 +177,9 @@ The initial "starting points" for Bergen are determined by a five-step process:
   
 #. Classify the hand as upgradable or downgradeable.
 
-A hand is upgradeable if:
+A hand is upgradable if:
 
-* It has10s, 9s, or 8s -- these intermediate cards make a big difference.  A normal 
+* It has 10s, 9s, or 8s -- these intermediate cards make a big difference.  A normal 
   expectation is one of each.
 * A good shape, such as 5422 or 6331, rather than 5332 or 6322.
 * The honors are in your long suits, or together, rather than in separate suits, or

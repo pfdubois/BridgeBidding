@@ -54,7 +54,7 @@ In most of bridge literature they use OM for "other major". Obviously my way is
 The Way. 
 
 Bids by a partnership without interference are separated by spaces or a
-dash, as in 1N - 2♥ - 2♠ or 1N-2♥-2♠ or just 1N 2♥ 2♠. If a bid is
+endash, as in 1N – 2♥ – 2♠ or just 1N 2♥ 2♠. If a bid is
 alertable, it is followed by an exclamation point and a suggested
 explanation, as in 
 

@@ -42,9 +42,9 @@ Aces, a bid of 5N asks how many Kings partner has, using the same scheme.
 
 For example::
 
-   1♠ - 2♥
-   3♥ - 4N (Blackwood)
-   5♥(2 Aces) - 5N(Kings?)
+   1♠ – 2♥
+   3♥ – 4N (Blackwood)
+   5♥(2 Aces) – 5N(Kings?)
    5♦(1 King)
    
 Be sure you've agreed to a suit before concluding partner's 4N is Blackwood rather than
@@ -86,7 +86,7 @@ For example, you hold:
 You are interested in a spade slam and partner has agreed spades. If you ask for keycards,
 you will be fine if partner has two keycards.  You will be fine if partner has no 
 keycards, you can just stop by bidding 5♠︎. But if partner says "1", you are in a pickle.
-If he has the A♣︎, you will go down in 6♠︎. If he has the A♦︎, you want to bid the slam.
+If he has the ♣︎A, you will go down in 6♠︎. If he has the ♦︎A, you want to bid the slam.
  
 .. index::
    pair:RKC;responses
@@ -108,7 +108,7 @@ guarantee a 10 card fit, even if you do not have the Queen.
    
 The bids shown are the "3014" responses, sometimes pronounced "thirty
 fourteen". Switch the meanings of 5♣ and 5♦ and it is the “1430”
-responses. I use 3014 because 1430 won't work for clubs: 4N - 5♦ means
+responses. I use 3014 because 1430 won't work for clubs: 4N – 5♦ means
 zero and is already past 5♣.
 
 The 4N bidder should then bid the slam if only off one keycard. If you do not 
@@ -132,7 +132,7 @@ There are two methods I've heard of. This first one is the easiest: bid whatever
 you were going to bid, except bid it at the six level instead, but not past six trumps.
 For example, playing 1430, 1♥︎ – 4N – 6♦︎ would show zero or three plus a useful void, 
 and 1♥︎ – 4N – 6♥︎ would show two with a void. You don't have room to show if you do or 
-don't have the Q♥︎ since you can't bid past 6♥︎.
+don't have the ♥︎Q since you can't bid past 6♥︎.
 
 The second method is:
 
@@ -154,7 +154,7 @@ A bid of 4N is not always RKC or Blackwood. Here are the exceptions:
 
 -  After a 1N opener and transfer to a major, 4N is quantitative. 
 
--  After 1N - 2♣ - 2M, 4N is quantitative. Responder can instead
+-  After 1N – 2♣ – 2M, 4N is quantitative. Responder can instead
    first bid 3W! (the other major) to agree on opener's suit and show extras.
    Opener will bid a :term:`control` and then 4N is Ace-asking.
    
@@ -236,17 +236,17 @@ Rarely, your Ace-asking bid may be interfered with. If the opponents overcall
 zero, pass one".  That allows you to give these more negative bids cheaply. In
 both cases the first available suit becomes your corresponding next
 higher-level response. It is easiest to be consistent. For example, playing RKC
-1430, with diamonds as trump, after 4N - (5♥), 
+1430, with diamonds as trump, after 4N – (5♥), 
 
 * Double is one or 4 keycards;
 * Pass is zero or 3 keycards; 
-* 5♠ is two keycards, no Q♦;
-* 4N is two keycards with the Q♦, or a known 10 diamonds.
+* 5♠ is two keycards, no ♦Q;
+* 4N is two keycards with the ♦Q, or a known 10 diamonds.
 
-Similarly, after a 4N - (X), ROPI stands for "redouble zero, pass one". 
+Similarly, after a 4N – (X), ROPI stands for "redouble zero, pass one". 
 
 Note that when the opponent doubles your response to an Ace-asking bid, such as 
-4N - (pass) - 5♦ - (X), this is normally lead-directing, not penalty, because it is a 
+4N – (pass) – 5♦ – (X), this is normally lead-directing, not penalty, because it is a 
 double of an artificial bid. 
 
 Gerber
@@ -312,7 +312,7 @@ bids show first- or second-round controls).
   control in the skipped suit(s).
 
 Nothing stops you from cue bidding below the game level and then asking for 
-Aces.  For example, 1♥ - 3♥ - 4♦ - 4N. Here, the 4♦ bid showed a 
+Aces.  For example, 1♥ – 3♥ – 4♦ – 4N. Here, the 4♦ bid showed a 
 first-round control in diamonds and denied holding one in clubs. 4N is RKC,
 but the bidder is aware of the possible issue in clubs.  Instead of 4N, 
 a bid of 5♣ would show that control and deny one in spades. Indeed, suppose responder
@@ -347,12 +347,12 @@ in the major reply, is::
    3♠!    4♦ 
    
 where West made a power raise and East then showed a diamond control but not a club 
-control.  Since East opened 1N, that can't be shortness so East has the A♦ but not 
-the A♣.
+control.  Since East opened 1N, that can't be shortness so East has the ♦A but not 
+the ♣A.
 
 Note that West has a worthless doubleton diamond and without the 4♦ bid could not 
 ask for keycards. If West asked and East had as much as two with the Queen, we'd have
-all but one keycard and bid 6♥. But if the two were the A♠ and the A♣ we might have
+all but one keycard and bid 6♥. But if the two were the ♠A and the ♣A we might have
 two diamond losers.
 
 As it is, if we ask with 4N, the reply is 5♥, two without the Queen. We are missing 
@@ -360,5 +360,5 @@ an Ace and the Queen of trump. That's too much -- if we are missing just one key
 but have the Queen of trump, that's a 6♥ bid.  As it is, we just pass 5♥.
 The 1N system did its job very well, this is not a good slam, about 25%. 
 
-If West had been the dealer, after 1♥ - 2N! - 3N! - 4♦(control), we would get to the
+If West had been the dealer, after 1♥ – 2N! – 3N! – 4♦(control), we would get to the
 same place. 

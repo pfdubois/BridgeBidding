@@ -8,8 +8,8 @@ Glossary
 
 
    ACBL
-      The American Contract Bridge League (acbl.org) issues the rules that
-      govern most tournament play in North America. 
+      The American Contract Bridge League (acbl.org) that unfortunately issues the rules 
+      that govern most tournament play in North America. 
 
    Captain
       Refers to the partner who knows the other's strength and shape within 
@@ -89,7 +89,7 @@ Glossary
       for takeout or for balancing. 
 
    Sandwich 1N
-      After opponents have bid 1x - 1y, a 1N conventional bid to show the other two suits 
+      After opponents have bid 1x – 1y, a 1N conventional bid to show the other two suits 
       with a sub-opening hand.
       
    Smolen
@@ -145,7 +145,7 @@ Glossary
 
    balancing
       To make a bid in :term:`passout seat` when your partner has passed.
-      For example, (1♥) - P - (\P) - 1♠ and (1♥) - P- (2♥) - P; (\P) 2♠
+      For example, (1♥) – P – (\P) – 1♠ and (1♥) – P- (2♥) – P; (\P) 2♠
       are balancing bids.
 
    bid
@@ -224,7 +224,7 @@ Glossary
       
    flag bid
       An artificial bid that shows one of two different suits. An example is after a 
-      1N - 2♠ minor relay convention, opener bids 3♣. If responder then bids 3 of a major
+      1N – 2♠ minor relay convention, opener bids 3♣. If responder then bids 3 of a major
       it is a flag bid, 3♥ showing a slam try in clubs and 3♠ a slam try in diamonds.
   
    flat
@@ -297,7 +297,7 @@ Glossary
    LMH steps
       In some advanced conventions, the next three steps show the corresponding three
       suits not including a suit (such as trump) that would not have the desired 
-      property (such as shortness) in a low - middle - high order.
+      property (such as shortness) in a low – middle – high order.
       
    major
       Spades or hearts; frequently abbreviated :abbr:`M`.
@@ -410,7 +410,7 @@ Glossary
 
    semi-forcing
       A bid that is forcing but passable by a hand with an utter minimum.
-      See oxymoron. Usually refers to making 1M - 1N semi-forcing rather than
+      See oxymoron. Usually refers to making 1M – 1N semi-forcing rather than
       forcing.
       
    short
@@ -430,8 +430,8 @@ Glossary
             
    splinter
       A triple-jump bid showing a stiff or a void in the suit bid and agreeing to 
-      partner's last-bid suit as trump. Examples are 1♠ - 4♥!, 1♥ - 4♣!, and the 
-      tricky one, 1♥ - 3♠!.
+      partner's last-bid suit as trump. Examples are 1♠ – 4♥!, 1♥ – 4♣!, and the 
+      tricky one, 1♥ – 3♠!.
  
    stiff
       Slang for :term:`singleton`.
@@ -467,8 +467,8 @@ Glossary
    transfer
       A bid which requests partner to bid a certain suit which is held by
       the bidder; the intent is usually to cause partner to be the declarer
-      if that suit is trump. Usually the suit bid is one denomination belows
-      than the suit requested, known as the *target suit*. 
+      if that suit is trump. Usually the suit bid is one denomination below
+      the suit requested, known as the *target suit*. 
 
       If partner bids the target suit as requested it is called 
       *accepting* the transfer. If he bids it but one level higher than

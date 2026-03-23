@@ -208,8 +208,8 @@ Ogust
    pair:convention;Ogust
    pair:preempts;Ogust
    
-Ogust (pronouced somewhat like August) is an alternative set of responses to a 2N 
-inquiry after partner opens a weak two. After 2x - 2N! (hand inquiry):
+Ogust (pronounced somewhat like August) is an alternative set of responses to a 2N 
+inquiry after partner opens a weak two. After 2x – 2N! (hand inquiry):
 
 * 3♣ Opener has a bad suit and a bad hand (towards the 5 end rather than the 10)
 * 3♦ Opener has a good suit but a bad hand.

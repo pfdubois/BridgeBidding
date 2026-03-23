@@ -36,10 +36,10 @@ The hand must have:
   
 * A HCP strength in a specific range:
 
-  - 15-17 open 1N
-  - 20-21 open 2N
-  - 22-24 open 2♣ and rebid 2N
-  - 25-27 open 2♣ and rebid 3N, and so on.
+  * 15-17 open 1N
+  * 20-21 open 2N
+  * 22-24 open 2♣ and rebid 2N
+  * 25-27 open 2♣ and rebid 3N, and so on.
   
 What about hands with the right shape but wrong strength?  
 
@@ -232,7 +232,7 @@ Stayman 2♣ is artificial but not alerted, because it has become common practic
 .. index::
    pair:Stayman;responses
    
-After 1N - 2♣, opener *must* choose one of three replies: 2♦, 2♥, or 2♠. 
+After 1N – 2♣, opener *must* choose one of three replies: 2♦, 2♥, or 2♠. 
 
 - 2♦ no four-card major.
 - 2♥ 4+ hearts, and maybe 4 spades.
@@ -263,23 +263,22 @@ hand is invitational, game forcing, or has slam interest:
   three of the other major (3W) shows a power raise (18+ HCP).  It is a game force, 
   of course.
 
-  For example: 1N - 2♣ - 2♠ - 3♥! (power raise). Now opener should start 
+  For example: 1N – 2♣ – 2♠ – 3♥! (power raise). Now opener should start 
   :term:`control bidding`. (Control bidding will be discussed later).
 
 * With no fit, Responder bids notrump; how many notrump shows responder's strength:
   
-   - 2N no fit, with an invitational hand.
-   - 3N no fit, but enough points for game.
-   - Three level bids in a new suit are game forcing and may show interest in a
-     slam.
-   - 4N is a :ref:`quantitative raise <quantitative_raises>` denying a fit.
-   - 4♣ is plain :ref:`Gerber <Gerber>`, asking opener how many Aces they have.
+  * 2N no fit, with an invitational hand.
+  * 3N no fit, but enough points for game.
+  * Three level bids in a new suit are game forcing and may show interest in a slam.
+  * 4N is a :ref:`quantitative raise <quantitative_raises>` denying a fit.
+  * 4♣ is plain :ref:`Gerber <Gerber>`, asking opener how many Aces they have.
 
 Note that having checked for a fit, the responder may know whether there is a
 fit or not but the opener does not know it yet. So:
 
-* 1N - 2♣ - 2♠ - 4N is a :term:`quantitative` raise, not Ace-asking; and 
-* 1N - 2♣ - 2♠ - 4♣! is :ref:`Gerber <Gerber>`.
+* 1N – 2♣ – 2♠ – 4N is a :term:`quantitative` raise, not Ace-asking; and 
+* 1N – 2♣ – 2♠ – 4♣! is :ref:`Gerber <Gerber>`.
 
 If you have found a spade fit and want to bid Blackwood or RKC over 2♠︎, you can't do
 it yet; bid 3♥︎! (power raise) and after opener shows a control or bids some level of 
@@ -412,9 +411,9 @@ When you have five in a major and a |4ormore|-card minor:
 
 * Transfer to the major first. Then:
   
-  - Pass with a less than invitational hand
-  - Bid 2N with an invitational hand 
-  - Bid the minor with a game-forcing hand. You may be very strong with interest in 
+  * Pass with a less than invitational hand
+  * Bid 2N with an invitational hand 
+  * Bid the minor with a game-forcing hand. You may be very strong with interest in 
     a minor slam.
 
 Interference by LHO
@@ -475,20 +474,20 @@ If you have five in one major and exactly four in the other, some special bids a
 available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
 
 - If your hand is weak, transfer to the five-card suit
-  and pass. This gives your partner no chance to go wrong.  But use judgement: with 
+  and pass. This gives your partner no chance to go wrong.  But use judgment: with 
   a terrible five-card suit, you might try Garbage Stayman.
 
 - If your hand has five spades and four hearts, invitational or better, bid 2♣ Stayman, 
   and then:
 
-  * If opener shows a major, just raise it. Example: 1N - 2♣ - 2♥ - 3♥ invitational;
-    1N - 2♣ - 2♥ - 4♥ with a game-forcing hand.
+  * If opener shows a major, just raise it. Example: 1N – 2♣ – 2♥ – 3♥ invitational;
+    1N – 2♣ – 2♥ – 4♥ with a game-forcing hand.
   
   * If opener answered 2♦, you may still have a 5-3 fit. Bid 2♠ to invite; 3♠ to force
     to game.  See note below.
   
 - If your hand has four spades and five hearts, invitational or better, a similar scheme 
-  does not work. The problem arises after 1N - 2♣ - 2♦, because to bid 2♥ is 
+  does not work. The problem arises after 1N – 2♣ – 2♦, because to bid 2♥ is 
   :ref:`Garbage Stayman <GarbageStayman>`; opener might pass. And you can't bid 3♥ if 
   you do not have a game-forcing hand; you're already too high for an invitational hand 
   if partner doesn't have hearts. So:
@@ -526,10 +525,10 @@ majors so replies 2♣, Stayman. East bids 2♥, her lowest four-card major.
 
 Extra points if you know what West does next: 3♠! which is the power raise for hearts.
 It agrees that hearts are trump and asks partner to start showing controls. East
-would then bid 4♦ to show the A♦ but deny the A♣.
+would then bid 4♦ to show the ♦A but deny the ♣A.
 
 With a minimal opening hand West would just have bid 4♥ over 2♥. Note that 
-1N - 2♣ - 2♥ - 3♥ would agree that hearts are trump but would be just invitational,
+1N – 2♣ – 2♥ – 3♥ would agree that hearts are trump but would be just invitational,
 8-9 points.  That's why we need the 3♠ bid, agreeing hearts but game forcing at
 least.
 
@@ -548,9 +547,9 @@ with your partner. Check the boxes on your convention cards.
 If you have a six-card major and a minimum game forcing hand, you can use a
 Texas Transfer:
 
-- 1N - 4♦ transfer to hearts (6+, GF)
+- 1N – 4♦ transfer to hearts (6+, GF)
 
-- 1N - 4♥ transfer to spades (6+, GF)
+- 1N – 4♥ transfer to spades (6+, GF)
 
 Texas Transfers are on over interference. The name Texas for Americans implies "big":
 big hats, big toast, big meat, big suit. 
@@ -603,8 +602,8 @@ Minor Slam Tries
 A Minor Relay can be used as the start of a slam try in a minor. You must have a belief 
 that a minor slam is likely, because otherwise 3N is your goal. 
 
-* 1N - 2♠! - 3♣! – 3♥! slam try in clubs.
-* 1N - 2♠! - 3♣! – 3♠! slam try in diamonds.
+* 1N – 2♠! – 3♣! – 3♥! slam try in clubs.
+* 1N – 2♠! – 3♣! – 3♠! slam try in diamonds.
 
 You would never be bidding a major after a Minor Relay, because you would have
 used Stayman or a transfer to that major in the first place. These bids are
@@ -682,7 +681,7 @@ Smolen
    pair:convention; Smolen
 
 Smolen is an optional convention, but quite common for advanced intermediates.
-When partner opens 1N and we have a hand that is 5 - 4 in the majors, 
+When partner opens 1N and we have a hand that is 5 – 4 in the majors, 
 game forcing, we begin with Stayman. If opener replies 2♦, denying a four-card 
 major, we now bid the four-card suit, *at the three level*; this is a :term:`puppet` 
 that lets the opener declare the 5-3 fit if he has 3 of the long suit. 
@@ -751,7 +750,7 @@ Opener can take advantage to tell responder if he has three or more of
 responder's suit. A decided minority of intermediates know the correct bids here.
 
 Let T be the suit of the transfer bid, and let M be the target suit of the transfer.
-For example, in 1N - 2♦(transfer), T is diamonds, M is hearts.
+For example, in 1N – 2♦(transfer), T is diamonds, M is hearts.
 
 After 1N (P) 2T (X), the opponents are presumably bidding T:
 
@@ -769,7 +768,7 @@ the act of transferring in itself only shows a five card suit; responder
 could have zero points. So, opener only bids with a great holding in the
 overcalled suit, or holding a maximum.
 
-Thus after 1N - 2T (2Z):
+Thus after 1N – 2T (2Z):
 
 - Pass: waiting to hear from partner. Responder can double to show points.
 - X: penalty oriented, a great Z suit.
@@ -818,7 +817,7 @@ that you should learn :ref:`Lebensohl <Lebensohl>`.
   a stopper in the overcalled suit. Example: 1N (2♦) 2♥! (transfer to spades).
 - Agree with partner what 2♠︎ will mean; minor transfer most likely.
 - The three level bids don't have their special meanings; if a jump, it is a weak bid
-  in the suit, such as 1N - (2♦) - 3♥(preemptive, hearts).
+  in the suit, such as 1N – (2♦) – 3♥(preemptive, hearts).
   
 You're giving up the chance of a penalty double.  Also, when the opponents know this
 is what you play, as they will at your club, or if they look at your card, they
@@ -878,7 +877,7 @@ Unusual 2N interference
 1N (2N) is a very effective bid showing 5-5 in the minors. Against it, use the
 :ref:`General Defense to Two-Suited Bids <defense_two_suited>`.
 
-As the defender, you do not bid (1N) - 2N to show you have a notrump opener too -- you 
+As the defender, you do not bid (1N) – 2N to show you have a notrump opener too -- you 
 double for penalty. That's why 2N is free to have a special meaning.
 
 .. index::

@@ -69,14 +69,14 @@ least a 3♠ limit.
 
 A takeout double shows one of three kinds of hands:
 
-* A normal takeout double:
+#. A normal takeout double:
 
-  - A hand you would open,
-  - At least three cards in each unbid suit, and
-  - Ideally, at most a doubleton in their suit.
+   * A hand you would open,
+   * At least three cards in each unbid suit, and
+   * Ideally, at most a doubleton in their suit.
   
-* A one-suited hand or a balanced hand too strong (18+) to overcall. (Recall that
-  the range for an overcall is 8-17).
+#. A one-suited hand or a balanced hand too strong (18+) to overcall. (Recall that
+   the range for an overcall is 8-17).
 
   The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
   notice too late that you only have two clubs or you're at the three level with 10 points 
@@ -156,7 +156,7 @@ minor is five cards. How high you bid shows your strength:
   
   Remember you can't pass. In fact, the worse your hand is, the more you have to bid.
   
-- With a decent 9 - 11, you *must* jump-bid your suit.
+- With a decent 9 – 11, you *must* jump-bid your suit.
 
 - With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
   suit. A cue-bid is asking partner to show four-card suits up the line.  
@@ -190,7 +190,7 @@ so they can only make it by ruffing.
 .. rubric::
    Are You Cheap?
 
-How do I say this? Are you cheap? Do you clip coupons and look for bargins? Did your
+How do I say this? Are you cheap? Do you clip coupons and look for bargains? Did your
 mother make getting a good deal the goal of your life?  
 
 If so, you may be subject to Cheapness in Bridge.  Besides constantly complaining about
@@ -383,9 +383,9 @@ Takeout Double Over A Preempt
 To make a takeout double of a preemptive opener requires the right shape and 
 the right number of points. Whatever you do, you won't always be right. 
 
-Generally, use ESP - Expect Seven Points. That's a conservative estimate of
+Generally, use ESP – Expect Seven Points. That's a conservative estimate of
 how many your partner will have, on average. So over two spades, to be safe at
-the three level you need about 23 - 7 or 16 points. Cheat it a little and call 
+the three level you need about 23 – 7 or 16 points. Cheat it a little and call 
 it a good opening hand.  To bid over a three-level preempt you want to be 
 have a great 17 or more, if your chosen takeout level is that high.
 
@@ -421,7 +421,7 @@ is given in that chapter to meet this need.
    Responding To A Double Of A Preempt
 
 Suppose LHO has opened with a preemptive bid and your partner has made a 
-takeout double, and RHO has passed, such as (2♥) - X - (P) - ?. You have one of these 
+takeout double, and RHO has passed, such as (2♥) – X – (P) – ?. You have one of these 
 two hands:
 
 * (A) ♠83 ♥98 ♦KJT864 ♣97
@@ -437,7 +437,7 @@ bidding, we must resort to things like cue bids or just taking chances.
 
 Make this simple agreement with your partner: a response of 2N! (relay) asks partner
 to bid 3♣! (forced).  You are showing a long suit. This may or may not be a weak hand. 
-Then 2N! (relay) - 3♣! (forced) - 3♦(to play) shows (A), while an immediate 3♦ is a game 
+Then 2N! (relay) – 3♣! (forced) – 3♦(to play) shows (A), while an immediate 3♦ is a game 
 force with a hand like (B).  
 
 Note that the natural meaning of 2N is lost.
@@ -628,7 +628,7 @@ difficult to understand what it means some times. We're here to help.
 
 First, think whether the double has an agreed meaning.
 Don't forget any of the :ref:`Special Doubles <SpecialDoubles>` you might have 
-agreed to play. Check these:
+agreed to play with your partner. Check these:
 
 * A double of a 1N opener is penalty unless you have a different agreement.
 * A double of a 1N **overcall** is penalty. Responder has |10ormore| points.
@@ -643,10 +643,10 @@ agreed to play. Check these:
 When the advancer bids, such as 1♦ (1♥) [banana] (2♥), opener's double on his second bid 
 shows |16ormore| points. When the number of points the "banana" promised is 
 |10ormore|, the auction is game forcing. Examples:
-  
-  - 1♦ (1♥) 2♣ (2♥) X -- |16ormore| points, game forcing, 2♣ promised |10ormore| points.
-  - 1♦ (1♥) X  (2♥) X -- |16ormore| points, *not* game forcing because the negative
-    double only promised 6 HCP. 
+
+* 1♦ (1♥) 2♣ (2♥) X shows |16ormore| points, game forcing, 2♣ promised |10ormore| points.
+* 1♦ (1♥) X  (2♥) X shows |16ormore| points, *not* game forcing because the negative
+  double only promised 6 HCP. 
     
 This principle applies also when the "banana" was a Pass, but the opener needs
 support for the unbid suits and enough points / shape to compete to the

@@ -21,13 +21,13 @@ The Sandwich Notrump
 
 .. _Sandwich:
 
-After (1x) - P - (1y), a double is for takeout and shows the other two suits;
+After (1x) – P – (1y), a double is for takeout and shows the other two suits;
 the suits are at least 5-4 and you have an opening hand.
 
 The Sandwich 1N convention is a bid of 1N rather than double, showing 
 the other two suits but less than an opening hand:
 
-    (1x) - P - (1y) - 1N! (other two suits, less than opening hand)
+    (1x) – P – (1y) – 1N! (other two suits, less than opening hand)
  
 
 Mathe Defense To A Big Club
@@ -63,7 +63,7 @@ obstructive as possible.  This is called reinforcing the preempt.
 
 However, it often happens that the auction goes something like::
 
-    2♥ - (3♦) - 3♥(you) - 3N
+    2♥ – (3♦) – 3♥(you) – 3N
     
 Now your partner is on lead and unless he has a great suit he's leading into
 stoppers.  Meantime you're sitting there with the Ace of spades.  If only partner
@@ -126,12 +126,12 @@ strong hand becomes the declarer. He's pulling the opener's strings.
 The point of this structure is that the strong hand declares all the hands with a 
 major fit, whether 5-3, 4-4, or 3-5.
 
-Five-card Stayman is an easier and better alternative to playing 1N - 3♣ as 
-Puppet Stayman but it isn't a big deal to play Puppet over both 1N - 3♣ and 2N - 3♣
+Five-card Stayman is an easier and better alternative to playing 1N – 3♣ as 
+Puppet Stayman but it isn't a big deal to play Puppet over both 1N – 3♣ and 2N – 3♣
 to reduce your memory load. 
 
 Choosing Puppet Stayman over 2N means you cannot play :ref:`Smolen<Smolen>` over 2N 
-because the sequence 2N - 3♣ - 3♦ cannot mean two things at the same time. But you can 
+because the sequence 2N – 3♣ – 3♦ cannot mean two things at the same time. But you can 
 and should play Five-Card Stayman and Smolen over 1N.
 
 
@@ -212,7 +212,7 @@ Muppet Stayman is a modification of Puppet Stayman apparently introduced by the
 Italian pair Augustin Madala- Noberto Bocchi.  Muppet Stayman interchanges the 3♥ and 3N 
 responses so that 5-3 fits can be found in either major.
 
-2N - 3♣  (or 1N - 3♣ by partnership agreement):
+2N – 3♣  (or 1N – 3♣ by partnership agreement):
 
 - 3♦! (Opener has no five card major, has one or more 4 card majors)
  
@@ -241,10 +241,10 @@ shows five spades.
 Minor Suit Stayman
 ------------------
 
-1N - 2♠! (minor suit Stayman) shows 4-4 or better in the minors and at least invitational
+1N – 2♠! (minor suit Stayman) shows 4-4 or better in the minors and at least invitational
 values.  It denies a four-card major. 
 
-2N - 3♠! (minor suit Stayman) can also be played with game-forcing values.
+2N – 3♠! (minor suit Stayman) can also be played with game-forcing values.
 
 
 Sons Of Texas
@@ -271,10 +271,10 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
    Texas”. It explicitly shows six of the suit to which you transfer, and
    four of the other suit.
 
-   - 1N 2♣ 2♦ 4♥! – six spades, four hearts.
+   – 1N 2♣ 2♦ 4♥! – six spades, four hearts.
      Opener with 2 spades and 4 hearts should pass. Otherwise bid 4♠.
 
-   - 1N 2♣ 2♦ 4♦! – four spades, six hearts.
+   – 1N 2♣ 2♦ 4♦! – four spades, six hearts.
      Opener with 2 hearts and four spades should bid 4♠. Otherwise, bid 4♥.
      
 .. note::
@@ -283,7 +283,7 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
 
 #. Four Spades Quantitative Minors
 
-   Playing Texas Transfers, the sequence 1N - 4♠ has no meaning. With
+   Playing Texas Transfers, the sequence 1N – 4♠ has no meaning. With
    partnership agreement, this means a hand that has the points for a
    quantitative raise to 4N, but is 5-4 or better in the minors. Opener can
    choose between 4N or 5m or 6m.
@@ -324,7 +324,7 @@ four-card major; instead , he bids an artificial 1♦. Responses of 1♥ or
 1♥.
 
 A response of 1♦ shows enough values to respond but is otherwise
-artificial. Opener's rebids after 1♣ - 1♦! (artificial, no five-card major):
+artificial. Opener's rebids after 1♣ – 1♦! (artificial, no five-card major):
 
 -  1♥ promises 4 hearts, does not deny 4 spades
 -  1♠ promises 4 spades, denies 4 hearts
@@ -356,7 +356,7 @@ Namyats with a hand with no more than five losers.
 If the responder wishes the opener to become the declarer, or has slam interest,
 he can temporize with the intervening suit, e.g. 
 
-* 4♦! (transfer to 4♠) - 4♥! (transfer to 4♠).
+* 4♦! (transfer to 4♠) – 4♥! (transfer to 4♠).
 
 To accept the Namyats transfer is a sign-off.
 
@@ -373,7 +373,7 @@ Wolff Signoff
 .. index::
    pair:convention;Wolff Signoff
    
-After the auction starts 1m - 1M - 2N, opener is showing 18-19 points.  As we
+After the auction starts 1m – 1M – 2N, opener is showing 18-19 points.  As we
 have seen, :ref:`New Minor Forcing <NMF>` is available to optimists looking to
 get to the right game. Wolff is for pessimists, who are worried about signing
 off when they don't have the values for game.  It lets you make that 1M bid a little

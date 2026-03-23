@@ -14,9 +14,9 @@ What Hands Do We Open Two Clubs?
 An opening bid of two clubs is the strongest possible opening bid,
 showing 22 or more points if the hand is balanced. If the hand is not balanced,
 but rather has a long solid major suit, you can open it two clubs if it has at
-least 8 ½ tricks in it and at least 16-18 HCP. It is too misleading to
+least 8½ tricks in it and at least 16-18 HCP. It is too misleading to
 partner to open a weaker hand with two clubs no matter how shapely.
-For a minor you'd want to have more like 9 ½ - 10 tricks.  
+For a minor you'd want to have more like 9½ – 10 tricks.  
 
 You also need at least 4 quick-tricks.  Here's how you count quick-tricks, up to 2 per 
 suit:
@@ -53,7 +53,7 @@ The responses are:
   Be very reluctant to bid 3♦; sometimes you need to show your
   club suit immediately with 3♣ because to do so on your second bid would show a weak 
   hand. Knowing that your second bid may have to be 3♦ is a reason to resist bidding
-  2♣. Gavin Wolpert calls 2♣ - 2♦ - 3♦ "the worst auction in bridge".
+  2♣. Gavin Wolpert calls 2♣ – 2♦ – 3♦ "the worst auction in bridge".
   
 - 2N should not be bid.  Traditional teaching is that 2N shows 8 HCP and a balanced
   hand, but it is not a good idea. Just bid 2♦.  After that make sure you get to game.
@@ -102,7 +102,7 @@ agree to use a 3N opening for something else, such as
 :ref:`Gambling 3N Opening <gambling3N>`.
 
 It doesn't happen a lot, but the 4N rebid means 28-30, etc. If you open 2♣ and the
-auction goes 2♣ - 2♦ - 4N, your partner will stare at you like a deer caught in the 
+auction goes 2♣ – 2♦ – 4N, your partner will stare at you like a deer caught in the 
 headlights. You aren't asking for keycards in diamonds, of course; that was an 
 artificial suit.
 

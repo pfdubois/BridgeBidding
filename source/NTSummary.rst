@@ -174,7 +174,7 @@ Here is what I recommend for intermediates.  You'll need partnership agreement.
 
 * Play the major transfers and Texas transfers, and
   :ref:`Minor Relay <Minor_Relay>`.
-* Play the 1N - 3x bids as natural and invitational.
+* Play the 1N – 3x bids as natural and invitational.
   
 Do not try to get to five of a minor; the basic decision is whether to go past
 3N or not.  Once you go past 3N, you're going to really hope you can bid the
@@ -185,6 +185,6 @@ with 3N or 5m depending on his hand; or he can control-bid or ask for Aces.
 .. warning::
 
    A great many players, some with considerable experience, are misinformed about
-   sequences like 1N - 2♣ - 2M - 4N and 1N - 2T(transfer) - 2M - 4N. These are 
+   sequences like 1N – 2♣ – 2M – 4N and 1N – 2T(transfer) – 2M – 4N. These are 
    all quantitative. Direct skeptics to any good book or professional web page on 2/1. 
    Do not let an allegedly more experienced partner bully you on this.

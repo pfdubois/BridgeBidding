@@ -437,7 +437,7 @@ which are discussed in more detail in the chapter on
 
 When opener shows shortness, responder must examine his holding in that suit. A
 good holding is paradoxically bad, because those values will likely be wasted
-in the play. However, no wasted vaues is the legendary "30-point deck"
+in the play. However, no wasted values is the legendary "30-point deck"
 situation -- all your values are working and you have nearly all the honors in
 the other three suits. Explore for slam.
 

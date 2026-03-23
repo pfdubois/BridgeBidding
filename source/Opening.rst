@@ -97,7 +97,7 @@ If you have 12-21 points (or an 11 HCP hand with an AK in one suit and another A
 
 ::
 
-   "It's not how good, it's how many." -- Mike Moss
+   "It's not how good, it's how many." --- Mike Moss
    
 In following the rules for bidding, you almost always disregard the
 quality of the suits. It's all about shape. This applies to many situations, not just

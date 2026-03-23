@@ -25,22 +25,22 @@ bids:
 - A control bid is a slam try after trump agreement in a major. It promises first- or 
   second-round control. (Again, over minors or in 2/1 these bids  also possible but 
   agreement is needed.)
-- A control bid is a non-jump bid in a game-forcing auction. Thus 1♠ - 2♠ - 3♦ is not
+- A control bid is a non-jump bid in a game-forcing auction. Thus 1♠ – 2♠ – 3♦ is not
   a control bid because we are not yet in a game forcing auction.  
-  But 1♦ - 1♥ - 3♥ - 3♠! is a control bid because bidding on is game forcing and we 
+  But 1♦ – 1♥ – 3♥ – 3♠! is a control bid because bidding on is game forcing and we 
   have suit agreement.
-- A control bid that skips a suit(s) denies a control in that suit. So 1♦ - 1♥ - 3♥ - 4♣
+- A control bid that skips a suit(s) denies a control in that suit. So 1♦ – 1♥ – 3♥ – 4♣
   shows a club control and denies a spade control.
 - As long as slam is possible, always show a control bid below the game
   level. Likewise, don't control bid if partner has a limited hand and slam is not
   possible. 
 - A control bid in a 5+ card side suit promises the Ace or King. For
-  example, 1♠ - 2N! - 4♦ - 4♥ (control) - 5♦ shows the Ace or King of diamonds.
+  example, 1♠ – 2N! – 4♦ – 4♥ (control) – 5♦ shows the Ace or King of diamonds.
   Opener's suit must be a good suit or he would have bid his shortness, so being 
   able to show possession of the Ace or King is important.
 - Once you show a short suit, control-bid that suit only with a void, 
   not a singleton Ace. An example would be a Jacoby 2N auction, with opener rebidding
-  a stiff or void, such as 1♠ - 2N! - 3♦! (stiff or void) - 4♣ (control) - 4♦; 
+  a stiff or void, such as 1♠ – 2N! – 3♦! (stiff or void) – 4♣ (control) – 4♦; 
   this shows opener has a void in diamonds.    
 - A control bid at the five level promises first round control, because
   4N is no longer available.
@@ -82,12 +82,12 @@ bidding the last strain before game says, "I have no more controls that I can sh
 you below game, but if you have extras, I do have interest in slam."  This agreement
 of course does not show or deny a control in the bid suit.
 
-For example, after 1♠ - 3♠ - 4♣ (control), 4♥ would deny a control in diamonds but 
+For example, after 1♠ – 3♠ – 4♣ (control), 4♥ would deny a control in diamonds but 
 show a hand that has slam interest but is not good enough to bid past 4♠ on its own.
 It says nothing about a control in hearts.
 
 The bid of course shows a control in any suit partner skipped over. For example, 
-1♠ - 3♠ - 4♦ - 4♥ shows a control in clubs but not necessarily in hearts. 
+1♠ – 3♠ – 4♦ – 4♥ shows a control in clubs but not necessarily in hearts. 
 
 The point of Last Train is to allow classifying your hand as having slam interest, 
 possible slam interest, or no slam interest by continuing past game, bidding Last Train,
@@ -139,28 +139,28 @@ asks for keycards in that minor: 4♦ for clubs, 4♥ for diamonds. The replies 
 .. list-table:: Replies To Redwood
    :header-rows: 1
 
-   * - Step 
-     - Clubs (4♦)
-     - Diamonds (4♥)
-   * - 1st
-     - 4♥ = 0 or 3
-     - 4♠ = 0 or 3
-   * - 2nd
-     - 4♠ = 1 or 4
-     - 4N = 1 or 4
-   * - 3rd
-     - 4N = 2 no Q
-     - 5♣ = 2 or Q
-   * - 4th
-     - 5♣ = 2 + Q
-     - 5♣ = 2 + Q
+   *  - Step 
+      - Clubs (4♦)
+      - Diamonds (4♥)
+   *  - 1st
+      - 4♥ = 0 or 3
+      - 4♠ = 0 or 3
+   *  - 2nd
+      - 4♠ = 1 or 4
+      - 4N = 1 or 4
+   *  - 3rd
+      - 4N = 2 no Q
+      - 5♣ = 2 or Q
+   *  - 4th
+      - 5♣ = 2 + Q
+      - 5♣ = 2 + Q
 
 After a 1st or 2nd step replay, bidding the next step asks about the trump Queen.
 After any reply the bid of one over the trump suit asks for Kings. You should use
 the number of Kings or the cheapest specific King, whatever you do for ordinary RKC.
 
 When there is no explicit agreement, the one-over bid is not RKC if it could be 
-something else.  For example, 1♦ - 2♣ - 4♦ is not RKC for clubs.  In particular, if
+something else.  For example, 1♦ – 2♣ – 4♦ is not RKC for clubs.  In particular, if
 4♥ could be natural, it is not RKC for diamonds. In that case, the two-over bid of
 4♠ is the RKC bid; but you must check to be sure you have enough room for any feasible 
 reply.
@@ -169,10 +169,10 @@ Playing Redwood, 4N is never RKC.
 
 Examples::
 
-   1♦ - 2♦(inverted or not) - 4♥! (RKC for diamonds) - 4N! (one or four)
-   1♠ - 2♦ - 4♥! (RKC for diamonds); implicit agreement
-   1♣ - 2♣ - 4♦! (RKC for clubs) - 4♠ - 4N to play
-   1♣ - 2♣ - 4N quantitative
+   1♦ – 2♦(inverted or not) – 4♥! (RKC for diamonds) – 4N! (one or four)
+   1♠ – 2♦ – 4♥! (RKC for diamonds); implicit agreement
+   1♣ – 2♣ – 4♦! (RKC for clubs) – 4♠ – 4N to play
+   1♣ – 2♣ – 4N quantitative
    
 
 Three Spades Kickback
@@ -190,13 +190,13 @@ or bid Jacoby 2N; in the latter case the responses to J2NT take precedence.
 
 These are kickback:
 
-* 1♣ - 1♥ - 3♥ - 3♠! (Kickback)
-* 1♥ - 2N! - 3♦! (shortness) - 3♠! (Kickback)
+* 1♣ – 1♥ – 3♥ – 3♠! (Kickback)
+* 1♥ – 2N! – 3♦! (shortness) – 3♠! (Kickback)
 
 but not:
 
-* 1♠ - 2♥ - 3♥ - 3♠(natural)
-* 1♥ - 2N! - 3♠! (shortness)
+* 1♠ – 2♥ – 3♥ – 3♠(natural)
+* 1♥ – 2N! – 3♠! (shortness)
 
 Full Kickback
 -------------
@@ -234,7 +234,7 @@ you jumped to.
 
 Example::
 
-   1♣ - 2♣! (inverted)
+   1♣ – 2♣! (inverted)
    5♦! 
    
 Here 2♦ would be natural, 3♦ a jump-shift, and 4♦ a splinter in support of clubs. So 5♦ 
@@ -266,11 +266,11 @@ a special response set called 0-1-1-2-2, which means:
 
 Example::
 
-   3♥ - 4♣! (Preempt Keycard)
-   4♥(one keycard) - Pass
+   3♥ – 4♣! (Preempt Keycard)
+   4♥(one keycard) – Pass
    
 We see that you should be willing to go to 5♥ if partner has one with the Queen or 
-better. A more accurate way to say this scale is 0 - 1 - 1.5 - 2 - 2.5.
+better. A more accurate way to say this scale is 0 – 1 – 1.5 – 2 – 2.5.
 
 Minorwood
 ---------
@@ -290,9 +290,9 @@ jump to four of the minor after a two of a minor response. This becomes
 Roman Keycard Blackwood for the minor. For example,
 
 - 1♣ – 2♣!– 4♣! (asks for keycards)
-- 1♣ – 2♣! - 2♥ – 4♣! (asks for keycards)
+- 1♣ – 2♣! – 2♥ – 4♣! (asks for keycards)
 
-but not in a non-jump sequence such as 1♣ – 2♣! - 2♥ – 3♦ – 4♣ in which the players 
+but not in a non-jump sequence such as 1♣ – 2♣! – 2♥ – 3♦ – 4♣ in which the players 
 simply discover they lack a spade stopper and decide to play in clubs.
 
 Except in the difference of RKC-asking bid, the convention proceeds as with Redwood,

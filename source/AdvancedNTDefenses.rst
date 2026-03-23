@@ -193,7 +193,7 @@ The bids are:
 * Three of a major is preemptive.
 
 Note why the three of a major is preemptive. The person holding this hand could have
-transfered to his suit and then raised to get to the same place. Not needing two bids
+transferred to his suit and then raised to get to the same place. Not needing two bids
 with the same meaning, the "slow" bid of 3M is the strong one, an idea similar to 
 :ref:`Lebensohl <Lebensohl>`.
 

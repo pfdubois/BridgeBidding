@@ -125,11 +125,11 @@ unknown suit):
 * A three-level suit bid is game-forcing (fast bid).
 * A bid of 2N! (relay to 3♣) forces opener to bid 3♣. Now responder:
 
-  - Can pass with a weak hand with long clubs;
-  - Bid a suit of lower rank than the overcall as a signoff (slow bid); or
-  - Bid a suit of a higher rank than the overcall as invitational.
+  * Can pass with a weak hand with long clubs;
+  * Bid a suit of lower rank than the overcall as a signoff (slow bid); or
+  * Bid a suit of a higher rank than the overcall as invitational.
   
-Note that a direct three-level bid might be a jump (e.g. 1N - (2♥) - 3♠) but it
+Note that a direct three-level bid might be a jump (e.g. 1N – (2♥) – 3♠) but it
 isn't weak because if you were weak you could have just passed.
 
 Further, if responder has a game-forcing hand he can show other hand types besides a 
@@ -211,15 +211,15 @@ Stayman cue bids.
 Five-card suit:
 
 - 1N (2♦) 2♥ is to play
-- 1N (2♦) 2N! - 3♣! - 3♥ is invitational
+- 1N (2♦) 2N! – 3♣! – 3♥ is invitational
 - 1N (2♦) 3♥ is game-forcing.
-- 1N (2♥) 2N! - 3♦ is to play
+- 1N (2♥) 2N! – 3♦ is to play
 - 1N (2♥) 3♦ is game-forcing; there is no way to invite in diamonds.
 - 1N (2♣) 2♦ is a transfer to hearts. (Lebensohl is off for clubs!)
 
 Balanced hand, without a four-card major:
 
-- 1N (2♦) 2N! - 3♣ - 3N  is to play, diamonds are stopped -- slow shows.
+- 1N (2♦) 2N! – 3♣ – 3N  is to play, diamonds are stopped -- slow shows.
 - 1N (2♦) 3N  wants to play 3N but does not have a diamond stopper.
   Opener will pass if he has one, or start suggesting suits up the line.
 
@@ -227,7 +227,7 @@ For the Stayman cases:
 
 - 1N (2♦) X is negative, probably with only an invitational hand.
 - 1N (2♦) 3♦ is Stayman without a stopper, and
-- 1N (2♦) 2N! - 3♣ - 3♦ is Stayman with a stopper.
+- 1N (2♦) 2N! – 3♣ – 3♦ is Stayman with a stopper.
 
 .. note::
    Do not call the 2N bid by itself "Lebensohl".
@@ -254,7 +254,7 @@ Over three-level overcalls, we obviously cannot use the Lebensohl 2N bid. A sugg
 -  A cue bid is Stayman, or may show slam interest lacking a four-card major:
 
    * 1N (3♦) 4♦ – 4♥ – 4N (to play)
-   * 1N (3♦) 4♦ – 4N(no major) - Pass
+   * 1N (3♦) 4♦ – 4N(no major) – Pass
    * 1N (3♦) 4♦ – 4? – 5♣ (slam interest in clubs)
 
 .. _Lebensohl2Suits:
@@ -453,7 +453,7 @@ You can get super-simplified by just remembering the 2-level is to play,
 and 2N is a relay to 3♣, pass or correct.  Ordinary bridge logic should kick in from
 there. 
 
-Good - Bad 2N
+Good – Bad 2N
 -------------
 
 .. index:: Good-Bad 2N
@@ -466,12 +466,12 @@ and in Marty Bergen's "Better Bidding With Bergen".
 
 In a competitive auction, it is your turn to bid and RHO has just bid 2x, whether as
 a raise of his partner or a new suit, after your partner doubled or made an
-overcall.  For example, let's suppose the auction went (1♥) - 1♠ - (2♥).  Suppose you
+overcall.  For example, let's suppose the auction went (1♥) – 1♠ – (2♥).  Suppose you
 have a good diamond suit but no spade support.  Then what does your 3♦ bid show?
 Most of the time of course you're just trying to compete but other times you have a 
 extras and partner may wish to go higher knowing that. 
 
-Enter the Good - Bad 2N, created by Larry Cohen in his book "To Bid Or Not To Bid".  
+Enter the Good – Bad 2N, created by Larry Cohen in his book "To Bid Or Not To Bid".  
 Whenever we are in a competitive suit auction and our RHO has made a 2-level bid, 2N! is a 
 relay to 3♣, pass or correct.  Bidding directly on the three level shows extras. 
 
@@ -479,8 +479,8 @@ Take for example this auction::
 
    (1♠) 2♦ (2♠) ?
 
-Without an agreement, a 3♦ bid here is hard to read. With Good - Bad 2N, 3♦ might be 
-a good four-card diamond suit with 9 points, while 2N! (relay) - 3♣! (forced) - 3♦ might be 
+Without an agreement, a 3♦ bid here is hard to read. With Good – Bad 2N, 3♦ might be 
+a good four-card diamond suit with 9 points, while 2N! (relay) – 3♣! (forced) – 3♦ might be 
 only six points and partner will know not to compete further.
 
 This convention also applies when you opened::
@@ -492,7 +492,7 @@ partner a choice vs. 3♦ showing something like an 18-point 5-5 hand.
 
 You must draw inferences when partner does not use the relay when he could have.
 
-With some experience, you can use the Good - Bad distinction in many other competitive
+With some experience, you can use the Good – Bad distinction in many other competitive
 auctions.  According to "Better Bidding With Bergen", it is important that this convention 
 be off in situations such as:
 

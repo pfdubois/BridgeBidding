@@ -83,7 +83,7 @@ overcalls.
 *  Extreme shapes call for extreme measures. 
 
    Read Marty Bergen's famous book, :title:`Points Schmoints`. If you have a double fit, 
-   or you have a 6 - 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
+   or you have a 6 – 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
 
 .. index::balancing
    

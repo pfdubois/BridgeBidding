@@ -177,7 +177,7 @@ Unless we are playing strong jump-shifts, there is no game-forcing bid over 1♣
 and only one game-forcing bid over 1♦.
 
 To force to game, responder has to keep making bids that cannot be passed short of 
-game, which usually means bidding new suits. We have one new bid in our repetoire,
+game, which usually means bidding new suits. We have one new bid in our repertoire,
 1♦ - 2♣. As an unpassed hand and without interference it is forcing to game and promises
 13 or more HCP and |5ormore| clubs.
 
@@ -288,7 +288,7 @@ is not the end of the world.
 So, to sum up, with an unbalanced hand, after 1m - 1M the priorities are:
 
 * Raise partner;
-* Bid 1♠, forcing unless parter is a passed hand;
+* Bid 1♠, forcing unless partner is a passed hand;
 * Bid a second suit of four cards or longer; or,
 * Rebid your suit if you don't have the strength for that;
 * Jump-rebid your suit with 15-17 points

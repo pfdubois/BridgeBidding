@@ -36,9 +36,9 @@ a fit with partner. For example,
 While it is possible opener has four hearts, it isn't too likely given
 that he already has at least 8 cards in the minors. Fourth Suit Forcing
 gives you a way to bid a hand where you need a forcing bid but don't have a natural one. 
-For example, suppose responder has, in the auction 1♦ – 1♠ – 2♣ - ?::
+For example, suppose responder has, in the auction 1♦ – 1♠ – 2♣ – ?::
 
-   ♠KQJ86 ♥- ♦A93 ♣KJT82
+   ♠KQJ86 ♥--- ♦A93 ♣KJT82
 
 With 14 points, responder must drive the auction to game. But alas,
 
@@ -77,7 +77,7 @@ two important fronts:
 Example::
 
   1♦ – 1♠ 
-  2♣ - 2♥! (forcing, says nothing about hearts)
+  2♣ – 2♥! (forcing, says nothing about hearts)
   
 Holding 3 spades, we bid 2S. Otherwise, we bid 2N with a heart stopper. 
 
@@ -134,16 +134,16 @@ level you might not follow this rule. But you should switch to
 
 The uses of NMF are (where w stands for the unbid minor):
 
-- 1m – 1♥ – 1N - 2w! (NMF) 
+- 1m – 1♥ – 1N – 2w! (NMF) 
 
   Responder holding five hearts wants to know if we have a 5-3 fit. 
   
-- 1m – 1♠ – 1N - 2w! (NMF)
+- 1m – 1♠ – 1N – 2w! (NMF)
 
   Responder holding five spades and possibly four hearts would like to check for a 
   fit. 
   
-- 1♣/♦/♥ – 1M – 2N - 3w! (NMF)
+- 1♣/♦/♥ – 1M – 2N – 3w! (NMF)
 
   Responder holding four+ spades and / or four hearts would like to check for a fit. 
   Directly bidding 3♥ or 3♠ shows a fifth major card but a weak hand.
@@ -152,8 +152,8 @@ The uses of NMF are (where w stands for the unbid minor):
   :ref:`Wolff Signoff <Wolff>`.
 
 .. note::
-   In the auction 1♥ - 1♠ - 1N, 2♣ clubs is NMF; or with partnership
-   agreement use the best minor.  In the auction 1♣ - 1♦ - 1N, NMF does not apply.
+   In the auction 1♥ – 1♠ – 1N, 2♣ clubs is NMF; or with partnership
+   agreement use the best minor.  In the auction 1♣ – 1♦ – 1N, NMF does not apply.
   
 .. warning::
    I think the NMF bid over a 2N jump rebid is one of the hardest conventional bids to 
@@ -164,22 +164,22 @@ or shows three-card support for responder's major. Failing those, that he bids n
 rebids his suit, or shows stoppers. While accomplishing this we have game-forcing bids 
 to make when we have a maximum (14 points):
 
--  Shows four of the other major by bidding it. For example,
-   1♦ – 1♠ – 1N – 2♣! (NMF) - 2♥
--  Shows three in partner's major and 14 points by jump bidding it. For example,
+*  Shows four of the other major by bidding it. For example,
+   1♦ – 1♠ – 1N – 2♣! (NMF) – 2♥
+*  Shows three in partner's major and 14 points by jump bidding it. For example,
    1♦ – 1♠ – 1N – 2♣! (NMF) – 3♠. 
--  Shows three in partner's major by bidding it. For example,
+*  Shows three in partner's major by bidding it. For example,
    1♦ – 1♠ – 1N – 2♣! (NMF) – 2♠
--  With a minimum:
-   - Bid 2N with stoppers in the two unbid suits (Remember, w was bid artificially); or
-   - Rebid your minor.
--  With a maximum: (auction is game forcing because responder is invitational+):
-   - Bid 3N with stoppers in the two unbid suits
-   - Bid the unbid suit where you *do* have a stopper, as long as it doesn't show a suit
-   - Jump rebid your minor
--  NMF after opener rebids 2N is game forcing.
+*  With a minimum:
+    - Bid 2N with stoppers in the two unbid suits (Remember, w was bid artificially); or
+    - Rebid your minor.
+*  With a maximum: (auction is game forcing because responder is invitational+):
+    - Bid 3N with stoppers in the two unbid suits
+    - Bid the unbid suit where you *do* have a stopper, as long as it doesn't show a suit
+    - Jump rebid your minor
+*  NMF after opener rebids 2N is game forcing.
 
-An example of this last case: The auction goes 1♦ - 1♠ - 1N - 2♣!, but opener does
+An example of this last case: The auction goes 1♦ – 1♠ – 1N – 2♣!, but opener does
 not have three spades, does not have four hearts, and does not have a stopper in 
 either of the other suits (clubs and hearts). So opener jump-bids 3♦.
 
@@ -203,13 +203,13 @@ responder has bid spades:
 
 When responder does not use NMF:
 
-* 1m - 1M - 1N - 2m is to play;
-* 1m - 1M - 1N - 2M is to play with five in the major M;
-* 1a - 1♠ - 1N - 2♥ gives opener the choice of pass or 2♠;
-* 1m - 1M - 1N - 3w is to play with a long w suit; and
-* 1m - 1M - 1N - 3M is invitational with a six-card suit.
-* 1m - 1M - 1N - 4M is game with a six-card suit.
-* 1m - 1M - 1N - Pass is of course an option, lest we forget.
+* 1m – 1M – 1N – 2m is to play;
+* 1m – 1M – 1N – 2M is to play with five in the major M;
+* 1a – 1♠ – 1N – 2♥ gives opener the choice of pass or 2♠;
+* 1m – 1M – 1N – 3w is to play with a long w suit; and
+* 1m – 1M – 1N – 3M is invitational with a six-card suit.
+* 1m – 1M – 1N – 4M is game with a six-card suit.
+* 1m – 1M – 1N – Pass is of course an option, lest we forget.
 
 .. note::
    Gavin Wolpert calls the 2M bid his favorite matchpoint bid, but you'll have

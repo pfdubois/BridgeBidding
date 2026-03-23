@@ -50,9 +50,9 @@ Stayman
 
 Bidding Stayman promises a four-card major. Stayman auctions are normal, including 
 responder bidding the "other major" as a power raise if opener bids a suit. Thus, the
-possibly confusing 2N - 3♣ - 3♠ - 4♥! is a slam try raise of spades.
+possibly confusing 2N – 3♣ – 3♠ – 4♥! is a slam try raise of spades.
 
-After 2N - 3♣ - 3♦, bidding 3 of a major is a :ref:`Smolen<Smolen>` puppet showing four 
+After 2N – 3♣ – 3♦, bidding 3 of a major is a :ref:`Smolen<Smolen>` puppet showing four 
 in the major and five of the other major, leaving opener to agree
 to a 3-5 fit or to bid 3N.  A responder with a six-card major can correct to 4M.
 Again, Puppet Stayman is an alternative, but you can't do both Puppet and Smolen.
@@ -61,7 +61,7 @@ Continuing without a fit is rather natural. To continue past 3N should be seekin
 slam. With such a hand, a four-card major and a six-card minor, we can bid 4m next after 
 finding no fit with our four-card major.
 
-With the auction 2N - 3♣ - 3♥, there is still a possible spade fit. Responder can
+With the auction 2N – 3♣ – 3♥, there is still a possible spade fit. Responder can
 bid similarly to when his hand is 5-5 as covered :ref:`below<majorminor>`. 
   
 * When responder has shown spades and clubs, and opener has interest:
@@ -77,7 +77,7 @@ bid similarly to when his hand is 5-5 as covered :ref:`below<majorminor>`.
   - 4♠, 4N, and 5♦ are to play.
   
 You can also treat the case of four hearts and a minor the same way as the 5-5 case below,
-remembering that there is no possibility of a major fit after 2N - 3♣ - 3♦ or 3♠.
+remembering that there is no possibility of a major fit after 2N – 3♣ – 3♦ or 3♠.
 
 Optional Improvement
 ~~~~~~~~~~~~~~~~~~~~
@@ -85,7 +85,7 @@ Optional Improvement
 If we Stayman with four of a major and six of a minor, when opener denies our 
 major it leaves room for the following experts-only manuever by Wolpert.
   
-After 2N - 3♣ - 3♦ or 3♠, a slammish responder with four hearts and a
+After 2N – 3♣ – 3♦ or 3♠, a slammish responder with four hearts and a
 six-card club suit bids 4♣. Then Opener bids:
   
 * 4♦ keycard for clubs
@@ -94,7 +94,7 @@ six-card club suit bids 4♣. Then Opener bids:
 * 4N to play
 * 5♣ to play
 
-Likewise, for hearts and diamonds, after 2N - 3♣ - 3♦ or 3♠:
+Likewise, for hearts and diamonds, after 2N – 3♣ – 3♦ or 3♠:
 
 * 4♥ is keycard for diamonds
 * 4♠ is a control in hearts
@@ -143,7 +143,7 @@ at 4M; the message to the opener is that they should bid slam only with a perfec
 for the situation.
 
 This sequence is in the same spirit as transferring to a major over 1N and then bidding
-it at the four level -- the idea being that since you could have done a Texas transfer,
+it at the four level--- the idea being that since you could have done a Texas transfer,
 going "slow" is a mild slam try. 
 
 A Major And A Minor
@@ -158,7 +158,7 @@ an opener with a 3-card or better fit for the responder's major must correct to 
 with a perfectly flat hand. This situation is different than such an auction over 1N,
 where the responder has room to show the second suit without passing 3N.
 
-If the responder bids his minor at the 4-level then, such as 2N - 3♣ - 3♠ - 4♣, he 
+If the responder bids his minor at the 4-level then, such as 2N – 3♣ – 3♠ – 4♣, he 
 has a hand at least 5-4 with very good values in the two suits. It doesn't promise five
 of the second suit; it might be point-rich. Then:
 
@@ -213,10 +213,10 @@ slammish to try for a minor slam."
 Marc Smith teaches different bids from 4♣ to 4♠, using "2-up" transfers. 
 This is definitely an improvement without getting very complicated:
 
-* 4♣ mild slam try or better in hearts
-* 4♦ mild slam try or better in spades
-* 4♥ mild slam try or better in clubs
-* 4♠ mild slam try or better in diamonds
+* 4♣: mild slam try or better in hearts
+* 4♦: mild slam try or better in spades
+* 4♥: mild slam try or better in clubs
+* 4♠: mild slam try or better in diamonds
 
 After the 2-up transfers to the majors, we are always going to play in the
 indicated major. Opener can indicate slam interest by bidding the "in-between",
@@ -224,7 +224,7 @@ or complete the transfer with no slam interest.  Responder can bid the game
 over the in-between to show mild interest only.  Control bidding or keycard
 ensues to make a slam attempt. (Kickback 4♠ for hearts is a possible agreement here.)
 
-After 2N-4♥ (clubs) and 2N-4♠ (diamonds):
+After 2N – 4♥ (clubs) and 2N – 4♠ (diamonds):
 
 * 4NT always says 'don't like'. This can be passed.
 * 5m says I have a fit but an unsuitable hand for slam.
@@ -243,7 +243,7 @@ With minor suit slam interest, bid 2N - 3♠! as a relay to 3N.
 Responder then bids the "other minor" or a short major to show both minors.
 Note the puppet.
    
-After 2N - 3♠! - 3N!:
+After 2N – 3♠! – 3N!:
 
 * 4♣ = six+ diamonds, slam try.
 * 4♦ = six+ clubs, slam try.
@@ -253,10 +253,10 @@ After 2N - 3♠! - 3N!:
 
 .. warning::
    
-   After 2N - 3♠!, 4N is never keycard, it is a sign-off.
+   After 2N – 3♠!, 4N is never keycard, it is a sign-off.
 
-You can see that the 4M bids cannot be natural, since you would have transfered to 
-one of them first. They are like the 1N - 3M splinters.
+You can see that the 4M bids cannot be natural, since you would have transferred to 
+one of them first. They are like the 1N – 3M splinters.
 
 When Partner Shows One Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -269,20 +269,20 @@ keycard you usually use.  This procedure is called "optional keycard".
 Due to a lack of room, for clubs opener should "reject" with two keycards without the Q
 saving the 5♣ bid to mean "Two with the Queen". Thus playing 1430:
 
-* After 2N - 3♠! (relay) - 3N - 4♦! (clubs), 
+* After 2N – 3♠! (relay) – 3N – 4♦! (clubs), 
   
   - With a poor hand for a diamond slam, or two keycards without the Q, opener bids 4♥;
   - With one or four keycards, opener bids 4♠;
   - With zero or three keycards, opener bids 4N;
-  - With two keycards and the Q♣, opener bids 5♣.
+  - With two keycards and the ♣Q, opener bids 5♣.
 
-* After 2N - 3♠! (relay) - 3N - 4♣! (diamonds),
+* After 2N – 3♠! (relay) – 3N – 4♣! (diamonds),
 
   - With a poor hand for a diamond slam, opener bids 4♦;
   - With one or four keycards, opener bids 4♥;
   - With zero or three keycards, opener bids 4♠;
-  - With two keycards but no Q♦, opener bids 4N;
-  - With two keycards and the Q♦, opener bids 5♣.
+  - With two keycards but no ♦Q, opener bids 4N;
+  - With two keycards and the ♦Q, opener bids 5♣.
 
 Of course, the usual understanding applies: if opener knows we have 10 trumps, he may
 treat that hand as "with the Q". 
@@ -303,7 +303,7 @@ the similarity to the situation over 1N openings.
 Opener's 4N, 5♣, or 5♦ are then to play, or opener may just bid a minor slam.
 
 A small gadget: when the shortness is in hearts, 
-2N - 3♠ - 3N - 4♥! (0 or 1 hearts, 5-5 minors), then
+2N – 3♠ – 3N – 4♥! (0 or 1 hearts, 5-5 minors), then
 a 4♠ bid shows opener's slam interest, and responder bids 4N.  Opener now shows the 
 suit of interest. Responder has to decide about the slam.
 

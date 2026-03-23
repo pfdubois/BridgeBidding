@@ -26,9 +26,9 @@ suit. Support Doubles give us a way to show exactly 3 card support. If
 RHO makes a takeout double, we can use Redouble for the same purpose.
 For example:
 
-- 1♦ (P) 1♥ (1♠) X Shows 3 hearts exactly.
-- 1♣ (P) 1♠ (2♦) X Shows 3 spades exactly.
-- 1♣ (P) 1♠ (X) XX Shows 3 spades exactly.
+* 1♦ (P) 1♥ (1♠) X Shows 3 hearts exactly.
+* 1♣ (P) 1♠ (2♦) X Shows 3 spades exactly.
+* 1♣ (P) 1♠ (X) XX Shows 3 spades exactly.
 
 These doubles used to be alertable but no longer are.
 
@@ -78,9 +78,9 @@ Maximal Doubles
    pair:double;maximal
    pair:convention;maximal double
 
-If interventor overcalls our major, partner makes a simple raise, and the advancer raises 
+If intervenor overcalls our major, partner makes a simple raise, and the advancer raises 
 his partner, the opener has a dilemma if their suit is one below our suit. 
-For example, 1♠ - (2♥) - 2♠ - (3♥) -? or 1♥ - (2♦) - 2♥ - (3♦) - ?.
+For example, 1♠ – (2♥) – 2♠ – (3♥) -? or 1♥ – (2♦) – 2♥ – (3♦) – ?.
 
 If opener now bids 3M, is he inviting or just competing? A "maximal double" means that 
 we agree opener doubles to show the invitational hand, while just bidding the suit to 

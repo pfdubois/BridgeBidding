@@ -135,13 +135,13 @@ Without partnership agreement, (1x) P (1y) 2x is not Michaels but
 natural; this is especially possible after the opponents open 1♣ or 1♦. 
 
 .. note::
-   Cue bids are in general not alertable -- in fact, 1♣ - (2♣) is only alerted if it
+   Cue bids are in general not alertable--- in fact, 1♣ – (2♣) is only alerted if it
    is *natural*.  However, it is not necessarily Michaels either.  If opponents make
    such a bid, be sure to ask what
    they mean by it, if only at the end of the auction. This is one case when silence 
    does not mean standard.
 
-Some partners agree to use Michaels only with minimal or maximum hands -- 
+Some partners agree to use Michaels only with minimal or maximum hands--- 
 see :ref:`Minimax <minimax>`.
 
 Over a 2M preempt, with a strong two-suited hand you can show the other major and a 
@@ -268,11 +268,11 @@ Overcalling requires a good |5ormore| card suit as well as an opening
 hand or close to it. If you can bid it at the two-level you are much safer than at 
 the three level. Your partner is going to feel pressure to raise with support.
 If you bid a minor it is likely that 3N is under consideration. Also, be extremely 
-careful if partner is a passed hand -- your game potential is low if all you have is 
+careful if partner is a passed hand--- your game potential is low if all you have is 
 a basic opener. 
 
 You can overcall in notrump but you probably want two stoppers unless you can see 
-where your tricks are soming from.
+where your tricks are coming from.
 
 Bidding their suit is :ref:`Michaels <Michaels>`. 
 
@@ -371,16 +371,16 @@ the same thing.
 
 Leaping Michaels applies in all these situations:
 
-* (2M) - ?
-* (1M) - P - (2M) - ?
-* (3M) - ? (if playing non-Leaping Michaels)
-* (1M) - P - (3M) - ? (if playing non-Leaping Michaels)
+* (2M) – ?
+* (1M) – P – (2M) – ?
+* (3M) – ? (if playing non-Leaping Michaels)
+* (1M) – P – (3M) – ? (if playing non-Leaping Michaels)
 
 Examples:
 
 * (2♥) 4♣ shows five spades and five clubs.
 * (1♥) P (2♥) 4♣ shows five spades and five clubs.
 * (2♥) 4♣ (P) 4N is keycard for spades.
-* (1♥) - P - (3♥) - 4♦ shows five spades and five diamonds.
+* (1♥) – P – (3♥) – 4♦ shows five spades and five diamonds.
 
 

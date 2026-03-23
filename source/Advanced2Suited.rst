@@ -27,13 +27,13 @@ Sandwich 1N
 
 .. _Sandwich:
 
-After (1x) - P - (1y), a double is for takeout and shows the other two suits;
+After (1x) – P – (1y), a double is for takeout and shows the other two suits;
 the suits are at least 5-4 and you have an opening hand.
 
 The Sandwich 1N convention is a bid of 1N rather than double, showing 
 the other two suits but less than an opening hand:
 
-    (1x) - P - (1y) - 1N! (other two suits, fewer than 12 HCP)
+    (1x) – P – (1y) – 1N! (other two suits, fewer than 12 HCP)
  
 Additional Michaels 2N Replies
 ------------------------------
@@ -78,18 +78,18 @@ game tries, using “pass or correct” with weak hands.
 
 Here's an example. (1♦) 2♦ shows spades and either hearts or clubs. So:
 
-- (1♦) 2♦ - 2♥ I do not like spades. I have 3 hearts. If hearts isn't your other suit, 
+- (1♦) 2♦ – 2♥ I do not like spades. I have 3 hearts. If hearts isn't your other suit, 
   bid your minor.
-- (1♦) 2♦ - 2N! (Asks for the other suit, constructive) 
+- (1♦) 2♦ – 2N! (Asks for the other suit, constructive) 
 
 Asking for the other suit with 2N and then going back to spades is a game try:
 
-- (1♣) 2♣ - 2N - 3♦ - 3♠ is a game try in spades.
+- (1♣) 2♣ – 2N – 3♦ – 3♠ is a game try in spades.
 
 “Super” pass and correct bids can be made if a fit is certain and the
 hand is weak, as preemptive:
 
-- (1♣) 2♣ - 3♦! (support for diamonds and hearts, weak)
+- (1♣) 2♣ – 3♦! (support for diamonds and hearts, weak)
    
 Using Extended Michaels and U2NT together, we cover all the bases::
 
@@ -118,7 +118,7 @@ Top and Bottom Cue Bid
    single:two-suited bids
 
 Top and Bottom is another replacement for Michael's Cue Bid. The cue bid shows the highest
-and lowest unbid suits.  For example, 1♥ - (2♥) shows spades and clubs. Knowing both
+and lowest unbid suits.  For example, 1♥ – (2♥) shows spades and clubs. Knowing both
 suits right away can be helpful, but you can't use it as often.
 
 However, most users of Top and Bottom use it as part of a constellation of conventions
@@ -127,8 +127,8 @@ following Hardy:
 * Using the cue bid when the lower suit is at least 5+ cards, and the upper suit 4+
   cards, or equal length but substantially weaker.  Otherwise one overcalls the upper
   suit of 5+ cards.
-* Adding "Bottom and Bottom": (1♦) - 3♣! shows 5+ clubs, 4+ hearts, and (1♣) - 2♦! shows
-  5+ diamonds and 4+ hearts. Hardy later changed his approach so that (1♣) - 2♥! shows
+* Adding "Bottom and Bottom": (1♦) – 3♣! shows 5+ clubs, 4+ hearts, and (1♣) – 2♦! shows
+  5+ diamonds and 4+ hearts. Hardy later changed his approach so that (1♣) – 2♥! shows
   this hand. Others suggest 2N!. 
 * Adding Equal Level Conversion takeout doubles.  If one doubles and then rebids at the
   same level as the response, it does not show extras. This allows takeout doubles that

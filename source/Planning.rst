@@ -127,9 +127,9 @@ discuss that before we get specific.
 Reverses by Opener
 ------------------
 
-Imagine an auction that begins 1♦ - 1♠ - 2♥. As we will see, if responder has six
+Imagine an auction that begins 1♦ – 1♠ – 2♥. As we will see, if responder has six
 to a bad ten HCP, they can only bid once, except to make a final choice of suits if
-necessary.  For example, after 1♦ - 1♠ - 2♥, responder with such a hand must choose
+necessary.  For example, after 1♦ – 1♠ – 2♥, responder with such a hand must choose
 between diamonds, hearts, or his own spades.  If he only has four spades, he has to
 choose one of opener's suits.
 
@@ -138,7 +138,7 @@ partnership might have fewer than half the points between them, yet we're promis
 take 9 of the 13 tricks. For this to be safe, opener would need around seventeen
 points.
 
-Compare this to 1♥ - 1♠ - 2♣. Now if responder has to prefer hearts to clubs, a 2♥ bid
+Compare this to 1♥ – 1♠ – 2♣. Now if responder has to prefer hearts to clubs, a 2♥ bid
 is comfortable. Opener with a big hand might bid again, but at least they know we 
 have a minimum. 
 
@@ -161,7 +161,7 @@ qualify as well.
    The second bid suit is always shorter and higher-ranked than the first bid suit.
    Opener cannot "reverse" from one four-card suit into another. 
 
-Example: 1♦ - 1♠ - 2♥. Hearts is higher than diamonds, and the 2♥ bid is up a level. 
+Example: 1♦ – 1♠ – 2♥. Hearts is higher than diamonds, and the 2♥ bid is up a level. 
 Opener has more at least as many diamonds as hearts (typically 5-4).  
 
 There is one important exception. If responder has made a two-level bid he has
@@ -178,7 +178,7 @@ When you have a five-card suit and a higher four-card suit, you have to open
 the five-card suit, but on your rebid you cannot show your four-card suit
 unless you have the values.  
 
-For example, with five diamonds and four hearts, if the auction goes 1♦ - 1♠ -
+For example, with five diamonds and four hearts, if the auction goes 1♦ – 1♠ -
 2♥, opener has reversed. Lacking that many points, opener may have to bid an
 imperfect 1N or repeat diamonds instead.
 
@@ -206,7 +206,7 @@ new suit. This is called a :term:`jump-shift` by opener, and it is always strong
 Responding To Partner's Reverse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Suppose partner reverses: 1♦ - 1♠ - 2♥. This is forcing, so you
+Suppose partner reverses: 1♦ – 1♠ – 2♥. This is forcing, so you
 have to bid. 
 
 If you bid opener's first suit, it is a simple preference with a minimal hand.
@@ -236,7 +236,7 @@ exclamation point).
 
 Any bid other than a suit preference or 2N is game forcing when using this convention.
 
-2N! (relay) - 3♣(forced) - 3♠(to play) shows a minimal hand like
+2N! (relay) – 3♣(forced) – 3♠(to play) shows a minimal hand like
 (1), while a direct 2♠ is forcing a round and shows 5+ spades. After the relay,
 bidding one of partner's two suits is showing a suit preference with a weak hand.
 
@@ -258,11 +258,11 @@ Reverses By Responder
    pair:reverse;responder
    
 When responder reverses, it is just a game-forcing natural bid. For example, 
-1♠ - 2♣ - 2♠ - 3♦ is a game-forcing reverse, since diamonds are a higher
+1♠ – 2♣ – 2♠ – 3♦ is a game-forcing reverse, since diamonds are a higher
 suit than clubs. Again, the same principal is at work; an opener who wanted to prefer
 clubs is now forced up a level compared to bidding diamonds first and clubs second.
 
-Note that 1♣ - 1♦ - 1♥ - 1♠ does not count as a reverse; we're not up a level. But 
+Note that 1♣ – 1♦ – 1♥ – 1♠ does not count as a reverse; we're not up a level. But 
 bidding 2♠, not 1♠, is a jump shift and game forcing. For this reason it is best to
 treat this 1♠ bid as forcing.   
 

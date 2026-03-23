@@ -28,7 +28,7 @@ dealing with weaker notrump openings.
    pair:convention;Unusual 2N
    pair;1N;Unusual 2N
 
-(1N) - 2N is always "unusual 2N" showing 5-5 in the minors. No cheating on length here!
+(1N) – 2N is always "unusual 2N" showing 5-5 in the minors. No cheating on length here!
 
 The two most popular conventions are called D.O.N.T. (Disturbing the
 Opponent's No Trump) and Cappelletti, also known as Hamilton. Each of
@@ -78,7 +78,7 @@ two-suited bids require at least 5-4 in either order.
 In response to 2♣ and 2♦, pass unless you have shortness, or bid the
 next higher suit, or on rare occasion, a good long suit of your own.
 
-Exampe: Suppose  the bidding goes (1N) 2♦! (Diamonds and a higher suit)
+Example: Suppose  the bidding goes (1N) 2♦! (Diamonds and a higher suit)
 
 * With ♠KQ86 ♥Q8 ♦98 ♣98764 you would bid 2♥, because your hearts and spades
   are better than your diamonds.
@@ -131,7 +131,7 @@ bids:
 
 The two suited bids are nominally 5-5, but depending on strength and 
 vulnerability, can me made with a good 5-4. Advancer can depart from the
-relay by preemptively bidding their own suit -- this must be a really good suit,
+relay by preemptively bidding their own suit--- this must be a really good suit,
 and it should not happen very often.
 
 As usual, if the opponents bid again, the next bidder on our side is "off the hook".

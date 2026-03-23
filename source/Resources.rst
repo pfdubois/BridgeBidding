@@ -17,10 +17,9 @@ Books
    and Marc Smith; with additional material by David Bird.
    Masterpoint Press, Toronto, 2022, and
    
-#. :title:`25 More Bridge Conventions You Should 
-   Know`, by Barbara Seagram and David Bird, Masterpoint Press, Toronto, are
-   wonderfully expository with reviews and quizzes.  All of the "25" series
-   books have taught me something.  One of them is on Two Over One. 
+#. :title:`25 More Bridge Conventions You Should Know`, by Barbara Seagram and David Bird, 
+   Masterpoint Press, Toronto, are wonderfully expository with reviews and quizzes.  
+   All of the "25" series books have taught me something.  One of them is on Two Over One. 
 
 #. :title:`2 Over 1 Game Force`, by Audrey Grant and Eric Rodwell, Baron Barclay, 
    Louisville, KY. 2009.  I do not care for the 2/1 books by Hardy (on literary, 
@@ -70,7 +69,7 @@ Books
    First published in 1934, nowadays one reads the modernized 
    version by Sam Fry, Jr. written in 1958. It remains one of the best.
    
-#. :title:`The Official Encylopedia of Bridge`, 7th Edition, Brent Manley ed., published
+#. :title:`The Official Encyclopedia of Bridge`, 7th Edition, Brent Manley ed., published
    by the American Contract Bridge League, Horn Lake, MS, 2011.
    Everything you ever wanted to know -- and the section on how to play card
    combinations is to be frequently consulted after you fail in that department.

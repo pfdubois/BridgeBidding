@@ -12,7 +12,7 @@ you also can't say that until later. These two conventions do a better job on on
 both of these fronts.
 
 Another system is "steps", a system in which responder shows his point count in steps
-of three HCP starting with 2♦! (0-3), 2♥(4-6), etc.  This is not an advanced convention,
+of three HCP starting with 2♦! (0-3), 2♥ (4-6), etc.  This is not an advanced convention,
 it is a mistake.  
 
 
@@ -24,10 +24,10 @@ Two Hearts Bust Response to Two Clubs
 
 With partnership agreement, the responses to 2♣ become:
 
-- 2♥! shows a bad ("bust") hand, with no Ace or King and not even two Queens.
-- The other bids remain the same
-- 2♦ is now game forcing.
-- I think the original idea was that 2N! is available to show what 2♥ used to show, 
+* 2♥! shows a bad ("bust") hand, with no Ace or King and not even two Queens.
+* The other bids remain the same
+* 2♦ is now game forcing.
+* I think the original idea was that 2N! is available to show what 2♥ used to show, 
   8+ HCP and good hearts. I'm allergic to 2N responses to 2♣, and since 2♦ is now 
   a game force and systems will be on over 2N, I don't see the need for it. If someone
   offers to play 2♥ Bust with you, best discuss.
@@ -47,7 +47,7 @@ Parrish Relay
    pair:convention;Parrish (two hearts bust addon)
    
 The Parrish convention applies after a Two Hearts Bust response.  It provides a way
-for opener to bid a suit and have it be non-forcing, thus stopping below game.
+for opener to bid a suit and have it be non–forcing, thus stopping below game.
 
 The Parrish Relay is a bid of 2♠! (relay) over 2♣ - 2♥! (bust), forcing responder
 to bid 2N. Opener's next bid is now not forcing.  Note that any concern about
@@ -56,14 +56,14 @@ notrump they don't use the relay.
  
 By contrast, after 2♥!, suit bids other than the relay are forcing. So:
 
-   | 2♣ - 2♥! (bust) 
+   | 2♣ – 2♥! (bust) 
    | 2N is not forcing
    | 3♣/3♦/3♥/3♠ are forcing
    |
    | but
    |
-   | 2♣ - 2♥! (bust) 
-   | 2♠! (relay) - 2N! (forced) 
+   | 2♣ – 2♥! (bust) 
+   | 2♠! (relay) – 2N! (forced) 
    | 3♣/3♦/3♥/3♠ are not forcing
 
   
@@ -97,14 +97,14 @@ Control Responses To Two Clubs
 By partnership agreement, responder shows Aces and Kings. Counting A=2 and
 K=1,
 
--  2♦! = (negative) zero or one (that is, no Aces, perhaps one King)
--  2♥! = two (one Ace or two Kings)
--  2♠! = exactly one Ace and one King
--  2N! = three Kings
--  3♣! = 4 points, 3♦! = 5 points, etc.
+*  2♦! = (negative) zero or one (that is, no Aces, perhaps one King)
+*  2♥! = two (one Ace or two Kings)
+*  2♠! = exactly one Ace and one King
+*  2N! = three Kings
+*  3♣! = 4 points, 3♦! = 5 points, etc.
 
 After 2♣ – 2♦! – 2N, responder can pass. Systems are on. If opener rebids a suit, however,
-responder must bid again.  After 2♣ - 2♦, opener can jump to 3N if willing to be in 
+responder must bid again.  After 2♣ – 2♦, opener can jump to 3N if willing to be in 
 that contract opposite a wasteland.
 
 Continuations After Positive Responses
