@@ -259,7 +259,7 @@ should proceed directly to 4M with no slam interest.
 Scheme 1: Weak Doubleton
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-1N - 2♦:
+1N – 2♦:
 
 * 2♥ = Normal Accept with 2 or 3 Hearts
 * 2♠ = Maximum with 4 Hearts and a weak doubleton in Spades
@@ -268,7 +268,7 @@ Scheme 1: Weak Doubleton
 * 3♦ = Maximum with 4 Hearts and a weak doubleton in Diamonds
 * 3♥ = Minimum with 4 Hearts
 
-1N - 2♥:
+1N – 2♥:
 
 * 2♠ = Normal Accept with 2 or 3 Spades
 * 2N = Maximum with 4 Spades without any weak doubleton
@@ -289,14 +289,14 @@ Scheme 2: Weak Doubleton Somewhere
 Others worry showing the doubletons can give away the show and shrink the 
 super-accepts to: 
 
-1N - 2D:
+1N – 2D:
 
 * 2H = Normal Accept with < 4 Hearts
 * 2S = Maximum with 4 Hearts and some Weak Doubleton
 * 2N = Maximum with 4 Hearts without any Weak Doubleton
 * 3H = Minimum with 4 Hearts
 
-1N - 2H:
+1N – 2H:
 
 * 2S = Normal Accept with < 4 Spades
 * 2N = Maximum with 4 Spades without any Weak Doubleton

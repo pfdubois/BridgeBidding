@@ -52,12 +52,12 @@ When partner makes a takeout double of an opener and RHO raises his
 partner, a double shows scattered values with at least 6 points and
 interest in locating a fit.
 
--  If the opponents are bidding a minor suit, a responsive double asks
+*  If the opponents are bidding a minor suit, a responsive double asks
    partner to pick a major suit. We know partner has at least 4-3 in the
    majors so with equally good majors ourselves we want partner to
    choose.
 
--  If the opponents are bidding a major suit, a responsive double
+*  If the opponents are bidding a major suit, a responsive double
    requests partner to choose a minor suit, because if we had the other
    major we would bid it as partner has promised it with his takeout
    double.
@@ -68,8 +68,8 @@ interest in locating a fit.
 
 Examples
 
-- (1♠) X (2♠) X! Has both minors, partner to choose.
-- (1♦) X (2♦) X! Has both majors, partner to choose.
+* (1♠) X (2♠) X! Has both minors, partner to choose.
+* (1♦) X (2♦) X! Has both majors, partner to choose.
 
 Maximal Doubles
 ---------------

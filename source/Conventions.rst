@@ -59,7 +59,7 @@ But for what it is worth, here's my opinion on what conventions you need to know
 .. index::
    pair:convention;list of core
 
-- These have been assumed to be part of the 2/1 system:
+* These have been assumed to be part of the 2/1 system:
 
 * :ref:`Jacoby 2NT <Jacoby2NT>`, 
 * :ref:`Gerber <Gerber>` (at least as jump bids over 1N or 2N);

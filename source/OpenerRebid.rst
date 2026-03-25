@@ -46,20 +46,20 @@ After One Heart – One Spade
 The 1♠ response is not limited and therefore opener must bid. Be aware
 that 1♠ does not deny 3 hearts; responder's next bid of 3♥ or 4♥ shows 3-card support.
 
--  With four spades, we usually bid 2♠. This is not forcing.
+*  With four spades, we usually bid 2♠. This is not forcing.
    Bidding 2♠ has debatable requirements. I like it to show four spades or three spades 
    and an outside singleton or void.  Experts may bid 2♠ regardless with three spades.
--  With four spades and 15-17 points bid 3♠. With more bid 4♠ or a :term:`splinter`.
+*  With four spades and 15-17 points bid 3♠. With more bid 4♠ or a :term:`splinter`.
 
 Lacking spade support:
 
--  1N shows a minimum opener and a balanced hand.
--  2♥ shows a minimum opener (12-14) and |6ormore| hearts.
--  2N shows 18-19 balanced.
--  2m shows a second suit and a hand not suitable to bid at the 3 level
+*  1N shows a minimum opener and a balanced hand.
+*  2♥ shows a minimum opener (12-14) and |6ormore| hearts.
+*  2N shows 18-19 balanced.
+*  2m shows a second suit and a hand not suitable to bid at the 3 level
    or to reverse.
--  3♥ is invitational and shows |6ormore| hearts (15-17).
--  4♥ shows 19+ and |6ormore| hearts.
+*  3♥ is invitational and shows |6ormore| hearts (15-17).
+*  4♥ shows 19+ and |6ormore| hearts.
    
 After 1N Forcing
 ~~~~~~~~~~~~~~~~
@@ -76,13 +76,13 @@ When 1N is forcing its range is 6 to a bad 12.
  
 Opener's rebid over a forcing 1N response is as follows.
 
--  2M shows 12-15, and a |6ormore| card suit, not forcing.
--  3M rebid shows 15-17, and a |6ormore| card suit, not forcing.
--  Any reverse is 17+, natural, forcing one round.
--  2N 18-19 HCP, balanced, not forcing opposite a real minimum. Does not deny a major
+*  2M shows 12-15, and a |6ormore| card suit, not forcing.
+*  3M rebid shows 15-17, and a |6ormore| card suit, not forcing.
+*  Any reverse is 17+, natural, forcing one round.
+*  2N 18-19 HCP, balanced, not forcing opposite a real minimum. Does not deny a major
    that it skipped over.
--  A jump shift is 19+, usually natural, game forcing.
--  If none of the above applies, bid the longest side suit up the line,
+*  A jump shift is 19+, usually natural, game forcing.
+*  If none of the above applies, bid the longest side suit up the line,
    but always rebid hearts when holding |4ormore| hearts and five spades.
 
 The last rule can mean bidding a short minor suit. For example, after 1♠ – 1N(forcing),
@@ -118,10 +118,10 @@ rebid hearts, but with 4=5=x=x, and not enough points to reverse into
 spades, opener must bid a short minor. Therefore the minor is more
 likely to be short after an opening 1♥ than after an opening 1♠.
 
-- 1♥ – 1N – 2♣ is the most likely to be short;
-- 1♥ – 1N – 2♦ and
-- 1♠ – 1N – 2♣ are less likely to be short; and
-- 1♠ – 1N – 2♦ is least likely to be short.
+* 1♥ – 1N – 2♣ is the most likely to be short;
+* 1♥ – 1N – 2♦ and
+* 1♠ – 1N – 2♣ are less likely to be short; and
+* 1♠ – 1N – 2♦ is least likely to be short.
 
 Responder can be comfortable passing the minor with five in the suit.
 Responder should prefer back to the major with a doubleton otherwise.
@@ -137,35 +137,35 @@ points.
 If opener has rebid his major, e.g. 1♠ – 1N(forcing) – 2♠, then
 responder's bids are:
 
--  pass with 6-9 HCP
--  raise with 10-12 support points, and 2 or 3 trumps; this is not
+*  pass with 6-9 HCP
+*  raise with 10-12 support points, and 2 or 3 trumps; this is not
    forcing
--  2N is 10-12 HCP, fewer than two trump, not forcing. This bid does not
+*  2N is 10-12 HCP, fewer than two trump, not forcing. This bid does not
    promise stops or a NT shape.
--  3 of a new suit, 10-12, very good |6ormore| card suit, invitational.
+*  3 of a new suit, 10-12, very good |6ormore| card suit, invitational.
 
 If opener has rebid a minor,
 
--  pass with 6-9 HCP, usually |5ormore| in the minor, fewer than 2 of the
+*  pass with 6-9 HCP, usually |5ormore| in the minor, fewer than 2 of the
    opener's major
--  bid 2M with 6-10 HCP, exactly 2 of opener's major, not forcing.
--  A new suit at the two level is 6-9 HCP, usually 5+ in bid suit, 2 of
+*  bid 2M with 6-10 HCP, exactly 2 of opener's major, not forcing.
+*  A new suit at the two level is 6-9 HCP, usually 5+ in bid suit, 2 of
    the major, not forcing.
--  2N is 10-12 HCP, fewer than 2 of the major, not forcing. Does not
+*  2N is 10-12 HCP, fewer than 2 of the major, not forcing. Does not
    promise stops or NT shape.
--  Jump shift is 10-12, very good |6ormore| card suit, not forcing.
--  Jump raise the major to 3M with 10-12 points, 3 trumps.
--  Raise the minor is 10-12 points, usually |5ormore| in the suit.
--  Sometimes responder jumps to game with a hand that got better when
+*  Jump shift is 10-12, very good |6ormore| card suit, not forcing.
+*  Jump raise the major to 3M with 10-12 points, 3 trumps.
+*  Raise the minor is 10-12 points, usually |5ormore| in the suit.
+*  Sometimes responder jumps to game with a hand that got better when
    opener rebid. For example, 1♠ – 1N(forcing) – 2♥ – 4♥.
 
 After a jump shift by opener, e.g. 1♠ – 1N(forcing) – 3♣,
 
--  responder usually prefers back to opener's major with 2 card support,
+*  responder usually prefers back to opener's major with 2 card support,
    or bids 3N with stoppers, even when holding good four card support in
    the minor. (We are in a game-forcing option, so we can conserve
    bidding space while showing the 2-card support.)
--  With 3 card support in the major and 10-12 support, responder jumps
+*  With 3 card support in the major and 10-12 support, responder jumps
    to game in the major.
 
 The auction 1♠ – 1N! – (2♦ or 2♥) – 3♣ is to play, although with a
@@ -200,22 +200,22 @@ says no.  But this book will say yes.
 
 The opener's rebids after the game-forcing bid are:
 
-- Supporting responder's hearts shows at least three hearts (because responder
+* Supporting responder's hearts shows at least three hearts (because responder
   promised five). Not raising hearts denies support.
-- Rebid four cards in the other major when 5-4 in the majors.
+* Rebid four cards in the other major when 5-4 in the majors.
   Remember, reverses are off, so 1♥ – 2♣ – 2♠ shows five
   hearts and four spades, but not extra values.
-- Supporting responder's minor shows at least four cards or perhaps three strong ones.
+* Supporting responder's minor shows at least four cards or perhaps three strong ones.
   2N is a option, see below. A jump-shift to the four level is a splinter in support of 
   responder, such as 1♠ – 2♥ – 4♣! (club shortness in support of hearts).
-- A new suit at the two level is natural, 4 cards, any strength. 
-- A new suit at the 3 level shows either extra length in the new suit or extra strength
+* A new suit at the two level is natural, 4 cards, any strength. 
+* A new suit at the 3 level shows either extra length in the new suit or extra strength
   in the opener's hand.
-- A simple rebid of opener's major shows 12-14 HCP and a six-card suit.
-- A jump rebid to 3M shows extra values and a 6-card solid suit. 
+* A simple rebid of opener's major shows 12-14 HCP and a six-card suit.
+* A jump rebid to 3M shows extra values and a 6-card solid suit. 
   This sets trumps. Responder's new suit bids are control bids. E.g., 1♠ – 2♦ –
   3♠ – 4♦; 4♦ here is a control bid in diamonds, denying a control in clubs.
-- 2N shows 12-14 or 18-19 balanced. Opener does not promise stoppers in unbid suits. 
+* 2N shows 12-14 or 18-19 balanced. Opener does not promise stoppers in unbid suits. 
   With 18-19 make a quantitative raise if responder signs off in 3N. 
   Responder assumes 12-14 initially.
 
@@ -266,9 +266,9 @@ If opener has bid 2 of a lower-ranking suit, responder has 3 raises
 available for opener's first suit. Fast arrival does not apply
 because opener is unlimited. For example:
 
-- 1♠ – 2♣ – 2♥ – 2♠ (no extras)
-- 1♠ – 2♣ – 2♥ – 3♠ (slam interest)
-- 1♠ – 2♣ – 2♥ – 4♠ (picture bid) Two-suited, values concentrated in
+* 1♠ – 2♣ – 2♥ – 2♠ (no extras)
+* 1♠ – 2♣ – 2♥ – 3♠ (slam interest)
+* 1♠ – 2♣ – 2♥ – 4♠ (picture bid) Two-suited, values concentrated in
   the suits, no outside controls.
 
 .. rubric::
@@ -276,13 +276,13 @@ because opener is unlimited. For example:
 
 When no fit is established, responder's second bid is as follows:
 
-- Raise opener's second suit
-- 2N shows 12-14 or 18-19 balanced, stoppers in unbid suits. Opener
+* Raise opener's second suit
+* 2N shows 12-14 or 18-19 balanced, stoppers in unbid suits. Opener
   assumes 12-14 initially. 
-- A jump to 3N shows 15-17, stoppers, could be unbalanced.
-- Repeating responder's suit is natural, 5/6+ cards. 
-- A new suit is natural, 4+ cards. 
-- A jump in a new suit shows a singleton or void in that suit and
+* A jump to 3N shows 15-17, stoppers, could be unbalanced.
+* Repeating responder's suit is natural, 5/6+ cards. 
+* A new suit is natural, 4+ cards. 
+* A jump in a new suit shows a singleton or void in that suit and
   support for opener's last bid major suit. Thus:
 
   * 1♠ – 2♣ – 2♠ – 4♦!
@@ -318,10 +318,10 @@ bid is alertable ("could be just two cards").
 Partner should bid game if he has “help” in the suit bid and is not near
 minimum. “Help” is defined as any one of:
 
--  An Ace, King, stiff, or void
--  Five cards in the suit
--  A maximum
--  With no help, and a near maximum, partner may bid a suit below three
+*  An Ace, King, stiff, or void
+*  Five cards in the suit
+*  A maximum
+*  With no help, and a near maximum, partner may bid a suit below three
    of the major to show “help” in that suit, but no help in the suit
    mentioned.
 

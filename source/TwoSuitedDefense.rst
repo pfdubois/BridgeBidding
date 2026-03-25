@@ -43,40 +43,40 @@ and two other suits.
 
 We set up a correspondence between the implied cue bids and our two suits:
 
--  A cue bid of the lower of their suits shows length in the lower of our 
+*  A cue bid of the lower of their suits shows length in the lower of our 
    two suits. 
 
--  A cue bid of the higher of their suits shows length in the higher of
+*  A cue bid of the higher of their suits shows length in the higher of
    our two suits.
 
 When you have support for partner's suit:
 
--  A simple raise of partner shows trump support and a competitive 7-10 support
+*  A simple raise of partner shows trump support and a competitive 7-10 support
    points.
 
--  The implied cue bid corresponding to partner's suit is a limit raise or
+*  The implied cue bid corresponding to partner's suit is a limit raise or
    better.
 
--  A raise to game in partner's suit is, as usual, long trumps and good
+*  A raise to game in partner's suit is, as usual, long trumps and good
    playing strength with less than limit raise values.
 
--  A jump cue-bid is a splinter, slam try in partner's suit.
+*  A jump cue-bid is a splinter, slam try in partner's suit.
 
 When you do not have support for partner:
 
--  A free bid of the “other” suit is competitive and non-forcing.
+*  A free bid of the “other” suit is competitive and non-forcing.
    Typically this hand might look like a weak two opener in the other
    suit, 7-10 points.
 
--  The cue bid of the “other” suit shows 5+ cards and game-forcing
+*  The cue bid of the “other” suit shows 5+ cards and game-forcing
    values.
 
--  A double shows you have a penalty double of at least one of their
+*  A double shows you have a penalty double of at least one of their
    suits, and another bid. Typically this is 10+ points. Assuming
    advancer bids, partner should usually pass to give you the option of 
    making a penalty double.
 
--  3N is to play, showing stoppers in both their suits.
+*  3N is to play, showing stoppers in both their suits.
 
 Pass if you cannot make one of these bids.
 
@@ -89,43 +89,33 @@ Only One Suit Is Known
 ----------------------
 
 If the second suit is not known, such as a 1♥ (2♥) Michaels bid, things
-are more complicated.
+are more complicated:
 
--  The one available cue bid is a limit raise or better in partner's
+*  The one available cue bid is a limit raise or better in partner's
    suit.  Example: 1♥ (2♥) 2♠ = limit raise+ in hearts.
-   
--  A raise to the 3-level is a constructive raise (7-10 points). Larry
+*  A raise to the 3-level is a constructive raise (7-10 points). Larry
    Cohen recommends that this shows 3-card support for a major, or 4-card
    support for a minor. Non-forcing. A jump raise to the 4-level is weak
    and preemptive, showing 4+ card support. Non-forcing. 
-
--  A jump cue-bid is a splinter and a slam try. 1♥ (2♥) 3♠ = 
+*  A jump cue-bid is a splinter and a slam try. 1♥ (2♥) 3♠ = 
    short spades, support, slam try.
-
--  A no-trump response is used to show 10+ HCP points without
+*  A no-trump response is used to show 10+ HCP points without
    support, with stoppers in the other three suits. 
-   
--  A double shows you have a penalty double of one of their suits, the known one 
+*  A double shows you have a penalty double of one of their suits, the known one 
    or one of the others, typically 7+ HCP, often a balanced hand.
-
--  All other bids are not forcing.
-
--  Pass can be just waiting but it is usually weak.  
+*  All other bids are not forcing.
+*  Pass can be just waiting but it is usually weak.  
 
 The meaning of the responder's rebids after an initial double and pass by 
 opener are as follows.  Example::
 
    1♥ 2♥ X 2♠
    P   P ?
-   
-   
--  Double is for penalty
-
--  New suit is 5+ cards, game forcing.
-
--  3N is game strength with a stopper.
-
--  Bidding overcaller's suit is :ref:`Western Cue <Western_Cue>`,
+    
+*  Double is for penalty
+*  New suit is 5+ cards, game forcing.
+*  3N is game strength with a stopper.
+*  Bidding overcaller's suit is :ref:`Western Cue <Western_Cue>`,
    forcing to game and denying a stopper in the suit 
    and asking partner to bid 3N if he holds one.
    
@@ -151,20 +141,20 @@ the "4th suit" is a preemptive bid.
 Example: 1♥ (2N). "Our suits" are hearts and spades, theirs are clubs and diamonds. The 
 lowest of theirs, clubs, corresponds to the lowest of ours, hearts. 
 
-- X shows a penalty double of at least one of the minors
-- 3♥ (partner's major) is a competitive raise
-- 3♠ (the other major) is a preemptive bid
-- 3♣ is limit raise or better for hearts
-- 3♦ is a game force with spades
+* X shows a penalty double of at least one of the minors
+* 3♥ (partner's major) is a competitive raise
+* 3♠ (the other major) is a preemptive bid
+* 3♣ is limit raise or better for hearts
+* 3♦ is a game force with spades
 
 Example: 1♣ (2N). "Our" suits are clubs and spades, theirs are diamonds and hearts. the 
 lowest of theirs, diamonds, corresponds to the lowest of ours, clubs.
 
-- X shows a penalty double of diamonds or hearts or both
-- 3♣ is a competitive raise of clubs
-- 3♠ is a preemptive bid
-- 3♦ is a limit raise or better of clubs
-- 3♥ is a GF bid of spades
+* X shows a penalty double of diamonds or hearts or both
+* 3♣ is a competitive raise of clubs
+* 3♠ is a preemptive bid
+* 3♦ is a limit raise or better of clubs
+* 3♥ is a GF bid of spades
 
 .. rubric:: Example: Michael's Cue Bid Defense
 

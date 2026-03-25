@@ -92,7 +92,7 @@ There are just three possible bids with a competitive hand: 2M, 1♠, and 1N:
 With a competitive hand, you can't bid 
 a new suit at the two-level. That requires a hand with |10ormore| HCP.
 
-Important: 1M - 1N does not say you have a balanced hand. If we made such a requirement,
+Important: 1M – 1N does not say you have a balanced hand. If we made such a requirement,
 and your partner opens 1♥, suppose we have this hand:
 
     | ♠K92 ♥2 ♦Q8763 ♣Q952
@@ -108,8 +108,8 @@ We would be stuck.  Let's see why:
 Our hand is not balanced, so if 1N had to be balanced, we would have no bid.
 
 .. warning::
-   Don't confuse a notrump RESPONSE such as 1♥ - 1N,  with a notrump REBID such as
-   1♦ - 1♥ - 1N.  When an opener bids notrump on his second bid it *does* promise 
+   Don't confuse a notrump RESPONSE such as 1♥ – 1N,  with a notrump REBID such as
+   1♦ – 1♥ – 1N.  When an opener bids notrump on his second bid it *does* promise 
    a balanced hand. 
 
 A competitive hand gets just one bid, unless opener forces another out of you or gives you
@@ -135,7 +135,7 @@ major, we still just bid Drury. The limit raise is artificial so we'll get anoth
 Don't just jump to game. Give partner a chance to admit he opened light. We can bid game 
 on our next bid if he didn't.
 
-For example, Pass - 1♠ - 2♣! (Drury) - 2♠ says "I opened light, stop!".
+For example, Pass – 1♠ – 2♣! (Drury) – 2♠ says "I opened light, stop!".
  
 If you don't have a raise, we're back to the same rules as for minor openings:
 
@@ -173,7 +173,7 @@ bid suit.
 * 3♠ over 1♥. 
 
 Since these bids are made before opener's second bid, they are alertable.
-Splinters can also be used by an opener after a major response, such as 1♦ - 1♥ - 4♣.
+Splinters can also be used by an opener after a major response, such as 1♦ – 1♥ – 4♣.
 
 Splinters are best described as a raise to game with no interest in slam unless
 partner has the "magic hand". If partner has no wasted values in the splinter
@@ -181,7 +181,7 @@ suit, and has some extras, we might be in the magic "30 point deck" situation
 -- we have almost all the points in the other three suits. With no magic hand, 
 opener just bids the game. Otherwise control-bidding or key-card may ensue.
 
-Splinter bids, particularly the  1♥ - 3♠ splinter, have been known to cause
+Splinter bids, particularly the  1♥ – 3♠ splinter, have been known to cause
 people to stare like a deer caught in the headlights.  The thought process to
 use is: 1♠ would be a normal bid, 2♠ would be a jump-shift, so 3♠ is jumping
 twice, so it is a splinter.  Likewise over 1M, 2♣ is the 10+ bid, 3♣ is a jump-shift,
@@ -210,7 +210,7 @@ Reverse Drury does not apply over interference.
 
 Note that the natural 2♣ bid is no longer available, so a responder might have
 to bid 3♣ over 1M to show 10 points with |6ormore| clubs and no support for
-the major. (Combined with 1♦ - 3♣ meaning the same thing, 3♣ as a response is 
+the major. (Combined with 1♦ – 3♣ meaning the same thing, 3♣ as a response is 
 always invitational and not forcing with |6ormore| clubs).
 
 Opener now reveals his strength:
@@ -270,14 +270,14 @@ new suit is forcing to game or four of a minor. These bids require an opening ha
 
 There are six such sequences, all game forcing:
    
-* 1♥ - 2♣ 
-* 1♥ - 2♦
-* 1♠ - 2♣
-* 1♠ - 2♦
-* 1♠ - 2♥ (|5ormore|)
-* 1♦ - 2♣ (|5ormore|)
+* 1♥ – 2♣ 
+* 1♥ – 2♦
+* 1♠ – 2♣
+* 1♠ – 2♦
+* 1♠ – 2♥ (|5ormore|)
+* 1♦ – 2♣ (|5ormore|)
 
-The auction 1♦ - 2♣ was treated separately in the chapter on 
+The auction 1♦ – 2♣ was treated separately in the chapter on 
 :ref:`Responding To Minor Openings <MinorOpenings>`. 
 
 We promise |5ormore| hearts or |4ormore| (rarely, 3) in a minor.
@@ -348,7 +348,7 @@ bridge terminology so we will use it.
    
 First and foremost, after a 2/1 bid, there are no reverses::
 
-   1♥ - 2♣
+   1♥ – 2♣
    2♠ 
    
 does not show extras, just that we have at least four spades. So, we no longer 
@@ -359,7 +359,7 @@ about reversing.
 .. rubric::
    Rare But Necessary 
    
-Rarely, you bid 2/1 with as short as 3 cards in a minor. (Remember, 1♠ - 2♥ promises 
+Rarely, you bid 2/1 with as short as 3 cards in a minor. (Remember, 1♠ – 2♥ promises 
 five hearts). Suppose your partner opens 1♠, and your shape is 3=4=2=4 with 13 HCP. 
 You have a dilemma:
 
@@ -419,14 +419,14 @@ fit. We call this new value "declarer points".  Now:
 * With a balanced- or semi-balanced hand, there are three bids available: 3M, 3N,
   or 4M. The 3N bid can be given a meaning since you've found a major fit.
 
-  -  1M - 2N! - 4M Jumping to game shows 12-15 declarer points, a minimum.
-  -  1M - 2N! - 3M 16\ :sup:`+` declarer points, but good trumps (2 of the top 3 honors).
-  -  1M - 2N! - 3N 16\ :sup:`+` declarer points, semi-balanced, but not good trumps.
+  *  1M – 2N! – 4M Jumping to game shows 12-15 declarer points, a minimum.
+  *  1M – 2N! – 3M 16\ :sup:`+` declarer points, but good trumps (2 of the top 3 honors).
+  *  1M – 2N! – 3N 16\ :sup:`+` declarer points, semi-balanced, but not good trumps.
 
 * With an unbalanced hand,
 
-  -  1M - 2N! - 3♣/♦/W stiff or void in the bid suit. (W = the other major), or
-  -  1M - 2N! - 4♣/♦/W, showing a good second |5ormore| card suit, strong hand.
+  *  1M – 2N! – 3♣/♦/W stiff or void in the bid suit. (W = the other major), or
+  *  1M – 2N! – 4♣/♦/W, showing a good second |5ormore| card suit, strong hand.
 
 You have a choice in the latter case since obviously you have a shortness. Choose the
 suit bid only with a :term:`good suit`. However, if you have a void, show the void. 
@@ -494,11 +494,11 @@ We'll learn the details about :ref:`negative doubles <negative_double>` and othe
 competitive bids later to deal with those situations. Briefly, negative doubles work 
 like this:
 
-* The auction starts 1♥ - (2♣).  We had a hand that would have bid
+* The auction starts 1♥ – (2♣).  We had a hand that would have bid
   1♠ but we only have four spades so we can't bid 2♠. We make a negative
   double to tell partner of our distress. 
 
-* The auction starts 1♦ - (1♠). Before we were so rudely interrupted we
+* The auction starts 1♦ – (1♠). Before we were so rudely interrupted we
   were going to bid 1♥ with our five hearts and 8 HCP. But now, 2♥ would show |10ormore|
   points, so we can't bid that. The negative double says, partner, I have 
   |4ormore| hearts but either I'm not strong enough or I don't have five hearts.
@@ -511,20 +511,20 @@ like this:
 
 To raise an opening 1M after an overcall,
 
-- Raise to 2M with 5-9 and |3ormore| cards.
-- Most hands with Axxx are also worth a raise to 2, especially in
+* Raise to 2M with 5-9 and |3ormore| cards.
+* Most hands with Axxx are also worth a raise to 2, especially in
   spades.
-- Cue-bid the overcalled suit to make a limit raise or better.
-- A jump cue-bid is a splinter in support of opener's suit.
-- A jump raise (e.g. 1M - 2♣ - 3M) is preemptive. Usually you have four trump.
-- A jump to 4M shows a weak hand and |5ormore| trump.
+* Cue-bid the overcalled suit to make a limit raise or better.
+* A jump cue-bid is a splinter in support of opener's suit.
+* A jump raise (e.g. 1M – 2♣ – 3M) is preemptive. Usually you have four trump.
+* A jump to 4M shows a weak hand and |5ormore| trump.
 
 Without support, notrump bids deny support and are natural; they show a stopper in the 
 overcalled suit:
 
-- 2N is invitational with a balanced hand, and shows a stopper in 
+* 2N is invitational with a balanced hand, and shows a stopper in 
   their suit.  
-- 3N bids game, again with stoppers.
+* 3N bids game, again with stoppers.
 
 In this case, 1♠ (2♣) 3♣ is the limit raise. This lets opener sign
 off at 3♠ if he does not want to accept the invitation.
@@ -535,18 +535,18 @@ a four-card raise.  This means other 2-level bids are confined to 9 or fewer poi
 
 Examples:
 
-- 1♠ – 3♠ would have meant a limit raise, but 1♠ (2♣) 3♠ is preemptive, |4ormore| spades.
-- 1♥ (1♠) 2♠! limit raise+ in hearts
-- 1♥ (2♦) 2♥ 5-9, at least three hearts
-- 1♥ (2♦) 3♥ weak hand, 4+ hearts
-- 1♥ (1♠) 3♥ weak hand, 4+ hearts
-- 1♥ (1♠) 4♥ weak hand, 5+ hearts
-- 1♥ ( X) 2N! Limit raise or better, 3+ hearts. Forcing for one round.
-- 1♥ ( X) XX 10+ HCP, forcing to 2♥.
-- 1♥ ( X) 2♣ |5ormore| clubs, < 10 points.
-- 1♥ (1♠) 2N Invitational, balanced hand. This bid can be passed.
-- 1♥ (2♦) 4♦ is a splinter in support of hearts.
-- 1♥ (2♠) presents a quandary because the 3♠ cue-bid would force opener to game.
+* 1♠ – 3♠ would have meant a limit raise, but 1♠ (2♣) 3♠ is preemptive, |4ormore| spades.
+* 1♥ (1♠) 2♠! limit raise+ in hearts
+* 1♥ (2♦) 2♥ 5-9, at least three hearts
+* 1♥ (2♦) 3♥ weak hand, 4+ hearts
+* 1♥ (1♠) 3♥ weak hand, 4+ hearts
+* 1♥ (1♠) 4♥ weak hand, 5+ hearts
+* 1♥ ( X) 2N! Limit raise or better, 3+ hearts. Forcing for one round.
+* 1♥ ( X) XX 10+ HCP, forcing to 2♥.
+* 1♥ ( X) 2♣ |5ormore| clubs, < 10 points.
+* 1♥ (1♠) 2N Invitational, balanced hand. This bid can be passed.
+* 1♥ (2♦) 4♦ is a splinter in support of hearts.
+* 1♥ (2♠) presents a quandary because the 3♠ cue-bid would force opener to game.
   If you have a suitable hand you might be able to make a negative double and come back 
   to 3♥ to compete. A plain 3♥ is invitational. Lacking the strength to bid 3♥, all you 
   can do is pass.
@@ -564,7 +564,7 @@ Jordan 2NT
 If the opener's LHO makes a takeout double of a major, 2N! shows a limit raise or better
 with four trump.
 
-   | 1M - (X) - 2N! (four-card limit raise or better)
+   | 1M – (X) – 2N! (four-card limit raise or better)
 
 This bid is called Jordon 2NT (who popularized it in America) or Truscott 2NT
 (who invented it in 1954) or Dormer 2NT (who popularized it in Europe).
@@ -619,7 +619,7 @@ The just-right Goldilocks response is 2♣; your next bid will be hearts. Note t
 you could bid 1N(forcing) with a minimal hand with three hearts, bidding 4♥
 next. However, with the extras in this hand, 2♣ is right.
 
-Note what happens if the bidding goes 1♥ - 4♥. Opener holding ♠K9 ♥AJT742 ♦AK9
+Note what happens if the bidding goes 1♥ – 4♥. Opener holding ♠K9 ♥AJT742 ♦AK9
 ♣K2 is going to think that the partnership has at most 25 points and is not
 going to explore for a slam that actually has excellent chances.
 
@@ -682,8 +682,8 @@ hand you just pass or consider a negative double.
 
 A cue bid that is forcing to game is still appropriate sometimes:
 
-- 1♥ (2♠) 4♥ is a weak hand with five hearts
-- 1♥ (2♠) 3♠ is a game force showing an opening hand or better.
+* 1♥ (2♠) 4♥ is a weak hand with five hearts
+* 1♥ (2♠) 3♠ is a game force showing an opening hand or better.
 
 Summary of Responses To 1M
 --------------------------

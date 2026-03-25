@@ -43,12 +43,12 @@ After a strong 1♣ opener, Mathe is the simplest commonly-used defense. In the 
 version, double is the majors, 1N is the minors, and suits are natural. 
 A slight improvement is:
 
--  Double shows the majors
--  1♦ is a transfer to hearts
--  1♥ is a transfer to spades
--  1N shows the minors
--  2♣ shows clubs
--  2♦ shows diamonds
+*  Double shows the majors
+*  1♦ is a transfer to hearts
+*  1♥ is a transfer to spades
+*  1N shows the minors
+*  2♣ shows clubs
+*  2♦ shows diamonds
 
 The added transfers force the big hand to lead.
 
@@ -100,14 +100,14 @@ opener will reply 3N. The 3♣ bid need not be alerted, but the responses must b
 
 Responses are:
 
-- 3♦! (No five card major, one or two 4 card majors)
+* 3♦! (No five card major, one or two 4 card majors)
  
   * 3♥! Responder has four SPADES <-- major you do NOT have!
   * 3♠! Responder has four HEARTS <-- major you do NOT have!
   * 3N! Responder does not have a four card major
   * 4♦! Responder has both 4 card majors. Opener has choice of games.
 
-- 3M! (five cards) 
+* 3M! (five cards) 
 
   * Responder normally chooses between 3N or 4M.
   * Responder with slam interest and 3+ card fit in M can bid the other major
@@ -117,7 +117,7 @@ Responses are:
   * 4N is quantitative (M is not agreed as our suit)
   * Suit bids at the five level are splinters.
     
-- 3N! (Opener has no four or five card majors)
+* 3N! (Opener has no four or five card majors)
 
 The name “Puppet” comes from the 3♥ and 3♠ rebids after a 3♦ response,
 in which the responder bids the major he DOESN'T have, so that the
@@ -214,19 +214,19 @@ responses so that 5-3 fits can be found in either major.
 
 2N – 3♣  (or 1N – 3♣ by partnership agreement):
 
-- 3♦! (Opener has no five card major, has one or more 4 card majors)
+* 3♦! (Opener has no five card major, has one or more 4 card majors)
  
   * 3♥! Responder has four SPADES <-- major you do NOT have!
   * 3♠! Responder has four HEARTS <-- major you do NOT have!
   * 3N! Responder does not have a four card major
   * 4♦! Responder has BOTH 4 card majors. Opener has choice of games.
 
-- 3♥! Opener has no four or five card major.  Responder can now bid 3♠ if he 
+* 3♥! Opener has no four or five card major.  Responder can now bid 3♠ if he 
   has five spades and 3 or 4 hearts, or 3N otherwise. (See below for an alternative.)
   
-- 3♠! Opener has five spades.
+* 3♠! Opener has five spades.
   
-- 3N! Opener has five hearts. 
+* 3N! Opener has five hearts. 
 
 Note that if responder has five spades and 2 or fewer hearts he will transfer rather 
 than use Stayman; so by reversing the meanings of 3♥ and 3N, we are leaving open the
@@ -326,12 +326,12 @@ four-card major; instead , he bids an artificial 1♦. Responses of 1♥ or
 A response of 1♦ shows enough values to respond but is otherwise
 artificial. Opener's rebids after 1♣ – 1♦! (artificial, no five-card major):
 
--  1♥ promises 4 hearts, does not deny 4 spades
--  1♠ promises 4 spades, denies 4 hearts
--  1N denies a four-card major, denies six clubs
--  2♣ shows six clubs
--  2N is 17-18 balanced (as usual).
--  2♦, 2♥, and 2♠ are normal reverses.
+*  1♥ promises 4 hearts, does not deny 4 spades
+*  1♠ promises 4 spades, denies 4 hearts
+*  1N denies a four-card major, denies six clubs
+*  2♣ shows six clubs
+*  2N is 17-18 balanced (as usual).
+*  2♦, 2♥, and 2♠ are normal reverses.
 
 Some play this convention with additional 3-level splinter conventions.
 It is off in competition.

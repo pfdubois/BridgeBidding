@@ -177,23 +177,23 @@ You could call it a variant of the Wolff Signoff or TWNMF over 2N:
 
 The 3♣ puppet to 3♦ is used for a number of weak hand types:
 
-* After 1♣ - 1♠ - 2N – holding a hand like Jxxxx/xx/QJxxx/x intending to pass
+* After 1♣ – 1♠ – 2N – holding a hand like Jxxxx/xx/QJxxx/x intending to pass
   partner's forced 3♦.
 
-* After 1♥ - 1♠ - 2NT – Jxxx/x/KJxxxx/xx same
+* After 1♥ – 1♠ – 2NT – Jxxx/x/KJxxxx/xx same
 
-* After 1x - 1♠ - 2NT – Q109xxx/x/Qxx/xxx intending to sign off in 3♠
+* After 1x – 1♠ – 2NT – Q109xxx/x/Qxx/xxx intending to sign off in 3♠
 
-* After 1m - 1♠ - 2N – Qxxxx/Kxxxx/xx/x intending to bid 3♥ to offer a choice of
+* After 1m – 1♠ – 2N – Qxxxx/Kxxxx/xx/x intending to bid 3♥ to offer a choice of
   3♥/3♠
   
-* After 1♦ - 1♠ - 2N – Jxxx/x/xx/KJxxxx responder bids 3N over 3♦ showing weak with
+* After 1♦ – 1♠ – 2N – Jxxx/x/xx/KJxxxx responder bids 3N over 3♦ showing weak with
   long clubs – opener can pass or convert to 4♣
 
 
 The 3♦ is looking for major fits:
 
-* After 1♣ - 1♦ - 2N - 3♦ holding something like Kxxx/Qxxx/Axxx/x perhaps – might also have
+* After 1♣ – 1♦ – 2N – 3♦ holding something like Kxxx/Qxxx/Axxx/x perhaps – might also have
   only one major.
 
   If opener bids 3♥ and responder continues with 3♠, that says I wasn't
@@ -201,14 +201,14 @@ The 3♦ is looking for major fits:
   This sequence probably has slam interest as 3NT would also suggest four
   spades but no interest beyond game.
 
-* After 1m - 1♥ - 2N - 3♦ – responder may have any hand with five hearts, just looking
+* After 1m – 1♥ – 2N – 3♦ – responder may have any hand with five hearts, just looking
   to find a 5-3 fit.
   
   Responder might also have 4-4 in majors. If opener shows 3♥, he can
   continue with 3♠/3N as above.
 
-* 1m - 1♠ - 2N - 3♦ – responder could have any hand looking for a 5-3 spade fit,
+* 1m – 1♠ – 2N – 3♦ – responder could have any hand looking for a 5-3 spade fit,
   or 5-4 in majors looking for 4-4 hearts or 5-3 spades.
 
-After the 1x - 1M - 2N - 3♥/♠ slam tries, responder has set trumps and opener should 
+After the 1x – 1M – 2N – 3♥/♠ slam tries, responder has set trumps and opener should 
 make control bids.

@@ -149,16 +149,16 @@ When 4N is NOT Ace-Asking
 
 A bid of 4N is not always RKC or Blackwood. Here are the exceptions:
 
--  A direct jump to 4N over 1N or 2N, or after
+*  A direct jump to 4N over 1N or 2N, or after
    a 2N rebid following a 2♣ opener, is quantitative..
 
--  After a 1N opener and transfer to a major, 4N is quantitative. 
+*  After a 1N opener and transfer to a major, 4N is quantitative. 
 
--  After 1N – 2♣ – 2M, 4N is quantitative. Responder can instead
+*  After 1N – 2♣ – 2M, 4N is quantitative. Responder can instead
    first bid 3W! (the other major) to agree on opener's suit and show extras.
    Opener will bid a :term:`control` and then 4N is Ace-asking.
    
--  After a 1x opener, a direct 4N is plain Blackwood. Responder has a
+*  After a 1x opener, a direct 4N is plain Blackwood. Responder has a
    self-sufficient trump suit and just needs to ask for aces.
 
 Many pairs play various conventions in which RKC is invoked with some
@@ -261,10 +261,10 @@ When no suit has been agreed upon, and we have bid notrump, 4♣ is the Gerber C
 asking for Aces. This is true even if the bidder has bid clubs. The
 replies are:
 
--  4♦ No Aces or Four Aces
--  4♥ One Ace
--  4♠ Two Aces
--  4N Three Aces
+*  4♦ No Aces or Four Aces
+*  4♥ One Ace
+*  4♠ Two Aces
+*  4N Three Aces
 
 .. note::
    The standard is that 4♣ is Gerber only when it is a 

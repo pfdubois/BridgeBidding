@@ -78,18 +78,18 @@ game tries, using “pass or correct” with weak hands.
 
 Here's an example. (1♦) 2♦ shows spades and either hearts or clubs. So:
 
-- (1♦) 2♦ – 2♥ I do not like spades. I have 3 hearts. If hearts isn't your other suit, 
+* (1♦) 2♦ – 2♥ I do not like spades. I have 3 hearts. If hearts isn't your other suit, 
   bid your minor.
-- (1♦) 2♦ – 2N! (Asks for the other suit, constructive) 
+* (1♦) 2♦ – 2N! (Asks for the other suit, constructive) 
 
 Asking for the other suit with 2N and then going back to spades is a game try:
 
-- (1♣) 2♣ – 2N – 3♦ – 3♠ is a game try in spades.
+* (1♣) 2♣ – 2N – 3♦ – 3♠ is a game try in spades.
 
 “Super” pass and correct bids can be made if a fit is certain and the
 hand is weak, as preemptive:
 
-- (1♣) 2♣ – 3♦! (support for diamonds and hearts, weak)
+* (1♣) 2♣ – 3♦! (support for diamonds and hearts, weak)
    
 Using Extended Michaels and U2NT together, we cover all the bases::
 

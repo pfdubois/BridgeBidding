@@ -38,8 +38,8 @@ Use The Runout Over Conventional Doubles?
 If the opponent's double does not show strength, but rather is something like D.O.N.T's 
 double showing a single-suited hand, you have two choices:
 
-- Ignore it – systems are “on”.
-- Play your runout regardless of what kind of double it is.
+* Ignore it – systems are “on”.
+* Play your runout regardless of what kind of double it is.
 
 The case for playing the runout is that opener's RHO might be strong and pass. 
 Also, if it is responder who has some points, and the runout has Pass as forcing,
@@ -49,18 +49,18 @@ For intermediate players, there is a more practical reason, especially
 when playing the weak 1N: the opponents will frequently be confused about 
 what the double means, so that the explanation you get may be wrong. I've heard:
 
-- "I thought we were playing natural over weak notrump!"  -- It isn't on their card, of 
+* "I thought we were playing natural over weak notrump!"  -- It isn't on their card, of 
   course.
   
-- "We switch to Cappelletti over a weak notrump."  -- But the doubler forgot and is still 
+* "We switch to Cappelletti over a weak notrump."  -- But the doubler forgot and is still 
   playing D.O.N.T.
   
-- "That was for takeout, partner!"
+* "That was for takeout, partner!"
 
 Or explanations when we inquire:
   
-- "I have no idea." -- at least he's honest.
-- "I presume it is penalty." -- and half the time he's right.
+* "I have no idea." -- at least he's honest.
+* "I presume it is penalty." -- and half the time he's right.
 
 You can call the director after you discover misinformation, but you need 
 to show you were damaged by the misinformation to get relief, and that is 
@@ -123,14 +123,14 @@ because the strength will help you if you land in a bad fit.
 
 After 1N (X), responder bids:
 
--  Pass! – shows near-invitational or better values and a willingness to play 
+*  Pass! – shows near-invitational or better values and a willingness to play 
    1N doubled.
--  Redouble! – Shows a five card suit; opener bids 2♣! (relay), pass or correct.
--  2x! (pass or correct) – denies a five-card suit, shows lowest 4-card suit, beginning a 
+*  Redouble! – Shows a five card suit; opener bids 2♣! (relay), pass or correct.
+*  2x! (pass or correct) – denies a five-card suit, shows lowest 4-card suit, beginning a 
    relay until a 7 card fit is found.
--  3♣, 3♦, 3♥, 3♠: Preemptive, usually a seven card suit.
--  3NT to play.
--  4♦, 4♥: Texas Transfer.
+*  3♣, 3♦, 3♥, 3♠: Preemptive, usually a seven card suit.
+*  3NT to play.
+*  4♦, 4♥: Texas Transfer.
 
 Worst case: you have a bad, flat hand. Bid the 4 card suit and hope.
 
@@ -176,11 +176,11 @@ since he passed, but he could have up to near-invitational values.
 
 After 1N – (P) – P – (X), opener:
 
--  Opener should bid a five card suit if they have one. Otherwise opener
+*  Opener should bid a five card suit if they have one. Otherwise opener
    should pass and let responder bid if LHO is silent.
--  Responder should bid a five card suit or redouble to start the relay,
+*  Responder should bid a five card suit or redouble to start the relay,
    or pass if willing to sit for the double.
--  If LHO bids, you are now back in your 1N overcall treatment, such as 
+*  If LHO bids, you are now back in your 1N overcall treatment, such as 
    :ref:`Lebensohl <Lebensohl>`.
 
 Guoba

@@ -141,12 +141,12 @@ suit of his own:
 
 One can also still make normal bids at the four-level.
 
--  4♣ is Gerber.
--  4♦! and 4♥! are Texas Transfers to hearts and spades, 
+*  4♣ is Gerber.
+*  4♦! and 4♥! are Texas Transfers to hearts and spades, 
    showing six card suits and values for game only. With a strong hand and a
    six-card major game-force at the three level first.
--  4♠! (rare) invites opener to pick a minor game.
--  4N is invitational to 6N and of course promises a stopper.
+*  4♠! (rare) invites opener to pick a minor game.
+*  4N is invitational to 6N and of course promises a stopper.
 
 The sharp-eyed reader will have noticed that there is no way to invite in notrump
 (we gave it up for the Lebensohl 2N), and there is no way to invite in a suit of
@@ -183,9 +183,9 @@ Lebensohl:
 After this the Stayman dance is modified in obvious ways. For example,
 in these auctions, opener without a four-card major will have to bid:
 
-- 3N if he has no unbid four-card major and either has a diamond stopper or was
+* 3N if he has no unbid four-card major and either has a diamond stopper or was
   promised one by responder, or
-- 4♣ to show responder that we lack a major fit or a diamond stopper.
+* 4♣ to show responder that we lack a major fit or a diamond stopper.
 
 .. index::
    pair: double;Lebensohl
@@ -210,24 +210,24 @@ Stayman cue bids.
    
 Five-card suit:
 
-- 1N (2♦) 2♥ is to play
-- 1N (2♦) 2N! – 3♣! – 3♥ is invitational
-- 1N (2♦) 3♥ is game-forcing.
-- 1N (2♥) 2N! – 3♦ is to play
-- 1N (2♥) 3♦ is game-forcing; there is no way to invite in diamonds.
-- 1N (2♣) 2♦ is a transfer to hearts. (Lebensohl is off for clubs!)
+* 1N (2♦) 2♥ is to play
+* 1N (2♦) 2N! – 3♣! – 3♥ is invitational
+* 1N (2♦) 3♥ is game-forcing.
+* 1N (2♥) 2N! – 3♦ is to play
+* 1N (2♥) 3♦ is game-forcing; there is no way to invite in diamonds.
+* 1N (2♣) 2♦ is a transfer to hearts. (Lebensohl is off for clubs!)
 
 Balanced hand, without a four-card major:
 
-- 1N (2♦) 2N! – 3♣ – 3N  is to play, diamonds are stopped -- slow shows.
-- 1N (2♦) 3N  wants to play 3N but does not have a diamond stopper.
+* 1N (2♦) 2N! – 3♣ – 3N  is to play, diamonds are stopped -- slow shows.
+* 1N (2♦) 3N  wants to play 3N but does not have a diamond stopper.
   Opener will pass if he has one, or start suggesting suits up the line.
 
 For the Stayman cases:
 
-- 1N (2♦) X is negative, probably with only an invitational hand.
-- 1N (2♦) 3♦ is Stayman without a stopper, and
-- 1N (2♦) 2N! – 3♣ – 3♦ is Stayman with a stopper.
+* 1N (2♦) X is negative, probably with only an invitational hand.
+* 1N (2♦) 3♦ is Stayman without a stopper, and
+* 1N (2♦) 2N! – 3♣ – 3♦ is Stayman with a stopper.
 
 .. note::
    Do not call the 2N bid by itself "Lebensohl".
@@ -248,10 +248,10 @@ Three-level Overcalls
 
 Over three-level overcalls, we obviously cannot use the Lebensohl 2N bid. A suggestion:
 
--  A double is for takeout, showing support for the other three suits.
--  Bids at the three level are natural, one-round forcing, and
--  3N, 4♥, 4♠, 5♣, and 5♦ are to play. I suggest 3N promises a stopper. 
--  A cue bid is Stayman, or may show slam interest lacking a four-card major:
+*  A double is for takeout, showing support for the other three suits.
+*  Bids at the three level are natural, one-round forcing, and
+*  3N, 4♥, 4♠, 5♣, and 5♦ are to play. I suggest 3N promises a stopper. 
+*  A cue bid is Stayman, or may show slam interest lacking a four-card major:
 
    * 1N (3♦) 4♦ – 4♥ – 4N (to play)
    * 1N (3♦) 4♦ – 4N(no major) – Pass
@@ -438,13 +438,13 @@ it.  It covers most responder hand types.
 
 The opposition has bid a suit 2♦, 2♥, or 2♠ over our 1N opener.
 
-- Double is penalty-oriented with at least two cards in their suit.
-- Two-level suit bids are to play
-- Three-level suit bids are game forcing
-- 2N! is a relay to 3♣! (forced), pass or correct.  If responder corrects to a 
+* Double is penalty-oriented with at least two cards in their suit.
+* Two-level suit bids are to play
+* Three-level suit bids are game forcing
+* 2N! is a relay to 3♣! (forced), pass or correct.  If responder corrects to a 
   suit he could have bid at the two-level, it is invitational; otherwise, to play.
-- 3N is to play with a stopper.
-- A cue bid is game-forcing Stayman. Opener should show a major if he has one.
+* 3N is to play with a stopper.
+* A cue bid is game-forcing Stayman. Opener should show a major if he has one.
 
 When you've been bitten enough times by the holes in the simplification, you can learn 
 the rest of it. 

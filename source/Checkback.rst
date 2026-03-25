@@ -42,13 +42,13 @@ For example, suppose responder has, in the auction 1♦ – 1♠ – 2♣ – ?:
 
 With 14 points, responder must drive the auction to game. But alas,
 
-- 2♦ will be passed
-- 2♠ could be passed
-- 2N could be passed (besides being frightening)
-- 3♣ could be passed
-- 3♦ could be passed
-- 3♠ sets spades as trump, so we'd need six of them
-- 3N could be very, very wrong.
+* 2♦ will be passed
+* 2♠ could be passed
+* 2N could be passed (besides being frightening)
+* 3♣ could be passed
+* 3♦ could be passed
+* 3♠ sets spades as trump, so we'd need six of them
+* 3N could be very, very wrong.
 
 But 2♥! (forcing, artificial), called Forth Suit Forcing or FSF, forces the
 auction to game (or four of a minor). Everyone can slow down, and responder's
@@ -70,8 +70,8 @@ FSF Responses
 After FSF, opener further describes his hand, and tries to give responder information on 
 two important fronts:
 
--  Opener will show 3-card support.
--  Lacking support, show a stopper in the fourth suit if we
+*  Opener will show 3-card support.
+*  Lacking support, show a stopper in the fourth suit if we
    have one by bidding notrump at a level appropriate to our strength.
 
 Example::
@@ -134,16 +134,16 @@ level you might not follow this rule. But you should switch to
 
 The uses of NMF are (where w stands for the unbid minor):
 
-- 1m – 1♥ – 1N – 2w! (NMF) 
+* 1m – 1♥ – 1N – 2w! (NMF) 
 
   Responder holding five hearts wants to know if we have a 5-3 fit. 
   
-- 1m – 1♠ – 1N – 2w! (NMF)
+* 1m – 1♠ – 1N – 2w! (NMF)
 
   Responder holding five spades and possibly four hearts would like to check for a 
   fit. 
   
-- 1♣/♦/♥ – 1M – 2N – 3w! (NMF)
+* 1♣/♦/♥ – 1M – 2N – 3w! (NMF)
 
   Responder holding four+ spades and / or four hearts would like to check for a fit. 
   Directly bidding 3♥ or 3♠ shows a fifth major card but a weak hand.
@@ -171,12 +171,12 @@ to make when we have a maximum (14 points):
 *  Shows three in partner's major by bidding it. For example,
    1♦ – 1♠ – 1N – 2♣! (NMF) – 2♠
 *  With a minimum:
-    - Bid 2N with stoppers in the two unbid suits (Remember, w was bid artificially); or
-    - Rebid your minor.
+    * Bid 2N with stoppers in the two unbid suits (Remember, w was bid artificially); or
+    * Rebid your minor.
 *  With a maximum: (auction is game forcing because responder is invitational+):
-    - Bid 3N with stoppers in the two unbid suits
-    - Bid the unbid suit where you *do* have a stopper, as long as it doesn't show a suit
-    - Jump rebid your minor
+    * Bid 3N with stoppers in the two unbid suits
+    * Bid the unbid suit where you *do* have a stopper, as long as it doesn't show a suit
+    * Jump rebid your minor
 *  NMF after opener rebids 2N is game forcing.
 
 An example of this last case: The auction goes 1♦ – 1♠ – 1N – 2♣!, but opener does

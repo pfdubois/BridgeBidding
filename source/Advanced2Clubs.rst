@@ -49,7 +49,7 @@ Parrish Relay
 The Parrish convention applies after a Two Hearts Bust response.  It provides a way
 for opener to bid a suit and have it be non–forcing, thus stopping below game.
 
-The Parrish Relay is a bid of 2♠! (relay) over 2♣ - 2♥! (bust), forcing responder
+The Parrish Relay is a bid of 2♠! (relay) over 2♣ – 2♥! (bust), forcing responder
 to bid 2N. Opener's next bid is now not forcing.  Note that any concern about
 wrong-siding notrump is not correct, because if Opener is willing to play in
 notrump they don't use the relay. 
@@ -144,7 +144,7 @@ After 2♣ FG or 23-24 balanced:
 
 * 2♦ waiting:
 
-  - 2♥ Kokish, FG or 25+ Balanced
+  * 2♥ Kokish, FG or 25+ Balanced
   
     + 2♠ most hands, all balanced hands, hands with majors, good hands
     
@@ -162,14 +162,14 @@ After 2♣ FG or 23-24 balanced:
     + 2♠ natural FG
     + 2N 23-24 NF, systems on
     
-  - 3♣ 6+ clubs, may or may not have a four-card major.
+  * 3♣ 6+ clubs, may or may not have a four-card major.
    
     + 3♦ Stayman; 3M reply or 4♦ natural
     + 3M five card suit -- W or 4♦ agrees major.
      
-  - 3♦ 6+ diamonds with no 4-card major
-  - 3M 4 card major and 5+ ♦.
-  - 3N shows a solid minor and exactly 9 tricks. Opener may have an unstopped suit.
+  * 3♦ 6+ diamonds with no 4-card major
+  * 3M 4 card major and 5+ ♦.
+  * 3N shows a solid minor and exactly 9 tricks. Opener may have an unstopped suit.
      Responder may remove to 5♣ pass or correct, or 4♣ with slam interest in opener's 
      minor.
 

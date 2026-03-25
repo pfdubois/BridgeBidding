@@ -35,7 +35,7 @@ if your strength is above 22 HCP, you pretty much have no choice.
   
 The responses are:
 
-- 2♦ is purely artificial, indicating that none of the other following bids apply. 
+* 2♦ is purely artificial, indicating that none of the other following bids apply. 
   Responder really tells you nothing about his hand when he bids 2♦, except 
   that he probably does not have 8 HCP and a good five-card major.
   People call this 2♦ "waiting".
@@ -46,16 +46,16 @@ The responses are:
   (I am obliged to explain double negative; it is standard. I hate this method. Some feel 
   it is better not to have a second negative at all.)
   
-- 2♥, 2♠ show at least 8 HCP and a *good* five card suit. Game forcing.
+* 2♥, 2♠ show at least 8 HCP and a *good* five card suit. Game forcing.
 
-- 3♣, 3♦ show at least 8 HCP and a *good* six card suit. Game forcing.
+* 3♣, 3♦ show at least 8 HCP and a *good* six card suit. Game forcing.
   
   Be very reluctant to bid 3♦; sometimes you need to show your
   club suit immediately with 3♣ because to do so on your second bid would show a weak 
   hand. Knowing that your second bid may have to be 3♦ is a reason to resist bidding
   2♣. Gavin Wolpert calls 2♣ – 2♦ – 3♦ "the worst auction in bridge".
   
-- 2N should not be bid.  Traditional teaching is that 2N shows 8 HCP and a balanced
+* 2N should not be bid.  Traditional teaching is that 2N shows 8 HCP and a balanced
   hand, but it is not a good idea. Just bid 2♦.  After that make sure you get to game.
   I'd write it on your convention card: Never 2N.
 

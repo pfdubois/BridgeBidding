@@ -66,15 +66,15 @@ bid similarly to when his hand is 5-5 as covered :ref:`below<majorminor>`.
   
 * When responder has shown spades and clubs, and opener has interest:
 
-  - 4♦ is a flag bid showing a good hand with four spades.
-  - 4♥ is a flag bid showing a good hand for clubs.
-  - 4♠, 4N, and 5♣ are to play.
+  * 4♦ is a flag bid showing a good hand with four spades.
+  * 4♥ is a flag bid showing a good hand for clubs.
+  * 4♠, 4N, and 5♣ are to play.
     
 * When responder has shown spades and diamonds, and opener has interest:
 
-  - 4♥ is a flag bid showing a good hand with four spades.
-  - 5♣ is a flag bid showing a good hand for diamonds.
-  - 4♠, 4N, and 5♦ are to play.
+  * 4♥ is a flag bid showing a good hand with four spades.
+  * 5♣ is a flag bid showing a good hand for diamonds.
+  * 4♠, 4N, and 5♦ are to play.
   
 You can also treat the case of four hearts and a minor the same way as the 5-5 case below,
 remembering that there is no possibility of a major fit after 2N – 3♣ – 3♦ or 3♠.
@@ -172,27 +172,27 @@ need to memorize:
 
 * When responder has shown spades and clubs, and opener has interest:
 
-  - 4♦ is a flag bid showing a good hand for spades.
-  - 4♥ is a flag bid showing a good hand for clubs.
-  - 4♠, 4N, and 5♣ are to play.
+  * 4♦ is a flag bid showing a good hand for spades.
+  * 4♥ is a flag bid showing a good hand for clubs.
+  * 4♠, 4N, and 5♣ are to play.
     
 * When responder has shown spades and diamonds, and opener has interest:
 
-  - 4♥ is a flag bid showing a good hand for spades.
-  - 5♣ is a flag bid showing a good hand for diamonds.
-  - 4♠, 4N, and 5♦ are to play.
+  * 4♥ is a flag bid showing a good hand for spades.
+  * 5♣ is a flag bid showing a good hand for diamonds.
+  * 4♠, 4N, and 5♦ are to play.
         
 * When responder has shown hearts and clubs, and opener has interest:
 
-  - 4♦ is a flag bid showing a good hand for hearts.
-  - 4♠ is a flag bid showing a good hand for clubs.
-  - 4♥, 4N, and 5♣ are to play.
+  * 4♦ is a flag bid showing a good hand for hearts.
+  * 4♠ is a flag bid showing a good hand for clubs.
+  * 4♥, 4N, and 5♣ are to play.
   
 * When responder has shown hearts and diamonds, and opener has interest:
 
-  - 4♠ is a flag bid showing a good hand for hearts.
-  - 5♣ is a flag bid showing a good hand for diamonds
-  - 4♥, 4N, and 5♦ are to play.
+  * 4♠ is a flag bid showing a good hand for hearts.
+  * 5♣ is a flag bid showing a good hand for diamonds
+  * 4♥, 4N, and 5♦ are to play.
   
 Note that the 5-5 in the majors responses were really the same pattern with the obvious 
 correspondence for the flag bids being cheapest (clubs) for the cheapest major, hearts, 
@@ -239,7 +239,7 @@ further discussion. This may be too much for all but the most expert partnership
 
 The following is from Wolpert, and is more difficult than Smith's idea.
 
-With minor suit slam interest, bid 2N - 3♠! as a relay to 3N.
+With minor suit slam interest, bid 2N – 3♠! as a relay to 3N.
 Responder then bids the "other minor" or a short major to show both minors.
 Note the puppet.
    
@@ -271,18 +271,18 @@ saving the 5♣ bid to mean "Two with the Queen". Thus playing 1430:
 
 * After 2N – 3♠! (relay) – 3N – 4♦! (clubs), 
   
-  - With a poor hand for a diamond slam, or two keycards without the Q, opener bids 4♥;
-  - With one or four keycards, opener bids 4♠;
-  - With zero or three keycards, opener bids 4N;
-  - With two keycards and the ♣Q, opener bids 5♣.
+  * With a poor hand for a diamond slam, or two keycards without the Q, opener bids 4♥;
+  * With one or four keycards, opener bids 4♠;
+  * With zero or three keycards, opener bids 4N;
+  * With two keycards and the ♣Q, opener bids 5♣.
 
 * After 2N – 3♠! (relay) – 3N – 4♣! (diamonds),
 
-  - With a poor hand for a diamond slam, opener bids 4♦;
-  - With one or four keycards, opener bids 4♥;
-  - With zero or three keycards, opener bids 4♠;
-  - With two keycards but no ♦Q, opener bids 4N;
-  - With two keycards and the ♦Q, opener bids 5♣.
+  * With a poor hand for a diamond slam, opener bids 4♦;
+  * With one or four keycards, opener bids 4♥;
+  * With zero or three keycards, opener bids 4♠;
+  * With two keycards but no ♦Q, opener bids 4N;
+  * With two keycards and the ♦Q, opener bids 5♣.
 
 Of course, the usual understanding applies: if opener knows we have 10 trumps, he may
 treat that hand as "with the Q". 

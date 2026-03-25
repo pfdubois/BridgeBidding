@@ -100,24 +100,24 @@ transfer. Any following bids are natural.
 If advancer's next bid is overcaller's suit, it is to play but with a lead-direction 
 to the suit we transferred to::
 
-   (1♣) – 1♥ - (P) - 1N! (clubs) 
-   (P ) - 2♣ - (P)- 2♥
+   (1♣) – 1♥ – (P) – 1N! (clubs) 
+   (P ) – 2♣ – (P)- 2♥
    
 We have three card support but the bid is to play with a club lead wanted if they 
 declare.
 
 Transfer to the overcalled suit is by contrast a good raise.
 
-   (1♣) - 1♥- (P) -2 ♦! (hearts)
-   (P ) - 2♥ -(P)- ?
+   (1♣) – 1♥- (P) -2 ♦! (hearts)
+   (P ) – 2♥ -(P)- ?
    
 At this point overcaller can bid hearts at an appropriate level or a game try in another
 suit. 
 
 You can also bid a second suit::
 
-   (1♣) - 1♥ - (P) - 1N! (clubs)
-   (P ) - 2♣ - (P) - 2♦
+   (1♣) – 1♥ – (P) – 1N! (clubs)
+   (P ) – 2♣ – (P) – 2♦
    
 showing diamonds but longer clubs.
 
@@ -174,9 +174,9 @@ suit and bid exactly as we would if partner bid his own suit non forcing:
 
 * Opener breaks the transfer:
 
-   - With his own single-suited hand opener can rebid his suit.
-   - With his own 2-suited hand, opener can rebid his second suit.
-   - With support for partner's shown suit, opener can raise by jumping 
+   * With his own single-suited hand opener can rebid his suit.
+   * With his own 2-suited hand, opener can rebid his second suit.
+   * With support for partner's shown suit, opener can raise by jumping 
      (superaccepting) in the suit.
 
 Note that accepting the transfer is not a raise, it just shows none of the other

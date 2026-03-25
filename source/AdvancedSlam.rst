@@ -22,27 +22,27 @@ control. A second-round control can be shown without a first-control
 having been shown in that suit. These rules are applied to interpret the
 bids:
 
-- A control bid is a slam try after trump agreement in a major. It promises first- or 
+* A control bid is a slam try after trump agreement in a major. It promises first- or 
   second-round control. (Again, over minors or in 2/1 these bids  also possible but 
   agreement is needed.)
-- A control bid is a non-jump bid in a game-forcing auction. Thus 1♠ – 2♠ – 3♦ is not
+* A control bid is a non-jump bid in a game-forcing auction. Thus 1♠ – 2♠ – 3♦ is not
   a control bid because we are not yet in a game forcing auction.  
   But 1♦ – 1♥ – 3♥ – 3♠! is a control bid because bidding on is game forcing and we 
   have suit agreement.
-- A control bid that skips a suit(s) denies a control in that suit. So 1♦ – 1♥ – 3♥ – 4♣
+* A control bid that skips a suit(s) denies a control in that suit. So 1♦ – 1♥ – 3♥ – 4♣
   shows a club control and denies a spade control.
-- As long as slam is possible, always show a control bid below the game
+* As long as slam is possible, always show a control bid below the game
   level. Likewise, don't control bid if partner has a limited hand and slam is not
   possible. 
-- A control bid in a 5+ card side suit promises the Ace or King. For
+* A control bid in a 5+ card side suit promises the Ace or King. For
   example, 1♠ – 2N! – 4♦ – 4♥ (control) – 5♦ shows the Ace or King of diamonds.
   Opener's suit must be a good suit or he would have bid his shortness, so being 
   able to show possession of the Ace or King is important.
-- Once you show a short suit, control-bid that suit only with a void, 
+* Once you show a short suit, control-bid that suit only with a void, 
   not a singleton Ace. An example would be a Jacoby 2N auction, with opener rebidding
   a stiff or void, such as 1♠ – 2N! – 3♦! (stiff or void) – 4♣ (control) – 4♦; 
   this shows opener has a void in diamonds.    
-- A control bid at the five level promises first round control, because
+* A control bid at the five level promises first round control, because
   4N is no longer available.
 
 Bergen gives this example of a five-level control bid::
@@ -134,28 +134,17 @@ Redwood is superior to :ref:`Minorwood <Minorwood>`.
 
 Redwood, or One-Over Keycard, is a :ref:`Roman Keycard <RKC>` bid for the minors, that
 leaves more room for responses.  The bid one over an agreed minor suit at the four level
-asks for keycards in that minor: 4♦ for clubs, 4♥ for diamonds. The replies are 3014:
+asks for keycards in that minor: 4♦ for clubs, 4♥ for diamonds. The replies are 3014.
+For example, after 1♦︎ – 2♦︎, 4♥︎ is Redwood for diamonds.  The responses are:
 
-.. list-table:: Replies To Redwood
-   :header-rows: 1
-
-   *  - Step 
-      - Clubs (4♦)
-      - Diamonds (4♥)
-   *  - 1st
-      - 4♥ = 0 or 3
-      - 4♠ = 0 or 3
-   *  - 2nd
-      - 4♠ = 1 or 4
-      - 4N = 1 or 4
-   *  - 3rd
-      - 4N = 2 no Q
-      - 5♣ = 2 or Q
-   *  - 4th
-      - 5♣ = 2 + Q
-      - 5♣ = 2 + Q
+* 4♠︎ is 0 or 3;
+* 4N is 1 or 4;
+* 5♣︎ is 2 without the ♦︎Q;
+* 5♦︎ is 2 with the ♦︎Q.
 
 After a 1st or 2nd step replay, bidding the next step asks about the trump Queen.
+In this example, 5♥︎ asks for the ♦︎Q.
+
 After any reply the bid of one over the trump suit asks for Kings. You should use
 the number of Kings or the cheapest specific King, whatever you do for ordinary RKC.
 
@@ -289,8 +278,8 @@ An optional convention to use with inverted minors is “Minorwood”, a
 jump to four of the minor after a two of a minor response. This becomes
 Roman Keycard Blackwood for the minor. For example,
 
-- 1♣ – 2♣!– 4♣! (asks for keycards)
-- 1♣ – 2♣! – 2♥ – 4♣! (asks for keycards)
+* 1♣ – 2♣!– 4♣! (asks for keycards)
+* 1♣ – 2♣! – 2♥ – 4♣! (asks for keycards)
 
 but not in a non-jump sequence such as 1♣ – 2♣! – 2♥ – 3♦ – 4♣ in which the players 
 simply discover they lack a spade stopper and decide to play in clubs.

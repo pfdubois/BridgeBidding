@@ -67,20 +67,20 @@ Meckwell
 in order to make 2♥ and 2♠ natural. After opponents open 1N, either in direct
 seat, or after two passes by partnership agreement,
 
--  X! Long minor or both majors
+*  X! Long minor or both majors
 
    Response: 2♣! (relay); then the doubler passes, corrects to 2♦, or
    bids 2♥ to show both majors.
 
--  2♣! Clubs and a major suit
+*  2♣! Clubs and a major suit
 
--  2♦! Diamonds and a major suit
+*  2♦! Diamonds and a major suit
 
--  2♥ Shows long hearts
+*  2♥ Shows long hearts
 
--  2♠ Shows long spades
+*  2♠ Shows long spades
 
--  2N Shows both minors
+*  2N Shows both minors
 
 You may enjoy combining Meckwell with the :ref:`Meckwell Escapes <MeckwellEscapes>` 
 runout.  
@@ -100,17 +100,17 @@ In this modified or "modern" Cappelletti, the 2♣ bid works harder in order to 
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
 by partnership agreement,
 
--  X Equal hand, penalty-oriented
--  2♣! Diamonds or, a minor and a major.
+*  X Equal hand, penalty-oriented
+*  2♣! Diamonds or, a minor and a major.
 
    Advancer bids 2♦! (relay), and intervenor then passes or bids his major.
    Advancer can then ask for the minor with 2N! (good hand) or 3♣! (pass or correct).
 
--  2♦! Both majors
--  2♥ Shows long hearts
--  2♠ Shows long spades
--  2N Shows both minors
--  3♣ Long clubs
+*  2♦! Both majors
+*  2♥ Shows long hearts
+*  2♠ Shows long spades
+*  2N Shows both minors
+*  3♣ Long clubs
 
 Bloomen
 -------
@@ -141,13 +141,13 @@ Woolsey
 Woolsey is sometimes called Multi-Landy.
 After a 1N opening or overcall:
 
--  X Shows an equal hand, penalty-oriented
--  2♣! Shows both majors, as in Landy.
--  2♦! Shows a single-suited hand in an unspecified major suit. Advancer relays 
+*  X Shows an equal hand, penalty-oriented
+*  2♣! Shows both majors, as in Landy.
+*  2♦! Shows a single-suited hand in an unspecified major suit. Advancer relays 
    with 2♥! (forced), pass or correct.
--  2♥! Shows long hearts and an unspecified four-card minor. 2N asks for the minor.
--  2♠! Shows long spades and an unspecified four-card minor. 2N asks for the minor.
--  2N Shows both minors.
+*  2♥! Shows long hearts and an unspecified four-card minor. 2N asks for the minor.
+*  2♠! Shows long spades and an unspecified four-card minor. 2N asks for the minor.
+*  2N Shows both minors.
 
 Defenses to Woolsey
 ~~~~~~~~~~~~~~~~~~~
@@ -216,12 +216,12 @@ modifications.
 A suit bid denies that suit and shows either the next suit up or the two suits above that.
 So:
 
-- X shows an equal hand
-- 2♣ shows long diamonds or hearts and spades
-- 2♦ shows long hearts or spades and clubs
-- 2♥ shows long spades or clubs and diamonds
-- 2♠ shows long clubs or diamonds and hearts
-- 2N shows clubs and diamonds
+* X shows an equal hand
+* 2♣ shows long diamonds or hearts and spades
+* 2♦ shows long hearts or spades and clubs
+* 2♥ shows long spades or clubs and diamonds
+* 2♠ shows long clubs or diamonds and hearts
+* 2N shows clubs and diamonds
 
 Note that for these bids, the two suits in the alternative  are "touching".  
 
@@ -233,8 +233,8 @@ suit he passes, otherwise bids the next suit up, pass or correct.  For example::
 
 There remain two more bids to include the non-touching combinations:
 
-- 3♣ shows the rounded suits, clubs and hearts
-- 3♦ shows the pointed suits, diamonds and spades
+* 3♣ shows the rounded suits, clubs and hearts
+* 3♦ shows the pointed suits, diamonds and spades
 
 Some do not include these latter bids. You can end up in four of a minor, which would be
 pretty alarming unless you have values and they are all in those suits.

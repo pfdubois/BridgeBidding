@@ -19,7 +19,7 @@ Hands With One Long Suit
 Here are a few examples and how you might approach them.  Let's say you are in first 
 chair and pick up this hand:
 
--  ♠5 ♥6 ♦AKQ98752 ♣932
+*  ♠5 ♥6 ♦AKQ98752 ♣932
     
 We could imagine opening this 3♦, 4♦, or even 5♦, trying to keep the opponents out of 
 the auction.  However, there is another person you are keeping out of the auction, your 

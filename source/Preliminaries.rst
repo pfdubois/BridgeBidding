@@ -88,11 +88,11 @@ bidding, and basic slam bidding. The 2/1 system really has two
 parts: the two-over-one and 1N-forcing bids and their followups; and this set of
 expected conventions:
 
-- :ref:`Reverse Drury <Reverse_Drury>`,
-- :ref:`Fourth Suit Forcing <FSF>`,
-- :ref:`New Minor Forcing <NMF>`, 
-- :ref:`Inverted Minors <inverted_minors>`, and
-- :ref:`Roman Keycard Blackwood <RKC>`.
+* :ref:`Reverse Drury <Reverse_Drury>`,
+* :ref:`Fourth Suit Forcing <FSF>`,
+* :ref:`New Minor Forcing <NMF>`, 
+* :ref:`Inverted Minors <inverted_minors>`, and
+* :ref:`Roman Keycard Blackwood <RKC>`.
 
 There is no real connection between the 2/1 bids and this set of conventions except that
 most players of 2/1 also play those conventions.  As you are learning you'll

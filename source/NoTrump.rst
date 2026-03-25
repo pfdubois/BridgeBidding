@@ -111,16 +111,16 @@ while you know nothing of his yet.  For now at least, he's the :term:`Captain`.
 
 Assume your partner has opened 1N. You, as responder, should:
 
--  Classify the strength of your hand (weak, competitive, invitational,
+*  Classify the strength of your hand (weak, competitive, invitational,
    game forcing, or slam interest).  Opposite a 15-17 1N bid, 8 or 9 HCP is
    invitational, while with 10 HCP you must force to game -- you can't make a  
    bid that opener can pass short of game.
 
--  See if you have a four-card, five-card, or longer major(s), or not.
+*  See if you have a four-card, five-card, or longer major(s), or not.
    These cases are each treated differently. We have special rules when 5-4 in 
    the majors.
 
--  In hands with no majors, note if the hand has a |6ormore|-card minor. Do not
+*  In hands with no majors, note if the hand has a |6ormore|-card minor. Do not
    do anything special on your first response with a five-card minor.
 
 Generally, a hand whose principal feature is a long minor wants to be in
@@ -234,9 +234,9 @@ Stayman 2♣ is artificial but not alerted, because it has become common practic
    
 After 1N – 2♣, opener *must* choose one of three replies: 2♦, 2♥, or 2♠. 
 
-- 2♦ no four-card major.
-- 2♥ 4+ hearts, and maybe 4 spades.
-- 2♠ 4+ spades, but denies 4 hearts, or the spades are longer than your hearts.
+* 2♦ no four-card major.
+* 2♥ 4+ hearts, and maybe 4 spades.
+* 2♠ 4+ spades, but denies 4 hearts, or the spades are longer than your hearts.
 
 If opener has four hearts and four spades, he bids 2♥. 
 
@@ -324,13 +324,13 @@ Stayman are the first two conventional bids that you learn.  They are not some
 esoteric thing you can skip -- any partner will assume you know them. But for now,
 you don't have to reason why, yours is to but do or die.
 
-- 1N – 2♦ is a transfer to hearts.
+* 1N – 2♦ is a transfer to hearts.
   
   * 2♥ Opener completes ("accepts") the transfer. Opener might have two cards in the 
     suit, so no fit has been found yet.
   * 3♥ Opener has 4+ hearts and a maximum 1N bid (:term:`super-accept`)
 
-- 1N – 2♥ is a transfer to spades.
+* 1N – 2♥ is a transfer to spades.
   
   * 2♠ completes the transfer.
   * 3♠ Opener has 4+ spades and a maximum 1N bid (:term:`super-accept`).
@@ -366,15 +366,15 @@ For an advanced choice for a "superaccept", see
    
 After a transfer to 2M is accepted, responder bids:
 
-- Pass with less than invitational values.
-- 2N invitational. Opener can pass, bid 3N, or bid 3M or 4M with 3-card support. 
-- 3m a second suit, absolutely game forcing, usually with at least mild slam interest.
-- 3M invitational, 6+ cards in the major. Now we have an 8-card fit for sure. Opener
+* Pass with less than invitational values.
+* 2N invitational. Opener can pass, bid 3N, or bid 3M or 4M with 3-card support. 
+* 3m a second suit, absolutely game forcing, usually with at least mild slam interest.
+* 3M invitational, 6+ cards in the major. Now we have an 8-card fit for sure. Opener
   must revalue his hand, but he may then choose to pass.
-- 3N to play, opener can correct to 4M with 3 trumps.
-- 4M to play, 6+ cards in the major.
-- 4♣ Gerber
-- 4N :term:`quantitative`.
+* 3N to play, opener can correct to 4M with 3 trumps.
+* 4M to play, 6+ cards in the major.
+* 4♣ Gerber
+* 4N :term:`quantitative`.
 
 So, avoid confusion by remembering that after a transfer, any bid at the
 three-level or higher except for the raise to 3M establishes a game force.
@@ -473,11 +473,11 @@ When Responder Is 5-4 In The Majors
 If you have five in one major and exactly four in the other, some special bids are 
 available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
 
-- If your hand is weak, transfer to the five-card suit
+* If your hand is weak, transfer to the five-card suit
   and pass. This gives your partner no chance to go wrong.  But use judgment: with 
   a terrible five-card suit, you might try Garbage Stayman.
 
-- If your hand has five spades and four hearts, invitational or better, bid 2♣ Stayman, 
+* If your hand has five spades and four hearts, invitational or better, bid 2♣ Stayman, 
   and then:
 
   * If opener shows a major, just raise it. Example: 1N – 2♣ – 2♥ – 3♥ invitational;
@@ -486,7 +486,7 @@ available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
   * If opener answered 2♦, you may still have a 5-3 fit. Bid 2♠ to invite; 3♠ to force
     to game.  See note below.
   
-- If your hand has four spades and five hearts, invitational or better, a similar scheme 
+* If your hand has four spades and five hearts, invitational or better, a similar scheme 
   does not work. The problem arises after 1N – 2♣ – 2♦, because to bid 2♥ is 
   :ref:`Garbage Stayman <GarbageStayman>`; opener might pass. And you can't bid 3♥ if 
   you do not have a game-forcing hand; you're already too high for an invitational hand 
@@ -547,9 +547,9 @@ with your partner. Check the boxes on your convention cards.
 If you have a six-card major and a minimum game forcing hand, you can use a
 Texas Transfer:
 
-- 1N – 4♦ transfer to hearts (6+, GF)
+* 1N – 4♦ transfer to hearts (6+, GF)
 
-- 1N – 4♥ transfer to spades (6+, GF)
+* 1N – 4♥ transfer to spades (6+, GF)
 
 Texas Transfers are on over interference. The name Texas for Americans implies "big":
 big hats, big toast, big meat, big suit. 
@@ -650,7 +650,7 @@ hand. It isn't going to take much to get you to game, so you don't want to lie
 about your strength by limiting it to 17 HCP. A seventeen with a great five card 
 suit should also be treated this way.
 
-- With a balanced 18-19 points, open a suit and then rebid 
+* With a balanced 18-19 points, open a suit and then rebid 
   2N. This does not deny any major that has been skipped over. For example,
 
   * 1♦ – 1♥ – 2N shows 18-19 balanced but does not deny holding four spades.
@@ -754,13 +754,13 @@ For example, in 1N – 2♦(transfer), T is diamonds, M is hearts.
 
 After 1N (P) 2T (X), the opponents are presumably bidding T:
 
-- Pass: Opener has 2 cards in M. M is not agreed trump. 
+* Pass: Opener has 2 cards in M. M is not agreed trump. 
   Subsequently, if the next player passes, a XX by responder transfers again to M. 
   A bid of the transfer suit, such as 1N (P) 2♥ (X); P (P) 3♥ is 
   :ref:`Western Cue <Western_Cue>` asking opener to bid 3N with a stopper.
-- 2M: Agrees M as trump, shows 3+ cards in M. 
-- 3M: Agrees M as trump, shows 4+ cards in M, and a maximum opener. 
-- XX: Opener has the transfer suit, willing to play in 2T redoubled. Opener 
+* 2M: Agrees M as trump, shows 3+ cards in M. 
+* 3M: Agrees M as trump, shows 4+ cards in M, and a maximum opener. 
+* XX: Opener has the transfer suit, willing to play in 2T redoubled. Opener 
   should have a positively scary holding in T.
 
 An overcall of a transfer leaves the opener in a bit of a bind because
@@ -770,9 +770,9 @@ overcalled suit, or holding a maximum.
 
 Thus after 1N – 2T (2Z):
 
-- Pass: waiting to hear from partner. Responder can double to show points.
-- X: penalty oriented, a great Z suit.
-- Completing the transfer shows a maximum with four-card support.
+* Pass: waiting to hear from partner. Responder can double to show points.
+* X: penalty oriented, a great Z suit.
+* Completing the transfer shows a maximum with four-card support.
 
 Note the theme again: 4N is quantitative any time we have not affirmatively agreed
 on a suit.
@@ -810,13 +810,13 @@ because so many of your intermediate partners will think it is standard.
 More advanced players will know how to play it but will be complaining
 that you should learn :ref:`Lebensohl <Lebensohl>`.
 
-- 1N (2a) X! means the same as if responder had bid the overcalled suit,
+* 1N (2a) X! means the same as if responder had bid the overcalled suit,
   up to 2♥︎. In other words, a double means, "He stole my bid!". In particular
   a double of (2♣) is Stayman.
-- Any bid above the overcall has an unchanged meaning. However, bidding NT promises 
+* Any bid above the overcall has an unchanged meaning. However, bidding NT promises 
   a stopper in the overcalled suit. Example: 1N (2♦) 2♥! (transfer to spades).
-- Agree with partner what 2♠︎ will mean; minor transfer most likely.
-- The three level bids don't have their special meanings; if a jump, it is a weak bid
+* Agree with partner what 2♠︎ will mean; minor transfer most likely.
+* The three level bids don't have their special meanings; if a jump, it is a weak bid
   in the suit, such as 1N – (2♦) – 3♥(preemptive, hearts).
   
 You're giving up the chance of a penalty double.  Also, when the opponents know this
@@ -848,10 +848,10 @@ to go there. Here's the simplest way out.
 
 After 1N (X) or 1N (Pass) Pass (X) Pass (Pass), responder has the following choices:
 
-- Pass if you are willing to play 1N doubled (typically a balanced hand with
+* Pass if you are willing to play 1N doubled (typically a balanced hand with
   at least competitive values).  This is often your best contract.
 
-- XX is a relay to clubs, pass or correct. If responder is weak, we'll be
+* XX is a relay to clubs, pass or correct. If responder is weak, we'll be
   better off in any suit fit. If opener has just two clubs he could bid 
   diamonds instead; assuming he did not open with two doubletons, he has
   at least three of each of the other suits.

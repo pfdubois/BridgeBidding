@@ -134,14 +134,14 @@ if we have one, and lacking that to raise if we can.
 We raised to 2m with a constructive hand, so we will raise to 3m for an invitational 
 raise, also called a :term:`limit raise`. 
 
-If we have |6ormore| clubs and invitational values we can bid 1♦ - 3♣. The opener
+If we have |6ormore| clubs and invitational values we can bid 1♦ – 3♣. The opener
 can force to game but should not bid 3♦ to try to improve the part-score.
 
 If we don't have a major and we don't have a fit, and we have exactly 10 points, we 
 will change our mind and treat the hand as a competitive hand and bid 1N. Otherwise
 we can bid 2N to show our 11 or 12 with no four-card major.
 
-Special: We can bid 1♦ - 2♣ only if RHO interfered or we were a passed hand. In those 
+Special: We can bid 1♦ – 2♣ only if RHO interfered or we were a passed hand. In those 
 cases it shows |10ormore| points and |5ormore| clubs.
  
 With less than a game-forcing hand we prefer to bid a four-card major first rather than 
@@ -178,11 +178,11 @@ and only one game-forcing bid over 1♦.
 
 To force to game, responder has to keep making bids that cannot be passed short of 
 game, which usually means bidding new suits. We have one new bid in our repertoire,
-1♦ - 2♣. As an unpassed hand and without interference it is forcing to game and promises
+1♦ – 2♣. As an unpassed hand and without interference it is forcing to game and promises
 13 or more HCP and |5ormore| clubs.
 
-The 1♦ - 3♣ bid being invitational rather than weak is a consequence of 1♦ - 2♣ being a 
-game force. One variant of 2/1 is to play that bidding 1♦ - 2♣ and then repeating 
+The 1♦ – 3♣ bid being invitational rather than weak is a consequence of 1♦ – 2♣ being a 
+game force. One variant of 2/1 is to play that bidding 1♦ – 2♣ and then repeating 
 3♣ on the next round *cancels* the game force. That kind of loses the 2/1 spirit, in my 
 opinion.
 
@@ -201,7 +201,7 @@ not inviting to slam, it is just shutting down with a distributional hand. All y
 can do is bid as if you seek only game, and then keep going if you're positive a slam
 is likely. Going past 3N is crossing the Rubicon.
 
-Opinion differs on 1m - 4m. Is it a preempt with 8 in the suit, or a slam try, or a
+Opinion differs on 1m – 4m. Is it a preempt with 8 in the suit, or a slam try, or a
 game invite?
 
 Preempting is so lovely but 4m tends to make desperate opponents bid four of a major and 
@@ -224,9 +224,9 @@ response):
 
 * up to 14 is a "minimum" hand; we don't have a game if partner has less than 
   invitational values.
-* 15 - 17 is :term:`game try` territory. We *might* have a game. More about that later.
+* 15 – 17 is :term:`game try` territory. We *might* have a game. More about that later.
   But note that opener must be unbalanced or they would have opened 1N.
-* 18 - 19 is almost enough for game even if responder has a minimum. 
+* 18 – 19 is almost enough for game even if responder has a minimum. 
 * 20-21 is game forcing. We might even be in a slam hunt.
 
 Minor openings often lead to the following scenario: responder bids a major,
@@ -245,7 +245,7 @@ opener has rebid 1N or 2N. Those are detailed in the next chapter. To make
 those bids responder will have to be invitational or better.
 
 .. rubric::
-   The Auction 1m - 1M
+   The Auction 1m – 1M
 
 If responder has bid a major M, and opener has four in that major, he will
 raise. Responder has an unlimited hand; all we know is that he has six or more
@@ -264,7 +264,7 @@ have sufficient strength.  For example::
    ♦AKT7
    ♣KQJT4
    
-After 1♣ - 1M, opener cannot bid 2♦ lacking the 17+ points a reverse would require. So
+After 1♣ – 1M, opener cannot bid 2♦ lacking the 17+ points a reverse would require. So
 he bids 2♣, knowing partner will usually expect six clubs or more. This is why some 
 choose to open such a hand 1♦, and then rebid 2♣.  
 
@@ -278,14 +278,14 @@ singleton or no other good bid, we can raise. Mike Lawrence gives this example::
    ♦ AJ763
    ♣ KQ4
 
-After 1♦ - 1♥, he recommends 2♥. "If you bid 1N expect a spade lead and your goose may
+After 1♦ – 1♥, he recommends 2♥. "If you bid 1N expect a spade lead and your goose may
 be well done," Lawrence says. "That diamond suit does not merit a rebid." 
 
 Once opener has made a three-card raise, which responder thinks is a four-card raise,
 opener can bid NT at his next bid, if he gets one, to show this. Playing in a 4-3 fit
 is not the end of the world.
 
-So, to sum up, with an unbalanced hand, after 1m - 1M the priorities are:
+So, to sum up, with an unbalanced hand, after 1m – 1M the priorities are:
 
 * Raise partner;
 * Bid 1♠, forcing unless partner is a passed hand;
@@ -317,11 +317,11 @@ The priorities therefore are:
 * Bid 1N with a balanced minimum hand; 
 * Bid 2N with a balanced 18-19 HCP.  This does not deny any major you may skip over:
 
-  - 1♦ - 1♥ - 2N does not deny having four spades
-  - 1♦ - 1♠ - 2N does not deny having four hearts
+  * 1♦ – 1♥ – 2N does not deny having four spades
+  * 1♦ – 1♠ – 2N does not deny having four hearts
   
   Note: Opener rebidding 2N always shows this strength of 18-19, including the auction 
-  1m - 1N - 2N. Of course, we are denying a fit if responder bid a major, but we're 
+  1m – 1N – 2N. Of course, we are denying a fit if responder bid a major, but we're 
   not denying four in the other major.
 
 * Bid 3N with a balanced 20-21 points.
@@ -337,7 +337,7 @@ The priorities therefore are:
    
 Is it ever ok to bid 1N rather than 1♠, if your hand is balanced? Experts sometimes do.
 Gavin Wolpert gives two cases where he would. First, he's 4=3=3=3. Second, he has 
-a hand that is say 4=2=3=4, with say ♦AQJ. After 1♣ - 1♥  he bids 1N thinking that if he 
+a hand that is say 4=2=3=4, with say ♦AQJ. After 1♣ – 1♥  he bids 1N thinking that if he 
 bids 1♠, partner won't be able to bid 1N with no diamond stopper.  In both 
 cases, Gavin says he is willing to lose the spade suit when his partner is not strong 
 enough to check back, in order to get to a 1N contract when it is right.
@@ -346,7 +346,7 @@ The downside is that the opener with four spades will never believe we have a fi
 Your partner, like one of my partners, may say they never want this to happen. 
 
 .. rubric::
-   The Auction 1♣ - 1♦ - 1N
+   The Auction 1♣ – 1♦ – 1N
 
 This auction is special because opener should bid 1N even though they have a four-card 
 major. The reason is that if responder bids a major now, it is game forcing.
@@ -358,21 +358,21 @@ invitational or better hand. Responder can bid a suit preference to clubs, bid 2
 with five of them, or pass; invite with 2N; or bid 3N as appropriate. 
 
 .. rubric::
-   The Auctions 1m - 1M - 1N
+   The Auctions 1m – 1M – 1N
    
 The auction::
 
-  1m - 1♠ - 1N - 2♥
+  1m – 1♠ – 1N – 2♥
   
 is :term:`drop dead`, one of the surprising exceptions to "a new suit is forcing by
-an unpassed hand".  Also drop dead are 1m - 1M - 1N - 2M. 
+an unpassed hand".  Also drop dead are 1m – 1M – 1N – 2M. 
 
 More of these kinds of auctions are discussed in :ref:`New Minor Forcing <NMF>`.
 
 .. rubric::
-   The Auction 1♦ - 2♣ Game Forcing
+   The Auction 1♦ – 2♣ Game Forcing
 
-.. index::1♦ - 2♣ game forcing
+.. index::1♦ – 2♣ game forcing
 
 Partner has made a game-forcing bid promising five clubs. We're looking for 3N
 initially. Notice that responder will only have a four-card major if they have
@@ -404,9 +404,9 @@ Notes:
   and possibly not worth a lot of extra memory work so this is ok.
 
 .. rubric::
-   The Auction 1m - 1N
+   The Auction 1m – 1N
 
-After 1m - 1N, bidding 2N is 18-19 HCP. You don't deny a four-card major but
+After 1m – 1N, bidding 2N is 18-19 HCP. You don't deny a four-card major but
 you know responder hasn't got one.  Responder sometimes has a bad 6 HCP so
 it is best not to jump to 3N. Otherwise, a reverse or jump-shift here is forcing for
 a round.
@@ -429,7 +429,7 @@ detecting such fits are covered in the next chapter,
 :ref:`Basic Checkback <Checkback>`: New Minor Forcing and Fourth Suit Forcing.
 
 Over a 1N rebid, responder's natural second bid is not forcing. 
-The most commonly misunderstood of these is 1m - 1♠ - 1N - 2♥. This is a new suit by
+The most commonly misunderstood of these is 1m – 1♠ – 1N – 2♥. This is a new suit by
 an unpassed hand but it is NOT forcing. If responder now bids 2♠, that's just 
 agreeing to play spades rather than hearts. The chapter on NMF covers all the 
 non-conventional bids after 1N as well. 
@@ -439,14 +439,14 @@ the values. If we agree on a minor suit, the usual issue is, do we have stoppers
 an NT contract.  When there are two unbid suits, bidding one SHOWS a stopper and
 denies a stopper in the other; while bidding NT shows stoppers in both::
 
-   1♣ - 1♦
-   2♦ - 2♠
+   1♣ – 1♦
+   2♦ – 2♠
    
 shows a spade stopper, and the values for 3N, but no heart stopper. Opener will bid
 some number of diamonds without a heart stopper, depending on strength.
 
-In case of a straight raise, 1m - 2m, opener bids a new suit at the two level as a 
-:ref:`Help Suit Game Try <hsgt>`.  After 1m - 3m, bid stoppers up the line to 
+In case of a straight raise, 1m – 2m, opener bids a new suit at the two level as a 
+:ref:`Help Suit Game Try <hsgt>`.  After 1m – 3m, bid stoppers up the line to 
 accept the game try. The first partner who knows we have all three suits stopped bids 
 3N.
 
@@ -463,8 +463,8 @@ Interference
 A minor is so easy to overcall, it happens a lot, so we must be prepared. 
 Responder's bids over the overcall mean
 what they would have meant, except that the limit raise or better is shown
-with a :term:`cue bid`. That's a bid of *their* suit, such as 1♣ - (1♥) - 2♥.
-That has the same meaning as 1♣ - 3♣.
+with a :term:`cue bid`. That's a bid of *their* suit, such as 1♣ – (1♥) – 2♥.
+That has the same meaning as 1♣ – 3♣.
 
 A cue bid at the three level after partner's 1m opener is overcalled is 
 :ref:`Western Cue <Western_Cue>`, asking partner to bid 3N with a stopper in
@@ -493,14 +493,14 @@ not play it without a lot of harm.
 Inverted Minors is off in competition but on by a passed hand.
 
 The convention simply makes a single raise a better hand than a double raise.
-1m - 2m! requires:
+1m – 2m! requires:
 
--  10+ points
--  5+ cards in the minor, or four really good ones if it is diamonds.
--  No four card major
+*  10+ points
+*  5+ cards in the minor, or four really good ones if it is diamonds.
+*  No four card major
 
 The 2m bid must be alerted. It is forcing for one round. In competition,
-2m reverts to its standard meaning. If 3m is a jump, as in 1♦ - (1♥) - 3♦, it
+2m reverts to its standard meaning. If 3m is a jump, as in 1♦ – (1♥) – 3♦, it
 is weak. 
 
 After a strong raise, the partners bid stoppers up-the-line. While some do not 

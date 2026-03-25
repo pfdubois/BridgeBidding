@@ -66,14 +66,14 @@ The one-suited bids require at least a good five-card suit, and 8 – 10
 points or better. Be aggressive only with good suits, good shape. The
 two-suited bids require at least 5-4 in either order.
 
--  X! A hand with one long suit.
--  Response: 2♣! Forced; then the doubler passes or corrects.
--  2♣! Clubs and a higher suit
--  2♦! Diamonds and a higher suit
--  2♥ Shows long hearts and spades
--  2♠ Shows long spades; it is a weaker hand than doubling and
+*  X! A hand with one long suit.
+*  Response: 2♣! Forced; then the doubler passes or corrects.
+*  2♣! Clubs and a higher suit
+*  2♦! Diamonds and a higher suit
+*  2♥ Shows long hearts and spades
+*  2♠ Shows long spades; it is a weaker hand than doubling and
    correcting to spades
--  2N Shows both minors 5-5
+*  2N Shows both minors 5-5
 
 In response to 2♣ and 2♦, pass unless you have shortness, or bid the
 next higher suit, or on rare occasion, a good long suit of your own.
@@ -111,23 +111,23 @@ cost of requiring us to go to the three level to show clubs. Against a
 weak 1N opener, this is the most popular scheme. :term:`Intervenor` 
 bids:
 
--  X penalty-oriented (a hand equal or better to the one shown by the
+*  X penalty-oriented (a hand equal or better to the one shown by the
    opener)
    
--  2♣! (long unknown suit). This is a :term:`relay`, completely artificial.
+*  2♣! (long unknown suit). This is a :term:`relay`, completely artificial.
 
    With a good six-card club suit, advancer may pass. Or, advancer bids 
    2♦! (relay), then intervenor will pass or correct to 2♥, 2♠, or 3♣.
    
--  2♦! (hearts and spades)
+*  2♦! (hearts and spades)
 
    Advancer normally bids his best major, pass or correct.
    
--  2♥(hearts and a minor) or 2♠(spades and a minor)
+*  2♥(hearts and a minor) or 2♠(spades and a minor)
 
    Advancer bids 2N to ask for the minor.
    
--  2N(5-5 in the minors) is Unusual 2N.
+*  2N(5-5 in the minors) is Unusual 2N.
 
 The two suited bids are nominally 5-5, but depending on strength and 
 vulnerability, can me made with a good 5-4. Advancer can depart from the

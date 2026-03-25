@@ -150,15 +150,15 @@ You must (almost) always bid if RHO passes.
 To respond in a suit, respond in a four-card major in preference to a minor, even if your
 minor is five cards. How high you bid shows your strength:
 
-- With zero to about 8 points, bid your best suit as cheaply as possible.
+* With zero to about 8 points, bid your best suit as cheaply as possible.
   Put emphasis on responding in the major partner has promised if choices
   are otherwise equal. 
   
   Remember you can't pass. In fact, the worse your hand is, the more you have to bid.
   
-- With a decent 9 – 11, you *must* jump-bid your suit.
+* With a decent 9 – 11, you *must* jump-bid your suit.
 
-- With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
+* With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
   suit. A cue-bid is asking partner to show four-card suits up the line.  
  
 Sometimes the best suit you have is unfortunately their suit. To reply in no-trump you 
@@ -470,15 +470,15 @@ requirements edge upwards a couple of points.
 
 More importantly, to make a negative double, you have to have the right shape:
 
--  The auction 1♣ (1♦) X promises 4-4 in the majors. You can bid 1♥ or
+*  The auction 1♣ (1♦) X promises 4-4 in the majors. You can bid 1♥ or
    1♠ instead with 4 cards, so there is no reason to double when 4-3,
    and if you have a five card suit(s) you bid the (higher-ranking) five
    card suit.
--  The auction 1♣/♦ (1♥) X promises exactly 4 spades; with more you
+*  The auction 1♣/♦ (1♥) X promises exactly 4 spades; with more you
    bid the suit.
--  The auction 1♣/♦ (1♠) X promises exactly 4 hearts; with more you
+*  The auction 1♣/♦ (1♠) X promises exactly 4 hearts; with more you
    bid the suit.
--  The auction 1♥ (1♠) X promises one minor and a decent rebid. For
+*  The auction 1♥ (1♠) X promises one minor and a decent rebid. For
    example:: 
 
       1♥ (1♠)    X   (P)
@@ -486,7 +486,7 @@ More importantly, to make a negative double, you have to have the right shape:
 
    Here responder has a diamond suit and two hearts, and can stand to go 
    back to hearts if opener cannot support his diamonds.
--  A negative double of a bid at the two level promises at least one
+*  A negative double of a bid at the two level promises at least one
    unbid major and a rebid. It does not promise both unbid suits.
 
 At the two level, you sometimes want to show a five card major but do not

@@ -97,14 +97,14 @@ Online
    of the two.  There is a mechanism, different on each site, for knowing what the 
    robots believe a bid means. Some sites are:
 
-   - BridgeBase Online (BBO) at online.bridgebase.com
+   * BridgeBase Online (BBO) at online.bridgebase.com
      is the largest site for playing bridge, including ACBL tournaments.
      The Beginner and Intermediate Lounge (BIL) and the Intermediate and 
      Advanced Club (IAC) are groups that use BBO for instruction. 
-   - OKBridge,
-   - IntoBridge, 
-   - Swan Bridge, and 
-   - Real Bridge. 
+   * OKBridge,
+   * IntoBridge, 
+   * Swan Bridge, and 
+   * Real Bridge. 
    
    These sites are in a state of constant improvement and competition so I won't 
    describe them in this static medium.

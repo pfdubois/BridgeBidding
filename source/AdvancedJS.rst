@@ -55,7 +55,7 @@ Walker gives this example for a very strong hand that came up at a sectional::
 
    ♠AKQ84 ♥A98 ♦A8 ♣A54
 
-The use of a traditional jump-shift resulted in the auction 1♦ - 2♠ - 3♥.
+The use of a traditional jump-shift resulted in the auction 1♦ – 2♠ – 3♥.
 Responder was now stuck: 3N isn't strong enough, and could be passed. You can't
 rebid spades or raise diamonds or hearts, and you don't know if diamonds or
 hearts are running. Change one of the Aces to a 10 or J and the 3N rebid would
@@ -75,9 +75,9 @@ but rather tell partner where your honors are.
   going to play in that suit -- it's yours, mine, or no-trump.)
 * Notrump rebids show balance minimums with stoppers in both unbid suits. Walker shows 
   this instructive case: Suppose opener holds 
-  ♠8 ♥KJ64 ♦KQ75 ♣AT3 after 1♦ - 2♠! (Soloway). 
+  ♠8 ♥KJ64 ♦KQ75 ♣AT3 after 1♦ – 2♠! (Soloway). 
   Shouldn't opener bid 3♥? No -- because responder does not have a heart suit!  Partner 
-  will not have a second suit unless it is yours. For this hand, you respond 2N - nothing 
+  will not have a second suit unless it is yours. For this hand, you respond 2N – nothing 
   extra in your suit, no Qx or better in spades, minimal points.
 
 Finally, it is time for responder to make his second bid:

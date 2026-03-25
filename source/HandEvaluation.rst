@@ -49,11 +49,11 @@ for three or four.
 If HCP is all we do, then we are claiming that these
 hands all have the same value, 13 HCP:
 
--  ♠AQ7 ♥K54 ♦K32 ♣J432 
--  ♠AQT ♥KT9 ♦KT9 ♣JT98 
--  ♠AKQJT987 ♥--- ♦KT987 ♣---
--  ♠A32 ♥K54 ♦KQJ ♣5432 
--  ♠QJ ♥QJ ♦QJ2 ♣KJ7654 
+*  ♠AQ7 ♥K54 ♦K32 ♣J432 
+*  ♠AQT ♥KT9 ♦KT9 ♣JT98 
+*  ♠AKQJT987 ♥--- ♦KT987 ♣---
+*  ♠A32 ♥K54 ♦KQJ ♣5432 
+*  ♠QJ ♥QJ ♦QJ2 ♣KJ7654 
 
 Clearly we need to account for distribution, intermediate cards such as
 10's and 9's, and the way our honors are grouped together or scattered.
@@ -219,12 +219,12 @@ Examples
 
 Let's look at a comparison of the basic and Bergen models.
 
-- ♠AQ7 ♥K54 ♦K32 ♣J432 
+* ♠AQ7 ♥K54 ♦K32 ♣J432 
 
-  This hand has 13HCP - 1 for a flat hand = 12 HCP in either system. The hand has 
+  This hand has 13HCP – 1 for a flat hand = 12 HCP in either system. The hand has 
   the honors in different suits, which is not a plus.
 
-- ♠AT942 ♥KJ832 ♦ --- ♣AKQ 
+* ♠AT942 ♥KJ832 ♦ --- ♣AKQ 
 
   This hand has 19 points, 17 HCP plus 2 for length in the basic system. 
   
@@ -232,13 +232,13 @@ Let's look at a comparison of the basic and Bergen models.
   shape, for a total of 23 points. Clubs has three honors, but it doesn't get the 
   "good suit" bonus because it doesn't have four cards.
 
-- ♠AT942 ♥KQJ4 ♦ --- ♣AKT7
+* ♠AT942 ♥KQJ4 ♦ --- ♣AKT7
 
   This hand has 17 HCP, plus one for length in the basic system. In the Bergen system
   we add 2 for the 2 "good suits", hearts and clubs, and 3 for the void, for a total of 
   23 points. 
 
-- ♠QJ ♥QJ ♦QJ2 ♣KJ7654 
+* ♠QJ ♥QJ ♦QJ2 ♣KJ7654 
 
   This hand has 13 HCP, minus two for bad doubletons, plus two for the six card suit, 
   or 13 points. In the Bergen system we have seven Queens and Jacks, and no Aces or 

@@ -20,7 +20,7 @@
    pair:hand strength;invitational
    pair:hand strength;game forcing
    pair:hand strength;slam interest
-   pair:notation;superscripted - or +
+   pair:notation;superscripted – or +
    
 Notation and Nomenclature
 =========================
@@ -58,12 +58,12 @@ endash, as in 1N – 2♥ – 2♠ or just 1N 2♥ 2♠. If a bid is
 alertable, it is followed by an exclamation point and a suggested
 explanation, as in 
 
-   1N - 3♥! (both majors, game force) 
+   1N – 3♥! (both majors, game force) 
 
 where the suggested alert is either in parentheses, or immediately follows, or has just 
 been explained. When opponents intervene, their bids are shown in parentheses, as in 
 
-   1♦ (2♥) 2♠ - 4♠
+   1♦ (2♥) 2♠ – 4♠
 
 which shows a 2♥ overcall of an opening 1♦, followed by a bid of 2♠ by
 the responder, and the opener going to game with 4♠.
