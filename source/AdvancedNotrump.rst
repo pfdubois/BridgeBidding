@@ -238,6 +238,27 @@ the suit above the minor at the four level is now RKC.  Examples:
   3♦(max) – 4♥! (RKC for diamonds)
 
 .. index::
+   pair:convention;Smolen
+   pair:convention;Texas Transfers
+   
+.. _LWST:
+     
+Life Without Smolen or Texas
+----------------------------
+
+The structure that includes Smolen and Texas Transfers, while widely played, is not 
+the only way to play. Instead of bidding Smolen when 5-4 or 5-5 in the majors:
+
+* 1N – 2♣︎ – 2♦︎ – 3♥︎ is 5-5 in the majors, invitational.
+* 1N – 2♣︎ – 2♦︎ – 3♠︎ is 5-5 in the majors, slam interest.
+* 1N – 4♦︎ is 5-5 "pick a major". (Texas Transfers not played).
+
+When 5-4, you start with a transfer and bid the other suit at the 3-level for 
+game forcing hands. With the hand that is 5=4, but only invitational, you have to 
+use Stayman since transferring to spades and bidding 3♥︎ would be game forcing 
+since you're bidding a new suit at the 3-level.
+
+.. index::
    pair:transfer;super-accept
    pair:super-accept;doubleton
    

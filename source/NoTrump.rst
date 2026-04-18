@@ -295,6 +295,24 @@ If opener has both majors he first bids 2♥.  If responder bids 2N in reply, th
 there is no heart fit, but opener knows there is a spade fit. Opener should bid spades 
 at the three-level to decline the invitation, and at the four-level to accept it. If 
 responder has bid 3N, opener can switch to 4♠.
+
+Garbage Stayman
+~~~~~~~~~~~~~~~
+
+.. _GarbageStayman:
+
+The term :term:`Garbage Stayman` is often mistakenly used. A standard part of
+Stayman is that you can bid 2♣ with a weak hand having a club shortage and
+three-card or better support in the other suits. You're willing to pass any
+reply, including 2♦. Your hand may be garbage, but you're not bidding Garbage
+Stayman.
+
+Garbage Stayman refers to bidding weak hands that are 4-4 or better
+in the majors. The idea is that you can bid Stayman even if you are not willing to pass
+a 2♦ reply. Playing Garbage Stayman, you now rebid 2♥! (weak, 4-4 in majors) and opener 
+passes or corrects to 2♠.  
+
+There is a more complicated version I am not mentioning, so check with partner.  
  
 Major Transfers
 ---------------
@@ -306,12 +324,8 @@ Major Transfers
    pair:1N;Jacoby transfers
    pair:major transfers;super-accept
 
-So much for hands with four card majors -- but what if you have a five-card 
-major? You may have a fit if opener has three cards in your suit. 
-
-.. note::
-   If you have 5-4 in the majors, you use Stayman.  This section applies when 
-   you have fewer than four cards in the other major.
+So you bid Stayman with hands that have a four-card major; but what if you have a 
+five-card major? You may have a fit if opener has three cards in your suit. 
 
 Rather than bid our major suit in response to 1N, we bid the suit below
 it. This is called a :dfn:`transfer`, also known as
@@ -368,7 +382,7 @@ After a transfer to 2M is accepted, responder bids:
 
 * Pass with less than invitational values.
 * 2N invitational. Opener can pass, bid 3N, or bid 3M or 4M with 3-card support. 
-* 3m a second suit, absolutely game forcing, usually with at least mild slam interest.
+* 3m a second suit, absolutely game forcing, possibly with slam interest.
 * 3M invitational, 6+ cards in the major. Now we have an 8-card fit for sure. Opener
   must revalue his hand, but he may then choose to pass.
 * 3N to play, opener can correct to 4M with 3 trumps.
@@ -395,17 +409,13 @@ Responding With 5-5 Hands
    1N;5-5 hands
    
 Remember that after a transfer, any bid at the three-level is game forcing.  With
-less than a game-forcing hand you cannot show the second suit. Also remember that 
-with 5-4 in the majors you start with :ref:`Stayman <FiveFour>`.
+less than a game-forcing hand you cannot show the second suit. 
   
 With 5-5 in the majors:
 
 * Weak: Transfer to the better major, then pass. 
 * Invitational: Transfer to hearts and bid 2♠.
 * Game-Forcing: Transfer to spades and bid 3♥.
-
-Note how in the last two cases responder must be 5-5 because if 5-4 he would have 
-started with Stayman.
 
 When you have five in a major and a |4ormore|-card minor:
 
@@ -442,23 +452,6 @@ You should learn these defenses as part of learning Stayman and transfers.
 .. index::
    pair:1N;Garbage Stayman
  
-Garbage Stayman
-~~~~~~~~~~~~~~~
-
-.. _GarbageStayman:
-
-The term :term:`Garbage Stayman` is often mistakenly used. A standard part of
-Stayman is that you can bid 2♣ with a weak hand having a club shortage and
-three-card or better support in the other suits. You're willing to pass any
-reply, including 2♦. Your hand may be garbage, but you're not bidding Garbage
-Stayman.
-
-Garbage Stayman refers to bidding weak hands that are 4-4 or better
-in the majors. The idea is that you can bid Stayman even if you are not willing to pass
-a 2♦ reply. Playing Garbage Stayman, you now rebid 2♥! (weak, 4-4 in majors) and opener 
-passes or corrects to 2♠.  
-
-There is a more complicated version I am not mentioning, so check with partner.  
 
 .. index::
    pair: Stayman;five-four majors
@@ -475,7 +468,7 @@ available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
 
 * If your hand is weak, transfer to the five-card suit
   and pass. This gives your partner no chance to go wrong.  But use judgment: with 
-  a terrible five-card suit, you might try Garbage Stayman.
+  a terrible five-card suit, you might try :ref:`Garbage Stayman <GarbageStayman>`.
 
 * If your hand has five spades and four hearts, invitational or better, bid 2♣ Stayman, 
   and then:
@@ -495,7 +488,7 @@ available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
   * With an invitational hand 4=5 in the majors, you have to transfer to hearts and 
     then bid 2♠.
     
-  * With a game-forcing hand, use Stayman and if opener bids 2♦, bid 3♥. See note below.
+  * With a game-forcing hand, use Stayman and if opener bids 2♦, bid 3♥. 
 
 Partners must be on their toes not to pass the game-forcing bids.
 
@@ -532,6 +525,20 @@ With a minimal opening hand West would just have bid 4♥ over 2♥. Note that
 8-9 points.  That's why we need the 3♠ bid, agreeing hearts but game forcing at
 least.
 
+Smolen
+------
+
+.. _Smolen:
+
+.. index::
+   pair:convention; Smolen
+
+Smolen is an optional convention, but quite common for advanced intermediates.
+When partner opens 1N and we have a hand that is 5 – 4 in the majors, 
+game forcing, we begin with Stayman. If opener replies 2♦, denying a four-card 
+major, we now bid the four-card suit, *at the three level*; this is a :term:`puppet` 
+that lets the opener declare the 5-3 fit if he has 3 of the long suit. 
+
 Texas Transfers
 ---------------
 
@@ -563,6 +570,14 @@ You don't use Texas if:
   you must have extras.  But it is only mild extras; if you have strong slam interest,
   make a forcing bid such as a 3-level bid of a new suit. That is game forcing, so 
   you'll get another bid.  
+  
+.. note::
+   There is an alternate approach to bidding the hands that are 5-4 or better
+   in which you do not use Smolen or Texas Transfers and are able to be distinguish
+   hands that are 5-5 invitational, game forcing, or have slam interest. See 
+   :ref:`Life Without Smolen and Texas <LWST>`. I'd like to say it is simpler but there
+   are so many hand types to be dealt with, any system is going to require a lot of 
+   thought.
 
 .. _Minor_Relay:
 
@@ -672,19 +687,6 @@ The bidding begins::
 
 Systems are off. The bid of 2♦ would be to play, not a transfer to hearts.
 
-Smolen
-------
-
-.. _Smolen:
-
-.. index::
-   pair:convention; Smolen
-
-Smolen is an optional convention, but quite common for advanced intermediates.
-When partner opens 1N and we have a hand that is 5 – 4 in the majors, 
-game forcing, we begin with Stayman. If opener replies 2♦, denying a four-card 
-major, we now bid the four-card suit, *at the three level*; this is a :term:`puppet` 
-that lets the opener declare the 5-3 fit if he has 3 of the long suit. 
 
 .. _1ninterference:
 

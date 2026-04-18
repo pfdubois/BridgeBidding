@@ -149,31 +149,28 @@ Essentially we extend the ideas of TWNMF to these additional auctions.
  
 Research XYZ with a partner after having plenty of TWNMF experience.
 
-.. _NMF2:
+.. _Wolff:
 
 .. index::
+   pair:convention;Wolff Signoff
    pair:convention;TWNMF over 2N rebid
    pair:Marc Smith;TWNMF over 2N rebid
-   pair:convention;Wolff Signoff
-   
-TWNMF over 2N
+
+Wolff Signoff 
 -------------
 
 In the section on :ref:`New Minor Forcing <NMF>`, we saw that in auctions where 
 the opener rebids 2N to show an 18-19 balanced hand, 1m – 1M – 2N, that a bid of 3w!,
 the other minor, is an artificial bid asking if opener has three-card support of M.
-
-A convention responding 3♣ as a relay to 3♦ to signoff weak hands is the Wolff Signoff.
-Details are widely available on bridge sites. 
-
-A different version with the same signature bid has been suggested by Marc Smith.
-You could call it a variant of the Wolff Signoff or TWNMF over 2N:
+The Wolff Signoff, akin to :ref:`TWNMF <TWNMF>` disregards which minor was opened
+and uses 3♣︎ to show weak hands:
 
 * 3♣! is a mandatory relay to 3♦; see below for examples. This is a 
   :ref:`Lebensohl-like <Lebensohl>` relay to show various weak hands. 
-* 3♦! is the Stayman-like NMF bid.
-* 3♥! is a slam try in x. It sets x as trump.
-* 3♠! is a slam try in M. It sets M as trump.
+* 3♦! is the Stayman-like ("Staymanic") game-forcing bid.
+* 3M shows |5ormore| cards.
+
+There are various ideas needing partnership agreement for other bids.
 
 The 3♣ puppet to 3♦ is used for a number of weak hand types:
 
@@ -209,6 +206,21 @@ The 3♦ is looking for major fits:
 
 * 1m – 1♠ – 2N – 3♦ – responder could have any hand looking for a 5-3 spade fit,
   or 5-4 in majors looking for 4-4 hearts or 5-3 spades.
+
+
+.. _NMF2:
+
+.. index::
+   pair:convention;Wolff Signoff
+   
+Slam Tries
+~~~~~~~~~~
+
+Marc Smith suggests this addition to the Wolff Signoff.
+
+* 3♥! is a slam try in opener's suit. It sets m as trump.
+* 3♠! is a slam try in responder's suit. It sets M as trump.
+
 
 After the 1x – 1M – 2N – 3♥/♠ slam tries, responder has set trumps and opener should 
 make control bids.
