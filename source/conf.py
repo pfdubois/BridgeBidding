@@ -131,7 +131,7 @@ epub_publisher = author
 epub_language = "English"
 epub_copyright = copyright
 epub_scheme = "URL"
-#epub_cover=('_static/cover.jpg','')
+epub_cover = ('_static/cover-kdp.jpg', 'epub-cover.html')
 epub_tocdepth = 2
 # The unique identifier of the text. This can be a ISBN number
 # or the project homepage.
