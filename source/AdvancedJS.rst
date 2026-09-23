@@ -137,7 +137,7 @@ virtually forcing. What counts are your holdings in the two suits that have
 been mentioned, not so much HCP per se.
 
 Simplified Approach
-~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~
 
 To avoid the confusion about fit jump vs. splinter, one can play by a simpler rule: any 
 jump-shift in a contested auction is a fit-showing jump.  The only splinter is in 
