@@ -355,6 +355,6 @@ trump suit. Experts tend to play this as just obstructive.
 .. note::
    There are a plethora of other kinds of game tries. The new suit can mean a 
    natural second suit, a short suit, a long suit, a short suit or a long suit,
-   and then there's :ref:`Kokish Game Tries <KokishGameTries>`. HSBT are the 
+   and then there's :ref:`Kokish Game Tries <KokishGameTries>`. HSGT are the 
    most frequent.
 

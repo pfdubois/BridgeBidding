@@ -42,7 +42,7 @@ you cannot, to bid your longest suit.
 Here is the decision tree for responding to 1m. 
 This list will be filtered with a constraint that will depend on your hand strength,
 whether you have previously passed (are a "passed hand"), whether your RHO interfered
-(overcalled or doubled), or neither. We choose the strain amongst the *feasible*
+(overcalled or doubled), or neither. We choose the strain among the *feasible*
 suits:
 
 * If you have two |5ormore|-card suits of equal length you choose the higher-ranked suit. 
@@ -95,7 +95,7 @@ Example::
     ♣KQJ42
     
 Partner opens 1♦. You have a competitive hand with 8 HCP. You'd like to bid 2♣,
-but that's out. So you look for the longest suit amongst the ones that can be bid at
+but that's out. So you look for the longest suit among the ones that can be bid at
 the one level.  That's spades, so you reply 1♠.
 
 Now change the hand to::
@@ -468,7 +468,7 @@ That has the same meaning as 1♣ – 3♣.
 
 A cue bid at the three level after partner's 1m opener is overcalled is 
 :ref:`Western Cue <Western_Cue>`, asking partner to bid 3N with a stopper in
-their suit. A Wester Cue bids says, "We have the points for game, partner, but I do not 
+their suit. A Western Cue bid says, "We have the points for game, partner, but I do not 
 have a stopper.  I probably have something to help though." 
 
 Worst case is they have a nine-card fit in a major suit.  Without two good stoppers 3N

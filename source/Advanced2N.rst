@@ -83,7 +83,7 @@ Optional Improvement
 ~~~~~~~~~~~~~~~~~~~~
 
 If we Stayman with four of a major and six of a minor, when opener denies our 
-major it leaves room for the following experts-only manuever by Wolpert.
+major it leaves room for the following experts-only maneuver by Wolpert.
   
 After 2N – 3♣ – 3♦ or 3♠, a slammish responder with four hearts and a
 six-card club suit bids 4♣. Then Opener bids:

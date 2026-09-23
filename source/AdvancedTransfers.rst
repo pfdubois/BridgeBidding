@@ -74,7 +74,7 @@ Transfer Advances (aka Rubens Advances) is a different way of responding to
 partner's overcalls in a major.  E.g., (1♣) – 1♥ – (P) – ?. Recall that in this context a 
 bid of 2m is not forcing nor is 2♥. We can do more using Transfer Advances.
 
-There are as many versions of this convention as their are people who play it.
+There are as many versions of this convention as there are people who play it.
 See remarks below.
 
 In one version of Transfer Advances, bids from 1N to just below a 2-level raise

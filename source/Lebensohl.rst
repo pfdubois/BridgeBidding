@@ -315,7 +315,7 @@ Lebensohl Over Weak Twos
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 If the suit that we want to bid, y, is of lower rank than the preempt, we are
-going to have to bid it at the three level. Going through 2N! (relay) Lebesohl
+going to have to bid it at the three level. Going through 2N! (relay) Lebensohl
 shows the weaker hands.
 
 * 2N! is a relay to 3♣, pass or correct. 

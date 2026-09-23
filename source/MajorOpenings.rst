@@ -566,7 +566,7 @@ with four trump.
 
    | 1M – (X) – 2N! (four-card limit raise or better)
 
-This bid is called Jordon 2NT (who popularized it in America) or Truscott 2NT
+This bid is called Jordan 2NT (who popularized it in America) or Truscott 2NT
 (who invented it in 1954) or Dormer 2NT (who popularized it in Europe).
 
 This bid shows four trump as in Jacoby 2NT; with 3 card support, one makes a 

@@ -130,13 +130,13 @@ so 4♣ / 4♦ are splinters.
 
 You can also use fit-showing jumps as a passed hand.
 
-A great writeup of this method is in :title:`25 More Bridge Conventions You Should Know`.
+A great write-up of this method is in :title:`25 More Bridge Conventions You Should Know`.
 
 Opener in responding must remember he's just been raised! Consider the bid
 virtually forcing. What counts are your holdings in the two suits that have
 been mentioned, not so much HCP per se.
 
-Simplifed Approach
+Simplified Approach
 ~~~~~~~~~~~~~~~~~~
 
 To avoid the confusion about fit jump vs. splinter, one can play by a simpler rule: any 

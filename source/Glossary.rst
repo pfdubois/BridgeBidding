@@ -396,7 +396,7 @@ Glossary
       are interchanged, as in Reverse Bergen or Reverse Drury.
 
    right-side
-      A bidding manuever designed to have the stronger hand be the declarer.
+      A bidding maneuver designed to have the stronger hand be the declarer.
    
    runout
       A method of escaping from a penalty double, such as a double of a 1N opener.

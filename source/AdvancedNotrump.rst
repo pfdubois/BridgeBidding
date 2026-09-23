@@ -89,7 +89,7 @@ A weak or invitational hand with six clubs is handled in
 :ref:`Four-Way Transfers <fourway>`.
 
 Some refer to this bid as Puppet Stayman, but strictly speaking that is a different
-convention over a 2N opener. Puppet Stayman came first and has the "puppet" manuever 
+convention over a 2N opener. Puppet Stayman came first and has the "puppet" maneuver 
 in common with this convention, hence the naming problem. But our 3♦ reply here does 
 not show or deny a four-card major.
 

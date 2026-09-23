@@ -14,7 +14,7 @@ This section explains some more defenses after your opponents open or overcall
 
 Two-suited hands are often more powerful than their HCP count alone would
 indicate. We've already learned the basic Unusual 2N and Michael's Cuebid.  For
-interfering with their 1N opening, we have Cappelletti and D.O.N.T. .
+interfering with their 1N opening, we have Cappelletti and D.O.N.T.
 
 In all these methods, the two-suited bids promise at least 5-4 in the suits.
 Vulnerability should be considered. Any bid which may force to the three level
@@ -118,7 +118,7 @@ Bloomen
 .. index::
    pair: convention; Bloomen
    single: two-suited bids
-   pair:1N;Bloomen defence
+   pair:1N;Bloomen defense
 
 Bloomen is related to Cappelletti. All 2-level suit bids are natural long suits. 
 A double is a relay to 2♣, and then intervenor bids one of the Capp two-suited bids: 
@@ -202,7 +202,7 @@ with the same meaning, the "slow" bid of 3M is the strong one, an idea similar t
 .. index::
    pair: convention; Suction
    single: two-suited bids
-   pair:1N;Suction defence
+   pair:1N;Suction defense
    
 Suction
 -------
@@ -283,7 +283,7 @@ Another version is to keep X as showing values / penalty, so that we have:
 Over a strong 1♣, X = color, 1♦ = Rank, and 1N = shape is usual.
 
 Advancer will assume that the two suited bids show length in the advancer's short 
-suits and bid the best of those. Interventor can correct if this is wrong.
+suits and bid the best of those. Intervenor can correct if this is wrong.
 
 Dealing with the artificial bids showing two 
 indefinite suits is difficult.  

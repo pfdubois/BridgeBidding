@@ -76,7 +76,7 @@ Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 .. rubric::
    Last Train
    
-A modification to control bidding, "Last Train" (named after the Monkee's hit, 
+A modification to control bidding, "Last Train" (named after the Monkees' hit, 
 "Last Train to Clarksville", is an agreement that once trump has been established, 
 bidding the last strain before game says, "I have no more controls that I can show 
 you below game, but if you have extras, I do have interest in slam."  This agreement

@@ -209,7 +209,7 @@ Muppet Stayman
 ~~~~~~~~~~~~~~
 
 Muppet Stayman is a modification of Puppet Stayman apparently introduced by the 
-Italian pair Augustin Madala- Noberto Bocchi.  Muppet Stayman interchanges the 3♥ and 3N 
+Italian pair Agustin Madala–Norberto Bocchi.  Muppet Stayman interchanges the 3♥ and 3N 
 responses so that 5-3 fits can be found in either major.
 
 2N – 3♣  (or 1N – 3♣ by partnership agreement):

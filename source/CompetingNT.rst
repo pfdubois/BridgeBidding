@@ -150,7 +150,7 @@ much, and the hoped-for profits may not materialize.
 
 It is probably better for an intermediate to play just one of these systems well against 
 any type of notrump, than to play different ones depending on circumstances. The edge 
-you get from any convention is small; and the loss from a mixup is big. The real solution 
+you get from any convention is small; and the loss from a mix-up is big. The real solution 
 in my opinion is to lower one's standards, for example bidding with two good four-card
 suits or a five-card “long” suit. And yes, you may end up in trouble, just as can happen 
 against the strong version.

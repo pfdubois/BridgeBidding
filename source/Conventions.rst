@@ -11,7 +11,7 @@ to mean.
 You should know that when a convention giveth, it taketh away something else. For example,
 bidding Stayman 2♣ in response to partner's 1N opener makes it easier to find
 major suit fits.  But, you cannot ever play 2♣ as a contract after partner opens 1N. 
-In this case the tradeoff is worth it. 
+In this case the trade-off is worth it. 
 
 Burn This Chapter
 -----------------

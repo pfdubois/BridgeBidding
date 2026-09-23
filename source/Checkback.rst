@@ -127,7 +127,7 @@ When a 1N or 2N rebid has been made over a major suit call by
 the responder, any bid of an *unbid* minor (hence, a *new* minor) is NMF. It is forcing
 for one round and is at least invitational. Over 2N it is of course game forcing.
 
-This writeup assumes that an opener holding four spades would bid 1♠ rather
+This write-up assumes that an opener holding four spades would bid 1♠ rather
 than 1N over 1♥. While I strongly recommend this, when you get to a very advanced 
 level you might not follow this rule. But you should switch to 
 :ref:`Two-Way New Minor Forcing <TWNMF>` at that point, where this is discussed further.  

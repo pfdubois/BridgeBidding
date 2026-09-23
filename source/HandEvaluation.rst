@@ -66,10 +66,10 @@ Subtract one point for a :term:`flat` (4-3-3-3) hand.
 If you get a very distributional hand, such as a 6-5-1-1, be very aggressive; 
 such hands will take a lot of tricks.  "Six-five, come alive" is wise advice.  
 
-A "good" or "upgradable" hand for a given point count is one with the honors
+A "good" or "upgradeable" hand for a given point count is one with the honors
 concentrated and / or touching, and with more than its expected share of 9's
 and 10's, with Aces and Kings more than Queens and Jacks. A "bad" or
-"downgradeable" hand is the opposite. .
+"downgradable" hand is the opposite.
 
 Revaluing
 ~~~~~~~~~
@@ -175,9 +175,9 @@ The initial "starting points" for Bergen are determined by a five-step process:
     * +1 if 5-5 or better
     * +3 if you have a void -- the theory being that you are going to have a fit.
   
-#. Classify the hand as upgradable or downgradeable.
+#. Classify the hand as upgradeable or downgradable.
 
-A hand is upgradable if:
+A hand is upgradeable if:
 
 * It has 10s, 9s, or 8s -- these intermediate cards make a big difference.  A normal 
   expectation is one of each.
@@ -188,7 +188,7 @@ A hand is upgradable if:
 
 A hand is downgradable if it has a poor shape such as 4333, or 5332.
 
-When you have a close decision, use the upgradable or downgradable factors to help
+When you have a close decision, use the upgradeable or downgradable factors to help
 make the decision.
 
 Bergen Revaluing

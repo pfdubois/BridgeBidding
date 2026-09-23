@@ -19,7 +19,7 @@ covered previously; TWNMF is described in detail in this chapter.
 
 Two-way New Minor Forcing (TWNMF), also called Two-Way Checkback Stayman, distinguishes 
 invitational vs. game-forcing hands by using both 2♣ and 2♦ as artificial and is
-universally used amongst experts instead of NMF.
+universally used among experts instead of NMF.
 
 XYZ extends the idea of TWNMF to the case of the opener's rebid being 1♠, and
 is so-named because the auction has begun 1x – 1y – 1z. Since it is identical to 

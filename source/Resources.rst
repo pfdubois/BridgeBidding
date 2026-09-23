@@ -38,7 +38,7 @@ Books
 #. :title:`The Weak No-trump: How to Play It, How to Play Against It`, by Andy Stark.
 
 #. :title:`Eddie Kantar Teaches Modern Bridge Defense`, by Eddie Kantar, Masterpoint
-   Press, Toronto, 1999. This part centers on leading, card play and signalling.
+   Press, Toronto, 1999. This part centers on leading, card play and signaling.
 
 #. :title:`Eddie Kantar Teaches Advanced Bridge Defense`, by Eddie Kantar, Masterpoint
    Press, Toronto, ISBN 1-894154-03-7, 1999. This part centers on strategy,
