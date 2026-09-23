@@ -330,9 +330,9 @@ bids available.
 
 For example:
 
-* 2♥ X P 2♠ = weak hand
-* 2♥ X P 3♠ = positive with five spades
-* 2♥ X P 2N!; P 3♣! P 3♠ positive with four spades
+* (2♥) X (P) 2♠ = weak hand
+* (2♥) X (P) 3♠ = positive with five spades
+* (2♥) X (P) 2N!; (P) 3♣! (P) 3♠ positive with four spades
 
 The relay does not have to be accepted if the doubler had a strong hand. This is 
 called "breaking" the relay.
@@ -346,18 +346,23 @@ Game Forcing Hands
 
 What if we want to force to game but, allowing for the fact that
 partner may not have four of an unbid major, can we do better than just bidding
-4M and hoping? Our only other tool is to bid their suit.
+4M and hoping? Lacking a good suit of our own to bid, the only other tool is to 
+cue bid their suit.
 
-For example, over 2♥ X P, suppose we have a game forcing hand with ♠AQx. We aren't 
+For example, over (2♥) X (P), suppose we have a game forcing hand with ♠AQx. We aren't 
 sure where we belong, be it 4♠, 3N, or perhaps 5m. Again, we use the 2N relay to 
-double the language available:
+double the language available. All these sequences are game-forcing:
 
-* The direct "fast" cue bid shows we do not have four of the other major but are forcing
-  to game. 
-* The "slow" 2N relay before the cue bid shows |4ormore| cards of the other 
-  major and forcing to game but no stopper. 
-* 2N relay and then 3N also shows 4 cards in the other major but with a stopper, 
-  offering a choice of games.
+* The "fast" cue bid shows we do not have four of the other major;
+* The "slow" cue bid shows |4ormore| cards of the other major but no stopper; 
+* A slow 3N also shows 4 cards in the other major but with a stopper, offering a choice 
+  of games.
+  
+So after (2♥) X (P):
+
+* 3♥︎ forces to game and denies four spades;
+* 2N!;(P) 3♣︎! (P) 3♥︎, shows |4ormore| spades but no heart stopper;
+* 2N!;(P) 3♣︎! (P) 3N, shows four spades and a heart stopper, offering a choice of games.
 
 Again, if you are new to this, it isn't going to kill you to cue bid to show the 
 game force or just bid 4 of the other major when you don't have a stopper.  A seven-card
@@ -370,7 +375,7 @@ There is one more scenario that should be considered Lebensohl::
    (1x) X (2x) ?
    
 where x is not clubs. This is similar to (2x) X (P) ? Thus, play 2N here as
-the Lebensohl relay.  A double is a :ref:`responsive <responsive_double>`.
+the Lebensohl relay.  (A double instead is a :ref:`responsive <responsive_double>`).
 
 Be careful not to just count points when distinguishing a positive vs. a game-forcing
 reply.  If you have five cards in your major, especially, you might want to upgrade. 

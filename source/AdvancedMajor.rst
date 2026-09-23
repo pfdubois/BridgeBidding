@@ -61,7 +61,7 @@ available step, responder shows the suit by making step rebids:
 * 1♥ – 3♠! (gf raise, stiff or void somewhere) – 3N! (asking where)
   Responses are 4♣! clubs, 4♦ diamonds, 4♥ hearts
 
-* 1♠ – 3♥! (gf raise, stiff or void somewhere) – 3N! (asking where)
+* 1♠ – 3♥! (gf raise, stiff or void somewhere) – 3♠︎! (asking where)
   Responses are 3N! clubs, 4♣ diamonds, 4♦ hearts
 
 Note the collision here with the normal splinter or jump shift meaning.
