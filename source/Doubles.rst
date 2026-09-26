@@ -33,9 +33,11 @@ partner's intent. Your judgment must be used. For example, in responding to a
 penalty double, the weaker you are (relative to what your partner should expect
 in that situation), the more likely you should :term:`pull` the double.
 
-We will cover here:
+This chapter includes:
 
-* :ref:`Takeout Doubles <takeout_double>`, 
+* :ref:`Takeout Doubles <takeout_double>`, and the optional, 
+* :ref:`Equal-Level Conversion Doubles <ELCD>`, which are takeout doubles that have 
+  an off-shape with diamonds but without enough clubs.
 * :ref:`Going For Blood Redouble <blood>` of their takeout double,
 * :ref:`Negative Doubles <negative_double>`, which require
 * :ref:`Reopening Doubles <reopening_double>`, to protect a partner who passed
@@ -43,8 +45,6 @@ We will cover here:
 * :ref:`SOS Redoubles <SOS>` to save us when we need saving.
 * :ref:`Lead-Directing Doubles <lead_directing>` are doubles meant to suggest a 
   lead to partner when you expect he will be the opening leader.
-* :ref:`Equal-Level Conversion Doubles <ELCD>` are takeout doubles that have 
-  an off-shape with diamonds but without enough clubs.
 * :ref:`Lightner Doubles <LightnerDouble>` of final game and slam contracts ask
   partner for an unusual lead.
 
@@ -130,8 +130,6 @@ show 4 of the other major and 5+ diamonds but *no extra strength*.
 
 The downside is that with an 18-point hand with diamonds, you can no longer bid diamonds
 over clubs because partner won't think you have the big hand. You'd have to bid 3♦.
-
-.. _negative_double:
 
 .. index::
    single: takeout double; responding to
@@ -466,6 +464,8 @@ of this relay system.
    !single: negative double
    single: double; negative
    single: negative double; required shape
+
+.. _negative_double:
 
 
 Negative doubles

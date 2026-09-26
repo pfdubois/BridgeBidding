@@ -19,6 +19,8 @@ of another, so the defense has slightly different approaches for those.
 
 Here are other two-suited overcalls. There are still more approaches out there.
 
+.. _Sandwich:
+
 Sandwich 1N
 -----------
 
@@ -26,8 +28,6 @@ Sandwich 1N
    pair: convention; Sandwich 1N
    single: two-suited bids; Sandwich 1N
    single: takeout double; after (1x) – P – (1y)
-
-.. _Sandwich:
 
 After (1x) – P – (1y), a double is for takeout and shows the other two suits;
 the suits are at least 5-4 and you have an opening hand.
