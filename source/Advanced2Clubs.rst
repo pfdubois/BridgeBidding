@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   single: strong 2♣; advanced responses
+
 Advanced Responses to Two Club Openers
 ======================================
 
@@ -20,7 +23,7 @@ Two Hearts Bust Response to Two Clubs
 -------------------------------------
 
 .. index::
-   pair: response to 2 club opener;two hearts bust
+   pair: strong 2♣; Two Hearts Bust
 
 With partnership agreement, the responses to 2♣ become:
 
@@ -43,8 +46,8 @@ Parrish Relay
 ~~~~~~~~~~~~~
 
 .. index::
-   pair:response to 2 club opener;Parrish 
-   pair:convention;Parrish (two hearts bust addon)
+   pair: strong 2♣; Parrish Relay
+   pair: convention; Parrish Relay
    
 The Parrish convention applies after a Two Hearts Bust response.  It provides a way
 for opener to bid a suit and have it be non–forcing, thus stopping below game.
@@ -71,7 +74,7 @@ Kokish
 ------
 
 .. index::
-   pair: response to 2 club opener; Kokish
+   pair: strong 2♣; Kokish
 
 Kokish applies after a 2♦ response to 2♣, whether it means waiting or negative.  
 
@@ -91,8 +94,8 @@ in showing two-suited very strong hands, which are often awkward to show after 2
 Control Responses To Two Clubs
 ------------------------------
 
-.. index:: 
-   pair: response to 2 club opener; control-showing
+.. index::
+   single: strong 2♣; control-showing responses
 
 By partnership agreement, responder shows Aces and Kings. Counting A=2 and
 K=1,
@@ -132,6 +135,10 @@ haven't found a suit.
 Using 4N as RKC is not often useful with this convention. Rather, if opener rebids 4N, 
 it is asking for the suit of the lowest control held by responder. Next, opener may bid
 the next step up to ask for the next lowest control, although this is rare.
+
+.. index::
+   single: strong 2♣; Smith's 2♦ waiting system
+   single: Marc Smith; 2♦ waiting system over 2♣
 
 Smith's 2♦ Waiting System
 -------------------------

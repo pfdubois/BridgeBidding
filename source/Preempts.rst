@@ -3,8 +3,9 @@
 Preemptive Opening Bids
 =======================
 
-.. index:: 
-   pair: opening bids;preempts
+.. index::
+   !single: preempts
+   single: opening; preempts
 
 If using this chapter as a reference, be sure you've read :ref:`Notation and
 Nomenclature <Notation>` and review :ref:`Classifying Your Hand
@@ -18,6 +19,10 @@ have to maneuver. The opening preempts are those bids above 2♣.
 .. warning::
    Be aware that many pairs play 2♦ to mean minimal three-suited openers or other hand 
    types; this must be alerted. See :ref:`Two Diamonds Conventions <TwoDiamonds>`.
+
+.. index::
+   single: preempts; two-level
+   see: weak two bids; preempts
 
 Two-Level Preempts
 ------------------
@@ -45,12 +50,16 @@ that almost anything goes -- your partner could not open, and it is very likely 
 hand. Interfering with their auction becomes paramount.  In third seat it is often 
 advisable to open at the two level with a six-card suit if you have even up to 14 HCP.    
 
-.. index:: fourth-seat bidding
+.. index::
+   single: passout seat; preempts in
 
 In fourth seat you do not preempt, you pass if you can't make a one-level opening.
 With a six-card suit and a minimal opening hand, you can open at the two-level.
 
 The following styles apply in 1st and 2nd seats. 
+
+.. index::
+   single: preempts; traditional style
 
 .. rubric::
    The Traditional Style
@@ -74,6 +83,9 @@ The philosophy behind these rules emphasized a combination of competing to the r
 contract if it is our hand besides interfering with their auction. Hence the concern
 that preempting with a four-card major might be missing a major-suit fit.
 
+.. index::
+   single: preempts; light style
+
 .. rubric::
    The Light Style
    
@@ -94,10 +106,10 @@ Do note the appropriate ACBL regulations: you have to state a range on your card
 it is not entirely free to bid outside it.
 
 .. index::
-   pair:preempts;responses
-   pair:preempts;RONF
-   pair:preempts;feature
-   pair;preempts;Ogust
+   single: preempts; responses
+   pair: preempts; RONF
+   pair: preempts; feature
+   pair: preempts; Ogust
 
 Responses
 ~~~~~~~~~
@@ -126,7 +138,7 @@ is a situation in which it is nice to be confident partner followed the rules
 about suit quality.
 
 .. index::
-   pair:preempts;overcalls of
+   single: preempts; interference over
    
 If the opponents overcall our preemptive bid, a double is for penalty. It is not takeout.
 Other bids retain their same meanings.  
@@ -143,6 +155,9 @@ He won't trust you in the future and won't raise when he should.
 To compete against a preempt, see
 :ref:`Competing Over Preempts <CompetingPreempts>`.
 
+.. index::
+   single: preempts; three-level
+
 Three-Level Preempts
 --------------------
 
@@ -152,6 +167,9 @@ requires more than a minimum opening hand.
 
 An advanced idea for pursuing slam after partner preempts is 
 :ref:`Preempt Keycard <preempt_keycard>`.
+
+.. index::
+   single: preempts; four-level
 
 Four-Level Preempts
 -------------------
@@ -170,9 +188,8 @@ opponents' preempts.
 Bidding in Passout Seat
 -----------------------
 
-.. index:: 
-   single: passout seat
-   pair: two-level opener; passout seat
+.. index::
+   single: passout seat; two-level openings in
 
 There are no preempts in :term:`passout seat`. 2♣ is still strong. 
 But 2♦, 2♥, and 2♠ show a six card suit, 12-15. 
@@ -205,8 +222,9 @@ Ogust
 .. _Ogust:
 
 .. index::
-   pair:convention;Ogust
-   pair:preempts;Ogust
+   !single: Ogust
+   single: convention; Ogust
+   single: preempts; Ogust
    
 Ogust (pronounced somewhat like August) is an alternative set of responses to a 2N 
 inquiry after partner opens a weak two. After 2x – 2N! (hand inquiry):

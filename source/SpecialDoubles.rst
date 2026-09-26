@@ -3,7 +3,7 @@
 .. _SpecialDoubles:
 
 .. index::
-   pair:double;special
+   single: double; special
 
 Special Doubles
 ===============
@@ -18,7 +18,8 @@ Support Doubles and Redoubles
 .. _support_double:
 
 .. index::
-   pair: double; support
+   single: double; support
+   !single: support double
 
 Some times opponents interfere after the responder has shown a new
 suit, and the opener does not know if this is a four-card or five-card
@@ -45,8 +46,9 @@ Responsive Doubles
 .. _responsive_double:
 
 .. index::
-   pair:double;responsive
-   pair:convention;responsive double
+   single: double; responsive
+   !single: responsive double
+   single: convention; responsive double
 
 When partner makes a takeout double of an opener and RHO raises his
 partner, a double shows scattered values with at least 6 points and
@@ -75,8 +77,8 @@ Maximal Doubles
 ---------------
 
 .. index::
-   pair:double;maximal
-   pair:convention;maximal double
+   single: double; maximal
+   pair: convention; maximal double
 
 If intervenor overcalls our major, partner makes a simple raise, and the advancer raises 
 his partner, the opener has a dilemma if their suit is one below our suit. 

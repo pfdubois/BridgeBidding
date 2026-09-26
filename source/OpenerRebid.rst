@@ -3,10 +3,12 @@
 1N Forcing and 2/1
 ==================
 
-.. index::Two Over One Auctions
+.. index::
+   single: Two Over One; auctions
 
 
-.. index::opener's rebid
+.. index::
+   !single: opener's rebid
 
 Opener's Rebid
 --------------
@@ -16,6 +18,9 @@ in particular when 1N is forcing or a 2/1 game forcing bid has occurred.
 
 Bidding a :term:`control` is covered later in :ref:`Control Bidding <control_bidding>`,
 but in simplest terms think "bidding my Aces and voids up the line".
+
+.. index::
+   single: opener's rebid; after a major raise
 
 After A Major Raise
 ~~~~~~~~~~~~~~~~~~~
@@ -39,6 +44,9 @@ five trump and a weak hand, not a strong hand.
 
 In all cases opener can explore for slam with a :term:`control bid`, :term:`splinter`,
 :ref:`Blackwood <Blackwood>` or :ref:`Roman Keycard Blackwood <RKC>`.
+
+.. index::
+   single: opener's rebid; after 1♥ – 1♠
 
 After One Heart – One Spade
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -67,7 +75,8 @@ After 1N Forcing
 .. _OneNoForcing:
 
 .. index::
-   pair:1N Forcing;opener's rebid
+   single: opener's rebid; after 1N Forcing
+   single: 1N Forcing; opener's rebid
    
 The 1N response to 1M is forcing unless there was interference or responder is a passed
 hand.  Note that 1N does not promised a balanced hand, and in particular responder might
@@ -174,6 +183,10 @@ specially suitable hand opener may make another call.
 With a flattish 13-15, but relatively weak holdings in the 4-card
 suit(s), 1N(forcing) followed by 3N is sometimes appropriate to avoid
 partner getting too excited.
+
+.. index::
+   single: opener's rebid; after a 2/1 response
+   single: Two Over One; opener's rebid
 
 After A 2/1 Response
 ~~~~~~~~~~~~~~~~~~~~
@@ -301,8 +314,9 @@ Help Suit Game Tries
 .. _hsgt:
 
 .. index::
-   pair: game try; help suit
-   pair: convention; Help Suit Game Try
+   single: game try; Help Suit Game Try
+   !single: Help Suit Game Try
+   single: convention; Help Suit Game Try
 
 After a major trump suit is agreed upon at the two-level, any bid
 between that and three of the trump suit is a “Help-Suit Game Tries” (HSGT). This

@@ -11,9 +11,8 @@ Alert!
 ------
 
 .. index::
-   single:alerts
-   pair:convention;alert
-   pair:alert;procedure
+   single: alert; procedure
+   single: convention; alerting
 
 An alert is a procedure required when someone makes a bid that does not show the 
 "expected length or strength" that it appears to mean. Such bids are shown in
@@ -87,7 +86,8 @@ to save penalties if he's leading out of turn.
 Announcing
 ----------
 
-.. index::announcements
+.. index::
+   single: announce; procedure
 
 A very limited number of bids are "announced" rather than alerted. An announcement is 
 basically an alert where you explain it without asking.  It is therefore confined to 

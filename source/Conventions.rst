@@ -57,7 +57,7 @@ I'm not an expert, and I'm sure experts value things differently than I do.
 But for what it is worth, here's my opinion on what conventions you need to know.
 
 .. index::
-   pair:convention;list of core
+   single: convention; core list
 
 * These have been assumed to be part of the 2/1 system:
 

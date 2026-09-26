@@ -6,7 +6,7 @@ Advanced Transfers
 .. _TransferLanguage:
 
 .. index::
-   pair:transfers;why
+   single: transfer; why use them
    
 Transfers and Relays Expand Our Language
 ----------------------------------------
@@ -46,8 +46,8 @@ The remainder of this chapter shows some advanced uses of the transfer idea.
 .. _AdvancedSuperaccepts:
 
 .. index::
-   pair:Jacoby Transfer;superaccept
-   pair:superaccept;advanced 
+   single: Jacoby transfers; super-accept
+   single: super-accept; advanced
    
 Advanced Superaccepts
 ---------------------
@@ -63,9 +63,10 @@ A more refined scheme is this:
 .. _TransferAdvances:
 
 .. index::
-   pair:conventions;Transfer Advances
-   pair:overcalls;Transfer Advances
-   pair:overcalls;Rubens Advances
+   pair: convention; Transfer Advances
+   single: Transfer Advances
+   pair: overcalls; Transfer Advances
+   see: Rubens Advances; Transfer Advances
 
 Transfer Advances
 -----------------
@@ -137,8 +138,8 @@ adventurous, experienced partnerships.
 .. _MajorDoubleTransfers:
 
 .. index::
-   pair:conventions;Major Double Transfers
-   pair:double;Major Double Transfers
+   pair: convention; Major Double Transfers
+   single: takeout double; transfers after 1M (X)
 
 Transfers After 1M (X)
 ----------------------

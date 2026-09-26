@@ -3,7 +3,8 @@
 .. _Lebensohl:
 
 .. index::
-   pair: convention; Lebensohl
+   !single: Lebensohl
+   single: convention; Lebensohl
 
 Lebensohl
 =========
@@ -27,6 +28,10 @@ among experts. A lesson on it is available from Gavin Wolpert at wolpertbridge.c
 There never was a player named Lebensohl, and Kenneth Lebensold, who got the credit
 at one time, denies having created it. So arguably the convention should be spelled 
 lebensohl.
+
+.. index::
+   single: Lebensohl; after our 1N
+   single: 1N; interference over, Lebensohl
 
 Lebensohl After We Open 1N
 --------------------------
@@ -77,6 +82,9 @@ depending on what suit we have and what suit was overcalled.
 
 Over Two-Level Overcalls 
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. index::
+   single: Lebensohl; when off
 
 .. rubric::
    When Lebensohl Is Off
@@ -257,6 +265,9 @@ Over three-level overcalls, we obviously cannot use the Lebensohl 2N bid. A sugg
    * 1N (3♦) 4♦ – 4N(no major) – Pass
    * 1N (3♦) 4♦ – 4? – 5♣ (slam interest in clubs)
 
+.. index::
+   single: Lebensohl; over two-suited overcalls
+
 .. _Lebensohl2Suits:
 
 Two-Suited Overcalls
@@ -280,13 +291,13 @@ complicated scheme.
 
 .. _Lebensohl_Applications:
 
-.. index:: 
-   single: Lebensohl, additional applications
+.. index::
+   single: Lebensohl; additional applications
 
 
 .. index::
-   pair: double; Lebensohl
-   pair: preempts; defense
+   single: Lebensohl; over weak two bids
+   single: preempts; competing with
 
 Lebensohl After Doubles Of Weak Two Bids
 ----------------------------------------
@@ -382,7 +393,7 @@ reply.  If you have five cards in your major, especially, you might want to upgr
 
 .. index::
    pair:convention;Better Minor Lebensohl
-   pair:Lebensohl;Better Minor
+   single: Lebensohl; Better Minor
 
 You can make also play Better Minor Lebensohl in this scenario. Statistically it pays, 
 but requires you to remember it and gives up differentiating weak and positive
@@ -396,7 +407,8 @@ hearts over 3♣, but you can't correct 3♦ to clubs so you just can't bid the
 relay. The direct 3♣ response to the double has to be assumed to be weak.
 
 .. index::
-   pair:overcall of 2♣ opener;Lebensohl
+   single: strong 2♣; interference over
+   single: Lebensohl; over interference to 2♣
    
 When They Overcall Our Two Club Opener
 --------------------------------------
@@ -431,9 +443,8 @@ So, for example, a direct bid of 3♣ over a 2♥ reverse is game-forcing. A
    
 .. _SimplifiedLebensohl:
 
-.. index:
-   pair:Lebensohl;simplified
-   pair:convention;Lebensohl, simplified
+.. index::
+   single: Lebensohl; simplified
    
 Simplified Lebensohl
 --------------------
@@ -460,8 +471,6 @@ there.
 
 Good – Bad 2N
 -------------
-
-.. index:: Good-Bad 2N
 
 .. index::
    pair: Good-Bad 2N; Lebensohl

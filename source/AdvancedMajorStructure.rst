@@ -4,10 +4,10 @@
 .. _AMS:
 
 .. index::
-   major;raises 
-   raises;constructive
-   1N;semi-forcing
-   raises;mixed
+   single: major opening; raise structures
+   single: raises; constructive
+   single: raises; mixed
+   single: 1N Forcing; semi-forcing
 
 Advanced Major Raise Structures
 ===============================

@@ -6,7 +6,7 @@ General Defense to Two-Suited Bids
 .. _defense_two_suited:
 
 .. index::
-   pair: two-suited bids; defense to
+   !single: two-suited bids; defense to
    pair: convention; Unusual vs. Unusual
    pair: convention; lower-lower
 
@@ -130,9 +130,10 @@ denying one in diamonds. Double is for penalty.
 .. rubric:: Example: Unusual 2N Defense
 
 .. index::
-   pair: two-suited bids; defense to
+   single: two-suited bids; defense to Unusual 2N
+   single: Unusual 2N; defense against
    pair: convention; Unusual vs. Unusual
-   pair: convention; lower-lower defense
+   pair: convention; lower-lower
 
 The implicit cue-bid of the suit corresponding to partner's suit is limit raise or better; 
 of the "4th suit", game forcing. Actually bidding partner's suit is just competitive, and
@@ -159,9 +160,9 @@ lowest of theirs, diamonds, corresponds to the lowest of ours, clubs.
 .. rubric:: Example: Michael's Cue Bid Defense
 
 .. index::
-   pair: two-suited bids; defense to
-   pair: convention; Michael's Cue Bid
-   pair: convention; lower-lower defense
+   single: two-suited bids; defense to Michaels
+   single: Michaels Cue Bid; defense against
+   pair: convention; lower-lower
 
 Partner opens 1♦︎, and your RHO overcalls 2♦︎, showing both majors. That makes the majors
 "their" suits and the minors "our" suits. Then your bids mean:

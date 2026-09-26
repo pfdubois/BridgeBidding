@@ -6,12 +6,9 @@ Advanced Checkback
 ==================
 
 .. index::
-   pair:convention;XYZ
-   pair:convention;checkback conventions
-   pair:convention;Two-Way New Minor Forcing
-   pair:convention;Two-Way Checkback Stayman
-   pair:convention;Fourth Suit Forcing
-   pair:convention;New Minor Forcing
+   single: checkback; advanced
+   see: Two-Way Checkback Stayman; Two-Way New Minor Forcing
+   see: TWNMF; Two-Way New Minor Forcing
    
 The Checkback Family is New Minor Forcing (NMF), Fourth Suit Forcing (4sf), and XYZ. 
 NMF has a variant, Two-Way New Minor Forcing (TWNMF). The first two conventions were 
@@ -30,8 +27,9 @@ In another chapter we show an idea of Marc Smith like TWNMF for the case of the 
 See :ref:`TWNMF over 2N <NMF2>`.
 
 .. index::
-   pair:convention;Two-Way New Minor Forcing (TWNMF)
-   pair:convention;Two-Way Checkback Stayman
+   !single: Two-Way New Minor Forcing
+   single: convention; Two-Way New Minor Forcing
+   single: checkback; Two-Way New Minor Forcing
      
 .. _TWNMF:
 
@@ -139,7 +137,8 @@ XYZ
 ---
 
 .. index::
-   pair:convention;XYZ
+   pair: convention; XYZ
+   single: checkback; XYZ
         
 XYZ is a convention that applies when the first three bids are on the one level, 
 and responder has an invitational or better hand. The name comes from writing this as
@@ -152,9 +151,9 @@ Research XYZ with a partner after having plenty of TWNMF experience.
 .. _Wolff:
 
 .. index::
-   pair:convention;Wolff Signoff
-   pair:convention;TWNMF over 2N rebid
-   pair:Marc Smith;TWNMF over 2N rebid
+   pair: convention; Wolff Signoff
+   single: Two-Way New Minor Forcing; over a 2N rebid
+   single: Marc Smith; Two-Way New Minor Forcing over 2N
 
 Wolff Signoff 
 -------------
@@ -211,7 +210,7 @@ The 3♦ is looking for major fits:
 .. _NMF2:
 
 .. index::
-   pair:convention;Wolff Signoff
+   single: Wolff Signoff; slam tries
    
 Slam Tries
 ~~~~~~~~~~

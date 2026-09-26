@@ -1,7 +1,7 @@
 .. include:: ../rst_prolog.txt
 
 .. index::
-   pair:opening;two diamonds
+   single: opening; 2♦ conventions
 
 Two Diamonds Conventions
 ========================
@@ -35,8 +35,9 @@ Flannery 2♦
 .. _Flannery:
 
 .. index::
-   pair: convention; Flannery 2♦
-   pair: opening; Flannery 2♦
+   !single: Flannery 2♦
+   single: convention; Flannery 2♦
+   single: opening; Flannery 2♦
 
 The Flannery 2♦! (5 hearts, four spades, 11 to 15 HCP) opener covers a hand with five
 hearts and four spades and values insufficient to reverse on the second bid.
@@ -84,7 +85,8 @@ Mini-Roman
 .. _Mini_Roman:
 
 .. index::
-   pair:convention; mini-Roman
+   pair: convention; mini-Roman
+   single: opening; mini-Roman 2♦
 
 A mini-Roman 2♦ opener is a 4441 or 4405 hand, 10-15 HCP. The most frequent
 agreement seems to be that the bid promises 4 spades -- the 1=4=4=4 hand being 
@@ -109,7 +111,8 @@ Mexican Two Diamonds
 .. _Mexican2D:
 
 .. index::
-   pair:convention; Mexican Two Diamonds
+   pair: convention; Mexican Two Diamonds
+   single: opening; Mexican Two Diamonds
 
 Named after its author, George Rosenkranz of Mexico, opening 2♦ shows a balanced 
 17 to 19 HCP.  Responder bids:

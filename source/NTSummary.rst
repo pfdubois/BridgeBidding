@@ -11,8 +11,8 @@ and hand strength.
 Balanced or Semi-Balanced Hands
 -------------------------------
 
-.. index:: 
-   pair: chart;balanced openings
+.. index::
+   single: 1N; summary of responses
 
 This chart is for the standard 15-17 HCP 1N opener. System On means that transfers
 and the minor relay are on. NMF means they are not, use :ref:`New Minor Forcing <NMF>`.

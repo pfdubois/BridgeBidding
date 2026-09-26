@@ -4,7 +4,8 @@ Responding To Major Openings
 ============================
 
 .. index::
-   pair: opening; major
+   !single: major opening; responses
+   single: opening; major suit
 
 If using this chapter as a reference, be sure you've read 
 :ref:`Notation and Nomenclature <Notation>` and review 
@@ -23,8 +24,8 @@ easier to play.
 .. _standard:
 
 .. index::
-   pair:major responses;passed hand
-   pair:major responses;competition
+   single: major opening; responses as a passed hand
+   single: major opening; responses in competition
    
 A set of responses called the "standard" responses applies in two cases:
 
@@ -195,9 +196,10 @@ Reverse Drury
 .. _Reverse_Drury:
 
 .. index::
-   pair: convention; Reverse Drury
+   !single: Reverse Drury
+   single: convention; Reverse Drury
    pair: convention; Drury
-   pair: third or fourth seat; major opening
+   single: major opening; third or fourth seat
 
 Reverse Drury is one of the 
 :ref:`expected conventions <expected_conventions>` for a 2/1 player. Reverse Drury 
@@ -238,13 +240,16 @@ Responding As Unpassed Hand Without Interference
 ------------------------------------------------
 
 .. index::
-   pair: opening; major
+   single: major opening; responses by unpassed hand
 
-.. index:: 1N Forcing
+.. index::
+   !single: 1N Forcing
 
-.. index:: 2/1
+.. index::
+   see: 2/1; Two Over One
 
-.. index:: Two Over One
+.. index::
+   !single: Two Over One
 
 .. _twooverone:
 
@@ -400,8 +405,10 @@ Jacoby 2NT
 .. _Jacoby2NT:
 
 .. index::
-   pair: convention; Jacoby 2NT
-   pair: 2NT; Jacoby, Jordan
+   !single: Jacoby 2NT
+   single: convention; Jacoby 2NT
+   single: 2N; Jacoby 2NT response
+   see: J2NT; Jacoby 2NT
 
 In response to a major opening, and in the absence of any interference,
 a bid of 2N is called Jacoby 2NT. It is alerted as a game-forcing raise with 
@@ -480,8 +487,8 @@ Responding After Interference
 -----------------------------
 
 .. index::
-   pair: interference; major opening
-   pair: interference; negative double
+   single: major opening; interference
+   single: negative double; after a major opening
 
 Over an overcall, new suit bids basically show what they would have without the
 overcall. The 2/1 bids are no longer game forcing, but back to the standard |10ormore| 
@@ -552,9 +559,10 @@ Examples:
   can do is pass.
   
 .. index::
-   pair:convention;Jacoby 2NT
-   pair:convention;Truscott 2NT
-   pair:convention;Dormer 2NT
+   !single: Jordan 2NT
+   single: convention; Jordan 2NT
+   see: Truscott 2NT; Jordan 2NT
+   see: Dormer 2NT; Jordan 2NT
 
 .. _Jordan2NT:
    
@@ -583,7 +591,7 @@ notable exception is replying to your partner's takeout double.  Until we get
 to all that, just note that a bid of 3M here is a preemptive four-card raise.
 
 .. index::
-   pair:Jordan 2NT;over overcalls
+   single: Jordan 2NT; over overcalls
      
 Side note for more advanced players: There is a nasty case when the opponents
 make a preemptive bid. Imagine your partner opens 1♥ and your RHO bids 2♠. Ugh.
@@ -640,8 +648,9 @@ but now that you bid hearts, I have enough for game with my distribution.
 What's My Limit Raise?
 ----------------------
 
-.. index:: 
-   pair: raise; major
+.. index::
+   single: limit raise
+   single: raises; limit
 
 To avoid confusion in the heat of battle, realize this: in any situation there is one 
 and only one bid that shows a limit raise (or better). First, stop and 
@@ -688,7 +697,8 @@ A cue bid that is forcing to game is still appropriate sometimes:
 Summary of Responses To 1M
 --------------------------
 
-.. index:: Responses to 1M Opener
+.. index::
+   single: major opening; summary of responses
 
 .. table:: Responses to 1M Opener
 

@@ -2,13 +2,17 @@
 
 .. _planning:
 
-.. index::planning
+.. index::
+   !single: planning the auction
 
 Planning The Auction
 ====================
 
 Before making any bid we should note our position, vulnerability, and classify our hand.
 We sometimes have to anticipate our next bid in choosing the current one.
+
+.. index::
+   single: seat; importance of
 
 Note Your Seat!
 ---------------
@@ -24,7 +28,8 @@ or overcalled / doubled.
 
 .. _classification:
 
-.. index::classifying your hand
+.. index::
+   single: planning the auction; classifying your hand
 
 Classifying Your Hand
 ---------------------
@@ -71,6 +76,9 @@ wants a decent 12 or 13.
 Competitive auctions we will cover later -- but the concepts and need to classify our
 hand are the same.
 
+.. index::
+   single: forcing bids
+
 Is This Forcing?
 ----------------
 
@@ -100,6 +108,9 @@ such as when partner makes a takeout double, you are not promising anything.
 The opposite is true when a passed hand bids -- almost nothing partner did is forcing 
 except some doubles and artificial bids.
 
+.. index::
+   single: Captain; concept
+
 The Captain Concept
 -------------------
 
@@ -118,7 +129,9 @@ hands by making an invitational, non-forcing bid.
 
 .. _Reverses:
 
-.. index::reverse
+.. index::
+   !single: reverse
+   single: reverse; by opener
 
 During the auction, both as opener and as responder, we need to plan our path
 forward.  There is a concept called a reverse that is crucial, so we have to 
@@ -194,14 +207,16 @@ always open 1♣.
 .. rubric::
    When Opener Is Stronger
 
-.. index:: jump-shift choice
+.. index::
+   single: jump-shift; by opener
 
 Since a reverse is forcing one round, you can sometimes use it when nothing
 else is available to keep the auction going. But in general, if your hand is
 19+ points, and you have a good suit, opener might think of jumping a level in a
 new suit. This is called a :term:`jump-shift` by opener, and it is always strong.
 
-.. index:: reverse
+.. index::
+   single: reverse; responding to
 
 Responding To Partner's Reverse
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -225,8 +240,8 @@ be made with hand (2) so that we get to some game? It seems like 2♠ had better
 mean a weak hand, and an offer to play there. And with (2), we get to start guessing.
 
 .. index::
-   convention;Ingberman
-   convention;Lebensohl
+   pair: convention; Ingberman 2N
+   single: reverse; Ingberman 2N relay
    
 Optionally, 2N! (relay) is a conventional bid telling your partner that you may
 have a minimal hand. It asks opener to rebid his first suit; then you will pass
@@ -243,10 +258,6 @@ bidding one of partner's two suits is showing a suit preference with a weak hand
 In this context 2N! is called Ingberman and it is a use of the Lebensohl principle. 
 If the opener has extra values they may choose to break the relay.
 
-.. index::
-   pair:convention;Lebensohl
-   pair:convention;Ingberman
-   
 The full solution is covered in the chapter on :ref:`Lebensohl <Lebensohl>`.
 However, you can play the 2N! relay discussed in the above two cases without playing 
 full Lebensohl. 
@@ -255,7 +266,7 @@ Reverses By Responder
 ---------------------
 
 .. index::
-   pair:reverse;responder
+   single: reverse; by responder
    
 When responder reverses, it is just a game-forcing natural bid. For example, 
 1♠ – 2♣ – 2♠ – 3♦ is a game-forcing reverse, since diamonds are a higher

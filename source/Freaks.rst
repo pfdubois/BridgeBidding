@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   single: distributional hands
+
 Dealing With Distributional Hands
 =================================
 
@@ -12,6 +15,9 @@ that is 1=1=8=3, or 1=1=5=6. These hands can be difficult because they have a
 longer suit that is of lower rank than the upper suit, or because they are
 often worth more than their HCP would suggest -- and then suddenly you find a
 misfit with your partner and the value drops sharply.
+
+.. index::
+   single: distributional hands; one long suit
 
 Hands With One Long Suit
 ------------------------
@@ -52,6 +58,9 @@ preempts.
 When your partner is a passed hand, things change.  Preempting then does not risk 
 making a game as much.
 
+.. index::
+   single: distributional hands; two-suited
+
 Two-Suited Hands
 ----------------
 
@@ -81,6 +90,9 @@ six of them is generally to be avoided.  If you open clubs and rebid diamonds tw
 your partner will know you are 5=6 in the minors.  Likewise with other 6=5 hands where
 the six is lower-ranked than the five.
 
+.. index::
+   single: distributional hands; six-four
+
 Six-Four Hands
 ~~~~~~~~~~~~~~
 
@@ -90,7 +102,8 @@ then the four, or the six, then the four, then the six. The latter has the advan
 showing your partner both suits, and more of your cards, earlier and is recommended 
 for good hands as long as you watch out for the rule on reverses.
 
-.. index::Flannery
+.. index::
+   single: Flannery 2♦
 
 If it really bothers you to bid minimal hands with four spades and five hearts, look into
 the 2♦ :ref:`Flannery <Flannery>` convention.

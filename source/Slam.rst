@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   single: slam bidding
+
 .. _slam_bidding:
 
 Slam Bidding
@@ -17,7 +20,9 @@ Blackwood
 .. _Blackwood:
  
 .. index::
-   pair: convention; Blackwood
+   !single: Blackwood
+   single: convention; Blackwood
+   seealso: Blackwood; RKC
 
 Blackwood is one of the oldest conventions, and has now been supplanted for suit slams by
 the :ref:`Roman Keycard <RKC>` version. The same cautions discussed below for RKC
@@ -56,7 +61,9 @@ Roman Keycard Blackwood (RKC)
 .. _RKC:
 
 .. index::
-   pair: convention;RKC
+   !single: RKC
+   single: convention; RKC
+   see: Roman Keycard Blackwood; RKC
    
 In a suit auction, 4N is almost always Roman Keycard Blackwood. If you are a beginner 
 you can play basic Blackwood but you should learn RKC early on.
@@ -89,7 +96,7 @@ keycards, you can just stop by bidding 5♠︎. But if partner says "1", you are
 If he has the ♣︎A, you will go down in 6♠︎. If he has the ♦︎A, you want to bid the slam.
  
 .. index::
-   pair:RKC;responses
+   single: RKC; responses
    
 .. rubric::
    Responses to RKC
@@ -119,8 +126,8 @@ stop at 5 of your suit.  To ask for keycards and then stop at 5 is a sin called
 We discuss how to find whether or not you have the Queen below. It isn't always possible.
 
 
-.. index:: 
-   pair:RKC;responding with a void
+.. index::
+   single: RKC; responding with a void
 
 .. rubric::
    Responding with a (Useful) Void
@@ -144,6 +151,10 @@ The second method is:
    
 Remember, a void is not useful in a suit your partner bid.
 
+.. index::
+   single: 4N; when not ace-asking
+   single: RKC; when 4N is not RKC
+
 When 4N is NOT Ace-Asking
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -163,6 +174,9 @@ A bid of 4N is not always RKC or Blackwood. Here are the exceptions:
 
 Many pairs play various conventions in which RKC is invoked with some
 other bid. See :ref:`Redwood <Redwood>` for example.
+
+.. index::
+   single: RKC; when not to bid
 
 When Not To Bid RKC
 ~~~~~~~~~~~~~~~~~~~
@@ -195,6 +209,9 @@ After your partner answers 14 or 03, and if you need it to be the higher
 number, bid five of trumps. If your partner has 4 or 3 respectively,
 they bid the slam. 
 
+.. index::
+   single: RKC; queen ask
+
 The Queen Ask
 ~~~~~~~~~~~~~
 
@@ -205,6 +222,9 @@ to bid that suit to ask for the trump Queen. Responder bids 5 of the
 trump suit to deny the trump queen, or else bids six of an outside suit
 below trumps in which he has a King, or 5N to show no outside King below trumps.
 Bidding six of trumps shows an outside King in a suit above trumps.
+
+.. index::
+   single: RKC; king ask
 
 Asking For Kings
 ~~~~~~~~~~~~~~~~
@@ -225,8 +245,9 @@ Responder has the right to just bid the grand slam if he can tell he has
 “the right stuff”.
 
 .. index::
-   pair:convention;DOPI
-   pair:convention;ROPI
+   pair: convention; DOPI
+   pair: convention; ROPI
+   single: RKC; interference
 
 Dealing With Interference
 -------------------------
@@ -255,7 +276,8 @@ Gerber
 .. _Gerber:
 
 .. index::
-   pair: convention;Gerber
+   !single: Gerber
+   single: convention; Gerber
 
 When no suit has been agreed upon, and we have bid notrump, 4♣ is the Gerber Convention,
 asking for Aces. This is true even if the bidder has bid clubs. The
@@ -281,8 +303,10 @@ Control Bidding
 .. _control_bidding:
 
 .. index::
-   pair: convention;control bid
-   pair: convention;cue bid (slam)
+   !single: control bidding
+   single: convention; control bidding
+   single: slam bidding; control bidding
+   seealso: cue bid; control bidding
 
 Control bids are slam tries, bid for the purpose of understanding where the partnership
 may have issues preventing a slam or RKC bid. For purposes of this discussion, we assume 

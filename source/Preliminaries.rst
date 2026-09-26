@@ -81,7 +81,7 @@ spending equal time on the other two-thirds of bridge.
 .. _expected_conventions:
 
 .. index::
-   pair:convention;expected with 2/1
+   single: convention; expected with 2/1
    
 Here's a guide to what follows. First we cover 2/1's key bids, competitive
 bidding, and basic slam bidding. The 2/1 system really has two

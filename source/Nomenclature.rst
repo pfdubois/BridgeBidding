@@ -3,24 +3,24 @@
 .. _Notation:
 
 .. index::
-   single:notation explained
-   pair:notation;M
-   pair:notation;m 
-   pair:notation;w 
-   pair:notation;W 
-   pair:notation;LHO
-   pair:notation;RHO
-   pair:notation;intervenor
-   pair:notation;responder
-   pair:notation;advancer
-   pair:notation;opener (player)
-   pair:notation;seat (first, second, ... )
-   pair:hand strength;weak
-   pair:hand strength;competitive
-   pair:hand strength;invitational
-   pair:hand strength;game forcing
-   pair:hand strength;slam interest
-   pair:notation;superscripted – or +
+   single: notation
+   pair: notation; M
+   pair: notation; m
+   pair: notation; w
+   pair: notation; W
+   pair: notation; LHO
+   pair: notation; RHO
+   pair: notation; intervenor
+   pair: notation; responder
+   pair: notation; advancer
+   pair: notation; opener (player)
+   pair: notation; seat (first, second, ... )
+   pair: hand strength; weak
+   pair: hand strength; competitive
+   pair: hand strength; invitational
+   pair: hand strength; game forcing
+   pair: hand strength; slam interest
+   pair: notation; superscripted – or +
    
 Notation and Nomenclature
 =========================

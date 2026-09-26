@@ -7,6 +7,9 @@ Competing After A Suit Opening
 
 This chapter discusses the basic tools of competition, and some special situations.
 
+.. index::
+   !single: overcalls
+
 Overcalls
 ---------
 
@@ -57,6 +60,9 @@ probably six cards, and very good values. This is called a 'live auction'. For a
 know the opener has a strong hand and was about to bid again. This situation is 
 dangerous.
 
+.. index::
+   single: overcalls; responding to partner's
+
 Responding To Partner's Overcall 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
@@ -91,7 +97,8 @@ Weak Jump Overcalls
 ~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   pair: overcall; weak jump overcall
+   single: overcalls; weak jump
+   single: weak jump overcalls
 
 A jump overcall such as (1♥) 2♠ is essentially an opening weak two
 or three bid. A good suit is needed. As with a preempt, after you make this bid 
@@ -112,9 +119,10 @@ Michaels Cue Bid
 .. _Michaels:
 
 .. index::
-   pair: cue bid; Michaels
-   pair: convention; Michaels Cue Bid
-   single: two-suited bids
+   pair: cue bid; Michaels Cue Bid
+   !single: Michaels Cue Bid
+   single: convention; Michaels Cue Bid
+   single: two-suited bids; Michaels Cue Bid
 
 A cue bid of an opening suit bid shows
 a distributional hand with 5-5 or better shape, with the suits being
@@ -162,7 +170,7 @@ while 3♣ asks for the second suit intending to pass. A bid like 3♣ is called
 "pass or correct" bid; the Michaels bidder will pass if his second suit is clubs.
 
 .. index::
-   pair:preempts;competing with 
+   single: preempts; competing with
    
 
 Unusual 2NT
@@ -171,9 +179,10 @@ Unusual 2NT
 .. _unusual:
 
 .. index::
-   pair: convention; Unusual 2NT
-   single: two-suited bids
-   pair: 2N; unusual
+   !single: Unusual 2N
+   single: convention; Unusual 2N
+   single: two-suited bids; Unusual 2N
+   single: 2N; Unusual 2N
 
 Unusual 2NT is a direct or balancing 2N bid after a 1-level
 opening. It shows a hand of unstated strength that is at least 5-5 in
@@ -243,8 +252,9 @@ Competing Over Preempts
 -----------------------
 
 .. index::
-   pair:preempts;Western Cue 
-   pair:preempts;Michaels
+   pair: preempts; Western Cue
+   pair: preempts; Michaels Cue Bid
+   single: preempts; competing with
    
 Preemptive bids work. They suck up bidding room and you are limited in 
 ways to enter the auction.  Once you see how annoying there are, you'll know to preempt
@@ -301,8 +311,8 @@ to consider are:
  
 .. rubric:: Responding after (2x) X (P)
 
-.. index:: 
-   pair:Lebensohl;over weak two bids
+.. index::
+   single: Lebensohl; over weak two bids
    
 It is really not possible to have a coherent scheme for responding to the double of 
 a weak two bid unless you use 

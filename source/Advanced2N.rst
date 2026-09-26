@@ -5,8 +5,8 @@
 Advanced 2N Auctions
 ====================
 
-.. index:
-   pair:opening 2N;advanced system
+.. index::
+   single: 2N; advanced responses
 
 When partner opens 2N, or opens 2♣ and rebids 2N, we need to handle a variety of
 hand types, from weak to slam hands, and those with two suits; we have very little 
@@ -44,6 +44,9 @@ The simplest scheme for the four-level is:
 * 4♦ and 4♥ are Texas transfers. 
 
 However, we will see alternatives for those below.
+
+.. index::
+   single: Stayman; over 2N
 
 Stayman
 -------
@@ -105,6 +108,9 @@ Likewise, for hearts and diamonds, after 2N – 3♣ – 3♦ or 3♠:
 With four spades instead, after a 3♦ reply to Stayman, we likewise can use one-over
 keycard with spades showing a control in the keycard suit and other bids showing 
 controls or being to play.
+
+.. index::
+   single: 2N; 5-5 hands
 
 Responses With 5-5 Hands 
 ------------------------
@@ -198,6 +204,9 @@ Note that the 5-5 in the majors responses were really the same pattern with the 
 correspondence for the flag bids being cheapest (clubs) for the cheapest major, hearts, 
 and expensive (diamonds)for the more expensive major, spades.
 
+.. index::
+   single: 2N; minor-suit hands
+
 
 Responding With One Or Both Minors 
 ----------------------------------
@@ -207,6 +216,10 @@ With just one minor but no slam interest it is better just to try 3N.  With
 two, we have 3♠ as :ref:`Minor Suit Stayman <MSS>` which covers both trying for
 game in a minor or with slam interest. Wolpert says, "You have to be seriously
 slammish to try for a minor slam."
+
+.. index::
+   single: 2N; Two-Up Transfers
+   pair: convention; Two-Up Transfers
 
 .. rubric:: Two-Up Transfers 
 
@@ -234,6 +247,10 @@ Responder can then bid 5m to show only a mild slam try, or jump to slam.
 
 There is so little room that control-bidding to find a grand slam needs 
 further discussion. This may be too much for all but the most expert partnerships.
+
+.. index::
+   single: 2N; minor slam tries
+   single: slam try; minors, over 2N
 
 .. rubric:: Minor Slam Tries 
 

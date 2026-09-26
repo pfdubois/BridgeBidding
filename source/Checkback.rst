@@ -5,9 +5,11 @@
 Finding 5-3 and 4-4 Major Fits
 ==============================
 
-.. index::checkback 
+.. index::
+   !single: checkback
 
-.. index::finding fits 
+.. index::
+   single: fit; finding major fits
 
 Suit openings often lead to the following scenario: responder bids a major,
 and opener rebids 1N or a third suit. Responder has only shown a four-card major, but
@@ -25,8 +27,11 @@ Fourth Suit Forcing
 .. _FSF:
 
 .. index::
-   triple: convention; Fourth Suit Forcing (FSF);checkback
-   pair: Fourth Suit Forcing (FSF);forcing to game?
+   !single: Fourth Suit Forcing
+   single: convention; Fourth Suit Forcing
+   single: checkback; Fourth Suit Forcing
+   single: Fourth Suit Forcing; forcing to game?
+   see: FSF; Fourth Suit Forcing
 
 Bidding the fourth suit may describe your hand, but it is unlikely to find
 a fit with partner. For example,
@@ -63,6 +68,9 @@ It isn't a checkback situation since responder didn't bid a major to start with.
 The FSF bid says nothing about the fourth suit. You could have a
 void in it. So if you want to show a real suit, you have to bid it again
 on your next turn.
+
+.. index::
+   single: Fourth Suit Forcing; responses
 
 FSF Responses
 ~~~~~~~~~~~~~
@@ -102,6 +110,9 @@ fourth suit if you try to sneak through in 3N.
    Some play FSF as forcing only for one round; ask a new partner and check the 
    appropriate box in the bottom right of your convention card. Not recommended.
 
+.. index::
+   single: Fourth Suit Forcing; in a game-forcing auction
+
 FSF In A Game-Forcing Auction 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -121,7 +132,10 @@ New Minor Forcing
 .. _NMF:
 
 .. index::
-   triple: convention;New Minor Forcing (NMF);checkback
+   !single: New Minor Forcing
+   single: convention; New Minor Forcing
+   single: checkback; New Minor Forcing
+   see: NMF; New Minor Forcing
 
 When a 1N or 2N rebid has been made over a major suit call by
 the responder, any bid of an *unbid* minor (hence, a *new* minor) is NMF. It is forcing

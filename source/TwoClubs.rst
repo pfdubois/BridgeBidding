@@ -4,9 +4,9 @@ The Strong Two Club Opener
 ==========================
 
 .. index::
-   pair: opening; strong 2♣
+   !single: strong 2♣
+   single: opening; strong 2♣
    pair: strong 2♣; quick-tricks
-   single: quick-tricks
 
 What Hands Do We Open Two Clubs?
 --------------------------------
@@ -80,6 +80,9 @@ setting trump and suggesting slam.
 
 Alternate schemes for responding to 2♣ are described in 
 :ref:`Advanced Responses To Two Club Openers <two_club_stuff>`.
+
+.. index::
+   single: strong 2♣; interference over
 
 .. rubric::
    Interference

@@ -2,7 +2,8 @@
 
 .. _Hand_Evaluation:
 
-.. index:: hand evaluation
+.. index::
+   !single: hand evaluation
 
 Hand Evaluation
 ===============
@@ -71,6 +72,9 @@ concentrated and / or touching, and with more than its expected share of 9's
 and 10's, with Aces and Kings more than Queens and Jacks. A "bad" or
 "downgradable" hand is the opposite.
 
+.. index::
+   single: hand evaluation; revaluing
+
 Revaluing
 ~~~~~~~~~
 
@@ -95,7 +99,10 @@ Now, let me admit that every single statement in the last four paragraphs is som
 wrong. That's why it takes a lifetime to evaluate hands correctly.  There are always 
 hands that refuse to play by the rules. 
 
-.. index:: Losing Trick Count
+.. index::
+   single: Losing Trick Count
+   single: hand evaluation; Losing Trick Count
+   see: LTC; Losing Trick Count
 
 Losing Trick Count
 ~~~~~~~~~~~~~~~~~~
@@ -150,6 +157,10 @@ two hands with much different strengths. In other words, 12 opposite 13 will
 usually play better than 20 opposite 5, because you will have fewer entry 
 problems.
 
+.. index::
+   single: hand evaluation; Bergen method
+   single: Bergen method
+
 Bergen Method
 -------------
 
@@ -190,6 +201,9 @@ A hand is downgradable if it has a poor shape such as 4333, or 5332.
 
 When you have a close decision, use the upgradeable or downgradable factors to help
 make the decision.
+
+.. index::
+   single: hand evaluation; Bergen revaluing
 
 Bergen Revaluing
 ~~~~~~~~~~~~~~~~
@@ -256,7 +270,7 @@ The Hand
 ~~~~~~~~
 
 .. index::
-   pair:The Hand;evaluation 
+   single: The Hand; evaluation
 
 .. _TheHand:
 

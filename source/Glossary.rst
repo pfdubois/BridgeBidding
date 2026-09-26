@@ -1,4 +1,5 @@
-.. index::Glossary
+.. index::
+   single: glossary
 
 Glossary
 ========

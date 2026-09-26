@@ -4,7 +4,7 @@ Advanced One Notrump Structure
 ==============================
 
 .. index::
-   pair: 1N;Advanced Structure
+   single: 1N; advanced structure
    
 .. _AdvancedNT:
    
@@ -38,10 +38,11 @@ major without missing a 5-3 major fit.
 1N – 3♣ Five-Card Stayman
 -------------------------
  
- .. index::
-    triple:convention;five-card Stayman;Puppet Stayman
-    pair:1N;Five-Card Stayman
-    pair:1N;Puppet Stayman
+.. index::
+   pair: convention; Five-Card Stayman
+   single: 1N; Five-Card Stayman
+   seealso: Five-Card Stayman; Puppet Stayman
+   seealso: Puppet Stayman; Five-Card Stayman
     
 The bid 1N – 3♣! (five-card major?) is a game forcing bid.
 Opener replies 3♥ or 3♠ if he has a five-card major.
@@ -94,16 +95,16 @@ in common with this convention, hence the naming problem. But our 3♦ reply her
 not show or deny a four-card major.
 
 .. index::
-   pair: convention; Four-suit Transfers
+   see: Four-suit Transfers; Four-Way Transfers
 
 
 Three-Level Replies To 1N
 -------------------------
 
 .. index::
-   pair:1N;advanced three-level responses
-   pair:1N;advanced four-way transfers
-   pair:1N;advanced splinters
+   single: 1N; three-level responses
+   single: 1N; splinters
+   single: splinter; over 1N
    
 Assuming we play 1N – 3♣ as Five-Card Stayman, game forcing, here is my recommended 
 structure for the remaining bids at the three-level. These are all game forcing.  See
@@ -132,7 +133,9 @@ Four-Way Transfers
 .. _fourway:
 
 .. index::
-   pair:convention;Four-Way Transfers
+   !single: Four-Way Transfers
+   single: convention; Four-Way Transfers
+   single: 1N; Four-Way Transfers
 
 Four-way transfers are an excellent 1N structure enhancement. This version, in which
 2♠ is "range ask or clubs", lets us guarantee that 2♣ Stayman promises a four-card
@@ -202,9 +205,8 @@ Summary of Four-Way Transfers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   pair:convention;Four-Way Transfers
-   pair:1N;Four-Way Transfers
-   pair:1N;Range Ask
+   single: Four-Way Transfers; summary
+   pair: 1N; range ask
 
 In addition to the two major transfers, we have two minor transfers; for clubs. 
 
@@ -238,8 +240,8 @@ the suit above the minor at the four level is now RKC.  Examples:
   3♦(max) – 4♥! (RKC for diamonds)
 
 .. index::
-   pair:convention;Smolen
-   pair:convention;Texas Transfers
+   single: Smolen; playing without
+   single: Texas Transfers; playing without
    
 .. _LWST:
      
@@ -259,8 +261,8 @@ use Stayman since transferring to spades and bidding 3♥︎ would be game forci
 since you're bidding a new suit at the 3-level.
 
 .. index::
-   pair:transfer;super-accept
-   pair:super-accept;doubleton
+   single: super-accept; advanced
+   single: super-accept; weak doubleton schemes
    
 Advanced Super-Accepts
 ----------------------

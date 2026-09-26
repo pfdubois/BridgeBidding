@@ -5,10 +5,11 @@ The 2N Opening Family
 
 .. _open2N:
 
-.. index:: 
+.. index::
    pair: opening; balanced
-   pair: opening; 2N
-   pair: opening; 2♣
+   !single: 2N
+   single: opening; 2N
+   single: strong 2♣; 2N rebid
 
 What Hands Are Included?
 ------------------------
@@ -26,6 +27,9 @@ A hand that is 1=4=4=4 can be opened 2N with a singleton ♠K, but not an ♠A. 
 you open it 1♦ you'd have a choice over partner's expected spade bid of jump
 shifting to 3♣, losing the hearts, or reversing into hearts without longer
 diamonds than hearts, which is not permitted. Opening 2N may be the least evil.
+
+.. index::
+   single: 2N; responses
 
 Responses
 ---------

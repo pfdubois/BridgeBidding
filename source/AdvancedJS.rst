@@ -1,7 +1,15 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   single: jump-shift; advanced
+
 Advanced Jump-Shifts
 ====================
+
+.. index::
+   !single: Soloway Jump-Shifts
+   single: convention; Soloway Jump-Shifts
+   single: jump-shift; Soloway
 
 Soloway Jump-Shifts
 -------------------
@@ -92,9 +100,9 @@ Finally, it is time for responder to make his second bid:
 * Now or later, RKC is for the jump-shift suit unless you've raised the opener before it.
    
 .. index::
-   pair:raise; fit-showing jump
-   pair:convention;fit-showing jump
-   pair;jump-shift;fit-showing jump
+   single: raises; fit-showing jumps
+   pair: convention; fit-showing jumps
+   single: jump-shift; fit-showing jumps
    
 
 .. _fit_showing_jump:

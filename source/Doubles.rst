@@ -1,7 +1,7 @@
 .. include:: ../rst_prolog.txt
 
-.. index:
-   pair:double;takeout
+.. index::
+   single: double; overview
    
 .. _Doubles:
 
@@ -51,10 +51,9 @@ We will cover here:
 The chapter :ref:`Special Doubles <SpecialDoubles>` covers even more kinds of 
 doubles than the ones in this chapter.
 
-.. index:: takeout double
-
-.. index:: 
-   pair: double; takeout
+.. index::
+   !single: takeout double
+   single: double; takeout
 
 .. _takeout_double:
 
@@ -108,8 +107,10 @@ of the unbid suits rather than three.
 .. _ELCD:
 
 .. index::
-   pair:convention;equal-level conversion double
-   pair: double; equal-level conversion
+   pair: convention; equal-level conversion double
+   single: equal-level conversion double
+   single: double; equal-level conversion
+   see: ELCD; equal-level conversion double
 
 .. rubric::
    Equal-Level Conversion Doubles (ELCD)
@@ -133,8 +134,7 @@ over clubs because partner won't think you have the big hand. You'd have to bid 
 .. _negative_double:
 
 .. index::
-   pair: negative; double
-   pair: double; required shape
+   single: takeout double; responding to
 
 Responding To A Takeout Double
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -207,6 +207,9 @@ a hand with 10 HCP using the rule of 20?  Maybe they did! You and your partner m
 on defense rather than signaling, you just can't bear to unblock, and you never underlead
 a King. To be a good player, you must resist Cheapness.
 
+.. index::
+   single: takeout double; with a strong hand
+
 Doubling With A Strong Hand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -223,6 +226,9 @@ redouble), you must mentally cancel
 your expectations of his hand shape if he hasn't raised your suit; he has just told you 
 his suit or that he's balanced, and that he has the requisite points.  The notion that 
 he has support for the other suits is now null and void.
+
+.. index::
+   single: takeout double; rebids by the doubler
 
 Rebids By The Doubler
 ~~~~~~~~~~~~~~~~~~~~~
@@ -250,6 +256,10 @@ takeout doubler has already counted shortness points.  More than that, bid 4♥.
 
 We use the same logic if our RHO has also bid (usually raising his partner). We use
 the level we are going to have to go to and our partner's range, and do the math.
+
+.. index::
+   single: takeout double; when they make one
+   single: redouble; after their takeout double
 
 When They Make A Takeout Double
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -290,7 +300,7 @@ Only if we have a big hand do we bid again. We don't bid notrump.
    Going For Blood Redouble
 
 .. index::
-   pair:double;redouble
+   single: redouble; going for blood
    
 .. _blood:
 
@@ -366,7 +376,7 @@ We have the majority of the points and if they don't have a fit they are in trou
 unless they can make their trumps separately.
 
 .. index::
-   pair:blood;Gavin Wolpert
+   single: Gavin Wolpert; going for blood redouble
    
 I highly recommend Wolpert's lessons on this subject. These auctions are difficult 
 for everyone. That's why I recommend using Jordan 2NT for a three-card raise until
@@ -376,6 +386,10 @@ When you are on the other side of it, after (1♥) X (XX), your partner has show
 support for the other suits.  If you have no clear preference you can pass, saying to
 your partner, we're in trouble, I don't have a clear direction, you choose. A redouble 
 by our side is an SOS.
+
+.. index::
+   single: takeout double; over a preempt
+   single: preempts; takeout double of
 
 Takeout Double Over A Preempt
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -417,6 +431,9 @@ The :ref:`Lebensohl <Lebensohl>` convention
 solves this problem, but is quite difficult for most intermediates. A simplified version
 is given in that chapter to meet this need.
 
+.. index::
+   single: takeout double; of a preempt, responding to
+
 .. rubric::
    Responding To A Double Of A Preempt
 
@@ -444,6 +461,11 @@ Note that the natural meaning of 2N is lost.
 
 When you are an advanced player learn :ref:`Lebensohl <Lebensohl>`, the full version 
 of this relay system.
+
+.. index::
+   !single: negative double
+   single: double; negative
+   single: negative double; required shape
 
 
 Negative doubles
@@ -504,7 +526,8 @@ If opener has a trump stack he could consider passing, especially non-vulnerable
 vulnerable. However, the negative double is of unlimited strength so use caution.
    
 .. index::
-   pair: double; reopening
+   single: double; reopening
+   single: reopening double
 
 .. _reopening_double:
 
@@ -549,7 +572,8 @@ on the strength of his hand and vulnerability he way wish to escape to his best 
 The paradox is that the weaker he is, the more urgent it is for him not to pass.
 
 .. index::
-   pair:double;SOS redouble
+   single: SOS redouble
+   single: redouble; SOS
    
 .. _SOS:
    
@@ -567,7 +591,8 @@ doubles, and the responder redoubles. This shows 10+ points and suggests no fit.
 The opponents may be in severe trouble.
 
 .. index::
-   pair:double;lead-directing
+   single: double; lead-directing
+   single: lead-directing double
 
 .. _lead_directing:
 
@@ -598,8 +623,9 @@ Lightner Doubles
 ----------------
 
 .. index::
-   pair: double; Lightner
-   pair: double; of final contract
+   single: double; Lightner
+   single: Lightner
+   single: double; of final contract
 
 When your partner doubles their slam contract, this demands an "unusual" lead 
 from you; if nothing else presents itself from the bidding or your hand, lead the suit the
@@ -620,6 +646,10 @@ a great long major and want it led.
    it is my lead.  Oh well, at least I reminded myself what to lead, but I also
    told the declarer.
    
+.. index::
+   single: penalty double; recognizing
+   single: double; penalty or not?
+
 Is That Penalty?
 ----------------
 

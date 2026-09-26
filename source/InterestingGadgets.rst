@@ -15,9 +15,9 @@ The Sandwich Notrump
 --------------------
 
 .. index::
-   single: two-suited bids
+   single: two-suited bids; Sandwich 1N
    pair: convention; Sandwich 1N
-   pair: convention; takeout double
+   single: takeout double; after (1x) – P – (1y)
 
 .. _Sandwich:
 
@@ -35,9 +35,10 @@ Mathe Defense To A Big Club
 
 .. _Mathe:
 
-.. index:: 
+.. index::
    pair: convention; Mathe Defense
-   pair: transfer; Mathe
+   single: transfer; Mathe Defense
+   single: strong 1♣; Mathe Defense
 
 After a strong 1♣ opener, Mathe is the simplest commonly-used defense. In the simplest 
 version, double is the majors, 1N is the minors, and suits are natural. 
@@ -53,6 +54,10 @@ A slight improvement is:
 The added transfers force the big hand to lead.
 
 Some also use this defense over a standard strong 2♣ opening.
+
+.. index::
+   single: preempts; lead-directing raise
+   pair: convention; lead-directing raise
 
 Lead-directing Raise Over Partner's Preempt
 -------------------------------------------
@@ -93,6 +98,7 @@ Puppet Stayman
 
 .. index::
    pair: convention; Puppet Stayman
+   single: 2N; Puppet Stayman
    
 Over 2N or 2♣ followed by 2N, bid 3♣! (asking for a four- or five-card major) if you have 
 a 3-card or 4-card major. Puppet Stayman is game forcing because, lacking a major, the 
@@ -138,7 +144,9 @@ and should play Five-Card Stayman and Smolen over 1N.
 Modern Super Accept
 -------------------
 
-.. index:: Modern Super Accept
+.. index::
+   single: super-accept; Modern Super Accept
+   single: Modern Super Accept
 
 After a transfer to a major, accepting the transfer shows fewer than four trump.  
 With four trump:
@@ -173,7 +181,8 @@ Showing Both Majors in Stayman
 
 .. _Stayman2Majors:
 
-.. index:: Stayman 
+.. index::
+   single: Stayman; showing both majors
 
 Having 4-4 majors and a maximal 1N opener, opener bids 3♣ as a response
 to Stayman. Responder then transfers to their suit (or best suit).
@@ -246,6 +255,9 @@ values.  It denies a four-card major.
 
 2N – 3♠! (minor suit Stayman) can also be played with game-forcing values.
 
+.. index::
+   single: Texas Transfers; Sons of Texas
+
 
 Sons Of Texas
 -------------
@@ -256,6 +268,7 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
 
 .. index::
    pair: convention; delayed Texas Transfers
+   single: Texas Transfers; delayed
 
 .. index::
    pair: convention; Four Spades Quantitative Minors
@@ -289,8 +302,10 @@ Playing Texas Transfers opens up some other possibilities. Here are two of them.
    choose between 4N or 5m or 6m.
 
 .. index::
-   pair:convention;Specific Ace Ask (ACOL 4N)
-   pair:4N;opening
+   pair: convention; Specific Ace Ask
+   single: Specific Ace Ask
+   see: ACOL 4N; Specific Ace Ask
+   pair: opening; 4N
    
 Specific Ace Ask 4N
 -------------------
@@ -315,7 +330,7 @@ Montreal Relays
 
 .. index::
    pair: convention; Montreal Relays
-   pair; relay; Montreal
+   single: relay; Montreal Relays
 
 This was invented by someone who went crazy trying to tell if responder 
 has four or five of his major over a 1♣ opening. Responder does not bid a
@@ -341,8 +356,9 @@ Namyats
 
 .. _namyats:
 
-.. index:
+.. index::
    pair: convention; Namyats
+   single: preempts; Namyats
 
 Namyats is Stayman spelled backwards. Apparently this amazing fact is supposed 
 to help you remember what it means. Doesn't work for me, but maybe it does for 
@@ -370,7 +386,7 @@ Response Swapping Over Black Overcalls
 --------------------------------------
 
 .. index::
-   pair:convention;response swapping 
+   pair: convention; response swapping
    
 When we open a suit and the opponents make an overcall a black suit, up to and
 including 3♣, we switch the meanings of the other two suit bids in response

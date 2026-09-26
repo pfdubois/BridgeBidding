@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   !single: 1N; defenses to
+
 
 .. _1N_Defenses:
 
@@ -25,8 +28,8 @@ We assume here for the moment it is a 15-17 1N opener. See below for comments ab
 dealing with weaker notrump openings.
 
 .. index::
-   pair:convention;Unusual 2N
-   pair;1N;Unusual 2N
+   single: Unusual 2N; over their 1N
+   single: 1N; Unusual 2N defense
 
 (1N) – 2N is always "unusual 2N" showing 5-5 in the minors. No cheating on length here!
 
@@ -54,9 +57,11 @@ D.O.N.T.
 .. _DONT:
 
 .. index::
-   pair: convention; D.O.N.T.
-   single: two-suited bids
-   pair:1N; D.O.N.T. defense
+   !single: D.O.N.T.
+   single: convention; D.O.N.T.
+   single: two-suited bids; D.O.N.T.
+   single: 1N; D.O.N.T. defense
+   see: DONT; D.O.N.T.
 
 D.O.N.T stands for Disturbing Opponents' No Trump, and is another idea from
 the fertile mind of Marty Bergen. The emphasis is on getting in there
@@ -100,10 +105,11 @@ Cappelletti (Hamilton)
 .. _Hamilton:
 
 .. index::
-   pair: convention; Cappelletti
-   pair: convention; Hamilton
-   pair:1N;Cappelletti or Hamilton defense
-   single: two-suited bids
+   !single: Cappelletti
+   single: convention; Cappelletti
+   see: Hamilton; Cappelletti
+   single: 1N; Cappelletti defense
+   single: two-suited bids; Cappelletti
 
 In this scheme, which is perhaps the most common non-natural set of
 responses to a 1N opener, the double is left as penalty-oriented, at the
@@ -138,6 +144,9 @@ As usual, if the opponents bid again, the next bidder on our side is "off the ho
 
 A slightly more advanced version of Cappelletti is 
 :ref:`Modified Cappelletti <ModifiedCappelletti>`.
+
+.. index::
+   single: 1N; weak, defending against
 
 Against A Weak 1N
 ~~~~~~~~~~~~~~~~~

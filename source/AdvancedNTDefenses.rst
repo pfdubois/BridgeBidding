@@ -6,8 +6,8 @@ Advanced Notrump Defenses
 .. _AdvancedNotrumpDefenses:
 
 .. index::
-   single: two-suited bids
-   pair: notrump openings; defenses to
+   single: 1N; defenses to
+   single: two-suited bids; over 1N
    
 This section explains some more defenses after your opponents open or overcall
 1N. Some can also be used in balancing a passing-out 1N.
@@ -42,9 +42,9 @@ Landy
 -----
 
 .. index::
-   pair:convention; Landy
-   single: two-suited bids
-   pair: 1N;Landy defense
+   pair: convention; Landy
+   single: two-suited bids; Landy
+   single: 1N; Landy defense
 
 Landy is simple: 2♣ shows both majors, at least 5-4.  According to the Bridge Guys 
 website, Landy can claim to be the very first conventional method.  Many variations 
@@ -58,10 +58,10 @@ Meckwell
 .. _Meckwell:
 
 .. index::
-   pair:convention; Meckwell
-   pair:convention; D.O.N.T (modified, a.k.a. Meckwell)
-   single: two-suited bids
-   pair:1N;Meckwell defense
+   pair: convention; Meckwell
+   single: D.O.N.T.; modified (Meckwell)
+   single: two-suited bids; Meckwell
+   single: 1N; Meckwell defense
 
 :term:`Meckwell` is a modification of D.O.N.T. in which the double works harder
 in order to make 2♥ and 2♠ natural. After opponents open 1N, either in direct
@@ -92,9 +92,9 @@ Modified Cappelletti
 .. _ModifiedCappelletti:
 
 .. index::
-   pair: convention; Cappelletti (modified)
-   single: two-suited bids
-   pair:1N;Cappelletti (modified) defense
+   single: Cappelletti; modified
+   single: two-suited bids; Cappelletti
+   single: 1N; Cappelletti defense
 
 In this modified or "modern" Cappelletti, the 2♣ bid works harder in order to make 2♥
 and 2♠ natural. After opponents open 1N, either in direct seat, or after two passes
@@ -117,8 +117,8 @@ Bloomen
 
 .. index::
    pair: convention; Bloomen
-   single: two-suited bids
-   pair:1N;Bloomen defense
+   single: two-suited bids; Bloomen
+   single: 1N; Bloomen defense
 
 Bloomen is related to Cappelletti. All 2-level suit bids are natural long suits. 
 A double is a relay to 2♣, and then intervenor bids one of the Capp two-suited bids: 
@@ -133,10 +133,11 @@ Woolsey
 .. _Woolsey:
 
 .. index::
-   pair:convention; Multi-Landy
-   pair:convention; Woolsey
-   single:two-suited bids
-   pair:1N;Woolsey defense
+   pair: convention; Woolsey
+   single: Woolsey
+   see: Multi-Landy; Woolsey
+   single: two-suited bids; Woolsey
+   single: 1N; Woolsey defense
 
 Woolsey is sometimes called Multi-Landy.
 After a 1N opening or overcall:
@@ -148,6 +149,9 @@ After a 1N opening or overcall:
 *  2♥! Shows long hearts and an unspecified four-card minor. 2N asks for the minor.
 *  2♠! Shows long spades and an unspecified four-card minor. 2N asks for the minor.
 *  2N Shows both minors.
+
+.. index::
+   single: Woolsey; defenses to
 
 Defenses to Woolsey
 ~~~~~~~~~~~~~~~~~~~
@@ -169,8 +173,8 @@ More sophisticated defenses are based on :ref:`Lebensohl <Lebensohl>`.
 .. _Mohan:
 
 .. index::
-   pair:convention;Mohan
-   pair:1N;Mohan defense
+   pair: convention; Mohan
+   single: 1N; Mohan defense
    
 Mohan
 ----- 
@@ -201,8 +205,8 @@ with the same meaning, the "slow" bid of 3M is the strong one, an idea similar t
 
 .. index::
    pair: convention; Suction
-   single: two-suited bids
-   pair:1N;Suction defense
+   single: two-suited bids; Suction
+   single: 1N; Suction defense
    
 Suction
 -------
@@ -247,9 +251,9 @@ can wait until they clarify their suit and then play Lebensohl with double being
 .. _CRASH:
 
 .. index::
-   pair:convention;CRASH
-   pair:1N;CRASH defense
-   pair:1♣ strong;CRASH defense
+   pair: convention; CRASH
+   single: 1N; CRASH defense
+   single: strong 1♣; CRASH defense
    
 CRASH
 -----

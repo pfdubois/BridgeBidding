@@ -3,6 +3,9 @@
 Opening The Bidding
 ===================
 
+.. index::
+   single: opening; what hands to open
+
 
 What Hands To Open
 ------------------
@@ -74,6 +77,9 @@ many 10 HCP hands are too good for that.
   don't make them with good hands.
   
 The next few chapters will give details on these bids and their sequelae. 
+
+.. index::
+   single: opening; choosing a bid
 
 Choosing An Opening Bid
 -----------------------
@@ -154,8 +160,10 @@ Opening in 4th Seat
 -------------------
 
 .. index::
-   pair: preempts; not in passout seat
-   pair: opening; in passout seat
+   single: passout seat; opening in
+   single: preempts; in passout seat
+   single: Pearson Points
+   single: opening; in fourth seat
 
 Pearson Points: To find your Pearson Points, add your HCP to the number of
 spades you hold. If this number is 15 or more, open the bidding. The idea is

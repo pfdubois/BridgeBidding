@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   !single: jump-shift
+
 .. _Jump_Shifts:
 
 All About Jump-Shifts
@@ -15,7 +18,8 @@ must recognize the situation. Specifically,
 * Does the bid have another meaning already?
 
 .. index::
-   pair:jump-shift;preempts
+   single: jump-shift; weak
+   single: weak jump-shifts
 
 .. _wjs:
 
@@ -46,7 +50,8 @@ Another alternative is to play
 Now let's consider the auction with no interference.
 
 .. index::
-   pair: jump-shift;traditional 
+   single: jump-shift; strong (traditional)
+   single: strong jump-shifts
 
 Strong Jump-Shifts
 ------------------
@@ -93,6 +98,7 @@ It is up to you and your partner.
 Some jump shifts, by the way, are a little hard to spot, particularly 1♥ – 2♠. 
 Feel sorry for your partner when he goofs.  
 
-.. index:: Soloway Jump Shifts
+.. index::
+   single: Soloway Jump-Shifts
 
 See :ref:`Soloway Jump-Shifts <Soloway>` for a strong but not so strong alternative.

@@ -6,7 +6,7 @@ Advanced Major Auctions
 .. _improved_major:
 
 .. index::
-   pair: opening; major
+   single: major opening; advanced auctions
    
 This chapter highlights advanced treatments of major openings and their related 
 conventions, and the case of opener raising responder's major. 
@@ -17,8 +17,9 @@ Two-Way Reverse Drury
 .. _Two_Way_Drury:
 
 .. index::
-   pair:convention;two-way Reverse Drury
-   pair:Reverse Drury;two-way
+   !single: Two-Way Reverse Drury
+   single: convention; Two-Way Reverse Drury
+   single: Reverse Drury; two-way
 
 Two-way Reverse Drury is a partnership modification of 
 :ref:`Reverse Drury <Reverse_Drury>`. In
@@ -33,8 +34,9 @@ Bergen Raises
 .. _bergen_raises:
 
 .. index::
-   pair: raise; major
-   pair: convention; Bergen raise (of a major)
+   single: raises; Bergen raises
+   !single: Bergen raises
+   single: convention; Bergen raises
 
 Bergen Raises emphasize distinguishing three-card from |4ormore|-card limit raises. 
 A four-card raise has a great deal more potential for game than a three-card 
@@ -75,8 +77,8 @@ Rationale: If there is a double, 2N! is a Jordan raise so
 you wouldn't need 3♦ for this.  After an overcall, you have cue bids. See also
 :ref:`Jordan All The Time <JATT>`.
 
-.. index:: 
-   pair: Bergen raise; reverse
+.. index::
+   single: Bergen raises; reverse
 
 Reverse Bergen interchanges the meanings of 3♣ and 3♦. 
 
@@ -84,8 +86,8 @@ Constructive Raises
 -------------------
 
 .. index::
-   pair: raise; constructive (of a major)
-   pair: convention; constructive raise
+   single: raises; constructive
+   pair: convention; constructive raises
 
 .. _constructive_raise:
 
@@ -103,9 +105,9 @@ to play 1N as "semi-forcing", announce it, and have your opponents laugh and ask
 If you want to explore this further, see :ref:`Advanced Major Structures <AMS>`.
 
 .. index::
-   pair:raise; fit-showing jump
-   pair:convention;fit-showing jump
-   pair;jump-shift;fit-showing jump
+   single: raises; fit-showing jumps
+   pair: convention; fit-showing jumps
+   single: jump-shift; fit-showing jumps
    
 
 Fit-Showing Jumps
@@ -125,7 +127,8 @@ Since it isn't strictly for major raises, our explanation is in
 the chapter :ref:`Advanced Jump-Shifts <fit_showing_jump>`.
 
 .. index::
-   pair: convention;Kokish Game Tries
+   pair: convention; Kokish Game Tries
+   single: game try; Kokish Game Tries
 
 .. _KokishGameTries:
 
@@ -159,7 +162,8 @@ and whether or not any of them are wasted opposite the short suit.
 Variation: always use 2N! as the inquiry bid.
 
 .. index::
-   pair:convention;Spiral
+   pair: convention; Spiral
+   single: raises; of responder's major (Spiral)
    
 Raising Responder's Major
 -------------------------
@@ -204,8 +208,7 @@ Another System After J2NT
 -------------------------
 
 .. index::
-   pair:convention;Jacoby 2NT
-   pair:Jacoby 2NT;alternate responses
+   single: Jacoby 2NT; alternate responses
 
 The standard scheme of responses to Jacoby 2N (1M – 2N! (4 trump, opening hand)) 
 has problems. When either opener or responder make a jump to game, showing no slam 
@@ -247,7 +250,7 @@ Serious 3NT
 -----------
 
 .. index::
-   pair: convention;Serious 3NT
+   pair: convention; Serious 3NT
 
 If we have agreement on a 8-card or better major fit at the three level, 
 there are three bids available to continue to game: bid game, bid 3N as an artificial
@@ -267,9 +270,9 @@ Jordan All The Time
 .. _JATT:
 
 .. index::
-   pair:convention;Jordan 2NT
-   pair:convention;Jordan All The Time
-   pair:Jordan 2NT;over overcalls
+   pair: convention; Jordan All The Time
+   single: Jordan 2NT; all the time
+   single: Jordan 2NT; over overcalls
    
    
 Recall that Jordan 2N is a |4ormore|-card limit+ raise of partner's major over RHO's
@@ -288,6 +291,9 @@ So by partnership agreement we change the meaning of a 2N bid here to be the sam
 Jordan.  That's why I call it Jordan All The Time, although that's just my name. As 
 with any convention, we give up something, in this case the natural invitation with a 
 stopper in RHO's suit.  
+
+.. index::
+   single: major opening; 1M – 3N response
 
 Assigning A Meaning To 1M – 3N
 ------------------------------

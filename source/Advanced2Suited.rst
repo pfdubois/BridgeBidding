@@ -6,7 +6,8 @@ Advanced Two-Suited Bids
 
 .. _twosuitedbids:
 
-.. index::advanced two-suited bids
+.. index::
+   single: two-suited bids; advanced
 
 There are many systems of two-suited competitive bids. We learned about Unusual 2N and 
 Michaels Cue Bid already. There are also the myriad two-suited bids for 
@@ -23,7 +24,8 @@ Sandwich 1N
 
 .. index::
    pair: convention; Sandwich 1N
-   pair: convention; takeout double
+   single: two-suited bids; Sandwich 1N
+   single: takeout double; after (1x) – P – (1y)
 
 .. _Sandwich:
 
@@ -39,8 +41,7 @@ Additional Michaels 2N Replies
 ------------------------------
 
 .. index::
-   pair: convention;Michael Cue Bid
-   pair: Michaels;asking 
+   single: Michaels Cue Bid; 2N asking bid
    
 .. _MichaelsAsking:
 
@@ -60,8 +61,9 @@ Extended Michaels
 .. _Extended_Michaels:
 
 .. index::
-   pair: convention; Extended Michael's
-   single:two-suited bids
+   pair: convention; Extended Michaels
+   single: Michaels Cue Bid; extended
+   single: two-suited bids; Extended Michaels
 
 Extended Michaels changes the meaning of the Michaels cue bid over a minor, promising
 spades and another suit (which could be hearts, but no longer is definitely hearts). 
@@ -114,8 +116,8 @@ Top and Bottom Cue Bid
 ----------------------
 
 .. index::
-   pair: convention; Top and Bottom
-   single:two-suited bids
+   pair: convention; Top and Bottom Cue Bid
+   single: two-suited bids; Top and Bottom Cue Bid
 
 Top and Bottom is another replacement for Michael's Cue Bid. The cue bid shows the highest
 and lowest unbid suits.  For example, 1♥ – (2♥) shows spades and clubs. Knowing both

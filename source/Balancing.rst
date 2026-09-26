@@ -3,7 +3,8 @@
 
 .. _Balancing:
 
-.. index::balancing
+.. index::
+   !single: balancing
 
 Balancing
 =========
@@ -16,6 +17,9 @@ vary as to whether one or both opponents have bid, which suit they bid (or notru
 and the shape of your own hand. The key point is that how many HCP you have is not 
 as important as it usually is, because in these situations your partner and you may have 
 half the points or nearly so.
+
+.. index::
+   single: balancing; in fourth seat
 
 .. _balancepassout:
 
@@ -63,12 +67,18 @@ Unusual 2N, showing the lowest two unbid suits, perhaps only 5-4 in the
 suits if you have some decent points. Two-suited bids allow you to get
 in there more often, but require more experience.
 
+.. index::
+   single: balancing; over 1N
+
 Balancing after (1N) P (P)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You have to be more careful than when overcalling 1N because the big
 hand is to your left. We play our chosen defense to 1N in :term:`passout seat`
 as well as direct seat; ask your partner about doing this or just bidding natural suits.
+
+.. index::
+   single: balancing; when both opponents have bid
 
 
 Balancing When Both Opponents Have Bid
@@ -152,6 +162,9 @@ We will discuss some specific auctions below. However, there are some general gu
 * Bid a one-suited hand (5+ cards at the one- or two-level, 6+ cards at the three-level),
   in any of the auctions, if the suit is good.
   
+.. index::
+   single: balancing; when they stop at two
+
 
 Balancing When They Stop At Two
 -------------------------------
@@ -171,6 +184,9 @@ Do something! But what?
 * After 1m – 2m (not inverted), or 1m – 1N – 2m, double shows three or more in both 
   majors, although 4-4 or better is preferable.
   
+.. index::
+   single: balancing; over 1N
+
 Balancing A Notrump
 -------------------
   

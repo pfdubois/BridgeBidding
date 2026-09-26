@@ -1,5 +1,8 @@
 .. include:: ../rst_prolog.txt
 
+.. index::
+   single: competitive bidding
+
 .. _competition:
 
 Competitive Bidding
@@ -33,7 +36,8 @@ overcalls.
    for the three level, all the more so with four trumps. Vulnerable, with only
    three trumps, a double might get you to the dreaded -200.
 
-.. index::Law of Total Tricks
+.. index::
+   single: Law of Total Tricks
 
 *  Another guideline is the "Law of Total Tricks", which says that with a fit,
    the total number of tricks available in the hand is the sum of the lengths
@@ -46,7 +50,7 @@ overcalls.
    burned at the three level. 
 
 .. index::
-   pair:preempts;competing with
+   single: preempts; competing with
       
 *  Never preempt over a preempt. For example, they open 2♥ and you have six or seven 
    spades to the KJ and another King. Pass. You must not bid 2♠ or 3♠. Your partner will 
@@ -85,7 +89,8 @@ overcalls.
    Read Marty Bergen's famous book, :title:`Points Schmoints`. If you have a double fit, 
    or you have a 6 – 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
 
-.. index::balancing
+.. index::
+   single: balancing; guideline
    
 *  To :ref:`balance <Balancing>` is to bid in the :term:`passout seat`. As a simple 
    guideline, bid as though you had one more King in your hand, and your partner in 

@@ -8,9 +8,11 @@ Advanced Slam Bidding
 Slam bidding, especially in the minors, is really hard.  This chapter arms you for 
 battle.
 
-.. index:: 
-   pair:control bidding;slam 
-   pair:control bidding;Italian
+.. index::
+   single: control bidding; advanced
+   single: slam bidding; advanced
+   single: control bidding; Italian style
+   single: Italian control bidding
    
 .. _Italian:
 
@@ -73,6 +75,9 @@ here.
 
 Bergen's :title:`Better Slam Bidding` and its workbook has excellent examples.
 
+.. index::
+   pair: control bidding; Last Train
+
 .. rubric::
    Last Train
    
@@ -99,8 +104,9 @@ Five Notrump Pick-A-Slam
 .. _pick_a_slam:
 
 .. index::
-   pair: convention; pick-a-slam
-   pair: 5N;pick-a-slam
+   !single: Pick-A-Slam
+   single: convention; Pick-A-Slam
+   single: 5N; Pick-A-Slam
 
 When we have not agreed on a suit but you determine that the partnership has
 the points to be in slam, a jump bid of 5N is a great alternative to just 
@@ -124,11 +130,11 @@ Redwood
 .. _Redwood:
 
 .. index::
-   pair:convention;Redwood
-   pair:convention;One-Over Keycard
-   pair:convention;Kickback
-   pair:slam try; Redwood
-   single:response;RKC
+   pair: convention; Redwood
+   single: Redwood
+   see: One-Over Keycard; Redwood
+   pair: slam try; Redwood
+   single: RKC; for minors
    
 Redwood is superior to :ref:`Minorwood <Minorwood>`.
 
@@ -167,10 +173,9 @@ Examples::
 Three Spades Kickback
 ---------------------
 
-..index::
-  single:Kickback
-  pair:Kickback;for hearts
-  pair:convention;Kickback
+.. index::
+   single: Kickback; 3♠ for hearts
+   pair: convention; Kickback
 
 The One-Over Keycard idea can be also used for hearts:  
 a bid of 3♠ after an agreement on hearts is RKC. All responses are
@@ -191,8 +196,7 @@ Full Kickback
 -------------
 
 .. index::
-   single:Kickback
-   pair:convention;Kickback
+   single: Kickback; full
 
 Redwood plus Three Spades Kickback, with 4N for spades, is Kickback.
 
@@ -205,6 +209,7 @@ Exclusion Blackwood
 
 .. index::
    pair: convention; Exclusion Blackwood
+   single: Blackwood; Exclusion
    
 .. _ExclusionBlackwood:
 
@@ -238,9 +243,9 @@ Preempt Keycard
 .. _preempt_keycard:
 
 .. index::
-   pair:convention;Preempt Keycard
-   pair:slam try;Preempt Keycard
-   pair:RKC;0-1-1-2-2 scale
+   pair: convention; Preempt Keycard
+   pair: slam try; Preempt Keycard
+   single: RKC; 0-1-1-2-2 scale
    
 When partner makes a three-level preempt, a bid of 4♣ over a 3M preempt, or 4♦
 over a 3♣ preempt, is Preempt Keycard. The point of the convention is to ask for
@@ -269,7 +274,6 @@ Minorwood
 .. index::
    pair: convention; Minorwood
    pair: slam try; Minorwood
-   single:response; RKC
 
 For a better alternative, see :ref:`Redwood <Redwood>`. I include this because it is
 widely played.

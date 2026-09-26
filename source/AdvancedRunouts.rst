@@ -1,7 +1,8 @@
 .. include:: ../rst_prolog.txt
 
 .. index::
-   single: runouts after 1N is doubled
+   single: runout; advanced
+   single: 1N; runout when doubled
    
 .. _AdvancedRunouts:
 
@@ -73,8 +74,8 @@ Meckwell Escapes
 .. _MeckwellEscapes:
 
 .. index::
-   pair:runout;Meckwell Escapes
-   pair:convention;Meckwell Escapes
+   pair: runout; Meckwell Escapes
+   pair: convention; Meckwell Escapes
 
 :term:`Meckwell` Escapes are similar to the Meckwell bids over interference with our 1N opener.
 A great combination is to play :ref:`Meckwell <Meckwell>` and Meckwell Escapes.
@@ -110,8 +111,8 @@ The Handy Runout
 .. _Handy_Runout:
 
 .. index::
-   pair:convention;Handy Runout
-   pair:runout;Handy 
+   pair: convention; Handy Runout
+   single: runout; Handy Runout
 
 Handy Runout is named for Howard Schutzman and Andy Stark, who developed it with 
 encouragement from Ally Whiteneck. It works properly only when the 1N opener does not
@@ -187,8 +188,8 @@ Guoba
 -----
 
 .. index::
-   pair:runout;Guoba
-   pair:convention;Guoba
+   pair: runout; Guoba
+   pair: convention; Guoba
    
 Thanks to David Sterling for this explanation.
 
@@ -241,9 +242,9 @@ Escape From Moscow, or D.O.N.T.
 -------------------------------
 
 .. index::
-   pair:runout;Escape from Moscow
-   pair:runout;D.O.N.T.
-   pair:convention;Escape from Moscow
+   pair: runout; Escape from Moscow
+   pair: convention; Escape from Moscow
+   single: D.O.N.T.; as a runout
    
 Escape from Moscow wins the prize for best name.  It is one of a family of D.O.N.T.-like
 runouts.

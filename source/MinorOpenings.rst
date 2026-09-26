@@ -1,8 +1,8 @@
 .. include:: ../rst_prolog.txt
 
 .. index::
-   pair: opening; minor
-   pair: responding; 1m
+   !single: minor opening; responses
+   single: opening; minor suit
 
 .. _minoropenings:
 
@@ -163,7 +163,7 @@ do bid a diamond over a club, and later bid a major, it is game-forcing.
 .. _Walsh:
  
 .. index::
-   pair:Walsh;style 
+   single: Walsh; style
 
 .. note::
    Bypassing a diamond suit to show a major with less than game-forcing values is a 
@@ -214,6 +214,9 @@ The situation can be improved by playing :ref:`Inverted Minors <inverted_minors>
 and :ref:`Redwood <Redwood>` but it is never easy.  In most cases if the slam is not
 clear-cut most of the field is not going to know how to get there so there is less
 pressure to bid it. 
+
+.. index::
+   single: opener's rebid; after a minor opening
 
 Opener's Rebid
 --------------
@@ -299,7 +302,9 @@ He doesn't make a three-card raise, because if responder has
 invitational or better values and really does have five cards in M, he will
 checkback with :ref:`New Minor Forcing <NMF>`.
 
-.. index::Prime Directive
+.. index::
+   single: Prime Directive
+   single: opener's rebid; 1N promises balanced
 
 .. important::
    If opener rebids 1N he promises a :term:`balanced` hand. 
@@ -372,7 +377,8 @@ More of these kinds of auctions are discussed in :ref:`New Minor Forcing <NMF>`.
 .. rubric::
    The Auction 1♦ – 2♣ Game Forcing
 
-.. index::1♦ – 2♣ game forcing
+.. index::
+   single: minor opening; 1♦ – 2♣ game forcing
 
 Partner has made a game-forcing bid promising five clubs. We're looking for 3N
 initially. Notice that responder will only have a four-card major if they have
@@ -415,9 +421,9 @@ Subsequent Bidding
 ------------------
 
 .. index::
-   pair:convention;NMF
-   pair;convention;FSF
-   single:checkback 
+   single: New Minor Forcing; after 1m
+   single: Fourth Suit Forcing; after 1m
+   single: checkback; after 1m
    
 If responder has bid a major, and opener does not have four cards in it, there might
 still be a 3-5 major fit.  Or, there might be a four-four fit in the other major, 
@@ -456,9 +462,9 @@ Interference
 .. _minor_interference:
 
 .. index::
-   pair:cue bid;limit raise
-   pair:overcall;weak jump
-   pair:minor opening;interference
+   pair: cue bid; limit raise
+   single: overcalls; weak jump
+   single: minor opening; interference
 
 A minor is so easy to overcall, it happens a lot, so we must be prepared. 
 Responder's bids over the overcall mean
@@ -481,7 +487,8 @@ better (:ref:`Jordan 2NT <Jordan2NT>`. When you don't have a suitable bid but do
 .. _inverted_minors:
 
 .. index::
-   pair: convention; inverted minors
+   !single: Inverted Minors
+   single: convention; Inverted Minors
 
 Inverted Minors
 ---------------

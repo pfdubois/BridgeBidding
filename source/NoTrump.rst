@@ -3,9 +3,13 @@
 .. _strong1N:
 
 .. index::
-   pair: opening;notrump
-   single:notrump ranges
-   single:1N
+   !single: 1N
+   single: opening; 1N
+   single: notrump; ranges
+   seealso: notrump; 1N
+   see: 1NT; 1N
+   see: 2NT; 2N
+   see: notrump openings; 1N
 
 Notrump Openings
 ================
@@ -23,6 +27,9 @@ The "system" is very extensive, which is why this chapter is so long.
 If you are not very experienced, a good target is to get through the
 section :ref:`Major Transfers <transfers>` and make sure you and your
 partner are solid on that much.
+
+.. index::
+   single: 1N; when to open
 
 When Do You Open Notrump?
 -------------------------
@@ -79,7 +86,7 @@ need a five-card or longer suit anyway, and bidding that suit may be preferable.
    suits, especially if that suit is a good minor, rebidding 2N next.
 
 .. index::
-   pair:1N;choosing a response
+   single: 1N; choosing a response
    
 How To Choose A Response To 1N
 ------------------------------
@@ -128,7 +135,10 @@ Generally, a hand whose principal feature is a long minor wants to be in
 minor slam. This is especially true playing matchpoints.
 
 .. _quantitative_raises:
-.. index:: Gerber, quantitative
+.. index::
+   single: 1N; quantitative 4N
+   single: quantitative; over 1N
+   single: Gerber; over 1N
 
 Responding With No Major Suit Or Long Minor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -161,8 +171,8 @@ if you are worried about having fast losers in a suit or an opener that upgraded
 14 HCP hand. It doesn't hurt to be careful.
 
 .. index::
-   pair:convention;Grand Slam Force
-   pair:convention;Pick-A-Slam
+   pair: convention; Grand Slam Force
+   single: Pick-A-Slam; over quantitative 4N
    
 The 5N bid as Grand Slam Force is the standard but it has been all but replaced by
 :ref:`5N Pick-A-Slam <pick_a_slam>`. Whichever you play it applies to a 5N bid
@@ -195,9 +205,9 @@ longer major, or a six-card or longer minor.
 .. _Stayman:
 
 .. index::
-   single:Stayman Convention
-   pair:1N;Stayman
-   pair:convention;Stayman
+   !single: Stayman
+   single: convention; Stayman
+   single: 1N; Stayman
 
 Stayman Convention
 ------------------
@@ -230,7 +240,7 @@ Stayman 2♣ is artificial but not alerted, because it has become common practic
    Opener Reveals His Major Holdings
 
 .. index::
-   pair:Stayman;responses
+   single: Stayman; responses
    
 After 1N – 2♣, opener *must* choose one of three replies: 2♦, 2♥, or 2♠. 
 
@@ -296,6 +306,10 @@ there is no heart fit, but opener knows there is a spade fit. Opener should bid 
 at the three-level to decline the invitation, and at the four-level to accept it. If 
 responder has bid 3N, opener can switch to 4♠.
 
+.. index::
+   !single: Garbage Stayman
+   single: Stayman; Garbage
+
 Garbage Stayman
 ~~~~~~~~~~~~~~~
 
@@ -320,9 +334,10 @@ Major Transfers
 .. _transfers:
 
 .. index::
-   pair:1N;major transfers
-   pair:1N;Jacoby transfers
-   pair:major transfers;super-accept
+   !single: Jacoby transfers
+   single: 1N; Jacoby transfers
+   see: major transfers; Jacoby transfers
+   single: Jacoby transfers; super-accept
 
 So you bid Stayman with hands that have a four-card major; but what if you have a 
 five-card major? You may have a fit if opener has three cards in your suit. 
@@ -373,7 +388,10 @@ absolutely nothing else.
 For an advanced choice for a "superaccept", see 
 :ref:`Advanced Superaccepts <AdvancedSuperaccepts>`.
 
-.. index:: Gerber, quantitative
+.. index::
+   single: Jacoby transfers; responder's rebid
+   single: quantitative; after a transfer
+   single: Gerber; after a transfer
 
 .. rubric::
    After The Major Transfer 
@@ -406,7 +424,7 @@ Responding With 5-5 Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. index::
-   1N;5-5 hands
+   single: 1N; 5-5 hands
    
 Remember that after a transfer, any bid at the three-level is game forcing.  With
 less than a game-forcing hand you cannot show the second suit. 
@@ -425,6 +443,9 @@ When you have five in a major and a |4ormore|-card minor:
   * Bid 2N with an invitational hand 
   * Bid the minor with a game-forcing hand. You may be very strong with interest in 
     a minor slam.
+
+.. index::
+   single: transfer; interference over
 
 Interference by LHO
 ~~~~~~~~~~~~~~~~~~~
@@ -450,13 +471,13 @@ points he has. Neither Stayman nor a transfer promised any points. See:
 You should learn these defenses as part of learning Stayman and transfers.
 
 .. index::
-   pair:1N;Garbage Stayman
+   single: Garbage Stayman; with 5-4 majors
  
 
 .. index::
-   pair: Stayman;five-four majors
-   pair: transfers;five-four majors
-   pair: 1N;5-4 majors
+   single: Stayman; 5-4 majors
+   single: transfer; 5-4 majors
+   single: 1N; 5-4 majors
 
 .. _FiveFour:
 
@@ -501,8 +522,8 @@ Partners must be on their toes not to pass the game-forcing bids.
    The Hand And Stayman
  
 .. index::
-   pair:The Hand;Stayman
-   pair:Stayman;power raise
+   pair: The Hand; Stayman
+   single: Stayman; power raise
      
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each::
@@ -531,7 +552,9 @@ Smolen
 .. _Smolen:
 
 .. index::
-   pair:convention; Smolen
+   !single: Smolen
+   single: convention; Smolen
+   single: 1N; Smolen
 
 Smolen is an optional convention, but quite common for advanced intermediates.
 When partner opens 1N and we have a hand that is 5 – 4 in the majors, 
@@ -545,8 +568,10 @@ Texas Transfers
 .. _Texas:
 
 .. index::
-   pair:convention;Texas Transfers
-   pair:1N;6-card major
+   !single: Texas Transfers
+   single: convention; Texas Transfers
+   single: 1N; Texas Transfers
+   single: 1N; 6-card major
 
 Texas Transfers are not standard, but are so common you must be sure you agree on this 
 with your partner. Check the boxes on your convention cards.
@@ -581,10 +606,11 @@ You don't use Texas if:
 
 .. _Minor_Relay:
 
-.. index:: 
-   pair:1N;minor relay
-   single;transfer vs. relay
-   pair: convention; Minor Relay
+.. index::
+   !single: Minor Relay
+   single: convention; Minor Relay
+   single: 1N; Minor Relay
+   single: relay; vs. transfer
 
 Minor Relay
 -----------
@@ -609,7 +635,7 @@ suit is very powerful opposite a 1N opener, so weak means not close to invitatio
    suit you have; you are going to reveal that later. 
 
 .. index::
-   pair: slam try; minor relay
+   pair: slam try; Minor Relay
 
 Minor Slam Tries
 ~~~~~~~~~~~~~~~~
@@ -629,7 +655,7 @@ lower minor (clubs), and the higher bid (spades) to the higher minor
 .. _Three_Level_Suit_Responses:
 
 .. index::
-   pair:1N;3-level responses 
+   single: 1N; three-level responses
 
 Three-Level Suit Responses
 --------------------------
@@ -655,7 +681,8 @@ scheme for the bids from 2♠ to 3♠ that replaces the Minor Relay and these th
 with something more useful. 
    
 .. index::
-   pair: opening;balanced
+   pair: opening; balanced
+   single: 1N; between 1N and 2N
 
 Between 1N and 2N
 -----------------
@@ -693,8 +720,8 @@ Systems are off. The bid of 2♦ would be to play, not a transfer to hearts.
 Dealing With Interference Over 1N
 ---------------------------------
 
-.. index:
-   pair:1N;interference with
+.. index::
+   single: 1N; interference over
    
 The no-trump structure is highly evolved and generally gets you to the right 
 place -- so much so, that your opponents will be anxious to get in your way so
@@ -739,7 +766,7 @@ two suits, one of them possibly unknown, in
 :ref:`General Defense To Two-Suited Bids <defense_two_suited>`.
 
 .. index::
-   pair: transfer;interference with
+   single: transfer; interference over
 
 .. _transferdoubled:
 
@@ -788,8 +815,8 @@ The responder is still :term:`Captain`, and we're waiting to hear his opinion.
 When Stayman is doubled or overcalled
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. index:
-   pair: Stayman;interference with
+.. index::
+   single: Stayman; interference over
    
 When Stayman is doubled, opener will answer only if he has a club stopper. Otherwise
 he passes it around to the responder, who can redouble to ask for Stayman again,
@@ -801,7 +828,9 @@ discussed.
   
 .. _stolenbids:
 
-.. index:: stolen bids
+.. index::
+   single: stolen bids
+   single: 1N; stolen bids
 
 Stolen Bids
 ~~~~~~~~~~~
@@ -837,7 +866,9 @@ and three-level bids game forcing. 2N is invitational showing a stopper.  Biddin
 suit (a :term:`cue bid`) is game-forcing Stayman.  However, over a 2♣ overcall you have
 a double as Stayman.
 
-.. index:: runout
+.. index::
+   !single: runout
+   single: 1N; runout when doubled
 
 .. _runout:
 
@@ -871,7 +902,9 @@ responder's double is penalty-oriented.
 For a wide variety of runout schemes see 
 :ref:`Advanced Runouts <AdvancedRunouts>`.
 
-.. index:: Unusual notrump
+.. index::
+   single: Unusual 2N; over our 1N
+   see: Unusual notrump; Unusual 2N
 
 Unusual 2N interference
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -883,7 +916,7 @@ As the defender, you do not bid (1N) – 2N to show you have a notrump opener to
 double for penalty. That's why 2N is free to have a special meaning.
 
 .. index::
-   pair: 1N;three-level interference
+   single: 1N; three-level interference
 
 Three-Level Interference
 ~~~~~~~~~~~~~~~~~~~~~~~~
