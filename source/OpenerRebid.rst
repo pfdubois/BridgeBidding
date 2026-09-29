@@ -79,7 +79,7 @@ After 1N Forcing
    single: 1N Forcing; opener's rebid
    
 The 1N response to 1M is forcing unless there was interference or responder is a passed
-hand.  Note that 1N does not promised a balanced hand, and in particular responder might
+hand.  Note that 1N does not promise a balanced hand, and in particular responder might
 not have any cards in M. If 1N is not forcing, passing becomes an additional option.
 When 1N is forcing its range is 6 to a bad 12.
  

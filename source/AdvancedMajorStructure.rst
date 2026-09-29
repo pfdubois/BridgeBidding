@@ -21,7 +21,6 @@ assuming no interference from opener's LHO:
 * 3M is a limit raise with four trump.
 * 4M is a preemptive raise with five or more trumps.
 * 2N! is a game-forcing raise with four trumps.
-* 3m! is an invitational raise with |6ormore| cards in the minor.
 
 In the case of responding by a passed hand, the 2N bid is off the table and 2♣ (Drury) 
 becomes the limit raise, with 3M becoming a preemptive four-card raise.
@@ -63,7 +62,7 @@ The approach features distinguishing 3- vs. 4-card raises, and a non-forcing 1N:
 * 2N! is a game-forcing raise with four trumps.
 * 1N followed by 3M is a limit raise with three or more trumps.
 * 3♦! is a limit-raise with |4ormore| trumps.
-* 3♣! is an invitational raise with |6ormore| clubs.
+* 3♣! is still an invitational bid with |6ormore| clubs.
 
 .. rubric::
    1N not forcing
@@ -83,7 +82,9 @@ on both ends of the range -- not only do we prevent over-excitement on the low e
 we make it less urgent to make a limit raise with 10 points. Making a limit raise with
 three trump in a balanced hand worth 10 points is frequently wrong.
 
-The trade-off is we have to use 1N as a bid for the 6-7 point hands. This 1N is forcing. 
+The trade-off is we have to use 1N as a bid for the 6-7 point hands and then go back
+to the major. 
+
 As usual, judgment must be used on 7-8 point hands.
 
 Playing help-suit or natural game tries after a constructive raise is your choice.

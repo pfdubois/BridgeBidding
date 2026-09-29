@@ -88,7 +88,7 @@ There are just three possible bids with a competitive hand: 2M, 1♠, and 1N:
 * With three or more of your partner's suit M, you make a simple 
   raise to 2M. Support with support! Otherwise,
 * Over 1♥, bid 1♠ if you have four spades.
-* Bid 1N. This only says you do not any other bid but do have |6ormore| HCP.
+* Bid 1N. This only says you do not have any other bid but do have |6ormore| HCP.
 
 With a competitive hand, you can't bid 
 a new suit at the two-level. That requires a hand with |10ormore| HCP.
@@ -258,7 +258,7 @@ Two Over One Game Force
 
 If you are:
 
-* not a passed hand*, and 
+* not a passed hand, and 
 * there is no interference, and
 * your partner opened a *suit other than clubs*, then...
 
@@ -417,7 +417,7 @@ four or more trump.
 2N can still be used as a limit raise or better if opponents interfere with a double.
 See :ref:`Jordan 2NT <Jordan2NT>`.
 
-:: rubric::
+.. rubric::
    Responding to Jacoby 2NT
 
 Opener responds to J2NT by revaluing his hand in light of the

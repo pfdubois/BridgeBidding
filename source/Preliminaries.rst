@@ -43,7 +43,7 @@ By contrast, suppose you deal and pass, and the next opponent passes. I bid a he
 and you reply two diamonds. You already passed, so you cannot have an opening hand,
 and so your bid cannot "force to game".  Obviously, whatever our bidding rules are
 in the first situation, they have to be different now. As it happens, the rules
-we will use when we are a passed hand, or there is interference, are the older SAYC  
+we will use when responder is a passed hand, or there is interference, are the older SAYC  
 rules that historically preceded the adoption of 2/1. 
 
 When I first began to write this book both systems were equally popular.
