@@ -67,7 +67,7 @@ deck but we have |10ormore| trump.  If we don't make our
 contract, at least we kept them from finding their fit. Such a bid is called a
 :term:`preemptive` raise. 
 
-.. warning:
+.. warning::
    Do not bid 4M with a better hand. Jumping to game 
    might cause us to miss a slam. The most common error I see intermediates make is
    bidding 4M immediately with an opening hand.
@@ -80,7 +80,7 @@ If you have six points, you must bid something.  Even if you have a void in
 partner's suit, you must bid something. Your partner could have an unbalanced hand with
 21 points. 
 
-.. warning:
+.. warning::
    You must respond with 6 or more HCP, even if you have a void in partner's suit.
    
 There are just three possible bids with a competitive hand: 2M, 1♠, and 1N:

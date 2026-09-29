@@ -402,6 +402,12 @@ Glossary
    runout
       A method of escaping from a penalty double, such as a double of a 1N opener.
 
+   SAYC
+      Standard American Yellow Card, a bidding system that came after Goren and 
+      before 2/1.  The story of the name is that a special event was held where 
+      everyone was to use the same system, and the cards they passed out to the 
+      players were yellow. 
+
    seat
       Your position with respect to the Dealer or the opener. For example, the Dealer
       is in first seat, and his partner is in third seat.

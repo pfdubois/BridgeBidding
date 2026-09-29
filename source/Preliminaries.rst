@@ -7,32 +7,31 @@ Preliminaries
 How I Came To Write This Book
 -----------------------------
 
-As I retired in 2005, I began playing bridge online.  The players were no
-longer using the Goren system of bidding that I had read about as a child.
-Although I had played a small amount of party bridge as an adult I had avoided
-bridge after seeing the cream of my class of mathematicians at U.C. Berkeley
-flunk out when they played bridge at the Student Union all day and night.  So
-then, about to retire, I found myself with only a bare-bones document on
-OKBridge to explain this mysterious "Standard American Yellow Card" (SAYC) and
-the more advanced extension of it, "Two Over One Game Force", not to mention
-the seemingly endless collection of conventions, bids that did not mean what
-they appeared to mean.
+As I retired in 2005, I began playing bridge online.  The players were
+no longer using the Goren system of bidding that I had read about as a
+child. I had avoided bridge after seeing the cream of my class of
+mathematicians at U.C. Berkeley flunk out because they played bridge at
+the Student Union all day and night.  So then, about to retire, I found
+myself with only a bare-bones document on OKBridge to explain this
+mysterious "Standard American Yellow Card" (SAYC) and the more advanced
+extension of it, "Two Over One Game Force", not to mention the seemingly
+endless collection of conventions.
 
-I set out to remedy the situation for myself.  I soon realized others were in
+I soon realized others were in
 the same boat, especially people in other countries for whom bridge books were
-expensive. So I made it my goal to provide an Open Source book that helps a
+expensive. So I made it my goal to provide a free (Open Source) book that helps a
 bridge player get from intermediate to advanced. I have constantly revised my
 set of explanations as my own understanding has grown. 
 
-In 2024 I was fortunate to place in the top 10 in the world in the Realbridge.online 
-bidding contest.  I wish my cardplay and defense would keep up!
+In 2024 and 2025 I was fortunate to place in the top 10 in the world in the 
+Realbridge.online bidding contest.  I wish my cardplay and defense would keep up!
 
 The Bidding Rules Have Two Branches
 -----------------------------------
 
-The first part of this book presents the Two Over One Game Force (2/1) system
-that is popular in North America. The more basic Standard American Yellow Card
-(SAYC) is subsumed in that system. Here is what I mean.
+This book presents the Two Over One Game Force (2/1) system
+that is popular in North America. The older Standard American Yellow Card
+(:term:`SAYC`) system is subsumed in that system. Here is what I mean.
 
 Let's suppose I deal and I open a heart. The next person passes and you, my partner,
 bid two diamonds.  You have made a two-level bid over my higher-ranked suit. In the
@@ -43,18 +42,16 @@ neither of us can pass short of 3N or a four-level bid.
 By contrast, suppose you deal and pass, and the next opponent passes. I bid a heart,
 and you reply two diamonds. You already passed, so you cannot have an opening hand,
 and so your bid cannot "force to game".  Obviously, whatever our bidding rules are
-going to be in this situation, they have to be different now. As it happens, the rules
-we will use are the older SAYC set of rules that historically preceded the adoption 
-of 2/1. We also need to use those rules when the opponent to the left of the opener 
-makes a bid before the responder can speak.
+in the first situation, they have to be different now. As it happens, the rules
+we will use when we are a passed hand, or there is interference, are the older SAYC  
+rules that historically preceded the adoption of 2/1. 
 
-You will still find people playing SAYC. The predecessor to that was "Goren",
-the system popularized by Charles Goren and that I learned as a child 70 years ago.
-The name SAYC originated in a convention card the American Contract Bridge
-League (ACBL) created for an event in which everyone was to play the same
-convention card. Apparently the sample cards were yellow in color.
-Few people play SAYC as it was written. In cases where the standard is
-sometimes or often ignored, I'll point that out. 
+When I first began to write this book both systems were equally popular.
+ We taught SAYC and later treated 2/1 as an add-on.  Increasingly it is
+clear this is the wrong approach; I believe a student should learn 2/1
+from the beginning. One can conserve the energy of the student by
+de-emphasizing conventions bids that are not natural, trading the
+natural meaning of the bid for a more important. meaning)
 
 
 How to Use This Book
@@ -64,11 +61,12 @@ You can use this book for initial learning, or as a reference. For that reason
 it has an index. It frustrates me no end that most bridge books do not. There
 is also a glossary of bridge terms. In electronic manifestations of this book,
 there are many operable links in the text. What this book lacks is the kind of
-things that are in good books written by professionals: extensive examples, and
-quizzes. I list some of my favorite sources in :ref:`Resources <bibliography>`.
+things that are in good books written by professionals: extensive examples, 
+deeper explanations, and quizzes. I list some of my favorite sources in 
+:ref:`Resources <bibliography>`.
 
 Bridge has three big topics: bidding, declarer play, and defense. An expert
-friend who has read my notes commented that the defensive part of your
+friend who read my notes commented that the defensive part of your
 notes ought to be as big as the bidding section. Indeed, your side is on
 defense half of the time. Few of us measure up -- for some reason, learning
 another convention that comes up twice a year is more compelling than the
@@ -105,13 +103,8 @@ high on the want list from your partner.
    Do not agree to play a convention unless you have a solid knowledge of it, including
    not just the initial bids but the followups, including what to do if the opponents
    interfere.  Everyone now and then fails to recognize that a bid is conventional,
-   both when they make it and when partner makes it, but each such error cancels out
+   both when they make the bid and when partner makes it, but each such error cancels out
    a year's worth of benefits from playing it.
-
-I believe that new players should learn 2/1 from the beginning, adding in the
-conventions just mentioned ASAP. You have to learn the SAYC meanings as well,
-since they apply when opener is a passed hand or there is interference. That's
-the approach we're taking here.
 
 There are many aspects of bidding, including the vital areas of competing for
 part scores and making game tries, that are not explicitly in these systems at
