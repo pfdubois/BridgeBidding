@@ -45,7 +45,7 @@ For example:
   with |6ormore| clubs. No alert is required.
 * (1♣) – P – (1♥) – 2♠ is preemptive, |6ormore| spades. No alert required.
 * If 1♣ – 2♠ is preemptive, alert it.
-* If 1♥ – 3♣ is six clubs, invitational.
+* 1♥ – 3♣ is six clubs, invitational -- one of the exceptions.
 
 A jump-shift could also be a conventional bid, such as a 
 :ref:`Bergen raise <bergen_raises>`.

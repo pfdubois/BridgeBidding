@@ -287,10 +287,6 @@ hand.
   
 * Raising partner to the three level is a weak, preemptive bid.
 
-.. note::
-   I recommend intermediates play Jordan as requiring only three-card support since
-   the redouble auctions are challenging.
-
 When partner has chosen a suit where we don't have four cards, we usually just pass.
 Only if we have a big hand do we bid again. We don't bid notrump.
 
@@ -377,8 +373,7 @@ unless they can make their trumps separately.
    single: Gavin Wolpert; going for blood redouble
    
 I highly recommend Wolpert's lessons on this subject. These auctions are difficult 
-for everyone. That's why I recommend using Jordan 2NT for a three-card raise until
-you are very experienced.
+for everyone. 
 
 When you are on the other side of it, after (1♥) X (XX), your partner has shown 
 support for the other suits.  If you have no clear preference you can pass, saying to

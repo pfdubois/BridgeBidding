@@ -555,7 +555,7 @@ Examples:
 * 1♥ (2♦) 3♥ weak hand, 4+ hearts
 * 1♥ (1♠) 3♥ weak hand, 4+ hearts
 * 1♥ (1♠) 4♥ weak hand, 5+ hearts
-* 1♥ ( X) 2N! Limit raise or better, 3+ hearts. Forcing for one round.
+* 1♥ ( X) 2N!(Jordan) Limit raise or better, 4+ hearts. Forcing for one round.
 * 1♥ ( X) XX 10+ HCP, forcing to 2♥.
 * 1♥ ( X) 2♣ |5ormore| clubs, < 10 points.
 * 1♥ (1♠) 2N Invitational, balanced hand. This bid can be passed.
