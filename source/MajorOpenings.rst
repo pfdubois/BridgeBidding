@@ -673,9 +673,8 @@ shows what to do to make a limit raise:
 
 The bids that show at least a limit raise are artificial (rows two and three); 
 this ensures that you will get to bid again, in case you have a game-forcing hand.
-(Even if a passed hand, your hand may have gotten better). Unless you decide to
-allow Jordan to show a three-card raise, XX is used -- it does not show a 3-card 
-raise at first, so you do that later.
+(Even if a passed hand, your hand may have gotten better). When you have a three-card
+raise you begin with the redouble and show the raise next.  
 
 So, ask yourself, “What's my limit raise?”. If you get that right, everything 
 else will be easy.
