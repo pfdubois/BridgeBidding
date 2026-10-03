@@ -81,7 +81,7 @@ After 1N Forcing
 The 1N response to 1M is forcing unless there was interference or responder is a passed
 hand.  Note that 1N does not promise a balanced hand, and in particular responder might
 not have any cards in M. If 1N is not forcing, passing becomes an additional option.
-When 1N is forcing its range is 6 to a bad 12.
+When 1N is forcing its range is 6 to 11.
  
 Opener's rebid over a forcing 1N response is as follows.
 

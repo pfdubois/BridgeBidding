@@ -50,8 +50,9 @@ When I first began to write this book both systems were equally popular.
  We taught SAYC and later treated 2/1 as an add-on.  Increasingly it is
 clear this is the wrong approach; I believe a student should learn 2/1
 from the beginning. One can conserve the energy of the student by
-de-emphasizing conventions bids that are not natural, trading the
-natural meaning of the bid for a more important. meaning)
+de-emphasizing conventions, which are bids that are not natural. A convention trades the
+natural meaning of the bid for a more useful meaning, but every such bid giveth and taketh 
+away, raises fear and doubt, and adds to one's mental burdens.
 
 
 How to Use This Book

@@ -471,10 +471,10 @@ of this relay system.
 Negative doubles
 ----------------
 
-A negative double is a double after we open a suit and they overcall with a bid up to our 
-negative double limit. The standard limit is 2♠ although you can use 3♠, 4♦, 4♥, or 4♠, 
-by partnership agreement. As with takeout doubles, modern practice favors at least a 
-3♠ limit.  It helps reduce confusion if you make the negative and takeout double
+A negative double is a double after we open a suit and they overcall
+with a bid up to our negative double limit. We'll use the standard
+limit, 2♠, although you can use higher values by partnership agreement.
+It helps reduce confusion if you make the negative and takeout double
 limit the same.
 
 Agreeing to "negative doubles through 2♠" means that 1♥ (2♠) X is 

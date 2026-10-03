@@ -48,7 +48,7 @@ For example:
 * If 1♥ – 3♣ is six clubs, invitational.
 
 A jump-shift could also be a conventional bid, such as a 
-:ref:`Bergen raise <Bergen>` raise.
+:ref:`Bergen raise <bergen_raises>`.
 
 Now let's consider the auction with no interference.
 

@@ -17,6 +17,13 @@ If you have support for partner's major, be sure to revalue your hand and do a
 HCP hand, especially one with four trump, or a hand with an LTC of 7, may be
 appropriate for treating as game-going. 
 
+Just in general, the ranges for various bids are not hard-and-fast rules.  As you 
+become more nuanced in hand evaluation, or with more difficult hands, you may decide
+to bend the rules.  A bad 12 HCP hand with a flat shape might be treated as an 11.
+A more shapely 10 might be a game force because of a double-fit. Rather than putting 
+in a lot of weasel-words like "6-11 or a bad 12", I'll try to be terse and have 
+that understood. 
+
 We focus on finding eight or more card major fits.  There is also an effort to
 distinguish nine-card fits from eight-card fits, as nine-card fits are much
 easier to play.
@@ -143,6 +150,8 @@ If you don't have a raise, we're back to the same rules as for minor openings:
 * If your partner opened 1♥, bid 1♠ if you have |6ormore| HCP and |4ormore| spades.
 * Bid your longest suit. If you have two four-card suits bid the
   cheapest. If you have two |5ormore| card suits, bid the higher-ranked.
+  Of course, if your cheapest suit is clubs, you can't bid that because it would be 
+  Drury, so by "cheapest" I mean the cheapest natural bid.
 * Bid 2N with a balanced hand and 11 or 12 points. With 10 HCP and no fit, it is
   probably best to treat the hand as a bad 10 and just bid 1N.
 * A new possibility: Bid 3♣ with an invitational hand and |6ormore| clubs.
@@ -303,7 +312,7 @@ they would not have a bid and all have to bid 1N.
 
 Hmmm. OK, let's do that.
 
-* The range of the 1N response becomes 6 to 11 or a bad 12 instead of 6 to 10. 
+* The range of the 1N response becomes 6 to 11. 
   We make this bid forcing for one round.
   
 * Opener will :term:`announce` "forcing". Opener must make another bid.
@@ -318,8 +327,6 @@ With an invitational hand and three trump, we bid 1N(forcing) and then bid 3M on
 turn. (These are the hands where we did Drury in when we were a passed hand).
 
 With an invitational hand and |4ormore| trump, we bid 3M immediately.
-  
-Without a raise, we bid as in standard. 
 
 .. rubric::
    Game-Going Hands
@@ -580,12 +587,6 @@ This bid is called Jordan 2NT (who popularized it in America) or Truscott 2NT
 This bid shows four trump as in Jacoby 2NT; with 3 card support, one makes a 
 :ref:`"going for blood" redouble <blood>`.  
 
-However, my recommended partnership agreement for
-intermediates is to make a Jordan 2N bid with 3-card support also -- the
-redouble sequences are rather difficult. Jordan over the takeout double gets the
-support message in early so partner can revalue their hand, and prevents a
-low-level bid from the opponents.
-
 One of the competitive principles we use is that jumps in competition are weak. A
 notable exception is replying to your partner's takeout double.  Until we get
 to all that, just note that a bid of 3M here is a preemptive four-card raise.
@@ -602,7 +603,7 @@ showing both minors, so it risks partner doing something else like 3N or 4m.
 
 By partnership agreement, you can make 2N a limit raise in this case. I call this 
 :ref:`Jordan All The Time <JATT>` (strictly my own name for it, as I've never seen
-another). Some experts even play 2N as a four-card raise over any interference.
+another).
 
 
 Discussion

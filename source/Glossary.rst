@@ -436,7 +436,7 @@ Glossary
       the slower of the two shows a hand that is the stronger or possesses a stopper.
             
    splinter
-      A triple-jump bid showing a stiff or a void in the suit bid and agreeing to 
+      A double-jump bid showing a stiff or a void in the suit bid and agreeing to 
       partner's last-bid suit as trump. Examples are 1♠ – 4♥!, 1♥ – 4♣!, and the 
       tricky one, 1♥ – 3♠!.
  
