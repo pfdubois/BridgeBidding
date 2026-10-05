@@ -1,0 +1,17 @@
+/* HTML only: make 3rd- and 4th-level headings less prominent than 2nd-level ones.
+   The classic theme sets h2 160%, h3 140%, h4 120%, all with 20px top margins. */
+div.body h3 {
+    font-size: 115%;
+    margin-top: 14px;
+    margin-bottom: 6px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+div.body h4 {
+    font-size: 105%;
+    margin-top: 12px;
+    margin-bottom: 4px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}

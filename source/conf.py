@@ -146,3 +146,13 @@ epub_uid = project
 epub_exclude_files = ['search.html']
 
 
+# HTML pages only (not EPUB, which is built by a subclass of the HTML builder):
+# add _static_html/custom.css, which makes 3rd- and 4th-level headings smaller.
+def _html_only_css(app):
+    if app.builder.name in ('html', 'dirhtml', 'singlehtml'):
+        app.config.html_static_path.append('_static_html')
+        app.add_css_file('custom.css')
+
+
+def setup(app):
+    app.connect('builder-inited', _html_only_css)
