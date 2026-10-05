@@ -73,6 +73,28 @@ It used to be that a minimum opening hand was 13 HCP. So if responder had 12, th
 wanted to be in game.  But with the opening requirements now down to 12, responder
 wants a decent 12 or 13.
 
+.. index::
+   single: judgment
+   single: lesser of two evils
+
+As I said in :ref:`Hand Evaluation <Hand_Evaluation>`, bidding is a little language --
+and it is a *little* language. It has only so many words, and there are a great many
+more hands than there are bids. Most of the time you will find a bid that tells your
+story well enough. But often you won't: your hand is a point too strong for one bid and
+a point too weak for the next, or it has the right strength but the wrong shape, or the
+suit you want to show is a card short. The bidding language simply can't describe
+everything.
+
+When that happens you have to choose the lesser of two evils: the bid that tells the
+smallest lie. That is why you'll see me say "you may have to" or "you'd have to decide"
+so often in this book. I am not going to try to tell you how to handle every one of
+these situations. There are far too many of them, and the experts don't agree about
+plenty of them anyway.
+
+What I can tell you is to ask yourself which lie your partner can best survive, and
+which bid leaves you a sensible call next time. With experience you will get a feel for
+it. That feel is what bridge players call judgment, and no book can give it to you.
+
 Competitive auctions we will cover later -- but the concepts and need to classify our
 hand are the same.
 

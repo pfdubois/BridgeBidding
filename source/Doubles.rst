@@ -255,6 +255,8 @@ takeout doubler has already counted shortness points.  More than that, bid 4♥.
 We use the same logic if our RHO has also bid (usually raising his partner). We use
 the level we are going to have to go to and our partner's range, and do the math.
 
+.. _when_they_double:
+
 .. index::
    single: takeout double; when they make one
    single: redouble; after their takeout double
@@ -482,7 +484,7 @@ Point-wise, a negative double at the one level requires six points.
 At the two or three level this rises to 8 to 10 points. If vulnerable, these 
 requirements edge upwards a couple of points.
 
-.. note:
+.. note::
    There is NO upper limit on a negative double.
 
 More importantly, to make a negative double, you have to have the right shape:
@@ -641,6 +643,8 @@ a great long major and want it led.
    it is my lead.  Oh well, at least I reminded myself what to lead, but I also
    told the declarer.
    
+.. _is_that_penalty:
+
 .. index::
    single: penalty double; recognizing
    single: double; penalty or not?

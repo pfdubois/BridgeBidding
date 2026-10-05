@@ -47,7 +47,7 @@ we will use when responder is a passed hand, or there is interference, are the o
 rules that historically preceded the adoption of 2/1. 
 
 When I first began to write this book both systems were equally popular.
- We taught SAYC and later treated 2/1 as an add-on.  Increasingly it is
+We taught SAYC and later treated 2/1 as an add-on.  Increasingly it is
 clear this is the wrong approach; I believe a student should learn 2/1
 from the beginning. One can conserve the energy of the student by
 de-emphasizing conventions, which are bids that are not natural. A convention trades the

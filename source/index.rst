@@ -29,7 +29,6 @@ Bridge Bidding
    MinorOpenings
    Checkback
    MajorOpenings
-   OpenerRebid
    TwoClubs
    Preempts
    Doubles

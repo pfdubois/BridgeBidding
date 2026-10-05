@@ -313,8 +313,8 @@ Glossary
 
    Two Over One
    2/1
-      An advanced version of Standard American,
-      "Two Over One Game Force", is so-named for the signature 
+      The system this book teaches; it is a successor to Standard American.
+      "Two Over One Game Force" is so-named for the signature 
       non-jump bid of two of a new suit over partner's opening one-level bid in a suit.
 
    minor 

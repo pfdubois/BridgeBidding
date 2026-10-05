@@ -384,5 +384,5 @@ an Ace and the Queen of trump. That's too much -- if we are missing just one key
 but have the Queen of trump, that's a 6♥ bid.  As it is, we just pass 5♥.
 The 1N system did its job very well, this is not a good slam, about 25%. 
 
-If West had been the dealer, after 1♥ – 2N! – 3N! – 4♦(control), we would get to the
+If West had been the dealer, after 1♥ – 2N! – 3♥ – 4♦(control), we would get to the
 same place. 
