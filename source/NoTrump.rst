@@ -86,7 +86,30 @@ need a five-card or longer suit anyway, and bidding that suit may be preferable.
    suits, especially if that suit is a good minor, rebidding 2N next.
 
 .. index::
-   single: 1N; choosing a response
+   pair:summary tables;balanced opening 
+      
+.. table:: Balanced Openings
+
+   +-----+------------+-------------+
+   |HCP  | Opening Bid| System On?  |
+   +=====+============+=============+
+   +12-14|1x then 1N  | NMF         |
+   +-----+------------+-------------+
+   |15-17|1N          | Yes         |
+   +-----+------------+-------------+
+   |18-19|1m then 2N  | NMF         |
+   +-----+------------+-------------+
+   |20-21|2N          | Yes         |
+   +-----+------------+-------------+
+   |22-24|2♣ then 2N  | Yes         |
+   +-----+------------+-------------+
+   |25-27|2♣ then 3N  | Yes         |
+   +-----+------------+-------------+
+   |28-30|2♣ then 4N  | Yes         |
+   +-----+------------+-------------+
+
+.. index::
+   !single: 1N; choosing a response
    
 How To Choose A Response To 1N
 ------------------------------
@@ -109,7 +132,8 @@ notice it is a very long chapter, because there are a lot of subtleties.
 The ideas mostly carry over to the higher-level notrump bids as detailed in
 :ref:`The 2N Opening Family <open2N>`.
 
-The section :ref:`Summary of 1N Responses <NTSummary>` in the Summary Charts chapter contains a reference outline.
+The section :ref:`Summary of 1N Responses <NTSummary>` in the Summary Charts chapter 
+contains a reference outline.
 
 When you open in notrump, you have told your partner your strength within 3 points, 
 and that you have a balanced shape. This means your partner is actually best placed
@@ -513,7 +537,7 @@ available. Here is our scheme to try to find either a 4-4 or 5-3 fit:
 
 Partners must be on their toes not to pass the game-forcing bids.
 
-.. note:
+.. note:: 
    See the convention :ref:`Smolen <smolen>`. In this convention, after opener bids 2♦,
    responder bids the *four*-card suit at the three-level to :term:`puppet` opener 
    so that if opener has a 3-5 fit he can be the one to bid the suit.

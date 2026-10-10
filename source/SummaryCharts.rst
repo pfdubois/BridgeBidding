@@ -2,13 +2,19 @@
 
 .. _SummaryCharts:
 
-Summary Charts
+.. index::
+   !single:summary tables
+   
+Summary Tables
 ==============
 
-This chapter collects the summary charts from the chapters on responding to openings.
+This chapter collects the summary charts for the chapters on responding to openings.
 
 .. _NTSummary:
 
+.. index::
+   pair:summary tables;1N Responses 
+   
 Summary of 1N Responses 
 -----------------------
 
@@ -23,26 +29,6 @@ Balanced or Semi-Balanced Hands
 
 This chart is for the standard 15-17 HCP 1N opener. System On means that transfers
 and the minor relay are on. NMF means they are not, use :ref:`New Minor Forcing <NMF>`.
-
-.. table:: Balanced Openings
-
-   +-----+------------+-------------+
-   |HCP  | Opening Bid| System On?  |
-   +=====+============+=============+
-   +12-14|1x then 1N  | NMF         |
-   +-----+------------+-------------+
-   |15-17|1N          | Yes         |
-   +-----+------------+-------------+
-   |18-19|1m then 2N  | NMF         |
-   +-----+------------+-------------+
-   |20-21|2N          | Yes         |
-   +-----+------------+-------------+
-   |22-24|2♣ then 2N  | Yes         |
-   +-----+------------+-------------+
-   |25-27|2♣ then 3N  | Yes         |
-   +-----+------------+-------------+
-   |28-30|2♣ then 4N  | Yes         |
-   +-----+------------+-------------+
 
 .. note::
    4NT is always quantitative after 1NT (never Blackwood / RKC).
@@ -199,7 +185,7 @@ with 3N or 5m depending on his hand; or he can control-bid or ask for Aces.
 .. _summary_major:
 
 .. index::
-   single: major opening; summary tables
+   pair:major opening;summary tables
 
 Responses To 1M
 ---------------
@@ -367,7 +353,7 @@ Each table has the same rows in the same order, so you can compare the situation
 .. _summary_minor:
 
 .. index::
-   single: minor opening; summary tables
+   pair: minor opening; summary tables
 
 Responses To 1m
 ---------------

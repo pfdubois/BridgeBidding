@@ -32,11 +32,14 @@ help:
 
 clean:
 	rm -rf $(BUILDDIR)
-#	rm -rf $(PUBLISH)/*  didn't play well with iCloud
 
-all: clean html text latexpdf epub  
+all: clean html text latexpdf epub install
+
+install:
+	rm -fr $(PUBLISH)
+	mkdir $(PUBLISH)
+	cp .nojekyll $(PUBLISH)/.nojekyll
 	cp -R build/html/* $(PUBLISH)
-	rm -fr $(PUBLISH)/_sources
 	cp -f build/epub/$(PUBNAME).epub $(PUBLISH)/$(PUBNAME).epub
 	cp -f build/latex/$(PUBNAME).pdf $(PUBLISH)/$(PUBNAME).pdf
 	cp -R build/text $(PUBLISH)/$(PUBNAME)Chapters
