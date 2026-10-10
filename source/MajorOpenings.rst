@@ -52,7 +52,7 @@ A set of responses called the "standard" responses applies in two cases:
 #. If there was competition (they doubled or overcalled).
 
 These are also the rules for the older Standard American (SAYC) system.
-The rules are pretty much what they were for minor openings.
+The rules for choosing a strain are pretty much what they were for minor openings.
 These cases are covered later in the chapter, in
 :ref:`Responding As A Passed Hand <passed_hand_major>` and
 :ref:`Responding After Interference <interference_major>`.
