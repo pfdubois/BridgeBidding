@@ -24,7 +24,6 @@ Bridge Bidding
    Opening
    Planning
    NoTrump
-   NTSummary
    TwoNT
    MinorOpenings
    Checkback
@@ -57,6 +56,7 @@ Bridge Bidding
    AdvancedRunouts
    AdvancedTransfers
    InterestingGadgets
+   SummaryCharts
    Glossary
    Resources
    

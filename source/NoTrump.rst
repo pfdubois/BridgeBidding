@@ -109,7 +109,7 @@ notice it is a very long chapter, because there are a lot of subtleties.
 The ideas mostly carry over to the higher-level notrump bids as detailed in
 :ref:`The 2N Opening Family <open2N>`.
 
-The chapter :ref:`Summary of 1N Responses <NTSummary>` contains a reference outline.
+The section :ref:`Summary of 1N Responses <NTSummary>` in the Summary Charts chapter contains a reference outline.
 
 When you open in notrump, you have told your partner your strength within 3 points, 
 and that you have a balanced shape. This means your partner is actually best placed

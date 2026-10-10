@@ -66,6 +66,10 @@ things that are in good books written by professionals: extensive examples,
 deeper explanations, and quizzes. I list some of my favorite sources in 
 :ref:`Resources <bibliography>`.
 
+The :ref:`Summary Charts <SummaryCharts>` chapter collects the summary tables of
+responses to 1N, to a major, and to a minor, for quick reference and review. Each
+chapter links to its tables there.
+
 Bridge has three big topics: bidding, declarer play, and defense. An expert
 friend who read my notes commented that the defensive part of your
 notes ought to be as big as the bidding section. Indeed, your side is on
