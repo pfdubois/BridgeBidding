@@ -88,6 +88,9 @@ need a five-card or longer suit anyway, and bidding that suit may be preferable.
 .. index::
    pair:summary tables;balanced opening 
       
+System On means that transfers and the minor relay are on. NMF means they are not;
+use :ref:`New Minor Forcing <NMF>`.
+
 .. table:: Balanced Openings
 
    +-----+------------+-------------+
@@ -174,7 +177,7 @@ by your point count alone:
 * With fewer than 8 HCP, pass.
 * With an invitational hand (8-9 HCP) bid 2N.
 * With a game-going hand (10-15 HCP), bid 3N.
-* With a slam invitational hand (16+-17 HCP) bid 4N.
+* With a slam invitational hand (16-17 HCP) bid 4N.
 
 4N is a :term:`quantitative` raise. Responder has enough for 6N if
 the opener is on the top of his bid, a good 16 or 17. If responder is SURE
@@ -294,7 +297,7 @@ hand is invitational, game forcing, or has slam interest:
   major suit to the 3-level to invite game, or to the four level to play.
   
 * If a fit has been found but responder has too good a hand to bid game,  bidding
-  three of the other major (3W) shows a power raise (18+ HCP).  It is a game force, 
+  three of the other major (3W) shows a power raise (16+ HCP).  It is a game force, 
   of course.
 
   For example: 1N – 2♣ – 2♠ – 3♥! (power raise). Now opener should start 

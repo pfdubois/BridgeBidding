@@ -27,12 +27,63 @@ Balanced or Semi-Balanced Hands
 .. index::
    single: 1N; summary of responses
 
-This chart is for the standard 15-17 HCP 1N opener. System On means that transfers
-and the minor relay are on. NMF means they are not, use :ref:`New Minor Forcing <NMF>`.
+.. _summary_1N_balanced:
+
+.. index::
+   single: 1N; balanced responding hand
+
+This chart is for the standard 15-17 HCP 1N opener and a balanced responding hand
+(4-3-3-3, 4-4-3-2, or 5-3-3-2).
+
+.. list-table:: Responding To 1N With A Balanced Hand
+   :header-rows: 1
+   :widths: 20 30 50
+
+   * - HCP
+     - Response
+     - Notes
+   * - 0-7
+     - Pass
+     - With no four-card major (or a flat hand with one).
+   * - 8-9
+     - 2N
+     - Invitational. No other invitational method for balanced hands.
+   * - 10-15
+     - 3N
+     - Game.
+   * - 16-17
+     - 4N
+     - :term:`Quantitative`: opener bids 6N with a good 16 or 17.
+   * - 18-19
+     - 6N
+     - Classically. You can ask for Aces with 4♣ (Gerber) first.
+   * - 20-21
+     - 5N
+     - Grand Slam Force (opener bids 6N or 7N), or
+       :ref:`5N Pick-A-Slam <pick_a_slam>` by agreement.
+   * - 22+
+     - 7N
+     - 
+   * - 8-15, a four-card major(s), not 4-3-3-3
+     - 2♣ (Stayman)
+     - With a fit, raise to 3M (invitational, 8-9) or 4M (10-15). With no fit,
+       2N or 3N by the ranges above.
+   * - 16+, a four-card major(s), not 4-3-3-3
+     - 2♣ (Stayman)
+     - With a fit, bid three of the other major (3W!), a power raise (16+ HCP);
+       it is a game force, and opener should start :term:`control bidding`.
+       With no fit, bid notrump by the ranges above (4N is quantitative, denying a fit).
+   * - Any, five-card major (5-3-3-2)
+     - 2♦ or 2♥ (transfer)
+     - See the unbalanced charts below for the continuations.
+   * - Any, five-card minor
+     - As above by points
+     - Do nothing special with a five-card minor.
 
 .. note::
-   4NT is always quantitative after 1NT (never Blackwood / RKC).
-   Use 4♣ Gerber to ask for aces instead.
+   4NT is quantitative when no fit has been agreed; after a fit is agreed (for
+   example with the 3W power raise), 4N asks for keycards. Whenever 4N is
+   quantitative, use 4♣ Gerber to ask for Aces.
    
 Unbalanced Hands
 ~~~~~~~~~~~~~~~~
@@ -77,7 +128,7 @@ After 1N – 2t – 2M:
 One Four-Card Major
 ^^^^^^^^^^^^^^^^^^^
 
-Use :ref:`Stayman <Stayman>` but NOT if your hand is 4=3=3=3 or 3=4=4=3.
+Use :ref:`Stayman <Stayman>` but NOT if your hand is 4=3=3=3 or 3=4=3=3.
 The hand should be invitational or better, unless weak, short in clubs, intending to 
 pass opener's rebid regardless.
 
@@ -86,7 +137,7 @@ If opener rebids your major, revalue your hand, then:
 
 * Raise to 3M with an invitational hand.
 * Raise to 4M with 10+ points.
-* If you have slam interest (say 16+) you can power-raise by bidding 3 of the other 
+* If you have slam interest (16+) you can power-raise by bidding 3 of the other 
   major (3W!), which invites opener to start bidding a :term:`control`.
 
 If opener doesn't show a fit then bid NT at an appropriate level as in the no-major case.
