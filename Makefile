@@ -33,7 +33,7 @@ help:
 clean:
 	rm -rf $(BUILDDIR)
 
-all: clean html text latexpdf epub install
+all: clean html text latexpdf epub
 
 install:
 	rm -fr $(PUBLISH)
