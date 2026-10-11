@@ -707,6 +707,28 @@ Notice that this scheme is inferior to the one in
 scheme for the bids from 2♠ to 3♠ that replaces the Minor Relay and these three-level bids
 with something more useful. 
    
+Recommended 1N Structure for Intermediates
+------------------------------------------
+
+Here is what I recommend for intermediates.  You'll need partnership agreement.
+
+* Play the major transfers and Texas transfers, and
+  :ref:`Minor Relay <Minor_Relay>`.
+* Play the 1N – 3x bids as natural and invitational.
+  
+Do not try to get to five of a minor; the basic decision is whether to go past
+3N or not.  Once you go past 3N, you're going to really hope you can bid the
+slam because 5m is usually a bad outcome (especially in matchpoints) if 3N is
+making. The minor relay slam try has the virtue of letting opener call it off
+with 3N or 5m depending on his hand; or he can control-bid or ask for Aces.   
+  
+.. warning::
+
+   A great many players, some with considerable experience, are misinformed about
+   sequences like 1N – 2♣ – 2M – 4N and 1N – 2T(transfer) – 2M – 4N. These are 
+   all quantitative. Direct skeptics to any good book or professional web page on 2/1. 
+   Do not let an allegedly more experienced partner bully you on this.
+
 .. index::
    pair: opening; balanced
    single: 1N; between 1N and 2N
