@@ -1,6 +1,23 @@
 
 # Makefile for Sphinx documentation
 #
+# How to use it:
+#
+#   make all       Build html, text, pdf and epub into build/ only.
+#                  Use this any time to check that the book builds.
+#                  It never touches docs/.
+#
+#   make install   Empty docs/ and refill it from what is in build/.
+#
+#   make publish   Do "make all" and then "make install". Use this
+#                  before every commit, then "git add docs".
+#
+#   make hooks     Run this once on each computer. It turns on a check
+#                  that stops "git commit" if build/ is newer than docs/
+#                  (that is, if you forgot "make install"). The check
+#                  itself is the script tools/pre-commit.
+#                  To commit anyway, use: git commit --no-verify
+#
 
 # You can set these variables from the command line.
 SPHINXOPTS    =
@@ -16,11 +33,14 @@ EPUB = build/epub/BridgeBidding.epub
 #CLEAN_EPUB = build/epub/BridgeBiddingX.epub
 #EBOOK_CONVERT_PATH = /Applications/calibre.app/Contents/MacOS/ebook-polish
 
-.PHONY: help clean html dirhtml singlehtml epub latex latexpdf text man linkcheck 
+.PHONY: help clean all install publish hooks html dirhtml singlehtml epub latex latexpdf text man linkcheck 
 
 help:
 	@echo "Please use \`make <target>' where <target> is one of"
-	@echo "  all    to populate docs folder with html, epub and pdf"
+	@echo "  all        to build html, text, pdf and epub into build/ (docs untouched)"
+	@echo "  install    to replace docs/ with the outputs already in build/"
+	@echo "  publish    to do all, then install (use this before committing)"
+	@echo "  hooks      to install the git pre-commit check on this computer"
 	@echo "  html       to make standalone HTML files"
 	@echo "  dirhtml    to make HTML files named index.html in directories"
 	@echo "  singlehtml to make a single large HTML file"
@@ -32,11 +52,15 @@ help:
 
 clean:
 	rm -rf $(BUILDDIR)
-	rm -fr $(PUBLISH)
-	mkdir $(PUBLISH)
-	cp .nojekyll $(PUBLISH)/.nojekyll
 
 all: clean html text latexpdf epub
+
+publish: all install
+
+hooks:
+	cp tools/pre-commit .git/hooks/pre-commit
+	chmod +x .git/hooks/pre-commit
+	@echo "Installed the pre-commit check in .git/hooks."
 
 install:
 	rm -fr $(PUBLISH)

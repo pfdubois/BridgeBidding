@@ -1,0 +1,15 @@
+#!/bin/sh
+# BridgeBidding pre-commit check.
+# Stops a commit if build/ holds outputs newer than docs/,
+# which means "make install" (or "make publish") was forgotten.
+# To commit anyway, use: git commit --no-verify
+if [ -f build/html/index.html ]; then
+    if [ ! -f docs/index.html ] || [ build/html/index.html -nt docs/index.html ]; then
+        echo ""
+        echo "STOP: build/ is newer than docs/."
+        echo "Run 'make install' (or 'make publish'), then 'git add docs', then commit again."
+        echo ""
+        exit 1
+    fi
+fi
+exit 0
