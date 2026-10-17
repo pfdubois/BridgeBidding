@@ -243,6 +243,7 @@ Preempt Keycard
 .. _preempt_keycard:
 
 .. index::
+   !single:Preempt Keycard
    pair: convention; Preempt Keycard
    pair: slam try; Preempt Keycard
    single: RKC; 0-1-1-2-2 scale

@@ -1,4 +1,7 @@
 .. include:: ../rst_prolog.txt
+
+
+.. _preempts:
  
 Preemptive Opening Bids
 =======================
@@ -12,7 +15,7 @@ Nomenclature <Notation>` and review :ref:`Classifying Your Hand
 <classification>` to classify your hand as weak, competitive, invitational,
 game-going, or slam interest.
 
-A :term:`preemptive` bid, or :term:`preempt` for short, is one designed to make the
+A preemptive bid, or :term:`preempt` for short, is one designed to make the
 opponents miserable even though you have a poor hand, by using up the room they
 have to maneuver. The opening preempts are those bids above 2♣. 
 
@@ -51,7 +54,7 @@ hand. Interfering with their auction becomes paramount.  In third seat it is oft
 advisable to open at the two level with a six-card suit if you have even up to 14 HCP.    
 
 .. index::
-   single: passout seat; preempts in
+   single: passout seat; preempts
 
 In fourth seat you do not preempt, you pass if you can't make a one-level opening.
 With a six-card suit and a minimal opening hand, you can open at the two-level.

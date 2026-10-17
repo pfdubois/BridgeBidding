@@ -32,6 +32,9 @@ help:
 
 clean:
 	rm -rf $(BUILDDIR)
+	rm -fr $(PUBLISH)
+	mkdir $(PUBLISH)
+	cp .nojekyll $(PUBLISH)/.nojekyll
 
 all: clean html text latexpdf epub
 

@@ -59,22 +59,9 @@ The opening bids are:
 * Opening 2♣ (artificial) to show a very strong hand (|22ormore| HCP balanced or 
   somewhat fewer with a long, strong suit). Forcing!
   
-The opening bids from 2♦ through 5♦ are :term:`preemptive`.  Do not make them with
-weak hands even though you have the correct length. Note that you and your partner
-must agree on how strong your suit is. One suggested agreement is that a preempt 
-promises at least a Queen in the suit if non-vulnerable, or a :term:`good suit` 
-(two of top three honors or three of the top five, excluding QJT) if vulnerable. 
-
-In third seat you can stretch a bit. Be careful not to preempt with too good a holding; 
-many 10 HCP hands are too good for that.
-  
-* 2♦, 2♥, 2♠ show a usually |6ormore|-card suit and 5-10 HCP.
-* 3♣, 3♦, 3♥, 3♠ show a usually seven-card suit and 5-10 HCP. Sometimes 3♣ is bid with 
-  six good clubs, since the 2♣ bid can't be used.
-* Opening four of a major shows an eight-card suit. 
-  Usually we don't do that in a minor since it tends to push them to bid a major
-  game out of desperation. Instead use five of the minor. These are weak bids -- 
-  don't make them with good hands.
+* Opening 2♦︎/2♥︎/2♠︎ or higher suit bids are :term:`preemptive`. These are weak bids with
+  long suits.  When to make these bids is detailed in the chapter 
+  :ref:`Preemptive Opening Bids <preempts>`. Not available in fourth seat.
   
 The next few chapters will give details on these bids and their sequelae. 
 

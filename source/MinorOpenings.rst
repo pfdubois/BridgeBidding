@@ -53,7 +53,7 @@ Responding As An Unpassed Hand With No Interference
 ---------------------------------------------------
 
 .. index::
-   single: minor opening; preemptive raise
+   single: minor opening; preempts
 
 Responding With A Weak Hand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
