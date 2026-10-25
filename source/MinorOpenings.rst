@@ -318,6 +318,12 @@ singleton or no other good bid, we can raise. Mike Lawrence gives this example::
 After 1♦ – 1♥, he recommends 2♥. "If you bid 1N expect a spade lead and your goose may
 be well done," Lawrence says. "That diamond suit does not merit a rebid." 
 
+.. index::
+   single: Spiral; mentioned in minor openings
+
+Advanced partnerships can use :ref:`Spiral <spiral>` to let responder ask whether
+such a raise has three or four cards, and whether it is minimum or maximum.
+
 Once opener has made a three-card raise, which responder thinks is a four-card raise,
 opener can bid NT at his next bid, if he gets one, to show this. Playing in a 4-3 fit
 is not the end of the world.

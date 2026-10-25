@@ -161,6 +161,8 @@ and whether or not any of them are wasted opposite the short suit.
 
 Variation: always use 2N! as the inquiry bid.
 
+.. _spiral:
+
 .. index::
    pair: convention; Spiral
    single: raises; of responder's major (Spiral)
