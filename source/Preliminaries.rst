@@ -18,8 +18,8 @@ extension of it, "Two Over One Game Force", not to mention the seemingly
 endless collection of conventions.
 
 I soon realized others were in
-the same boat, especially people in other countries for whom bridge books were
-expensive. So I made it my goal to provide a free (Open Source) book that helps a
+the same boat, especially people in other countries where bridge books were
+too expensive. So I made it my goal to provide a free (Open Source) book that helps a
 bridge player get from intermediate to advanced. I have constantly revised my
 set of explanations as my own understanding has grown. 
 
@@ -160,6 +160,9 @@ You can contribute additions such as examples and quizzes for chapters
 by sending a plain text file. Extra points for using reStructuredText markup. 
 Use Bridge Books in the subject and mail to me at ``pfdubois@gmail.com``.
 
+If you are considering building the book on your own machine, the top-level file 
+"buildnotes.txt" explains the process.
+
 Acknowledgments
 ---------------
 
@@ -174,6 +177,12 @@ Engstrom.
 I am definitely a #Gavinista. Gavin's set of video lessons at wolpertbridge.com covers 
 everything; if you learn better from people than from books, this might be the best 
 path for you.
+
+Starting in 2026, I began using Grok Bot as an editorial assistant. The Bot helped me 
+find typos, improve the index, resolve inconsistencies across the book, and aide in 
+restructuring some chapters that were particularly long and confusing. Grok Bot 
+can help you set up the software stack you need to build the book, too. I build on 
+MacOs but things should be similar on Windows or Linux. 
 
 About The Author
 ----------------
