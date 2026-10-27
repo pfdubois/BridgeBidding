@@ -12,10 +12,6 @@ We now begin the study of what to do when the opponents compete with us.  While 
 have seen glimpses of this in individual situations, most competition does not follow
 a simple pattern. So buckle up.
 
-Negative doubles and takeout doubles are really crucial parts of competitive bidding.
-Even though they are so basic, there are a frightening number of players who do not
-use them correctly.  Study this chapter carefully and return often.
-
 The phrase :term:`takeout double` is used to describe a bid that asks partner 
 to bid rather than pass. By contrast a :term:`penalty double`, also
 called a :term:`business double`, means a double made with the intent to make 
@@ -41,10 +37,11 @@ This chapter includes:
 * :ref:`Going For Blood Redouble <blood>` of their takeout double,
 * :ref:`Negative Doubles <negative_double>`, which require
 * :ref:`Reopening Doubles <reopening_double>`, to protect a partner who passed
-  because they bid his suit; and
+  because they bid his suit.
 * :ref:`SOS Redoubles <SOS>` to save us when we need saving.
 * :ref:`Lead-Directing Doubles <lead_directing>` are doubles meant to suggest a 
-  lead to partner when you expect he will be the opening leader.
+  lead to partner when you expect he will be the opening leader. A double of 
+  an artificial bid is lead-directing.
 * :ref:`Lightner Doubles <LightnerDouble>` of final game and slam contracts ask
   partner for an unusual lead.
 
@@ -66,7 +63,7 @@ limit, say four hearts. To say that "double is takeout through 4♥" means that
 is 2♠. Other popular limits are 3♠, 4♦, 4♥, and 4♠.  Modern practice favors at
 least a 3♠ limit.
 
-A takeout double shows one of three kinds of hands:
+A takeout double shows one of two kinds of hands:
 
 #. A normal takeout double:
 
@@ -77,9 +74,9 @@ A takeout double shows one of three kinds of hands:
 #. A one-suited hand or a balanced hand too strong (18+) to overcall. (Recall that
    the range for an overcall is 8-17).
 
-  The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
-  notice too late that you only have two clubs or you're at the three level with 10 points 
-  and your partner doesn't have any points at all.
+The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
+notice too late that you only have two clubs or you're at the three level with 10 points 
+and your partner doesn't have any points at all.
 
 For a normal takeout double, you can also add points for shortness in their
 suit in evaluating your hand. You're planning on being the dummy so you're
@@ -120,12 +117,13 @@ doubles over one of a major. Most good players use this convention. Be sure to
 agree with your partner on it.  On an ACBL convention card you check the box
 under Special Doubles that says "Min Offshape T/O".
 
-Suppose they open a major, say a heart, and you have ♠KQ82 ♥92 ♦AQ962 ♣Q7.
+Suppose they open a heart, and you have ♠KQ82 ♥92 ♦AQ962 ♣Q7.
 
 Without ELCD, you cannot double here to try to show your four spades. You'd 
-have to just bid 2♦ and risk losing the spade suit. 
+have to just bid 2♦ and risk losing the spade suit. If you did double and your partner 
+responded 2♣︎, bidding 2♦︎ would show extra strength because you doubled and bid again.
 
-ELCD says that you can double here and then bid diamonds if your partner bids clubs, to 
+With ELCD, if you double and then bid diamonds,
 show 4 of the other major and 5+ diamonds but *no extra strength*.
 
 The downside is that with an 18-point hand with diamonds, you can no longer bid diamonds
