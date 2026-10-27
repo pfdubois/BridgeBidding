@@ -6,3 +6,6 @@ _sources
 output.txt
 
 
+# macOS/iCloud conflict duplicates such as "index 2.html"
+* 2.*
+* 2
