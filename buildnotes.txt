@@ -1,55 +1,80 @@
 Notes on how to build the book
+(revised October 2026 to match the new Makefile)
 
-~/.zprofile needs to reflect the current Python and pip versions.
+THE MAKE COMMANDS
+-----------------
+In a terminal, cd to the BridgeBidding folder, then:
 
-make clean all
+   make html      Quick check: builds only the HTML into build/html.
+                  open build/html/index.html to look at the results.
 
-populates the directory docs with the html site, and the epub and pdf files, along with
-zip files for the html and text outputs.
+   make all       Cleans build/, then builds html, text, pdf and epub
+                  into build/. It never touches docs/, so it is always
+                  safe to run just to see whether the book builds.
 
-The Tex Live distribution for the Mac, MacTeX is installed, along with
-the latest Python and Sphinx packages.
+   make install   Empties docs/ and refills it from build/: the html
+                  site, BridgeBidding.pdf, BridgeBidding.epub,
+                  BridgeBidding.zip, BridgeBiddingChapters.zip, and
+                  the .nojekyll file GitHub Pages needs.
 
-To update Python: pip install --update Python
-To update Sphinx: pip install --update Sphinx
-To update MacTex see their site.
+   make publish   make all, then make install. Run this before every
+                  commit.
 
-Warning errors:
+   make hooks     Run once on each computer. It installs a check
+                  (tools/pre-commit) that stops "git commit" if build/
+                  is newer than docs/, i.e. if you forgot make install.
+                  To commit anyway: git commit --no-verify
 
-The make latexpdf command gets two harmless error messages about the Unicode VS15
-symbol (U+FE0E). This is a symbol that gets appended on to the suit symbols to make 
-them black and white for sure. 
+THE WORKFLOW
+------------
+Only one computer works on the book at a time (my Mac, my other Mac,
+or the Bridge Book assistant). Always start by getting the latest:
 
-The make epub command gets a harmless warning error about the file .nojekyll.  
-That is an empty file in the subdirectory docs that is used to publish the html onto the 
-git site. It is needed to get the themes right.
+   git pull
 
-GitHub / Github pages is used to do version control and publishing from the BridgeBidding 
-repository, see github.com.
+Edit files in source/ with BBEdit. Then:
 
-git push from the computer publishes to pfdubois.github.io/BridgeBidding.  
+   make html                   check for error messages, look at it
+   make publish                full build, refreshes docs/
+   git status                  see what changed
+   git add -A                  stage everything, including deletions
+   git commit -m "what I did"
+   git push                    publishes to pfdubois.github.io/BridgeBidding
 
-The workflow is:
-   Edit files (I use BBEdit)
-   In a terminal navigate to BridgeBidding directory. Then:
-      make html
-      open build/html/index.html to check results.
-      
-   I do that first to be sure I see error messages in the html build. 
-   Then:
-      make all
-      This cleans, then populates, the docs subdirectory. That directory becomes the
-      website after you do the git push below.)
-      
-      Commit changes to the local git:
-      git add .
-      git commit -m'explanation' .
-      Then publish to GitHub (changes visible to the public) with 
-      git push
-      
-      (Assuming you have git properly connected and credentialed to pfdubois.github.com)
+Note: "make clean all" is no longer the way to publish. "make all" no
+longer writes to docs/; you need "make publish" (or "make install").
 
-I found I had to run 
-git config http.postBuffer 524288000
-after getting an error about the remote end hung up unexpectedly.
-      
+EXPECTED HARMLESS MESSAGES
+--------------------------
+- latexpdf: messages about the Unicode VS15 symbol (U+FE0E). It is
+  appended to the suit symbols to force black-and-white glyphs.
+- epub: a warning about an unknown mimetype for .nojekyll. That empty
+  file is needed so GitHub Pages serves the theme correctly.
+
+SOFTWARE ON EACH COMPUTER
+-------------------------
+Needed: Python 3 with Sphinx, a TeX distribution with xelatex,
+latexmk and xindy (xindy sorts the PDF index), git, make, zip.
+
+iMac:
+   MacTeX (full TeX Live) and Python/Sphinx installed with pip.
+   ~/.zprofile must put the current Python on the PATH.
+   Update Sphinx:  pip install --upgrade sphinx
+   Update MacTeX:  see tug.org/mactex
+
+Neon (laptop), set up October 2026, no admin password needed:
+   Python 3.13 via uv; Sphinx lives in its own environment at
+      ~/.venvs/sphinx   (kept outside iCloud on purpose)
+   TinyTeX (a small TeX Live) in ~/Library/TinyTeX
+   ~/.zshrc puts both on the PATH.
+   Update Sphinx:   uv pip install --upgrade sphinx --python ~/.venvs/sphinx
+   Update TeX:      tlmgr update --self --all
+   Missing LaTeX package error:  tlmgr install <package-name>
+   The book folder is on the iCloud Desktop. The first time a computer
+   opens it, git can be very slow while iCloud downloads the files.
+
+TROUBLESHOOTING
+---------------
+If git push fails with "the remote end hung up unexpectedly", this
+fixed it once:
+   git config http.postBuffer 524288000
