@@ -49,6 +49,8 @@ This chapter includes:
   * :ref:`Support Doubles and Redoubles <support_double>`,
   * :ref:`Responsive Doubles <responsive_double>`, and
   * :ref:`Maximal Doubles <maximal_double>`.
+* :ref:`Is That Penalty? <is_that_penalty>` explains how to distinguish these doubles from
+  a :term:`business double`.
 
 .. index::
    !single: takeout double
@@ -584,7 +586,7 @@ point trying for a higher score with a redouble, so this bid is available as
 distress call. This is also called an :term:`SOS Redouble`.
 
 Contrast this with the :ref:`going for blood case <blood>` where we open, the next player 
-doubles, and the responder redoubles. This shows 10+ points and suggests no fit. 
+doubles, and the responder redoubles. This shows |10ormore| points. 
 The opponents may be in severe trouble.
 
 .. index::
@@ -613,6 +615,9 @@ may not want a heart lead.
 A very important opportunity for a lead-directing double is when opponents are
 making artificial replies to Ace-asking bids. If the reply is the suit you want led,
 you double to tell partner about this.
+
+Do try to remember not to make a lead-directing double when you aren't going to be on 
+lead!
 
 .. _LightnerDouble:
 
@@ -651,9 +656,11 @@ a great long major and want it led.
 Special Doubles
 ---------------
 
-These three special doubles have their own area on your convention card.  Be sure to
+These three (optional) special doubles have their own area on your convention card.  Be sure to
 mark it appropriately. You have to decide at what level the double stops being 
 conventional and turns to penalty.  The usual agreement is conventional through 2♠.
+These doubles are difficult for beginners but add at least the Support doubles 
+as soon as you can.
 
 Support Doubles and Redoubles
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -742,6 +749,7 @@ as a convention to invite.
 .. index::
    single: penalty double; recognizing
    single: double; penalty or not?
+   single: double; forcing pass situations
 
 Is That Penalty?
 ----------------
@@ -759,9 +767,17 @@ agreed to play with your partner. Check these:
 * A double of a 2N opener or a 2♣ opener shows a hand two-suited in the majors. 
 * A double of an artificial bid (Stayman, a transfer, etc.) is lead-directing.
 * If your partner was forced to bid and doubled, it is for penalty.
-* The double of an overcall of a preemptive opener is penalty.
-* When we have established a fit, doubling is penalty.
+* The double of a preemptive overcall is penalty. Thus (2♥︎) X is takeout, but 1♦︎ (2♥︎) X
+  is penalty.
 * When your partner preempts and they overcall, doubling is penalty.
+* When we have established a fit, doubling is penalty.
+* If our side has bid to a confident game, and they bid past us (such as 5♥︎ over our 4♠︎),
+  we are in what is called a forcing pass situation. They will not be allowed to play
+  undoubled; either we double them or we bid on. If the partner with the first opportunity
+  passes, the other must either double or bid over them. If they double, it is for 
+  penalty. So, if the first partner doubles, he is saying, "I can't bid over them. you
+  decide".  One must distinguish this case from the one where it is unclear if anybody
+  can make, in which case a pass is not forcing.
 
 When the advancer bids, such as 1♦ (1♥) [banana] (2♥), opener's double on his second bid 
 shows |16ormore| points. When the number of points the "banana" promised is 
