@@ -40,7 +40,6 @@ Bridge Bidding
    JS
    Slam
    Conventions
-   SpecialDoubles
    Lebensohl
    TwoDiamonds
    AdvancedMajor
