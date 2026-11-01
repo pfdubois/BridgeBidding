@@ -57,23 +57,15 @@ Judging How High
    Put another way, compete to the level of your combined trumps: with an eight-card fit,
    the two level; with a nine-card fit, the three level.
 
-*  Competing with balanced hands (e.g. 5332) but no fit is never as good as it looks. 
-   Lean toward defending.
-
-*  If you have no defensive values, lean toward competing with something positive like
-   an extra trump.
+*  Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
+   thing you can, you're saying you don't have 8 good points. Just because it is a 
+   competitive auction doesn't mean to always go low.
 
 *  Extreme shapes call for extreme measures. 
 
    Read Marty Bergen's famous book, :title:`Points Schmoints`. If you have a double fit, 
    or you have a 6 – 5 hand, get really aggressive.  "Six-Five, Come Alive" they say.
 
-*  Look for a reason to bid, not a reason to pass, but don't bid without a reason.
-   We are never "just competing". This is admittedly tougher to judge in matchpoints.
-
-*  Don't be cheap. If your partner makes a takeout double, and you bid the lowest 
-   thing you can, you're saying you don't have 8 good points. Just because it is a 
-   competitive auction doesn't mean to always go low.
 
 When To Act
 -----------
@@ -98,8 +90,21 @@ When To Act
    that you have some reason to bid; when you bid because you have to, he cannot make 
    such an inference. To bid, you will be short in their suit and shapely.
 
+*  Competing with balanced hands (4333 or 5332) is never as good as it looks. 
+   Lean toward defending.
+
 *  It is usually the person who is short in their agreed suit that needs to do some 
    competing if appropriate.
+   
+*  Look for a reason to bid, not a reason to pass, but don't bid without a reason.
+   We are never "just competing". This is admittedly tougher to judge in matchpoints.
+   If you have no defensive values, lean toward competing with something positive like
+   an extra trump.
+
+* If an opponent has shown a two-suited hand, such as bidding Michaels or Unusual 2N, it 
+  is likely that other suits may break badly. Be biased towards a lower contract or 
+  defending, and plan your play accordingly.
+
 
 Balancing and Sacrificing
 -------------------------
