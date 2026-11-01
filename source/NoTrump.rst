@@ -272,8 +272,8 @@ Stayman 2♣ is artificial but not alerted, because it has become common practic
 After 1N – 2♣, opener *must* choose one of three replies: 2♦, 2♥, or 2♠. 
 
 * 2♦ no four-card major.
-* 2♥ 4+ hearts, and maybe 4 spades.
-* 2♠ 4+ spades, but denies 4 hearts, or the spades are longer than your hearts.
+* 2♥ |4ormore| hearts, and maybe 4 spades.
+* 2♠ |4ormore| spades, but denies 4 hearts, or the spades are longer than your hearts.
 
 If opener has four hearts and four spades, he bids 2♥. 
 
@@ -297,7 +297,7 @@ hand is invitational, game forcing, or has slam interest:
   major suit to the 3-level to invite game, or to the four level to play.
   
 * If a fit has been found but responder has too good a hand to bid game,  bidding
-  three of the other major (3W) shows a power raise (16+ HCP).  It is a game force, 
+  three of the other major (3W) shows a power raise (|16ormore| HCP).  It is a game force, 
   of course.
 
   For example: 1N – 2♣ – 2♠ – 3♥! (power raise). Now opener should start 
@@ -384,12 +384,12 @@ you don't have to reason why, yours is to but do or die.
   
   * 2♥ Opener completes ("accepts") the transfer. Opener might have two cards in the 
     suit, so no fit has been found yet.
-  * 3♥ Opener has 4+ hearts and a maximum 1N bid (:term:`super-accept`)
+  * 3♥ Opener has |4ormore| hearts and a maximum 1N bid (:term:`super-accept`)
 
 * 1N – 2♥ is a transfer to spades.
   
   * 2♠ completes the transfer.
-  * 3♠ Opener has 4+ spades and a maximum 1N bid (:term:`super-accept`).
+  * 3♠ Opener has |4ormore| spades and a maximum 1N bid (:term:`super-accept`).
 
 Unlike Stayman, responder's strength is not an issue. A poor hand containing one 
 five-card or longer major, even if it has zero points, must transfer to that suit, 
@@ -428,10 +428,10 @@ After a transfer to 2M is accepted, responder bids:
 * Pass with less than invitational values.
 * 2N invitational. Opener can pass, bid 3N, or bid 3M or 4M with 3-card support. 
 * 3m a second suit, absolutely game forcing, possibly with slam interest.
-* 3M invitational, 6+ cards in the major. Now we have an 8-card fit for sure. Opener
+* 3M invitational, |6ormore| cards in the major. Now we have an 8-card fit for sure. Opener
   must revalue his hand, but he may then choose to pass.
 * 3N to play, opener can correct to 4M with 3 trumps.
-* 4M to play, 6+ cards in the major.
+* 4M to play, |6ormore| cards in the major.
 * 4♣ Gerber
 * 4N :term:`quantitative`.
 
@@ -606,9 +606,9 @@ with your partner. Check the boxes on your convention cards.
 If you have a six-card major and a minimum game forcing hand, you can use a
 Texas Transfer:
 
-* 1N – 4♦ transfer to hearts (6+, GF)
+* 1N – 4♦ transfer to hearts (|6ormore|, GF)
 
-* 1N – 4♥ transfer to spades (6+, GF)
+* 1N – 4♥ transfer to spades (|6ormore|, GF)
 
 Texas Transfers are on over interference. The name Texas for Americans implies "big":
 big hats, big toast, big meat, big suit. 
@@ -687,7 +687,7 @@ lower minor (clubs), and the higher bid (spades) to the higher minor
 Three-Level Suit Responses
 --------------------------
 
-The standard is that 3-level bids over 1N are natural, showing 6+ cards in the
+The standard is that 3-level bids over 1N are natural, showing |6ormore| cards in the
 suit bid, with invitational values.  
 
 However, there are about as many schemes for the bids from 3♣ to 3♠ as
@@ -836,8 +836,8 @@ After 1N (P) 2T (X), the opponents are presumably bidding T:
   Subsequently, if the next player passes, a XX by responder transfers again to M. 
   A bid of the transfer suit, such as 1N (P) 2♥ (X); P (P) 3♥ is 
   :ref:`Western Cue <Western_Cue>` asking opener to bid 3N with a stopper.
-* 2M: Agrees M as trump, shows 3+ cards in M. 
-* 3M: Agrees M as trump, shows 4+ cards in M, and a maximum opener. 
+* 2M: Agrees M as trump, shows |3ormore| cards in M. 
+* 3M: Agrees M as trump, shows |4ormore| cards in M, and a maximum opener. 
 * XX: Opener has the transfer suit, willing to play in 2T redoubled. Opener 
   should have a positively scary holding in T.
 

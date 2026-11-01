@@ -204,7 +204,7 @@ shown at least 10 points, so if responder has to preference to the , there is no
 problem -- we're already known to have around 23 points. Therefore, we do not
 consider a 2-level continuation a reverse. For example, after 1♣︎ (1♠︎) 2♥︎ (P), opener's 
 bid of 2♠︎ is not a reverse.  If responder doesn't like spades, he can bid 3♣︎ knowing 
-that the 2♥︎ bid shows 10+ points, so 3♣︎ will be "safe". 
+that the 2♥︎ bid shows |10ormore| points, so 3♣︎ will be "safe". 
 
 Downey and Pomer's book :title:`Standard Bidding With SAYC` has a long 
 section on reverses with a lot of examples.
@@ -234,7 +234,7 @@ always open 1♣.
 
 Since a reverse is forcing one round, you can sometimes use it when nothing
 else is available to keep the auction going. But in general, if your hand is
-19+ points, and you have a good suit, opener might think of jumping a level in a
+|19ormore| points, and you have a good suit, opener might think of jumping a level in a
 new suit. This is called a :term:`jump-shift` by opener, and it is always strong.
 
 .. index::
@@ -274,7 +274,7 @@ exclamation point).
 Any bid other than a suit preference or 2N is game forcing when using this convention.
 
 2N! (relay) – 3♣(forced) – 3♠(to play) shows a minimal hand like
-(1), while a direct 2♠ is forcing a round and shows 5+ spades. After the relay,
+(1), while a direct 2♠ is forcing a round and shows |5ormore| spades. After the relay,
 bidding one of partner's two suits is showing a suit preference with a weak hand.
 
 In this context 2N! is called Ingberman and it is a use of the Lebensohl principle. 

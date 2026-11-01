@@ -36,7 +36,7 @@ bids:
 * As long as slam is possible, always show a control bid below the game
   level. Likewise, don't control bid if partner has a limited hand and slam is not
   possible. 
-* A control bid in a 5+ card side suit promises the Ace or King. For
+* A control bid in a |5ormore| card side suit promises the Ace or King. For
   example, 1♠ – 2N! – 4♦ – 4♥ (control) – 5♦ shows the Ace or King of diamonds.
   Opener's suit must be a good suit or he would have bid his shortness, so being 
   able to show possession of the Ace or King is important.

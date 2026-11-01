@@ -68,7 +68,7 @@ Then, in the case of 1m – 1♠ – 1N – 2♣! (artificial) – 2♦! (forced
 
 * Pass – signoff in 2♦.
 * 2♥ – Invitational with 5 spades and 4 hearts.
-* 2♠ – Mildly invitational with 5+ spades.
+* 2♠ – Mildly invitational with |5ormore| spades.
 * 2NT – Invitational, with 4-card support for opener's minor. This allows
   opener to sign off in 3 of the minor if he wishes.
 * 3♣ – Invitational with 4 spades and clubs.
@@ -79,7 +79,7 @@ Then, in the case of 1m – 1♠ – 1N – 2♣! (artificial) – 2♦! (forced
 If responder's suit had been hearts, make the corresponding changes:
 
 * Pass – signoff in 2♦.
-* 2♥ – Mildly invitational with 5+ hearts
+* 2♥ – Mildly invitational with |5ormore| hearts
 * 2♠ – Invitational with 5 hearts and four spades
 * 2NT – Invitational with four-card support for opener's minor.
 * 3♣ – Invitational with 4 hearts and clubs

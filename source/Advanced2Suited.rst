@@ -126,11 +126,11 @@ suits right away can be helpful, but you can't use it as often.
 However, most users of Top and Bottom use it as part of a constellation of conventions
 following Hardy:
 
-* Using the cue bid when the lower suit is at least 5+ cards, and the upper suit 4+
+* Using the cue bid when the lower suit is at least |5ormore| cards, and the upper suit |4ormore|
   cards, or equal length but substantially weaker.  Otherwise one overcalls the upper
-  suit of 5+ cards.
-* Adding "Bottom and Bottom": (1♦) – 3♣! shows 5+ clubs, 4+ hearts, and (1♣) – 2♦! shows
-  5+ diamonds and 4+ hearts. Hardy later changed his approach so that (1♣) – 2♥! shows
+  suit of |5ormore| cards.
+* Adding "Bottom and Bottom": (1♦) – 3♣! shows |5ormore| clubs, |4ormore| hearts, and (1♣) – 2♦! shows
+  |5ormore| diamonds and |4ormore| hearts. Hardy later changed his approach so that (1♣) – 2♥! shows
   this hand. Others suggest 2N!. 
 * Adding Equal Level Conversion takeout doubles.  If one doubles and then rebids at the
   same level as the response, it does not show extras. This allows takeout doubles that
@@ -138,9 +138,41 @@ following Hardy:
 
 After a Top and Bottom Cue Bid, if advancer bids his own suit it is a self-sufficient suit
 with a desire to play there. If after advancer bids, bidding or raising the upper suit
-shows a strong hand.  
+shows a strong hand.
 
-
+.. index::
+   pair:preempts;Leaping Michaels
+   pair:preempts;Non-Leaping Michaels
+   pair:convention;Leaping Michaels
+   pair:convention;Non-Leaping Michaels
    
+.. _LeapingMichaels:
+   
+Leaping Michaels
+----------------
 
+Leaping Michaels is an advanced bid. You really have to have an agreement on this one.
 
+Over a 2M preempt, a bid of four of a minor by agreement shows |5ormore| of
+the other major, and |5ormore| of the minor, with a strong hand of course, since you
+are on the four-level.  This is considered a bid of the major with additional information
+as to strength and the minor suit. So for example, a reply of 4N by advancer would be
+key-card for the major, and bidding another suit would show a control with slam interest.
+Sometimes Leaping Michaels uncovers a nice double-fit and a slam.
+
+Over 3M preempts, you can also agree to Non-Leaping Michaels, with a bid of 4m showing
+the same thing.
+
+Leaping Michaels applies in all these situations:
+
+* (2M) – ?
+* (1M) – P – (2M) – ?
+* (3M) – ? (if playing non-Leaping Michaels)
+* (1M) – P – (3M) – ? (if playing non-Leaping Michaels)
+
+Examples:
+
+* (2♥) 4♣ shows five spades and five clubs.
+* (1♥) P (2♥) 4♣ shows five spades and five clubs.
+* (2♥) 4♣ (P) 4N is keycard for spades.
+* (1♥) – P – (3♥) – 4♦ shows five spades and five diamonds.

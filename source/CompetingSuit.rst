@@ -14,7 +14,7 @@ Overcalls
 ---------
 
 An overcall is a bid after the opponents have opened. This chapter discusses
-doing so when the opponents opened a suit and we make the lowest available bid
+overcalls when the opponents opened a suit and we make the lowest available bid
 in our own strain. The range for an overcall is 8-17
 points. An overcall is above all a request for your partner to lead your suit,
 so the first requirement is a suit you want led. On the bottom end, a one-level
@@ -23,7 +23,7 @@ overcall can be much more relaxed than a two-level overcall.
 With 18 or more points, you usually double first. If you don't double first,
 partner will assume you have 8-17 and may pass your overcall despite having
 enough for game opposite your strong holding. Your partner will think it is a
-:term:`takeout` double at first. This "power double" is discussed in
+:term:`takeout` double at first. This :term:`power double` is discussed in
 :ref:`Takeout Doubles <takeout_double>`.
 
 To make an overcall in a dangerous case such as a two-level overcall,
@@ -33,7 +33,7 @@ if your partner becomes the opening leader.
 
 One case that requires special caution is overcalling a minor at the two level.
 Your reward is not high while your risk is high, especially vulnerable.  It is
-really best to have a good six-card suit, and 10+ HCP.
+really best to have a good six-card suit, and |10ormore| HCP.
 
 You can overcall 1N with 15-18 HCP and a stopper (preferably more) in their suit.
 If they have preempted with a 2-level suit bid, overcalling it 2N means about the
@@ -60,25 +60,43 @@ probably six cards, and very good values. This is called a 'live auction'. For a
 know the opener has a strong hand and was about to bid again. This situation is 
 dangerous.
 
+.. _responding_to_overcall:
+
 .. index::
    single: overcalls; responding to partner's
 
 Responding To Partner's Overcall 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
-Responding to an overcall as the advancer:
+Responding to an overcall as the :term:`advancer`:
 
 * Recognize in choosing a response that partner's range is 8-17 HCP because he did not
   double. You should have a lot of information already about points around the table.
-* There is no standard as to when an overcall is forcing, but the usual agreement is that
-  an overcall at the one level is forcing but a two-level overcall is not. Of course
-  if the responder then bids you're off the hook.
+* An overcall is not forcing; with nothing to say, pass. Of course
+  if the responder bids you're off the hook.
 * Resist rescuing when you are short in partner's suit.
-* A bid of a new suit is forcing by an unpassed hand and denies a fit for the overcall.
-* A simple raise is competitive. 
-* A jump raise is preemptive.
-* A :term:`cue` bid of opener's suit is a raise. Generally, we are safe at the level of
-  the number of trump we have together.
+* A bid of a new suit by an unpassed hand is natural and constructive, but not forcing.
+  It usually denies a fit for the overcall. With a good hand that wants to force, start 
+  with a cue bid.
+* A simple raise is competitive: 6-10 points and |3ormore| trump.
+* A :term:`cue` bid of opener's suit is the one forcing bid. Most often it shows a 
+  :term:`limit raise` or better with |3ormore| trump; it can also be any strong hand, 
+  which advancer clarifies on the next round.
+* A jump raise is preemptive: weak, usually four trump.
+* By agreement only, a jump cue bid shows a :term:`mixed raise`: four trump and about 7-10 
+  points, between a preemptive jump raise and a cue bid.
+* 1N shows about 8-11 points and a stopper in their suit.
+* 2N is invitational, about 11-12 points with a stopper in their suit.
+* Generally, we are safe at the level of the number of trump we have together.
+
+Examples, after (1♦) 1♥ (P):
+
+* ♠K82 ♥J74 ♦963 ♣KJ52: bid 2♥, a competitive raise.
+* ♠A82 ♥K74 ♦963 ♣KQ52: bid 2♦, a cue bid showing a limit raise or better.
+* ♠82 ♥J974 ♦963 ♣KJ52: bid 3♥, preemptive.
+
+When partner overcalls 1N, most pairs play "systems on": respond just as you would
+to a 1N opening, with :ref:`Stayman <Stayman>` and :ref:`transfers <transfers>`.
 
 RHO might bid, most frequently to raise the opener. See 
 :ref:`Responsive Doubles <responsive_double>`, in which a double shows the unbid suits.
@@ -92,6 +110,9 @@ Your partner needs to learn you can be trusted. Avoid these errors:
 
 A very advanced approach to responding to an overcall is 
 :ref:`Transfer Advances <TransferAdvances>`.
+
+The summary table for these responses is in
+:ref:`summary_advancer` in the Summary Charts chapter.
 
 Weak Jump Overcalls
 ~~~~~~~~~~~~~~~~~~~
@@ -144,7 +165,9 @@ natural; this is especially possible after the opponents open 1♣ or 1♦.
 
 .. note::
    Cue bids are in general not alertable--- in fact, 1♣ – (2♣) is only alerted if it
-   is *natural*.  However, it is not necessarily Michaels either.  If opponents make
+   is *natural*.  However, it is not necessarily Michaels either. There are many
+   other treatments, such as "Top or Bottom", showing the top and bottom unbid
+   suits.  If opponents make
    such a bid, be sure to ask what
    they mean by it, if only at the end of the auction. This is one case when silence 
    does not mean standard.
@@ -169,10 +192,6 @@ An advanced agreement is that the 2N reply asking for the second suit shows a go
 while 3♣ asks for the second suit intending to pass. A bid like 3♣ is called a 
 "pass or correct" bid; the Michaels bidder will pass if his second suit is clubs.
 
-.. index::
-   single: preempts; competing with
-   
-
 Unusual 2NT
 -----------
 
@@ -184,8 +203,8 @@ Unusual 2NT
    single: two-suited bids; Unusual 2N
    single: 2N; Unusual 2N
 
-Unusual 2NT is a direct or balancing 2N bid after a 1-level
-opening. It shows a hand of unstated strength that is at least 5-5 in
+Unusual 2NT is a direct jump overcall of 2N after a 1-level
+opening. For 2N in the balancing seat, see :ref:`Balancing <Balancing>`. It shows a hand of unstated strength that is at least 5-5 in
 the lowest two unbid suits. Advancer should choose the best of these two
 suits, except in remarkable circumstances.
 
@@ -227,25 +246,6 @@ a maximum would be more than 15 points.
 Minimax allows more certainty in responses to two-suited bids, at the price of
 not being able to make those bids as often.
 
-Western Cue
------------
-
-.. _Western_Cue:
-
-.. index::
-   pair: convention;Western Cue
-
-When we are in a contested auction a (usually) three-level cue-bid of the opponent's suit
-denies a stopper in their suit(s) and asks partner to bid 
-3N if they have a stopper. For example:
-
-   | 1♦ (1♥) 1♠ (P) 
-   | 2♣ (P ) 3♥! (asking for heart stopper)
-
-Responder is asking opener to bid 3N if he has a stopper in hearts. Quite often 
-the Western Cue bidder has some help in their suit, such as a half-stopper, but does 
-not feel secure bidding 3N on their own.
-
 .. _CompetingPreempts:
 
 Competing Over Preempts
@@ -257,22 +257,22 @@ Competing Over Preempts
    single: preempts; competing with
    
 Preemptive bids work. They suck up bidding room and you are limited in 
-ways to enter the auction.  Once you see how annoying there are, you'll know to preempt
+ways to enter the auction.  Once you see how annoying they are, you'll know to preempt
 more.
 
 Are you weak or just competitive? Pass, even if you also have a big long suit. 
-You never preempt over a preempt. 
+You never preempt over a preempt; see 
+:ref:`Competitive Bidding <competition>`.
 
 .. rubric:: Competing Over Two-Level Preempts
 
 Doubling is for takeout but can also be a very strong hand. 
 The higher-ranking their suit, the more likely you're pushing us to the 3-level so
-the better your hand needs to be. 
-
-For example, you can agree a double
-of 2♠ is takeout but a double of 3♠ is penalty. I believe the "standard" limit is 2♠
-from SAYC but most good pairs play it higher, some even to 4♠. Double can also show 
+the better your hand needs to be. Double can also show 
 a hand too strong to just overcall, around 17/18 or more points. 
+
+Doubles of preempts are for takeout through at least 3♠, and many pairs play them 
+as takeout through 4♥ or even 4♠. Agree on your limit with your partner.
 
 Overcalling requires a good |5ormore| card suit as well as an opening 
 hand or close to it. If you can bid it at the two-level you are much safer than at 
@@ -356,41 +356,5 @@ two bids of five of the other major as in Lebensohl:
 * (2♠) X (4♠) 4N! says you have either a modest hand with heart support or both minors.
   After the doubler bids his best minor, 5♥ is to play.
 
-.. index::
-   pair:preempts;Leaping Michaels
-   pair:preempts;Non-Leaping Michaels
-   pair:convention;Leaping Michaels
-   pair:convention;Non-Leaping Michaels
-   
-.. _LeapingMichaels:
-   
-Leaping Michaels
-~~~~~~~~~~~~~~~~
-
-Leaping Michaels is an advanced bid. You really have to have an agreement on this one.
-
-Over a 2M preempt, a bid of four of a minor by agreement shows |5ormore| of
-the other major, and |5ormore| of the minor, with a strong hand of course, since you
-are on the four-level.  This is considered a bid of the major with additional information
-as to strength and the minor suit. So for example, a reply of 4N by advancer would be
-key-card for the major, and bidding another suit would show a control with slam interest.
-Sometimes Leaping Michaels uncovers a nice double-fit and a slam.
-
-Over 3M preempts, you can also agree to Non-Leaping Michaels, with a bid of 4m showing
-the same thing.
-
-Leaping Michaels applies in all these situations:
-
-* (2M) – ?
-* (1M) – P – (2M) – ?
-* (3M) – ? (if playing non-Leaping Michaels)
-* (1M) – P – (3M) – ? (if playing non-Leaping Michaels)
-
-Examples:
-
-* (2♥) 4♣ shows five spades and five clubs.
-* (1♥) P (2♥) 4♣ shows five spades and five clubs.
-* (2♥) 4♣ (P) 4N is keycard for spades.
-* (1♥) – P – (3♥) – 4♦ shows five spades and five diamonds.
-
-
+Over a 2M preempt, a strong hand with the other major and a minor can use the 
+advanced convention :ref:`Leaping Michaels <LeapingMichaels>`.

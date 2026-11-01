@@ -65,16 +65,16 @@ This chart is for the standard 15-17 HCP 1N opener and a balanced responding han
      - 5N
      - Grand Slam Force (opener bids 6N or 7N), or
        :ref:`5N Pick-A-Slam <pick_a_slam>` by agreement.
-   * - 22+
+   * - |22ormore|
      - 7N
      - 
    * - 8-15, a four-card major(s), not 4-3-3-3
      - 2♣ (Stayman)
      - With a fit, raise to 3M (invitational, 8-9) or 4M (10-15). With no fit,
        2N or 3N by the ranges above.
-   * - 16+, a four-card major(s), not 4-3-3-3
+   * - |16ormore|, a four-card major(s), not 4-3-3-3
      - 2♣ (Stayman)
-     - With a fit, bid three of the other major (3W!), a power raise (16+ HCP);
+     - With a fit, bid three of the other major (3W!), a power raise (|16ormore| HCP);
        it is a game force, and opener should start :term:`control bidding`.
        With no fit, bid notrump by the ranges above (4N is quantitative, denying a fit).
    * - Any, five-card major (5-3-3-2)
@@ -107,7 +107,7 @@ One 5+ Card Major M (no 4-card other major)
 * With a 5-card major, transfer, then bid 3NT.
 * With |6ormore|, transfer, then bid 4M. See :ref:`Texas Transfers <Texas>`.
 
-**Slam Interest (16+ HCP)**:
+**Slam Interest (|16ormore| HCP)**:
 
 * With a 5-card major, transfer, then bid 3NT.
 * With |6ormore|, transfer then quantitative 4M.
@@ -122,7 +122,7 @@ One 5+ Card Major M (no 4-card other major)
 After 1N – 2t – 2M:
 
 * New minor at 3-level = game force with a second suit.  Could be strong.
-* 3M = invitational with 6+ trumps. 
+* 3M = invitational with |6ormore| trumps. 
 * 3NT = to play (opener can correct to 4M with a fit). 
 * 4♣ = Gerber. 
 * 4M = |6ormore| trumps. See :ref:`Texas Transfers <Texas>`, recommended.
@@ -140,8 +140,8 @@ Bid 2♣︎; the opener rebids a |4ormore|-card major, or bids 2♦︎ to deny o
 If opener rebids your major, revalue your hand, then:
 
 * Raise to 3M with an invitational hand.
-* Raise to 4M with 10+ points.
-* If you have slam interest (16+) you can power-raise by bidding 3 of the other 
+* Raise to 4M with |10ormore| points.
+* If you have slam interest (|16ormore|) you can power-raise by bidding 3 of the other 
   major (3W!), which invites opener to start bidding a :term:`control`.
 
 If opener doesn't show a fit then bid NT at an appropriate level as in the no-major case.
@@ -157,8 +157,8 @@ Otherwise start with Stayman 2♣ (artificial, asks for a 4-card major).
 Opener replies:
 
 * 2♦ = no 4-card major 
-* 2♥ = 4+ hearts (may have spades) 
-* 2♠ = 4+ spades (denies 4 hearts)
+* 2♥ = |4ormore| hearts (may have spades) 
+* 2♠ = |4ormore| spades (denies 4 hearts)
 
 Then invite or raise to game in a discovered fit, or bid
 2NT/3NT if no fit. 
@@ -195,7 +195,7 @@ Long Minor (no 4-card major)
 
 * :ref:`Minor Relay <minor_relay>`, then bid 3NT.
 
-**Slam Interest (16+ HCP)**: 
+**Slam Interest (|16ormore| HCP)**: 
 
 * Bid 2♠︎ (:ref:`Minor Relay <minor_relay>`), then bid 3♥︎ to show interest in a club slam, 
   or 3♠︎ to show interest in a diamond slam.  This is part of the Minor Relay convention.
@@ -206,14 +206,14 @@ Quick Reference
 These are the most common standard responses:
 
 * Pass: weak 
-* 2♣: Stayman (4+ major(s) or special weak hands) 
-* 2♦: Jacoby transfer to hearts (5+ hearts) 
-* 2♥: Jacoby transfer to spades (5+spades) 
-* 2♠: Minor Relay (6+ minor, usually weak) 
+* 2♣: Stayman (|4ormore| major(s) or special weak hands) 
+* 2♦: Jacoby transfer to hearts (|5ormore| hearts) 
+* 2♥: Jacoby transfer to spades (|5ormore| spades) 
+* 2♠: Minor Relay (|6ormore| minor, usually weak) 
 * 2NT: balanced, invitational (8-9) 
 * 3NT: balanced game (10-15) 
 * 4NT: quantitative slam try
-* 4♦/4♥: Texas transfer (optional, game force with 6+ major)
+* 4♦/4♥: Texas transfer (optional, game force with |6ormore| major)
 
 .. _summary_major:
 
@@ -236,7 +236,7 @@ Each table has the same rows in the same order, so you can compare the situation
    * - Pass
      - Fewer than 6 HCP; with some hands a light simple raise to 2M.
    * - Simple raise
-     - 2M: |3ormore| trump, 6-10\ :sup:`-`.
+     - 2M: |3ormore| trump, 6-|bad10|.
    * - Limit raise, 3-card
      - 1N (forcing), then 3M: three trump, 10-11.
    * - Limit raise, 4-card
@@ -275,7 +275,7 @@ Each table has the same rows in the same order, so you can compare the situation
    * - Pass
      - Fewer than 6 HCP. With four trump, or three trump to a high honor (A, K, or Q), and some shape, you can choose to raise to 2M; with five trump, consider the preemptive 4M.
    * - Simple raise
-     - 2M: |3ormore| trump, 6-10\ :sup:`-`.
+     - 2M: |3ormore| trump, 6-|bad10|.
    * - Limit raise, 3-card
      - 2♣! (Reverse Drury): limit raise, |3ormore| trump, forcing.
    * - Limit raise, 4-card
@@ -353,7 +353,7 @@ Each table has the same rows in the same order, so you can compare the situation
    * - Pass
      - Weak hands. Also pass with a trump stack in their suit, and let opener reopen.
    * - Simple raise
-     - 2M, |3ormore| trump, 6-10\ :sup:`-`; Axxx of trump and a ruffing value is also enough.
+     - 2M, |3ormore| trump, 6-|bad10|; Axxx of trump and a ruffing value is also enough.
    * - Limit raise, 3-card
      - Cue bid of their suit: limit raise or better.
    * - Limit raise, 4-card
@@ -406,7 +406,7 @@ Where the minors chapter is silent, an entry follows the
    * - Pass
      - Fewer than 6 HCP, not suitable for a preemptive raise.
    * - Simple raise
-     - None. With 6-10\ :sup:`-` and a fit, bid a suit at the one level or 1N.
+     - None. With 6-|bad10| and a fit, bid a suit at the one level or 1N.
    * - Limit raise or better
      - 2m! (Inverted Minors): |10ormore| HCP, |5ormore| trump (or four good diamonds), no four-card major. Unlimited, forcing one round, alerted.
    * - Game-forcing raise
@@ -426,7 +426,7 @@ Where the minors chapter is silent, an entry follows the
    * - Jump shift
      - 1♦ – 3♣: |6ormore| clubs, invitational. Other jump shifts are weak and alerted.
    * - 2N
-     - 11-12\ :sup:`-`, no four-card major, invitational.
+     - 11-|bad12|, no four-card major, invitational.
    * - 3N
      - Balanced, |13ormore| HCP, game forcing, stoppers in the other suits, no four-card major.
    * - Double
@@ -465,7 +465,7 @@ Where the minors chapter is silent, an entry follows the
    * - Jump shift
      - See :ref:`Jump_Shifts`.
    * - 2N
-     - 11-12\ :sup:`-`, no fit, not forcing (as after a major).
+     - 11-|bad12|, no fit, not forcing (as after a major).
    * - 3N
      - To play.
    * - Double
@@ -484,7 +484,7 @@ Where the minors chapter is silent, an entry follows the
    * - Pass
      - Less than 6 HCP, not suitable for a preemptive raise.
    * - Simple raise
-     - 2m: 6-10\ :sup:`-`, |5ormore| trump.
+     - 2m: 6-|bad10|, |5ormore| trump.
    * - Limit raise or better
      - 2N! (Jordan 2NT): |4ormore| trump (some partnerships agree on |5ormore|).
    * - Game-forcing raise
@@ -523,7 +523,7 @@ Where the minors chapter is silent, an entry follows the
    * - Pass
      - Weak hands. Also pass with a trump stack in their suit, and let opener reopen (as after a major).
    * - Simple raise
-     - 2m: 6-10\ :sup:`-`, |5ormore| trump.
+     - 2m: 6-|bad10|, |5ormore| trump.
    * - Limit raise or better
      - Cue bid of their suit at the two level.
    * - Game-forcing raise
@@ -552,6 +552,42 @@ Where the minors chapter is silent, an entry follows the
      - Not applicable.
    * - Cue bid of their suit
      - At the two level, limit raise or better. At the three level, :ref:`Western Cue <Western_Cue>`: game values, asks for a stopper.
+
+.. _summary_advancer:
+
+.. index::
+   pair: overcalls; summary tables
+
+Responding To Partner's Overcall
+--------------------------------
+
+This summarizes :ref:`Responding To Partner's Overcall <responding_to_overcall>`.
+Partner's overcall shows 8-17 points.
+
+.. list-table:: Advancer's Bids After (1x) Overcall (Pass)
+   :header-rows: 1
+   :widths: 25 75
+
+   * - Advancer's action
+     - Meaning
+   * - Pass
+     - Nothing to say. The overcall is not forcing.
+   * - New suit
+     - Natural and constructive, but not forcing (unpassed hand). Usually denies a fit.
+   * - Simple raise
+     - Competitive: 6-10 points, |3ormore| trump.
+   * - Cue bid of their suit
+     - The one forcing bid. Usually a limit raise or better with |3ormore| trump; can be any strong hand, clarified next round.
+   * - Jump raise
+     - Preemptive: weak, usually four trump.
+   * - Jump cue bid
+     - By agreement only: a :term:`mixed raise`, four trump and about 7-10 points.
+   * - 1N
+     - About 8-11 points, a stopper in their suit.
+   * - 2N
+     - Invitational, about 11-12 points, a stopper in their suit.
+   * - After a 1N overcall
+     - Systems on: respond as to a 1N opening.
 
 .. raw:: latex
 

@@ -29,7 +29,7 @@ a hand too strong to open 1♣ and rebid 3♣::
    ♣AKJ632
    
 Wolpert suggests opening this 2N and then deal with it. On the other hand, a six card 
-minor hand can be too strong for opening 2N. Wolpert suggests a range of 17+ to 19 to 
+minor hand can be too strong for opening 2N. Wolpert suggests a range of |17ormore| to 19 to 
 open 2N with a six card minor.
 
 We've discussed the basic :ref:`responses in 2N auctions <open2NR>`.

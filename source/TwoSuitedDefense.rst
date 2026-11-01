@@ -68,11 +68,11 @@ When you do not have support for partner:
    Typically this hand might look like a weak two opener in the other
    suit, 7-10 points.
 
-*  The cue bid of the “other” suit shows 5+ cards and game-forcing
+*  The cue bid of the “other” suit shows |5ormore| cards and game-forcing
    values.
 
 *  A double shows you have a penalty double of at least one of their
-   suits, and another bid. Typically this is 10+ points. Assuming
+   suits, and another bid. Typically this is |10ormore| points. Assuming
    advancer bids, partner should usually pass to give you the option of 
    making a penalty double.
 
@@ -96,13 +96,13 @@ are more complicated:
 *  A raise to the 3-level is a constructive raise (7-10 points). Larry
    Cohen recommends that this shows 3-card support for a major, or 4-card
    support for a minor. Non-forcing. A jump raise to the 4-level is weak
-   and preemptive, showing 4+ card support. Non-forcing. 
+   and preemptive, showing |4ormore| card support. Non-forcing. 
 *  A jump cue-bid is a splinter and a slam try. 1♥ (2♥) 3♠ = 
    short spades, support, slam try.
-*  A no-trump response is used to show 10+ HCP points without
+*  A no-trump response is used to show |10ormore| HCP points without
    support, with stoppers in the other three suits. 
 *  A double shows you have a penalty double of one of their suits, the known one 
-   or one of the others, typically 7+ HCP, often a balanced hand.
+   or one of the others, typically |7ormore| HCP, often a balanced hand.
 *  All other bids are not forcing.
 *  Pass can be just waiting but it is usually weak.  
 
@@ -113,7 +113,7 @@ opener are as follows.  Example::
    P   P ?
     
 *  Double is for penalty
-*  New suit is 5+ cards, game forcing.
+*  New suit is |5ormore| cards, game forcing.
 *  3N is game strength with a stopper.
 *  Bidding overcaller's suit is :ref:`Western Cue <Western_Cue>`,
    forcing to game and denying a stopper in the suit 

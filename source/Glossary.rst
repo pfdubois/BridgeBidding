@@ -1,3 +1,5 @@
+.. include:: ../rst_prolog.txt
+
 .. index::
    single: glossary
 
@@ -331,6 +333,11 @@ Glossary
       The most common example is partner opens a suit and is overcalled in another suit;
       then a double by responder is a negative double.  
       
+   off the hook
+      When the opponents bid after partner's forcing bid (such as a takeout
+      double), you no longer have to bid. A bid you make anyway is a "free" bid
+      and shows something worth saying.
+
    overcaller
       The player that overcalled; the partner of the :term:`advancer`.
       We also call him the :term:`intervenor`.
@@ -351,9 +358,10 @@ Glossary
    points
       The total value of both :term:`HCP` and distributional factors.
 
-   power double 
-       A takeout double that is a very strong hand rather than a normal opening hand.
-       It might not have support for the unbid suits.   
+   power double
+      A double that looks like a :term:`takeout double` but is followed by a new
+      suit or notrump bid, showing a hand too strong (about |18ormore| points) for a
+      simple overcall. It might not have support for the unbid suits.
        
    preempt
       (Noun) preemptive bid

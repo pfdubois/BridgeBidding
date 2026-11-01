@@ -72,7 +72,7 @@ This table shows where to look, once you have classified your hand:
    * - Fewer than 6
      - Weak
      - Pass, or make a :ref:`preemptive raise <preemptive_raise_major>`.
-   * - 6-10\ :sup:`-`
+   * - 6-|bad10|
      - Competitive
      - A :ref:`simple raise <simple_raise_major>`, 1♠ over 1♥, or
        :ref:`1N <OneNoForcingResponse>`.
@@ -135,7 +135,7 @@ fit, then choose your raise. Support with support!
 The Simple Raise
 ~~~~~~~~~~~~~~~~
 
-With three or more of your partner's suit M and a competitive hand (6-10\ :sup:`-` points),
+With three or more of your partner's suit M and a competitive hand (6-|bad10| points),
 you make a simple raise to 2M. The minus sign on the 10 means a bad 10: with 10 HCP you
 have to use judgment about whether you have a simple raise or a limit raise.
 
@@ -218,7 +218,7 @@ fit. We call this new value "declarer points".  Now:
   available: 3M, 3N, or 4M. The 3N bid can be given a meaning since you've found a
   major fit.
 
-  *  1M – 2N! – 3M 16\ :sup:`+` declarer points, no shortness, slam interest.
+  *  1M – 2N! – 3M |16ormore| declarer points, no shortness, slam interest.
   *  1M – 2N! – 3N 14-15 declarer points, no shortness.
   *  1M – 2N! – 4M Jumping to game shows 12-13 declarer points, a minimum with no
      shortness and no slam interest. This is a signoff.
@@ -298,7 +298,7 @@ opener just bids the game. Otherwise control-bidding or key-card may ensue.
 Splinter bids, particularly the  1♥ – 3♠ splinter, have been known to cause
 people to stare like a deer caught in the headlights.  The thought process to
 use is: 1♠ would be a normal bid, 2♠ would be a jump-shift, so 3♠ is jumping
-twice, so it is a splinter.  Likewise over 1M, 2♣ is the 10+ bid, 3♣ is a jump-shift,
+twice, so it is a splinter.  Likewise over 1M, 2♣ is the |10ormore| bid, 3♣ is a jump-shift,
 so 4♣ is a splinter.
 
 Usually, one does not splinter if the singleton is an Ace. 
@@ -359,7 +359,7 @@ Rarely, you bid 2/1 with as short as 3 cards in a minor. (Remember, 1♠ – 2�
 five hearts). Suppose your partner opens 1♠, and your shape is 3=4=2=4 with 13 HCP. 
 You have a dilemma:
 
-* 2♠ shows 6-10\ :sup:`-` HCP, so you're too strong for that.
+* 2♠ shows 6-|bad10| HCP, so you're too strong for that.
 * 3♠ shows 10-11 HCP, and again you're too strong.
 * 4♠ shows 5 trump and a weak hand -- again, not appropriate.
 * 2♥ is possible only if you have five hearts. You don't.
@@ -540,10 +540,10 @@ Opener's rebid over a forcing 1N response is as follows.
 
 *  2M shows 12-15, and a |6ormore| card suit, not forcing.
 *  3M rebid shows 15-17, and a |6ormore| card suit, not forcing.
-*  Any reverse is 17+, natural, forcing one round.
+*  Any reverse is |17ormore|, natural, forcing one round.
 *  2N 18-19 HCP, balanced, not forcing opposite a real minimum. Does not deny a major
    that it skipped over.
-*  A jump shift is 19+, usually natural, game forcing.
+*  A jump shift is |19ormore|, usually natural, game forcing.
 *  If none of the above applies, bid the longest side suit up the line,
    but always rebid hearts when holding |4ormore| hearts and five spades.
 
@@ -614,7 +614,7 @@ If opener has rebid a minor,
 *  pass with 6-9 HCP, usually |5ormore| in the minor, fewer than 2 of the
    opener's major
 *  bid 2M with 6-10 HCP, exactly 2 of opener's major, not forcing.
-*  A new suit at the two level is 6-9 HCP, usually 5+ in bid suit, 2 of
+*  A new suit at the two level is 6-9 HCP, usually |5ormore| in bid suit, 2 of
    the major, not forcing.
 *  2N is 10-11 HCP, fewer than 2 of the major, not forcing. Does not
    promise stops or NT shape.
@@ -678,7 +678,7 @@ Lacking spade support:
 *  2m shows a second suit and a hand not suitable to bid at the 3 level
    or to reverse.
 *  3♥ is invitational and shows |6ormore| hearts (15-17).
-*  4♥ shows 19+ and |6ormore| hearts.
+*  4♥ shows |19ormore| and |6ormore| hearts.
 
 See also :ref:`Two-Way New Minor Forcing <TWNMF>` and :ref:`XYZ <XYZ>`, advanced
 methods for responder's second bid.
@@ -865,8 +865,8 @@ When no fit is established, responder's second bid is as follows:
 * 2N shows 12-14 or 18-19 balanced, stoppers in unbid suits. Opener
   assumes 12-14 initially. 
 * A jump to 3N shows 15-17, stoppers, could be unbalanced.
-* Repeating responder's suit is natural, 5/6+ cards. 
-* A new suit is natural, 4+ cards. 
+* Repeating responder's suit is natural, 5/|6ormore| cards. 
+* A new suit is natural, |4ormore| cards. 
 * A jump in a new suit shows a singleton or void in that suit and
   support for opener's last bid major suit. Thus:
 
@@ -1048,7 +1048,7 @@ After A Takeout Double
 ~~~~~~~~~~~~~~~~~~~~~~
 
 To support after a double, simple raises remain the same, but stronger raises use 
-Jordan 2NT, discussed next. A new bid, the redouble, shows 10+ points and denies
+Jordan 2NT, discussed next. A new bid, the redouble, shows |10ormore| points and denies
 a four-card raise.  This means other 2-level bids are confined to 9 or fewer points.
 
 See :ref:`When They Make A Takeout Double <when_they_double>` and
@@ -1056,8 +1056,8 @@ See :ref:`When They Make A Takeout Double <when_they_double>` and
 
 Examples:
 
-* 1♥ ( X) 2N!(Jordan) Limit raise or better, 4+ hearts. Forcing for one round.
-* 1♥ ( X) XX 10+ HCP, forcing to 2♥. You have not denied 3-card support and will bid
+* 1♥ ( X) 2N!(Jordan) Limit raise or better, |4ormore| hearts. Forcing for one round.
+* 1♥ ( X) XX |10ormore| HCP, forcing to 2♥. You have not denied 3-card support and will bid
   hearts next.
 * 1♥ ( X) 2♣ |5ormore| clubs, < 10 points.
 
@@ -1125,7 +1125,7 @@ like this:
 
 To raise an opening 1M after an overcall,
 
-* Raise to 2M with 6-10\ :sup:`-` and |3ormore| cards. Holding Axxx of trump and a ruffing value
+* Raise to 2M with 6-|bad10| and |3ormore| cards. Holding Axxx of trump and a ruffing value
   is also enough.
 * A jump raise (e.g. 1M – 2♣ – 3M) is preemptive with four trump.
 * A jump to 4M shows a weak hand and |5ormore| trump.
@@ -1146,10 +1146,10 @@ Examples:
 
 * 1♠ – 3♠ would have meant a limit raise, but 1♠ (2♣) 3♠ is preemptive, |4ormore| spades.
 * 1♥ (1♠) 2♠! limit raise+ in hearts
-* 1♥ (2♦) 2♥ 6-10\ :sup:`-` HCP, at least three hearts
-* 1♥ (2♦) 3♥ weak hand, 4+ hearts
-* 1♥ (1♠) 3♥ weak hand, 4+ hearts
-* 1♥ (1♠) 4♥ weak hand, 5+ hearts
+* 1♥ (2♦) 2♥ 6-|bad10| HCP, at least three hearts
+* 1♥ (2♦) 3♥ weak hand, |4ormore| hearts
+* 1♥ (1♠) 3♥ weak hand, |4ormore| hearts
+* 1♥ (1♠) 4♥ weak hand, |5ormore| hearts
 * 1♥ (1♠) 2N Invitational, balanced hand. This bid can be passed.
 * 1♥ (2♦) 4♦ is a splinter in support of hearts.
 * 1♥ (2♠) presents a quandary because the 3♠ cue-bid would force opener to game.

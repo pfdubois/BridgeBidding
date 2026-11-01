@@ -156,7 +156,7 @@ After 1M (X), some bids remain the same:
 * 2M is a minimal three-card raise (but definitely minimal, unlike the standard bid)
 * 3M is a minimal |4ormore|- card raise
 * 2N is Jordan, a |4ormore|- card raise, limit+.
-* XX is as usual (10+ HCP). 
+* XX is as usual (|10ormore| HCP). 
 
 The bids from 1N! up to (M-1)! are transfers to the next higher suit. 
 

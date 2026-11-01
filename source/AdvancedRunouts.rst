@@ -24,7 +24,7 @@ The standard runout is that double asks opener to bid his best minor. That lets 
 pass or correct to some 5-card suit that you have. The problem is that this is not 
 cooperative and applies to only a fraction of the hands you might have. 
 
-This chapter shows you some better runouts. The goal is to find some 7+ card or better 
+This chapter shows you some better runouts. The goal is to find some |7ormore| card or better 
 fit. Naturally, all of the schemes have a problem when responder's hand is 4333. 
 A responder who is 4333 can decide that the four-carder is a five-carder, or that one
 of the 3-card suits is his other four-carder.
@@ -214,7 +214,7 @@ After 1N (X), responder bids:
     
 * 2♣ shows clubs and a major. 
 
-  Opener passes with 3+ clubs, bids 2♦ with four diamonds, or 2♥ with four 
+  Opener passes with |3ormore| clubs, bids 2♦ with four diamonds, or 2♥ with four 
   hearts. Responder passes with 3 in the suit bid by opener, or bids his other suit.
   
 * 2♦ shows diamonds and spades.  Over 2♦ opener passes with more diamonds than spades, 
@@ -230,7 +230,7 @@ After 1N – (P) – P – (X), opener:
 * Redoubles to show a five-card minor. Responder relays to 2♣ or bids 2♦ to show 5 
   diamonds and not 3 clubs.
   
-* Passes to show non-touching suits. Responder passes to play, bids 2♣ with 3+ clubs,
+* Passes to show non-touching suits. Responder passes to play, bids 2♣ with |3ormore| clubs,
   or 2♦ otherwise. Opener bids 2♦ over 2♣ with diamonds and spades, otherwise passes.
   Responder can correct the 2♦ to spades.
   

@@ -62,9 +62,9 @@ With:
 on the other hand, bid 1♠; it is important to show that five-card spade suit.  If
 you make a takeout double, you're denying five cards in an unbid major. 
 
-With partnership agreement, 2 of the opener's suit is Michaels. 2N is
-Unusual 2N, showing the lowest two unbid suits, perhaps only 5-4 in the
-suits if you have some decent points. Two-suited bids allow you to get
+With partnership agreement, 2 of the opener's suit is Michaels. In the
+balancing seat, 2N is natural, showing about 16 to 18 or 19 HCP; it
+is not Unusual 2N. Two-suited bids allow you to get
 in there more often, but require more experience.
 
 .. index::
@@ -159,7 +159,7 @@ We will discuss some specific auctions below. However, there are some general gu
 
 * Double only with at least three cards in all the unbid suits. 
 
-* Bid a one-suited hand (5+ cards at the one- or two-level, 6+ cards at the three-level),
+* Bid a one-suited hand (|5ormore| cards at the one- or two-level, |6ormore| cards at the three-level),
   in any of the auctions, if the suit is good.
   
 .. index::

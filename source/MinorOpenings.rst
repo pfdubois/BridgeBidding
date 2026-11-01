@@ -69,7 +69,7 @@ bid 3m! (preemptive raise) with 0-6 HCP.
 Responding With A Competitive Hand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    
-If you have 6 to 10\ :sup:`-` points, you have to bid something. Your partner could
+If you have 6 to |bad10| points, you have to bid something. Your partner could
 have as many as 21 points, so a game is not ruled out.
 
 You have to stay at the one-level. Bid your longest suit, or if you don't have one
@@ -115,7 +115,7 @@ have a four-card suit to bid, so you bid 1N.
 Responding With An Invitational Hand
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-With 10 to a bad 12 (10-12\ :sup:`-`), we have an invitational hand. Over a minor we
+With 10 to a bad 12 (10-|bad12|), we have an invitational hand. Over a minor we
 are usually aiming for 3N rather than 5m, so we may need solid values for 3N. That is
 why a bad 12 is still only invitational.
 
@@ -137,14 +137,14 @@ Our primary goal is to show a major if we have one, and lacking that to raise if
    Inverted Minors
    
 The Inverted Minors convention we are using simply makes a single raise
-a better hand than a double raise. 1m – 2m! requires 10+ points, and
+a better hand than a double raise. 1m – 2m! requires |10ormore| points, and
 denies a four-card major. The 1m – 3m! raise is preemptive, so we have
 "inverted" the 2m and 3m bids to make the 2m the stronger, leaving more
 room to check on stoppers.
 
 The inverted raise is unlimited: it covers both invitational and game-forcing
 hands with a fit. It is forcing for one round and must be alerted. Technically
-the alert should say "10+ HCP" but often players say just "Inverted".
+the alert should say "|10ormore| HCP" but often players say just "Inverted".
 
 After the raise, the partners bid stoppers up-the-line; see
 :ref:`Showing Stoppers <showing_stoppers_minor>`.
@@ -288,7 +288,7 @@ those bids responder will have to be invitational or better.
 
 If responder has bid a major M, and opener has four in that major, he will
 raise. Responder has an unlimited hand; all we know is that he has six or more
-points. So opener can raise to 2M at least, and 4M if he has 18/19+ points
+points. So opener can raise to 2M at least, and 4M if he has 18/|19ormore| points
 (because 19 + 6 are 25). The 3M bid says, partner, if you've got something more
 than six, say nine, take us to game or start looking for slam if appropriate.
 Opener has a good 15 to 17/18 points.
@@ -303,7 +303,7 @@ have sufficient strength.  For example::
    ♦AKT7
    ♣KQJT4
    
-After 1♣ – 1M, opener cannot bid 2♦ lacking the 17+ points a reverse would require. So
+After 1♣ – 1M, opener cannot bid 2♦ lacking the |17ormore| points a reverse would require. So
 he bids 2♣, knowing partner will usually expect six clubs or more. This is why some 
 choose to open such a hand 1♦, and then rebid 2♣.  
 
@@ -335,7 +335,7 @@ So, to sum up, with an unbalanced hand, after 1m – 1M the priorities are:
 * Bid a second suit of four cards or longer; or,
 * Rebid your suit if you don't have the strength for that;
 * Jump-rebid your suit with 15-17 points
-* Jump-shift with 18-19+. (Jump-shifts by *opener* are never weak). Game forcing.
+* Jump-shift with 18-|19ormore|. (Jump-shifts by *opener* are never weak). Game forcing.
 
 With a balanced hand, opener will rebid 1N with a minimum if he cannot raise or bid
 1♠. He doesn't make a three-card raise, because if responder has
@@ -427,15 +427,15 @@ initially. Notice that responder will only have a four-card major if they have
 longer clubs. What follows is the scheme suggested by Gavin Wolpert. Opener's
 rebids are:
 
-* 2♦ shows 5+ diamonds, any strength. Does not deny a four-card major. If partner
+* 2♦ shows |5ormore| diamonds, any strength. Does not deny a four-card major. If partner
   has one we will hear about it next and can raise it.
 * 2♥ or 2♠ shows a 4-card major, denies five diamonds. 
   Because we are in a game-forcing auction, this
   is not a :term:`reverse`, so does not require extra strength. 
-* 3♣ shows 3+ clubs. This doesn't settle the question
+* 3♣ shows |3ormore| clubs. This doesn't settle the question
   of strain: we still wish we could find 3N rather than 5♣. Time to show stoppers.
-* 3♦ shows 6+ diamonds, at most one loser in diamonds, and 16+ HCP.
-* 3♥, 3♠ are :term:`splinter` bids, with 4+ clubs. 
+* 3♦ shows |6ormore| diamonds, at most one loser in diamonds, and |16ormore| HCP.
+* 3♥, 3♠ are :term:`splinter` bids, with |4ormore| clubs. 
 * 2N is natural, balanced with 12-14 or 18-19 HCP.
 
 Of course, all these are forcing to 3N or 4 of a minor.
@@ -523,7 +523,7 @@ Responding After Interference
 A minor is so easy to overcall, it happens a lot, so we must be prepared. When they
 double or overcall:
 
-* Inverted Minors is off. 2m is a simple raise, 6-10\ :sup:`-`, with |5ormore| of
+* Inverted Minors is off. 2m is a simple raise, 6-|bad10|, with |5ormore| of
   partner's minor, and a jump raise to 3m is preemptive.
 * A new suit at the one level is natural, |6ormore| HCP, and forcing.
 
@@ -535,7 +535,7 @@ If they double:
 * 2N! becomes an artificial bid showing a limit raise or better 
   (:ref:`Jordan 2NT <Jordan2NT>`). Over a minor, it shows |4ormore| of partner's
   minor. Some partnerships prefer to agree on |5ormore|.
-* XX is a :ref:`Going For Blood <blood>` redouble, 10+ HCP. 
+* XX is a :ref:`Going For Blood <blood>` redouble, |10ormore| HCP. 
 * Since strong hands start with a redouble, a new suit at the 2-level after the double 
   is limited, 6-9 HCP, with |5ormore| cards. It is not forcing.
 

@@ -1,22 +1,34 @@
-.. 
-    as superscripts 
-    .. |bad10| replace:: 10\ :sup:`-`
-    .. |bad12| replace:: 12\ :sup:`-`
-    .. |10ormore| replace:: 10\ :sup:`+`
-    .. |13ormore| replace:: 13\ :sup:`+`
-    .. |3ormore| replace:: 3\ :sup:`+`
-    .. |4ormore| replace:: 4\ :sup:`+`
-    .. |5ormore| replace:: 5\ :sup:`+`
-    .. |6ormore| replace:: 6\ :sup:`+`
+..
+   Point and length abbreviations, used everywhere in the sources.
 
+   Naming scheme:
+     |Normore|  "N or more"  (points or cards), e.g. |10ormore|, |5ormore|
+     |badN|     "a bad N"    (top of a range, slightly less than N), e.g. 6-|bad10|
 
-.. |10ormore| replace:: 10+
-.. |12ormore| replace:: 12+
-.. |13ormore| replace:: 13+
-.. |16ormore| replace:: 16+
-.. |22ormore| replace:: 22+
-.. |3ormore| replace:: 3 (or more)
-.. |4ormore| replace:: 4 (or more)
-.. |5ormore| replace:: 5 (or more)
-.. |6ormore| replace:: 6 (or more)
-.. |7ormore| replace:: 7 (or more)
+   Rendering: currently the number followed by a superscript + or -.
+   To change the style everywhere, edit only the two patterns below, e.g.
+     superscript:   10\ :sup:`+`
+     plain:         10+
+     words:         10 (or more)
+   The "\ " (backslash space) joins the superscript to the number without a gap.
+   When a new number is needed, add a line in the same pattern.
+
+.. |3ormore| replace:: 3\ :sup:`+`
+.. |4ormore| replace:: 4\ :sup:`+`
+.. |5ormore| replace:: 5\ :sup:`+`
+.. |6ormore| replace:: 6\ :sup:`+`
+.. |7ormore| replace:: 7\ :sup:`+`
+.. |8ormore| replace:: 8\ :sup:`+`
+.. |10ormore| replace:: 10\ :sup:`+`
+.. |12ormore| replace:: 12\ :sup:`+`
+.. |13ormore| replace:: 13\ :sup:`+`
+.. |15ormore| replace:: 15\ :sup:`+`
+.. |16ormore| replace:: 16\ :sup:`+`
+.. |17ormore| replace:: 17\ :sup:`+`
+.. |18ormore| replace:: 18\ :sup:`+`
+.. |19ormore| replace:: 19\ :sup:`+`
+.. |22ormore| replace:: 22\ :sup:`+`
+.. |25ormore| replace:: 25\ :sup:`+`
+
+.. |bad10| replace:: 10\ :sup:`–`
+.. |bad12| replace:: 12\ :sup:`–`

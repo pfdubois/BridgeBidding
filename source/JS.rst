@@ -59,7 +59,7 @@ Now let's consider the auction with no interference.
 Strong Jump-Shifts
 ------------------
 
-A jump-shift shows, in standard bidding, a 19+ HCP hand. 
+A jump-shift shows, in standard bidding, a |19ormore| HCP hand. 
 Since slam is in the air, the bidder is not worried about getting too high, 
 he's worried about getting in an awkward situation where partner might pass.
 Examples are 1♣︎ - 2♦︎, 1♦︎ - 2♠︎. You have to agree about 1M - 3m but most do not

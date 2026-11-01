@@ -221,7 +221,7 @@ If you are going to be the declarer,
 
 * Add one point for each trump after five.
 
-* Add one point for a side suit with 4+ cards.
+* Add one point for a side suit with |4ormore| cards.
 
 If you believe from your own count and that promised by partner that the partnership 
 has 33 or more points, you should explore for slam; below 33, forget it.

@@ -28,11 +28,11 @@ where forcing bids will be safe.
 
 The SJS shows one of these types of hands:
 
-#. A strong (17+) hand with one long, strong suit containing at least two of the
+#. A strong (|17ormore|) hand with one long, strong suit containing at least two of the
    top three honors. 
 #. A balanced slam-invitational hand (17- bad 19) with a good suit. 
    After the jump-shift, you'll bid 3N to show the balanced hand.
-#. A slam-try or better hand (16+) with a good suit and length in opener's suit.
+#. A slam-try or better hand (|16ormore|) with a good suit and length in opener's suit.
    After the jump-shift, then show the support on your next bid.
 
 #. An intermediate hand (13-16) with a long *solid* major suit and good controls. You'll 
@@ -94,7 +94,7 @@ Finally, it is time for responder to make his second bid:
 * The jump to four of your major suit jump-shift is the intermediate (13-16) hand 
   with a long solid suit and good controls.
 * A simple rebid of your suit is a long, solid suit with more HCP.
-* Raising opener's suit shows 4+ if it is a minor, 3+ for a major, and tends to deny 
+* Raising opener's suit shows |4ormore| if it is a minor, |3ormore| for a major, and tends to deny 
   an outside singleton; the latter because:
 * A new suit is a splinter in support of partner.
 * Now or later, RKC is for the jump-shift suit unless you've raised the opener before it.

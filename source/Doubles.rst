@@ -75,8 +75,10 @@ A takeout double shows one of two kinds of hands:
    * At least three cards in each unbid suit, and
    * Ideally, at most a doubleton in their suit.
   
-#. A one-suited hand or a balanced hand too strong (18+) to overcall. (Recall that
-   the range for an overcall is 8-17).
+#. A one-suited hand or a balanced hand too strong (|18ormore|) to overcall. (Recall that
+   the range for an overcall is 8-17). Doubling and then bidding again
+   (a new suit or notrump) shows this kind of hand, and is also called a
+   :term:`power double`.
 
 The day you don't follow these rules you'll get an auction like (1♠) X (Pass) 3♣ and 
 notice too late that you only have two clubs or you're at the three level with 10 points 
@@ -128,7 +130,7 @@ have to just bid 2♦ and risk losing the spade suit. If you did double and your
 responded 2♣︎, bidding 2♦︎ would show extra strength because you doubled and bid again.
 
 With ELCD, if you double and then bid diamonds,
-show 4 of the other major and 5+ diamonds but *no extra strength*.
+show 4 of the other major and |5ormore| diamonds but *no extra strength*.
 
 The downside is that with an 18-point hand with diamonds, you can no longer bid diamonds
 over clubs because partner won't think you have the big hand. You'd have to bid 3♦.
@@ -158,7 +160,7 @@ minor is five cards. How high you bid shows your strength:
   
 * With a decent 9 – 11, you *must* jump-bid your suit.
 
-* With 12+, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
+* With |12ormore|, you can bid game with a five-card major; otherwise, :term:`cue` bid their 
   suit. A cue-bid is asking partner to show four-card suits up the line.  
  
 Sometimes the best suit you have is unfortunately their suit. To reply in no-trump you 
@@ -269,7 +271,7 @@ When They Make A Takeout Double
 After partner opens one of a suit, and RHO makes a takeout double, we
 basically respond the same way as if the double had never happened. If
 playing 2/1, the forcing 1N and 2/1 bids are off, so replies are
-standard bids. However there are two special bids to show a 10+ point
+standard bids. However there are two special bids to show a |10ormore| point
 hand.
 
 * A bid of 2N is a four-card limit raise of partner's major suit. 
@@ -286,7 +288,7 @@ hand.
 * Replying one of a suit is forcing for one round. 
 
 * Replying two of a suit is not forcing. The idea is that we could have redoubled with 
-  10+ points, or raised partner, so the two-level bid is at most 9 HCP. We don't have a 
+  |10ormore| points, or raised partner, so the two-level bid is at most 9 HCP. We don't have a 
   game opposite a normal opening hand.
   
 * Raising partner to the three level is a weak, preemptive bid.
@@ -331,7 +333,7 @@ if they have a nine-card fit.
 If opener bids he is letting them off the hook. However, if the opener has a six card suit 
 with minimal values and no interest in penalizing the opponents, he can rebid the suit. 
 With a better hand, he can pass first and pull partner's double to show a better hand. 
-With a still-better hand, say 15+ HCP, opener might jump-rebid to 3♥.
+With a still-better hand, say |15ormore| HCP, opener might jump-rebid to 3♥.
 
 ::
 

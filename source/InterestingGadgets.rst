@@ -98,7 +98,7 @@ Responses are:
 * 3M! (five cards) 
 
   * Responder normally chooses between 3N or 4M.
-  * Responder with slam interest and 3+ card fit in M can bid the other major
+  * Responder with slam interest and |3ormore| card fit in M can bid the other major
     as a power raise of M. 
   * 4♣ is natural with long clubs.
   * 4♦ is natural with long diamonds.

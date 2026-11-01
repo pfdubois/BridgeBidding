@@ -51,7 +51,7 @@ With |4ormore| cards,
   3♦ as a game try, asking responder to bid game with a maximum.
 * 1M – 3♦! 10-11 limit |4ormore|-card raise
 * 1M – 1N forcing may have 10-12 and 3 trump.
-* 1M – 2N! 13+ game forcing |4ormore|-card raise. (Jacoby 2N)
+* 1M – 2N! |13ormore| game forcing |4ormore|-card raise. (Jacoby 2N)
 
 If responder has 3 trumps and 10-12 points, he bids 3M the next chance he
 gets.
@@ -223,7 +223,7 @@ version of the same idea for established intermediate to advanced partnerships:
 
 Consider an extra King or so as "extras", or a hand with great playing strength.
 
-After 1M – 2N! (game forcing, 4+ card support), opener bids:
+After 1M – 2N! (game forcing, |4ormore| card support), opener bids:
 
 * 3♣! (minimal opener) to show a minimal hand. Any other bid shows extras. 
 * 3♦! extras without shortness
@@ -245,7 +245,7 @@ The shortness bids are easy to remember, since they are "steps up the line" thro
 the two minors to the other major.
 
 Note: Since a 5332 with 15-17 HCP would be opened 1N, the 3♦! reply to 2N! is usually 
-5422, or it is 18+ HCP. 
+5422, or it is |18ormore| HCP. 
 
 
 Serious 3NT

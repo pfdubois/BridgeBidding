@@ -22,7 +22,7 @@ Suit texture and length matter more than HCP.
 
 By partnership agreement you can play these in only the direct seat or also play them in
 fourth seat; but in fourth seat you need great shape or extra strength because
-the 1N bidder is behind you. 
+the 1N bidder is behind you. See :ref:`Balancing <Balancing>`.
 
 We assume here for the moment it is a 15-17 1N opener. See below for comments about
 dealing with weaker notrump openings.
@@ -33,7 +33,7 @@ dealing with weaker notrump openings.
 
 (1N) – 2N is always "unusual 2N" showing 5-5 in the minors. No cheating on length here!
 
-The two most popular conventions are called D.O.N.T. (Disturbing the
+The two most popular intermediate conventions are called D.O.N.T. (Disturbing the
 Opponent's No Trump) and Cappelletti, also known as Hamilton. Each of
 these has an advanced version meant to make it usable in more cases.
 Cappelletti has the advantage of preserving a penalty-double; D.O.N.T.
@@ -51,10 +51,10 @@ What if you are the partner of someone who overcalls a 1N opener and you do not 
 suit, not one little bit? Do you rescue them? Probably not. If he doesn't like your suit 
 he may go back to his.
 
+.. _DONT:
+
 D.O.N.T.
 --------
-
-.. _DONT:
 
 .. index::
    !single: D.O.N.T.
@@ -72,7 +72,9 @@ points or better. Be aggressive only with good suits, good shape. The
 two-suited bids require at least 5-4 in either order.
 
 *  X! A hand with one long suit.
-*  Response: 2♣! Forced; then the doubler passes or corrects.
+
+   Response: 2♣! Forced; then the doubler passes or corrects.
+
 *  2♣! Clubs and a higher suit
 *  2♦! Diamonds and a higher suit
 *  2♥ Shows long hearts and spades
@@ -91,18 +93,18 @@ Example: Suppose  the bidding goes (1N) 2♦! (Diamonds and a higher suit)
   you don't want to land in a five-card spade fit.
 * With ♠KQJ9852 ♥6 ♦98 ♣984 you just bid 2♠, which is to play.
 
-A slightly more advanced version of D.O.N.T. is :ref:`Meckwell <Meckwell>`.
+A better version of D.O.N.T. is :ref:`Meckwell <Meckwell>`.
 
 I've heard people remark that "Even Bergen doesn't play D.O.N.T. anymore". It is true
 that he's been known to play :ref:`Meckwell <Meckwell>`, but D.O.N.T. is easier to
-learn and I recommend it at first.
-
-Cappelletti (Hamilton)
-----------------------
+learn.
 
 .. _Cappelletti:
 
 .. _Hamilton:
+
+Cappelletti (Hamilton)
+----------------------
 
 .. index::
    !single: Cappelletti
@@ -111,13 +113,11 @@ Cappelletti (Hamilton)
    single: 1N; Cappelletti defense
    single: two-suited bids; Cappelletti
 
-In this scheme, which is perhaps the most common non-natural set of
-responses to a 1N opener, the double is left as penalty-oriented, at the
-cost of requiring us to go to the three level to show clubs. Against a
-weak 1N opener, this is the most popular scheme. :term:`Intervenor` 
+In this scheme the double is left as penalty-oriented, at the
+cost of requiring us to go to the three level to show clubs. :term:`Intervenor` 
 bids:
 
-*  X penalty-oriented (a hand equal or better to the one shown by the
+*  X penalty-oriented (a hand equal to or better than the one shown by the
    opener)
    
 *  2♣! (long unknown suit). This is a :term:`relay`, completely artificial.
@@ -135,8 +135,8 @@ bids:
    
 *  2N(5-5 in the minors) is Unusual 2N.
 
-The two suited bids are nominally 5-5, but depending on strength and 
-vulnerability, can me made with a good 5-4. Advancer can depart from the
+The two-suited bids (other than 2N) are nominally 5-5, but depending on strength and 
+vulnerability, can be made with a good 5-4. Advancer can depart from the
 relay by preemptively bidding their own suit--- this must be a really good suit,
 and it should not happen very often.
 

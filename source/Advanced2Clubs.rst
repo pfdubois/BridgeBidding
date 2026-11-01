@@ -31,7 +31,7 @@ With partnership agreement, the responses to 2♣ become:
 * The other bids remain the same
 * 2♦ is now game forcing.
 * I think the original idea was that 2N! is available to show what 2♥ used to show, 
-  8+ HCP and good hearts. I'm allergic to 2N responses to 2♣, and since 2♦ is now 
+  |8ormore| HCP and good hearts. I'm allergic to 2N responses to 2♣, and since 2♦ is now 
   a game force and systems will be on over 2N, I don't see the need for it. If someone
   offers to play 2♥ Bust with you, best discuss.
 
@@ -83,11 +83,11 @@ hearts, and possibly another suit; or a strong notrump hand. Responder relays wi
 then opener rebids hearts, another suit, or in notrump.  All of these are forcing. 
 
 Another suit shows five hearts and at least four of the suit bid. Rebidding hearts shows 
-six hearts. Notrump shows a 25+ notrump hand.
+six hearts. Notrump shows a |25ormore| notrump hand.
 
 In both cases, systems are on if notrump is rebid, and we are in a game forcing auction.
 
-The point is that an opener with 25+ or more points does not have to jump in notrump but
+The point is that an opener with |25ormore| or more points does not have to jump in notrump but
 can use the Kokish 2H bid first so that a subsequent 2N is forcing.  Also, it helps 
 in showing two-suited very strong hands, which are often awkward to show after 2♣ openers.
 
@@ -151,38 +151,38 @@ After 2♣ FG or 23-24 balanced:
 
 * 2♦ waiting:
 
-  * 2♥ Kokish, FG or 25+ Balanced
+  * 2♥ Kokish, FG or |25ormore| Balanced
   
     + 2♠ most hands, all balanced hands, hands with majors, good hands
     
-       ^ 2N 25+ Balanced; systems on, 3N next 25-27, 4N 29-31, ...
+       ^ 2N |25ormore| Balanced; systems on, 3N next 25-27, 4N 29-31, ...
        ^ 3m or 3♠ second suit with hearts
-       ^ 3♥ 6+ hearts, not solid hearts with 9 tricks)
+       ^ 3♥ |6ormore| hearts, not solid hearts with 9 tricks)
        ^ 3N solid hearts exactly 9 tricks
     
     + 2N 5/5 minors and weak, no slam interest opposite a balanced 25.
     
        ^ 3m slam interest, sets suit
-       ^ 3♥ 6+ hearts, invites a raise with a doubleton
+       ^ 3♥ |6ormore| hearts, invites a raise with a doubleton
        ^ 3♠ fewer than 2 hearts
        
     + 2♠ natural FG
     + 2N 23-24 NF, systems on
     
-  * 3♣ 6+ clubs, may or may not have a four-card major.
+  * 3♣ |6ormore| clubs, may or may not have a four-card major.
    
     + 3♦ Stayman; 3M reply or 4♦ natural
     + 3M five card suit -- W or 4♦ agrees major.
      
-  * 3♦ 6+ diamonds with no 4-card major
-  * 3M 4 card major and 5+ ♦.
+  * 3♦ |6ormore| diamonds with no 4-card major
+  * 3M 4 card major and |5ormore| ♦.
   * 3N shows a solid minor and exactly 9 tricks. Opener may have an unstopped suit.
      Responder may remove to 5♣ pass or correct, or 4♣ with slam interest in opener's 
      minor.
 
-* 2M positive values (8+ HCP) with a good 5-card suit. Forcing to 4M or 4N.
+* 2M positive values (|8ormore| HCP) with a good 5-card suit. Forcing to 4M or 4N.
   Note that 3N by opener is forcing.
-* 3m positive values (8+ HCP) with a good 6-card suit. Forcing to 4N or 5m.
+* 3m positive values (|8ormore| HCP) with a good 6-card suit. Forcing to 4N or 5m.
   Note that 3N by opener is forcing.
   
   
