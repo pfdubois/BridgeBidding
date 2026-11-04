@@ -48,11 +48,12 @@ and better".
    Some also play TWNMF after auctions that begin 1♣ – 1♦; I do not, to avoid
    confusion with the Walsh style. Likewise, some do not play it after 1♥ – 1♠ – 1N.
 
-TWNMF is off by a passed hand. TWNMF is off after interference.
+TWNMF is off by a passed hand. It is off if the opponents overcall a suit, but on
+over a takeout double.
 
 After 1m 1M 1N, 2M is to play showing 5 cards; playing in even a 2-5 fit is usually better
 than playing in 1N.  After 1m – 1♥ – 1N a bid of 2♠ shows a hand 4-4 in the majors with
-minimal values.  
+invitational values.
 
 Checkback: Invitational Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,38 +70,50 @@ Then, in the case of 1m – 1♠ – 1N – 2♣! (artificial) – 2♦! (forced
 * Pass – signoff in 2♦.
 * 2♥ – Invitational with 5 spades and 4 hearts.
 * 2♠ – Mildly invitational with |5ormore| spades.
-* 2NT – Invitational, with 4-card support for opener's minor. This allows
-  opener to sign off in 3 of the minor if he wishes.
+* 2NT – A balanced invitation, denying five spades. Opener bids 3N with a maximum
+  and passes with a minimum.
 * 3♣ – Invitational with 4 spades and clubs.
 * 3♦ – Invitational with 4 spades and diamonds.
 * 3♥ – Invitational with 5-5 in the majors.
-* 3♠ – Invitational with 6 spades.
+* 3♠ – Invitational with 6 good spades. With a weak six-card suit, rebid 2♠ instead.
 
 If responder's suit had been hearts, make the corresponding changes:
 
 * Pass – signoff in 2♦.
 * 2♥ – Mildly invitational with |5ormore| hearts
 * 2♠ – Invitational with 5 hearts and four spades
-* 2NT – Invitational with four-card support for opener's minor.
+* 2NT – A balanced invitation, denying five hearts.
 * 3♣ – Invitational with 4 hearts and clubs
 * 3♦ – Invitational with 4 hearts and diamonds
-* 3♥ – Invitational with 6 hearts
+* 3♥ – Invitational with 6 good hearts; with a weak six-card suit, rebid 2♥ instead.
 
-If responder does not have support for opener's minor, and no interest in pursuing 
-a major fit, he raises 1N to 2N and does not use TWNMF. In the sequences above, 
-the 3m bids show either support for the 1m opener or a decent suit and invitational 
-values.
+When responder rebids 2M, mildly invitational, opener:
+
+* Passes with a minimum, with or without a fit.
+* Raises to three with a fit and a medium hand.
+* Raises to four with a fit and a maximum.
+* Bids 2N with a maximum and no fit.
+
+A responder with a balanced invitation and no interest in pursuing a major fit may
+instead raise 1N to 2N directly, a natural invitation, without using TWNMF.
+In the sequences above, the 3m bids show either support for the 1m opener (for example,
+four-card support for opener's minor) or a decent suit, and invitational values.
 
 Checkback: Game-Forcing Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The responses for 2♦! are easier; we are not
+We bid 2♦! (artificial) with any game-forcing hand; the auction is then forcing
+to game. The responses for 2♦! are easier; we are not
 stopping short of game and use a slow-shows approach to slam. Opener should not
 jump. Priorities for opener remain as in NMF:
 
-* With four of the other major, bid 2W
+* With four of the other major, bid it: 2♥ after 1♠, 2♠ after 1♥.
 * With 3-card support for M, opener should bid 2M. However, with a flat hand and
   the points mostly not in M, consider 2N.
+* With neither, rebid three of your minor with a good suit of five or more cards
+  and a good hand.
+* Otherwise bid 2N, the default bid when there is nothing more to show. Do not
+  jump to 3N; leave room for responder to keep describing his hand.
   
 Two-Suited Minimal Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +122,7 @@ If you have a minimal hand and bypassed a five-card diamond suit to bid a four-c
 major, you can bid the 2♣! (relay) and pass the obligatory 2♦! (forced).
 
 With 5 or more in M, bid 2M to drop dead.  With five spades and four hearts,
-bid 2H showing your shape; opener can pass or correct.  It should do better than 1N.
+bid 2♥ showing your shape; opener can pass or correct.  It should do better than 1N.
 
 Finally, we have the problem of a weak hand with clubs.  A bid of 3♣ after the 1N 
 rebid is minimal and to play.  (With a better hand we'd go through the 2♣ or 2♦ bids 
@@ -118,9 +131,10 @@ first and then bid 3♣).
 Responder Jump-Rebids
 ~~~~~~~~~~~~~~~~~~~~~
 
-After the 1N rebid, a direct bid of 3M shows a slammish hand with a good suit.  We could 
+After the 1N rebid, a direct bid of 3M is a slam try with a good suit.  We could 
 go through 2♦! first if we were just game-forcing. A jump to 3♦, such as 
-1♦ – 1♥ – 1N – 3♦ is slammish in diamonds. But a jump to 3♣ is weak, as noted above.
+1♦ – 1♥ – 1N – 3♦, is a slam try in diamonds, and after 1m – 1♠ – 1N a jump to 3♥
+is a slam try with 5-5 in the majors. But a jump to 3♣ is weak, as noted above.
 
 Optionally, you can make 3♣ a slam try too and show the weak hand in clubs by bidding::
     
@@ -130,6 +144,9 @@ Optionally, you can make 3♣ a slam try too and show the weak hand in clubs by 
 This is possible since a plain balanced invite begins with the 2♣ relay so the direct
 2N is an unused bid. The problem is that the 2N bid may be error-prone. So I prefer
 having 1m – 1M – 1N – 2N just be natural too and lose the 3♣ slam-try bid.
+
+The summary table for these responses is in
+:ref:`summary_checkback` in the Summary Charts chapter.
 
 .. _XYZ:
 

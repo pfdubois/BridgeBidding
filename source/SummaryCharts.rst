@@ -553,6 +553,86 @@ Where the minors chapter is silent, an entry follows the
    * - Cue bid of their suit
      - At the two level, limit raise or better. At the three level, :ref:`Western Cue <Western_Cue>`: game values, asks for a stopper.
 
+.. _summary_checkback:
+
+.. index::
+   pair: Two-Way New Minor Forcing; summary tables
+
+Two-Way Checkback
+-----------------
+
+This summarizes :ref:`Two-Way New Minor Forcing <TWNMF>`, also called Two-Way
+Checkback Stayman. It applies after 1m – 1M – 1N. It is off by a passed hand and
+off if the opponents overcall a suit, but on over a takeout double.
+
+.. list-table:: Responder's Rebid After 1m – 1M – 1N
+   :header-rows: 1
+   :widths: 25 75
+
+   * - Responder's rebid
+     - Meaning
+   * - 2♣!
+     - Relay; opener must bid 2♦!. Invitational with five of M or four of the other major, or a weak hand with diamonds (pass 2♦).
+   * - 2♦!
+     - Game forcing; opener describes his hand (see below).
+   * - 2M
+     - To play, with |5ormore| cards in M.
+   * - 2♠ after 1m – 1♥ – 1N
+     - 4-4 in the majors, invitational values.
+   * - 2♥ after 1m – 1♠ – 1N
+     - Five spades and four hearts, minimal; opener passes or corrects to 2♠.
+   * - 2N
+     - Natural, balanced invitation, with no interest in a major fit.
+   * - 3♣
+     - Weak, to play.
+   * - 3♦
+     - Slam try in diamonds.
+   * - 3♥ after 1m – 1♠ – 1N
+     - Slam try, 5-5 in the majors.
+   * - 3M
+     - Slam try, with a good suit.
+
+.. list-table:: Responder's Next Bid After 1m – 1M – 1N – 2♣! – 2♦!
+   :header-rows: 1
+   :widths: 25 75
+
+   * - Responder's bid
+     - Meaning
+   * - Pass
+     - Signoff in 2♦.
+   * - 2 of the other major
+     - Invitational with five of M and four of the other major (2♥ after 1♠; 2♠ after 1♥).
+   * - 2M
+     - Mildly invitational with |5ormore| cards in M (a weak six-card suit too). Opener passes with a minimum, raises to three with a fit and a medium hand or to four with a fit and a maximum, and bids 2N with a maximum and no fit.
+   * - 2N
+     - Balanced invitation, denying five of M. Opener bids 3N with a maximum, passes with a minimum.
+   * - 3♣ or 3♦
+     - Invitational with four of M and that minor (support for opener's minor, such as four cards, or a decent suit).
+   * - 3♥ after 1♠
+     - Invitational, 5-5 in the majors.
+   * - 3M
+     - Invitational with six good cards in M.
+
+.. list-table:: Opener's Reply After 1m – 1M – 1N – 2♦!
+   :header-rows: 1
+   :widths: 25 75
+
+   * - Opener's bid
+     - Meaning
+   * - 2 of the other major
+     - Four cards in the other major (shown first).
+   * - 2M
+     - Three-card support for M. With a flat hand and the points mostly outside M, consider 2N.
+   * - 3m
+     - Neither of the above; a good suit of |5ormore| cards and a good hand.
+   * - 2N
+     - The default bid: nothing more to show.
+   * - Jumps
+     - Opener should not jump (not to 3N either); the auction is already game forcing.
+
+The same structure also works after 1♥ – 1♠ – 1N, since a responder with hearts
+would have raised rather than bid 1♠.
+
 .. _summary_advancer:
 
 .. index::
