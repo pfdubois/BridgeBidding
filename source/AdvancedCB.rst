@@ -10,21 +10,24 @@ Advanced Checkback
    see: Two-Way Checkback Stayman; Two-Way New Minor Forcing
    see: TWNMF; Two-Way New Minor Forcing
    
-The Checkback Family is New Minor Forcing (NMF), Fourth Suit Forcing (4sf), and XYZ. 
-NMF has a variant, Two-Way New Minor Forcing (TWNMF). The first two conventions were 
-covered previously; TWNMF is described in detail in this chapter.
+The Checkback Family is New Minor Forcing (NMF) and Fourth Suit Forcing (4sf),
+described in the chapter, :ref:`Finding 5-3 and 4-4 Major Fits <BasicCheckback>`.  
+NMF has two variants, Two-Way New Minor Forcing (TWNMF) and XYZ, described in this 
+chapter. Then we describe advanced schemes for opener's rebid being 2N.
 
-Two-way New Minor Forcing (TWNMF), also called Two-Way Checkback Stayman, distinguishes 
-invitational vs. game-forcing hands by using both 2♣ and 2♦ as artificial and is
-universally used among experts instead of NMF.
+:ref:`Two-way New Minor Forcing (TWNMF) <TWNMF>`, also called Two-Way
+Checkback Stayman, distinguishes invitational vs. game-forcing hands by
+using both 2♣ and 2♦ as artificial and is universally used among experts
+instead of NMF.
 
-XYZ extends the idea of TWNMF to the case of the opener's rebid being 1♠, and
+:ref:`XYZ <XYZ>` extends the idea of TWNMF to the case of the opener's rebid being 1♠, and
 is so-named because the auction has begun 1x – 1y – 1z. Since it is identical to 
 TWNMF if "z" is no-trump, the two conventions are played together. In this approach, it is 
 still possible to have a fourth-suit auction such as 1♥ – 1♠ – 2♣ – 2♦!. 
 
-In another chapter we show an idea of Marc Smith like TWNMF for the case of the 2N rebid.
-See :ref:`TWNMF over 2N <NMF2>`.
+In case the opener's rebid is a jump to 2NT, showing an 18-19 balanced hand, we 
+also have NMF. The :ref:`Wolff Signoff <Wolff>` is a popular variation. 
+We present with it :ref:`an idea of Marc Smith extending TWNMF to this case <NMF2>`.
 
 .. index::
    !single: Two-Way New Minor Forcing
@@ -147,6 +150,9 @@ having 1m – 1M – 1N – 2N just be natural too and lose the 3♣ slam-try bi
 
 The summary table for these responses is in
 :ref:`summary_checkback` in the Summary Charts chapter.
+
+Gavin Wolpert has a great advanced video lesson on this topic, "Two-Way
+New Minor Forcing". He has additional ideas.
 
 .. _XYZ:
 
