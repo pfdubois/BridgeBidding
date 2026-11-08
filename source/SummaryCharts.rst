@@ -576,9 +576,9 @@ off if the opponents overcall a suit, but on over a takeout double.
    * - 2♦!
      - Game forcing; opener describes his hand (see below).
    * - 2M
-     - To play, with |5ormore| cards in M.
+     - :term:`Drop dead`, to play, with |5ormore| cards in M.
    * - 2♠ after 1m – 1♥ – 1N
-     - 4-4 in the majors, invitational values.
+     - 4-4 exactly in the majors, invitational values.
    * - 2♥ after 1m – 1♠ – 1N
      - Five spades and four hearts, minimal; opener passes or corrects to 2♠.
    * - 2N
@@ -589,7 +589,8 @@ off if the opponents overcall a suit, but on over a takeout double.
      - Slam try in diamonds.
    * - 3M
      - Slam try, with a good suit.
-     - Special case: 1m – 1♠︎ – 1N – 3♥︎ shows 5-5 in the majors and a slam try.
+
+       Special case: 1m – 1♠︎ – 1N – 3♥︎ shows 5-5 in the majors and a slam try.
 
 .. list-table:: Responder's Next Bid After 1m – 1M – 1N – 2♣! – 2♦!
    :header-rows: 1
