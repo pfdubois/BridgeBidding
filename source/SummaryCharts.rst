@@ -587,10 +587,9 @@ off if the opponents overcall a suit, but on over a takeout double.
      - Weak, to play.
    * - 3♦
      - Slam try in diamonds.
-   * - 3♥ after 1m – 1♠ – 1N
-     - Slam try, 5-5 in the majors.
    * - 3M
      - Slam try, with a good suit.
+     - Special case: 1m – 1♠︎ – 1N – 3♥︎ shows 5-5 in the majors and a slam try.
 
 .. list-table:: Responder's Next Bid After 1m – 1M – 1N – 2♣! – 2♦!
    :header-rows: 1

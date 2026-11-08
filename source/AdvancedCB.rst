@@ -13,7 +13,7 @@ Advanced Checkback
 The Checkback Family is New Minor Forcing (NMF) and Fourth Suit Forcing (4sf),
 described in the chapter, :ref:`Finding 5-3 and 4-4 Major Fits <BasicCheckback>`.  
 NMF has two variants, Two-Way New Minor Forcing (TWNMF) and XYZ, described in this 
-chapter. Then we describe advanced schemes for opener's rebid being 2N.
+chapter. We also describe advanced schemes when opener's rebid is 2N.
 
 :ref:`Two-way New Minor Forcing (TWNMF) <TWNMF>`, also called Two-Way
 Checkback Stayman, distinguishes invitational vs. game-forcing hands by
@@ -26,7 +26,7 @@ TWNMF if "z" is no-trump, the two conventions are played together. In this appro
 still possible to have a fourth-suit auction such as 1♥ – 1♠ – 2♣ – 2♦!. 
 
 In case the opener's rebid is a jump to 2NT, showing an 18-19 balanced hand, we 
-also have NMF. The :ref:`Wolff Signoff <Wolff>` is a popular variation. 
+still have NMF. The :ref:`Wolff Signoff <Wolff>` is a popular variation. 
 We present with it :ref:`an idea of Marc Smith extending TWNMF to this case <NMF2>`.
 
 .. index::
@@ -54,16 +54,35 @@ and better".
 TWNMF is off by a passed hand. It is off if the opponents overcall a suit, but on
 over a takeout double.
 
-After 1m 1M 1N, 2M is to play showing 5 cards; playing in even a 2-5 fit is usually better
-than playing in 1N.  After 1m – 1♥ – 1N a bid of 2♠ shows a hand 4-4 in the majors with
-invitational values.
+Too Weak To Checkback
+~~~~~~~~~~~~~~~~~~~~~
+
+With a balanced 11 HCP or less, just pass. Yes, on rare occasion an 11 opposite 14
+might just make a game, but you're hunting for the perfect hand and may get too high.
+In the long run passing is wiser.
+
+With a five-card major, just rebid it. This is a drop-dead bid since you have not 
+done one of the checkback bids below. If you think about it, the 1N rebid is a "weak" 
+notrump bid. If you were playing weak notrumps, you would transfer to the major and 
+pass. This is the same thing. 
+
 
 Checkback: Invitational Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. rubric:Four-Four In The Majors  
+
+With an invitational hand that is 4-4 exactly in the majors, we use the sequence:
+
+* 1m – 1♥︎ – 1N - 2♠︎
+
+Opener must recognize this isn't some sort of reverse. Opener continues naturally.
+
+:rubric:The 2♣︎ Checkback
+
 We bid 2♣! (artificial) with invitational hands containing five of our 
 major or four of the other major. Opener must rebid 2♦! (forced). 
-The bid can be explained as "invitational with five of our major or four of the
+The 2♣︎ bid can be explained as "invitational with five of our major or four of the
 other major, or a weak hand with diamonds".  
 
 After 1m – 1M – 1N, a weak hand with five cards in M should rebid 2M, to play.
@@ -80,7 +99,7 @@ Then, in the case of 1m – 1♠ – 1N – 2♣! (artificial) – 2♦! (forced
 * 3♥ – Invitational with 5-5 in the majors.
 * 3♠ – Invitational with 6 good spades. With a weak six-card suit, rebid 2♠ instead.
 
-If responder's suit had been hearts, make the corresponding changes:
+If responder's suit had been hearts:
 
 * Pass – signoff in 2♦.
 * 2♥ – Mildly invitational with |5ormore| hearts
@@ -131,8 +150,8 @@ Finally, we have the problem of a weak hand with clubs.  A bid of 3♣ after the
 rebid is minimal and to play.  (With a better hand we'd go through the 2♣ or 2♦ bids 
 first and then bid 3♣).
 
-Responder Jump-Rebids
-~~~~~~~~~~~~~~~~~~~~~
+Direct Three-Level Bids
+~~~~~~~~~~~~~~~~~~~~~~~
 
 After the 1N rebid, a direct bid of 3M is a slam try with a good suit.  We could 
 go through 2♦! first if we were just game-forcing. A jump to 3♦, such as 
