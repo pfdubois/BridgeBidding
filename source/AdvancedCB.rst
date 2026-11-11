@@ -70,7 +70,7 @@ pass. This is the same thing.
 Checkback: Invitational Hands
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-.. rubric:Four-Four In The Majors  
+.. rubric:: Four-Four In The Majors
 
 With an invitational hand that is 4-4 exactly in the majors, we use the sequence:
 
@@ -78,7 +78,7 @@ With an invitational hand that is 4-4 exactly in the majors, we use the sequence
 
 Opener must recognize this isn't some sort of reverse. Opener continues naturally.
 
-:rubric:The 2♣︎ Checkback
+.. rubric:: The 2♣︎ Checkback
 
 We bid 2♣! (artificial) with invitational hands containing five of our 
 major or four of the other major. Opener must rebid 2♦! (forced). 

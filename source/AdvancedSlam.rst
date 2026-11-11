@@ -47,14 +47,12 @@ bids:
 * A control bid at the five level promises first round control, because
   4N is no longer available.
 
-Bergen gives this example of a five-level control bid::
-   
-     West   East  
-   
-   ♠JT752  ♠AK643 
-   ♥AK982  ♥Q64   
-   ♦A4     ♦87
-   ♣2      ♣AJT
+Bergen gives this example of a five-level control bid:
+
+.. bridge-deal::
+
+   West ♠JT752 ♥AK982 ♦A4 ♣2
+   East ♠AK643 ♥Q64 ♦87 ♣AJT
 
 The bidding is::
 

@@ -23,7 +23,12 @@ pygments_style = 'sphinx'
 todo_include_todos = False
 #The github one generates a .nojekyll file in the html so that my own theme is used
 #on github
-extensions = ['sphinx.ext.ifconfig','sphinx.ext.githubpages','sphinx.ext.extlinks']
+import os
+import sys
+sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '_ext')))
+
+extensions = ['sphinx.ext.ifconfig','sphinx.ext.githubpages','sphinx.ext.extlinks',
+              'bridgedeal']
 # Where :website:`file` links will point to. None means show link explicitly
 extlinks = { 'website':('https://pfdubois.github.io/BridgeBidding/%s',None)}
 
@@ -152,6 +157,9 @@ def _html_only_css(app):
     if app.builder.name in ('html', 'dirhtml', 'singlehtml'):
         app.config.html_static_path.append('_static_html')
         app.add_css_file('custom.css')
+    # The deal box is wanted in the EPUB as well. custom.css stays HTML-only.
+    if app.builder.name in ('html', 'dirhtml', 'singlehtml', 'epub'):
+        app.add_css_file('bridge-deal.css')
 
 
 def setup(app):

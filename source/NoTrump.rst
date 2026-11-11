@@ -553,13 +553,12 @@ Partners must be on their toes not to pass the game-forcing bids.
    single: Stayman; power raise
      
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
-16 and 15 points each::
+16 and 15 points each:
 
-   West           East
-   ♠K862          ♠AQ
-   ♥AKJ95         ♥T632
-   ♦T5            ♦AKQ6
-   ♣KJ            ♣964 
+.. bridge-deal::
+
+   West ♠K862 ♥AKJ95 ♦T5 ♣KJ
+   East ♠AQ ♥T632 ♦AKQ6 ♣964
 
 East was the dealer, and with 15 HCP and a balanced hand opens 1N. West is 5-4 in the
 majors so replies 2♣, Stayman. East bids 2♥, her lowest four-card major.

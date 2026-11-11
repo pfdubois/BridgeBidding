@@ -349,7 +349,7 @@ had xx in diamonds. Normally he could not bid 4N -- but knowing diamonds are not
 going to produce two fast losers, 4N may become possible.
 
 
-:: rubric::
+.. rubric::
    Slam In The Hand?
 
 .. index::
@@ -359,13 +359,10 @@ Recall this important admonition: Blackwood and RKC are tools for avoiding bad s
 not for finding them. Previously we met :ref:`The Hand <TheHand>` and learned how to 
 start to bid when East or West was Dealer. 
 
-::
+.. bridge-deal::
 
-   West           East
-   ♠K862          ♠AQ
-   ♥AKJ95         ♥T632
-   ♦T5            ♦AKQ6
-   ♣KJ            ♣964 
+   West ♠K862 ♥AKJ95 ♦T5 ♣KJ
+   East ♠AQ ♥T632 ♦AKQ6 ♣964
 
 We saw that the correct auction with East the Dealer, using the bids for a 5-4
 in the major reply, is::

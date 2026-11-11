@@ -170,13 +170,10 @@ Opening at the three- or four-level is likewise not weak in passout seat.
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each:
 
-::
+.. bridge-deal::
 
-   West           East
-   ♠K862          ♠AQ
-   ♥AKJ95         ♥T632
-   ♦T5            ♦AKQ6
-   ♣KJ            ♣964 
+   West ♠K862 ♥AKJ95 ♦T5 ♣KJ
+   East ♠AQ ♥T632 ♦AKQ6 ♣964
 
 What would East open? 15 HCP, balanced, we open 1N.  In real life East was the dealer
 and did so. 

@@ -278,13 +278,10 @@ As a final example, here are the West / East hands of an example we will use
 repeatedly in this document.  It is a real hand from a tournament, and I happened to
 be West. East was Dealer.
 
-::
+.. bridge-deal::
 
-   West           East
-   ♠K862          ♠AQ
-   ♥AKJ95         ♥T632
-   ♦T5            ♦AKQ6
-   ♣KJ            ♣964 
+   West ♠K862 ♥AKJ95 ♦T5 ♣KJ
+   East ♠AQ ♥T632 ♦AKQ6 ♣964
 
 To evaluate the East hand, we get 15 HCP, and a balanced hand with shape 2=4=4=3.
 We're feeling neutral: the honors are all together, but the shape is uninspiring.

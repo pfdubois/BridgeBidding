@@ -250,13 +250,10 @@ the other three suits. Explore for slam.
 In :ref:`The Hand <TheHand>` we met these two hands and evaluated them to around
 16 and 15 points each:
 
-::
+.. bridge-deal::
 
-   West           East
-   ♠K862          ♠AQ
-   ♥AKJ95         ♥T632
-   ♦T5            ♦AKQ6
-   ♣KJ            ♣964 
+   West ♠K862 ♥AKJ95 ♦T5 ♣KJ
+   East ♠AQ ♥T632 ♦AKQ6 ♣964
 
 If West had been the Dealer, West would open either 1♥ or 1N, as we discussed.
 Suppose West opens 1♥. East has an opening hand and four hearts so would respond

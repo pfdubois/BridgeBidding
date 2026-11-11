@@ -1,0 +1,8 @@
+/* Boxed West/East deal. Suits are not recolored; they stay the body text color. */
+div.body table.bridge-deal {
+    width: auto;
+    margin: 0.8em 0 1em 0;
+    background: #fff;
+    color: #000;
+    border-collapse: collapse;
+}
