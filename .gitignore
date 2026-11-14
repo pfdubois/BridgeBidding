@@ -4,6 +4,7 @@
 build
 _sources
 output.txt
+__pycache__/
 
 
 # macOS/iCloud conflict duplicates such as "index 2.html"
