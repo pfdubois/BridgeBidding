@@ -171,6 +171,28 @@ requires more than a minimum opening hand.
 An advanced idea for pursuing slam after partner preempts is 
 :ref:`Preempt Keycard <preempt_keycard>`.
 
+Responses 
+~~~~~~~~~
+
+When partner has made a three-level preempt, there are special rules:
+
+* 3N is to play.  This is either great strength or an expectation of making nine tricks
+  with stoppers outside.
+  
+* Any suit bid is forcing. In return, opener's bids beyond 3N all agree to that suit
+  as trumps and show a control. This even pertains to the preempted suit. Opener's 
+  bids below 3N, if any are available, just show a discomfort with bidding 3N. 
+  
+.. rubric:: Examples
+
+Over 3♣︎, partner bids 3♠︎. He might have a hand such as ♠︎AKxxx ♥︎Axx ♦︎Kxx ♣︎Kx. He 
+could bid 3N but would like to play in spades if opener has three spades. Opener 
+now must either bid 3N or anything else agrees spades.
+
+If instead partner's suit is hearts, opener can bid 3♠︎ over responder's 3♥︎ with a hand 
+such as ♠︎Qx ♥︎x ♦︎JTx ♣︎AQxxxx, showing a reluctance to be in 3N, and responder can then 
+choose 3N or 5♣︎.
+
 .. index::
    single: preempts; four-level
 
