@@ -487,9 +487,14 @@ For example::
    1♦ – 2♦!
    2♥ – 3♣
 
-3♣ shows a club stopper and denies a spade stopper; opener can bid 3N to show he has
-the spade stopper, or 3♦ to show he doesn't. Or, opener with extras could bid 4♦; any
-bid above 3♦ would be forcing because responder might have only 10 HCP. With a spade stopper and some slam interest, you can go past 3N and later bid notrump as the final contract, but you can't bid 4N because that asks for keycards in diamonds in this example. Minor slams are just awkward without some advanced tools such as :ref:`Minorwood <Minorwood>`.
+3♣ shows a club stopper and denies a spade stopper; opener can bid 3N to
+show he has the spade stopper, or 3♦ to show he doesn't. Or, opener with
+extras could bid 4♦; any bid above 3♦ would be forcing because responder
+might have only 10 HCP. With a spade stopper and some slam interest, you
+can go past 3N and later bid notrump as the final contract, but you
+can't bid 4N because that asks for keycards in diamonds in this example.
+Minor slams are just awkward without some advanced tools such as
+:ref:`Minorwood <Minorwood>`.
 
 .. _passed_hand_minor:
 

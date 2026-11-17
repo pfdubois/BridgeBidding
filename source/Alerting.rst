@@ -16,7 +16,8 @@ Alert!
 
 An alert is a procedure required when someone makes a bid that does not show the 
 "expected length or strength" that it appears to mean. Such bids are shown in
-my books with an exclamation mark after them. 
+this with an exclamation mark after them, followed by an explanation in parentheses.
+For example, 1♠︎ – 4♣︎!(raise, club shortness). Later instances might omit the explanation.
 
 Some bids that would appear to need an alert do not because they have become so common
 that they are no longer "unexpected" meanings.  In some cases the ACBL has decided 
@@ -32,9 +33,6 @@ Do NOT explain the bid unless asked.  When asked, give the explanation. Tell wha
 bid means ("a limit raise") rather than the convention name ("Reverse Drury").
 Do not explain until asked.
 
-When playing online, you alert your OWN bids. Partner cannot see the explanation so
-there is no harm to alerting anything unnecessarily.
-
 It is unfair to your opponents not to give a clear explanation. If you aren't sure, say
 your best recollection without any hemming and hawing.  If you do not think you 
 have an explicit agreement with your partner, say "No explanation". If you're wrong,
@@ -48,8 +46,7 @@ opponents that, but only at the right time:
   own side's defense and not allowed.
 * Absolutely NEVER correct what your partner just said. It is a terrible case of 
   unauthorized information.  Don't do it by making a big face, either. It amounts to
-  cheating. Some expert tournaments use screens so that people can't see their partner for
-  this reason.
+  cheating. 
   
 You do have to volunteer this information.  You might say to the opponents, for example,
 "There was a failure to alert my 2N bid. It showed a game-forcing spade raise"; or,
@@ -102,3 +99,16 @@ it helps your partner.  The cases are:
   Note that 1N – 2S as the Minor Relay is alerted. It is a relay not a transfer.
   
 * When 1N is forcing, partner announces "forcing".
+
+Online Alerting and Announcing
+------------------------------
+
+When playing online, you alert / announce your OWN bids. Partner cannot
+see the explanation so there is no harm to alerting anything
+unnecessarily. If you realize you've forgotten, you can fix it
+(typically by clicking on the bid in the bid box and typing in the
+explanation). Opponents are entitled to call the director over the
+infraction, but the sooner you do it the less chance of harm.  Opponents
+may also request explanations of bids in the same way.  
+
+

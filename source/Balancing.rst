@@ -9,14 +9,14 @@
 Balancing
 =========
 
-Mike Lawrence has a wonderful book about balancing, "All About Balancing". 
-Learning to balance is very important, especially at matchpoints.
-
 Balancing refers to making a bid when passing would end the auction.  The situations
 vary as to whether one or both opponents have bid, which suit they bid (or notrump), 
 and the shape of your own hand. The key point is that how many HCP you have is not 
 as important as it usually is, because in these situations your partner and you may have 
 half the points or nearly so.
+
+Mike Lawrence has a wonderful book about balancing, "All About Balancing". 
+Learning to balance is very important.
 
 .. index::
    single: balancing; in fourth seat
@@ -62,10 +62,11 @@ With:
 on the other hand, bid 1♠; it is important to show that five-card spade suit.  If
 you make a takeout double, you're denying five cards in an unbid major. 
 
-With partnership agreement, 2 of the opener's suit is Michaels. In the
-balancing seat, 2N is natural, showing about 16 to 18 or 19 HCP; it
-is not Unusual 2N. Two-suited bids allow you to get
-in there more often, but require more experience.
+With partnership agreement, bidding the opener's suit is :ref:`Michaels
+Cue Bid <Michaels>`, showing two suits. In the balancing seat, 2N is
+natural, showing about 16 to 18 or 19 HCP; it is not Unusual 2N.
+Two-suited bids allow you to get in there more often, but require more
+experience.
 
 .. index::
    single: balancing; over 1N

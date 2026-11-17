@@ -203,10 +203,11 @@ Unusual 2NT
    single: two-suited bids; Unusual 2N
    single: 2N; Unusual 2N
 
-Unusual 2NT is a direct jump overcall of 2N after a 1-level
-opening. For 2N in the balancing seat, see :ref:`Balancing <Balancing>`. It shows a hand of unstated strength that is at least 5-5 in
-the lowest two unbid suits. Advancer should choose the best of these two
-suits, except in remarkable circumstances.
+Unusual 2NT is a direct jump overcall of 2N after a 1-level opening. For
+2N in the balancing seat, see :ref:`Balancing <Balancing>`. It shows a
+hand of unstated strength that is at least 5-5 in the lowest two unbid
+suits. Advancer should choose the best of these two suits, except in
+remarkable circumstances.
 
 Unusual 2NT is not alertable. Some partners agree to use Unusual 2NT only with weak or 
 strong hands, see :ref:`Minimax <minimax>`.
