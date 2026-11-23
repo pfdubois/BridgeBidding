@@ -137,8 +137,8 @@ jump. Priorities for opener remain as in NMF:
 * Otherwise bid 2N, the default bid when there is nothing more to show. Do not
   jump to 3N; leave room for responder to keep describing his hand.
   
-Two-Suited Minimal Hands
-~~~~~~~~~~~~~~~~~~~~~~~~
+Minimal Hands
+~~~~~~~~~~~~~
 
 If you have a minimal hand and bypassed a five-card diamond suit to bid a four-card
 major, you can bid the 2♣! (relay) and pass the obligatory 2♦! (forced).
@@ -162,16 +162,30 @@ Optionally, you can make 3♣ a slam try too and show the weak hand in clubs by 
     
     1N  2N! (relay to 3♣)
     3♣! (forced)  Pass
+
+To invite at 2N, you use 1N 2♣︎! 2♦︎! 2N.
     
-This is possible since a plain balanced invite begins with the 2♣ relay so the direct
-2N is an unused bid. The problem is that the 2N bid may be error-prone. So I prefer
-having 1m – 1M – 1N – 2N just be natural too and lose the 3♣ slam-try bid.
+This is possible since a plain balanced invite begins with the 2♣ relay
+so the direct 2N is an unused bid. The problem is that the 2N bid may be
+frequently misunderstood as natural. So I prefer having 1m – 1M – 1N –
+2N just be natural too and lose the 3♣ slam-try bid.
 
 The summary table for these responses is in
 :ref:`summary_checkback` in the Summary Charts chapter.
 
 Gavin Wolpert has a great advanced video lesson on this topic, "Two-Way
 New Minor Forcing". He has additional ideas.
+
+.. rubric:: Other Schemes 
+
+This scheme is not the only one possible. I believe it is popular because it is a 
+natural evolution from the ideas of New Minor Forcing. Ironically, it does not have the 
+idea of the new minor meaning something any more, and we should call it Two-Way Checkback
+Stayman.  But the name TWNMF suggests what it is more.  
+
+An expert scheme is to begin with 2♣︎! to show all weak hands, 2♦︎! to
+show all game forcing or better hands, and anything else is
+invitational. 
 
 .. _XYZ:
 
