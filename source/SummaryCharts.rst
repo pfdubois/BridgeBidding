@@ -193,7 +193,7 @@ Long Minor (no 4-card major)
 
 **Game Force (10-15 HCP)**: 
 
-* :ref:`Minor Relay <minor_relay>`, then bid 3NT.
+* Direct 3NT. A long minor belongs in 3N unless a minor slam is likely.
 
 **Slam Interest (|16ormore| HCP)**: 
 
