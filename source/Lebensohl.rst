@@ -303,27 +303,29 @@ Lebensohl After Doubles Of Weak Two Bids
 ----------------------------------------
 
 When an opponent opens a weak two bid, and our partner doubles it, he usually
-shows a decent opening hand with shortness in their suit. The double is
+has a decent opening hand with shortness in their suit. The double is
 presumed to be for takeout but it could be a strong hand. For other
 bids see :ref:`Competing Over Preempts <CompetingPreempts>`. Assuming
-for the moment that the responder passes, we must classify our hand into weak,
-positive response, or game-forcing.  
+for the moment that the responder passes, we have a dilemma.  
 
-Eric Rodwell suggested in his Lebensohl pamphlet that the borders of the "positive
-response" be 6-10 points. Gavin Wolpert says 8-11 points. 
+Consider three hands we might have after (2♥︎) X (P) to us:
 
-Consider an auction that begins (2♥) X (P) ? where the advancer holds a hand with 
-six diamonds. Absent some agreement, advancer with a hand that is:
+#. ♠︎Jx ♥︎xx ♦︎KJxxxx ♣︎xx
+#. ♠︎KJ ♥︎xx ♦︎KJxxxx ♣︎Qx
+#. ♠︎AJ ♥︎xx ♦︎AQJxxx ♣︎Qx
 
-* Weak -- wants to bid diamonds and have partner pass
-* Positive -- wants to bid diamonds and hope partner bids again 
+With a weak hand like (1), we want to play in 3♦︎.  But having something
+like 8-11 points, we want to say something positive with hand (2).  With
+an even stronger hand like (3), we need to force to game. Unfortunately,
+lacking a heart stopper we can't just bid 3N.
 
-A bid of 3♦ cannot tell two different stories. Once again, the Lebensohl
-concept solves the problem. If you do not play this convention you'll have to
-let the 3-level bids be weak.
+.. note::
+   Eric Rodwell suggested in his Lebensohl pamphlet that the borders of the "positive
+   response" be 6-10 points. Gavin Wolpert says 8-11 points. 
 
-Lebensohl Over Weak Twos
-~~~~~~~~~~~~~~~~~~~~~~~~
+So do we bid 3♦︎ in all these cases?  Even assuming we can use a cue-bid of 3♥︎ for (3)
+(see below), we still have the problem that 3♦︎ cannot mean two different things. 
+Lebensohl changes that one 3♦︎ bid into two for us. 
 
 If the suit that we want to bid, y, is of lower rank than the preempt, we are
 going to have to bid it at the three level. Going through 2N! (relay) Lebensohl
@@ -331,6 +333,8 @@ shows the weaker hands.
 
 * 2N! is a relay to 3♣, pass or correct. 
 * Immediate 3-level bids are positive responses. 
+
+So we use 2N!(relay) – 3♣︎(accept relay) – 3♦︎ for (1), and an immediate 3♦︎ for (2).
 
 When the suit we want to bid, y, is higher-ranked than the preempt suit, we have three
 bids available. 
@@ -343,54 +347,44 @@ For example:
 
 * (2♥) X (P) 2♠ = weak hand
 * (2♥) X (P) 3♠ = positive with five spades
-* (2♥) X (P) 2N!; (P) 3♣! (P) 3♠ positive with four spades
+* (2♥) X (P) 2N!; (P) 3♣! (P) 3♠ = positive with four spades
 
-The relay does not have to be accepted if the doubler had a strong hand. This is 
+The 2N relay does not have to be accepted if the doubler had a strong hand. This is 
 called "breaking" the relay.
 
 This meaning of 3y is current "expert standard" according to Wolpert.
 If you are new to Lebensohl it isn't going to kill you to just use the direct 3-level
-bid for any positive response for consistency with the other case. 
+bid for any positive response in spades. 
 
-Game Forcing Hands  
-~~~~~~~~~~~~~~~~~~
+.. rubric:: Game Forcing Hands 
 
-What if we want to force to game but, allowing for the fact that
-partner may not have four of an unbid major, can we do better than just bidding
-4M and hoping? Lacking a good suit of our own to bid, the only other tool is to 
-cue bid their suit.
+Lacking a good suit of our own to bid, the only other tool is to 
+cue bid their suit. If you are new to Lebensohl, you can just let that be your bid.
 
-For example, over (2♥) X (P), suppose we have a game forcing hand with ♠AQx. We aren't 
-sure where we belong, be it 4♠, 3N, or perhaps 5m. Again, we use the 2N relay to 
-double the language available. All these sequences are game-forcing:
+The complete scheme uses the 2N relay to double our bidding language again.
+All these sequences are game-forcing:
 
 * The "fast" cue bid shows we do not have four of the other major;
-* The "slow" cue bid shows |4ormore| cards of the other major but no stopper; 
+* The "slow" cue bid shows |4ormore| cards of the other major but no stopper.
 * A slow 3N also shows 4 cards in the other major but with a stopper, offering a choice 
   of games.
   
 So after (2♥) X (P):
 
 * 3♥︎ forces to game and denies four spades;
-* 2N!;(P) 3♣︎! (P) 3♥︎, shows |4ormore| spades but no heart stopper;
-* 2N!;(P) 3♣︎! (P) 3N, shows four spades and a heart stopper, offering a choice of games.
-
-Again, if you are new to this, it isn't going to kill you to cue bid to show the 
-game force or just bid 4 of the other major when you don't have a stopper.  A seven-card
-fit won't be the end of the world.
+* 2N! 3♣︎! 3♥︎, shows |4ormore| spades but no heart stopper;
+* 2N! 3♣︎! 3N, shows four spades and a heart stopper, offering a choice of games.
 
 .. rubric:: Notes
-
-There is one more scenario that should be considered Lebensohl::
-
-   (1x) X (2x) ?
-   
-where x is not clubs. This is similar to (2x) X (P) ? Thus, play 2N here as
-the Lebensohl relay.  (A double instead is a :ref:`responsive <responsive_double>`).
 
 Be careful not to just count points when distinguishing a positive vs. a game-forcing
 reply.  If you have five cards in your major, especially, you might want to upgrade. 
 
+The sequence (1x) X (2x) ?,    
+where x is not clubs, should be treated as if the bidding had gone (2x) X (P) ?.
+(Note, a double now is a :ref:`responsive <responsive_double>`).
+
+.. rubric:: Better Minor Lebensohl
 .. index::
    pair:convention;Better Minor Lebensohl
    single: Lebensohl; Better Minor

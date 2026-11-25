@@ -44,54 +44,55 @@ major without missing a 5-3 major fit.
    seealso: Five-Card Stayman; Puppet Stayman
    seealso: Puppet Stayman; Five-Card Stayman
     
-The bid 1N – 3♣! (five-card major?) is a game forcing bid.
-Opener replies 3♥ or 3♠ if he has a five-card major.
-Otherwise he bids 3♦! (no five-card major). Then responder continues:
+It is important that we open 1N with a balanced 15-17 HCP hand.  What if
+we have a 5-card major though? Aren't we risking missing a 5-3 major
+game?  There's a fix for that: 1N – 3♣︎!, Five-Card Stayman. 
+
+Responder
+promises a game-forcing hand with an exactly three-card major, but may
+also have a four-card major. If we don't find the 5-3 fit, we can check
+for the 4-4 fit. (If responder has a |5ormore|-card major he transfers to 
+that rather than bidding 3♣︎).
+
+Hands that are predominantly both minor suits should prefer to use
+one of the three-level bids described in the next section if they have the right shape.
+In the system taken as a whole, one only bids 1N – 3♣! when 3-2, 3-3, or 3-4 in the 
+majors. 
+
+Opener replies:
+
+* 3M(five cards) if he has a five-card major; otherwise,
+* 3♦!(no five-card major). 
+
+Then responder continues:
 
 * 3N with no four-card major; or,
-* Puppets his major (bids the short major).
+* Bids the 3-card major to show the four-card major. (:term:`puppet`.)
 
 Opener now places the contract in 3N, 4M, or makes a control bid in support of M.
 
-Use regular Stayman if you are 4-4 in the majors, are 4-5 in the majors, 
+Use 2♣︎ Stayman if you are 4-4 in the majors, are 4-5 in the majors, 
 or don't have a game-forcing hand: 
 
 * When 4-4, we need the room provided by regular Stayman to sort out the possibility 
   of a fit in one of the two majors. 
-* When 4-5 we have Smolen to find the 3-5 fit. 
+* When 4-5 we have :ref:`Smolen <smolen>` to find the 3-5 fit. 
 
-.. note::
-   I find it easiest to agree that 3♣ promises an exactly three-card major. 
+The requirement for a three-card major helps me remember that I do not use it
+when 4-4, 4-1, or 4-5 in the majors. 
 
-That requirement helps me remember that I do not use it
-when 4-4, 4-1, or 4-5. It is logical, too, that I'm doing it because I seek a five-card
-major, hence the name Five-Card Stayman. 
 
-The 1N – 3M! splinter 
-bids (below) should be used with this bid, so that 
-in the system taken a whole one only bids 1N – 3♣! when 3-2, 3-3, or 3-4 in the 
-majors. 
-
-One benefit of using 3♣ is that in the sequence
+In the sequence
 1N – 3♣! – 3♦! (no 5M) – 3N, the defense does not know if the opener has a four-card major 
-or not, only that the responder did not have one. Compare to 1N – 2♣ – 2♦ – 3N. 
-So while you can get this minor benefit using 3♣ when 4-2, it makes it harder to 
-remember the rules, while knowing responder has a three-card major often helps opener 
-decide that notrump is comfortable when a fit is not found.
+or not, only that the responder did not have one. This may be an advantage in the play.
 
-This convention ensures opener can open 1N with a five-card major with no fear of
-missing a major suit game.  Since 1N has a narrow range, bidding over a 1N opener is
-much more precise than opening 1M with its huge 12-21 range. 
-
-Hands that are predominantly both minor suits should prefer to use
-one of the three-level bids described in the next section if they have the right shape.
-
-A weak or invitational hand with six clubs is handled in 
+A weak or invitational hand with |6ormore| clubs is handled in 
 :ref:`Four-Way Transfers <fourway>`.
 
-Some refer to this bid as Puppet Stayman, but strictly speaking that is a different
-convention over a 2N opener. Puppet Stayman came first and has the "puppet" maneuver 
-in common with this convention, hence the naming problem. But our 3♦ reply here does 
+Some refer to this bid as :ref:`Puppet Stayman <Puppet_Stayman>`, but
+that is a different convention over a 2N opener.
+Puppet Stayman came first and has the "puppet" maneuver in common with
+this convention, hence the naming problem. But the 3♦ reply here does
 not show or deny a four-card major.
 
 .. index::
@@ -112,12 +113,12 @@ structure for the remaining bids at the three-level. These are all game forcing.
 
 After 1N, with a game forcing hand, 
 
-* 3♣ is Five-Card Stayman
-* 3♦ is a five-five or better hand in the minors.
+* 3♣ is Five-Card Stayman;
+* 3♦ is a five-five or better hand in the minors;
 * 3♥ is a "splinter" showing exactly 3 spades and 1 heart, with (54) in the minors.
-  Alert this as "3=1=(54)"
+  Alert this as "3=1=(54)".
 * 3♠ is a "splinter" showing exactly 1 spade and 3 hearts.
-  Alert this as "1=3=(54)"
+  Alert this as "1=3=(54)".
 
 The notation (54) means 4=5 or 5=4. 
  
