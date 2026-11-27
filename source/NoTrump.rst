@@ -415,6 +415,12 @@ absolutely nothing else.
 For an advanced choice for a "superaccept", see 
 :ref:`Advanced Superaccepts <AdvancedSuperaccepts>`.
 
+
+.. note::
+   When the opponents interfere with our 1N auction, Stayman, or transfers, see
+   :ref:`Dealing With Interference Over 1N <1ninterference>`. 
+   You should learn these defenses as part of learning Stayman and transfers.
+
 .. index::
    single: Jacoby transfers; responder's rebid
    single: quantitative; after a transfer
@@ -471,31 +477,6 @@ When you have five in a major and a |4ormore|-card minor:
   * Bid the minor with a game-forcing hand. You may be very strong with interest in 
     a minor slam.
 
-.. index::
-   single: transfer; interference over
-
-Interference by LHO
-~~~~~~~~~~~~~~~~~~~
-
-When opener's LHO interferes, such as 1N (2♠), see 
-:ref:`Dealing With Interference Over 1N <1ninterference>`. Short answer: the standard
-is that bids are natural, and 1N (X) XX is Stayman. Double is by agreement but most 
-usefully takeout at the two-level.
-
-One thing to know right now is that you cannot transfer on the three-level, as in 
-1N (2♠) 3♦ -- not a transfer to hearts.  This is a common beginner error.
-
-Doubles of artificial bids such as Stayman and transfer bids are almost always
-asking for that suit to be led. This is called a :term:`lead-directing` bid. 
-
-If opener's RHO doubles or overcalls Stayman or a transfer bid,
-responder will take the lead in punishing them since only responder knows how many
-points he has. Neither Stayman nor a transfer promised any points. See:
-
-* :ref:`When Stayman is Doubled <staymandoubled>`
-* :ref:`When Our Transfer is Doubled <transferdoubled>`
-
-You should learn these defenses as part of learning Stayman and transfers.
 
 .. index::
    single: Garbage Stayman; with 5-4 majors
@@ -871,8 +852,7 @@ he passes it around to the responder, who can redouble to ask for Stayman again,
 or pass for penalty. 
 
 When Stayman is overcalled, opener should usually pass and let responder decide 
-to double for penalty or not. I say this on general principles, I've never seen it 
-discussed.
+what to do, because responder's hand is unknown. 
   
 .. _stolenbids:
 
